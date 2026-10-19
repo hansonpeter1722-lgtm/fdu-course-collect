@@ -58,6 +58,21 @@ GitHub 上跟复旦有关的内容很多，但散落在成千上万个仓库里�
 - **分类一定会有错**，也一定有你不同意的判断；
 - **描述不一定准确**，模型可能被措辞误导，把 A 课的作业放进 B 课。
 
+### 为什么要用大模型，以及怎么维护
+
+做这件事最大的成本不是抓取，是“读”。4,943 个仓库的描述、2,781 个 README，纯人工读一遍要几个月，而且读完就开始过期。
+
+大模型把这一步压到了几小时：批量读、批量分类、批量生成表格。**不是为了显得先进，是因为不这么做就做不完。**
+
+维护同理。这份清单没有服务器、没有数据库，只有一个仓库加一套脚本：
+
+- **每天自动巡检一次** issue 与 PR（本机在线时运行），只有真的有人提反馈时才需要我动手；
+- 没人提，就是**零操作**；有移除请求，删一行、同步一次统计，几分钟的事。
+
+目标很朴素：**把维护成本压到“一个人每周花几分钟”**。只有这样它才可能活过两年，否则就会变成前面说的那种“毕业即弃坑”的仓库。
+
+也要说清楚自动化做不到什么：它只能告诉我“有人提了请求”，**该不该删、删哪一行、统计怎么同步，仍然要人来判断**。别指望它自己维护自己。
+
 ### 关于授权
 
 > 这些仓库都是公开的，但**「公开」不等于「授权转载」**。受时间和条件限制，我没有、也无法逐一联系 4,943 位作者取得许可。
@@ -100,6 +115,10 @@ README 覆盖 2781 / 4943。分类为启发式结果，详见 [METHOD.md](METHOD
 | 科研项目 | 395 | [科研项目](others/科研项目.md) |
 | 工具/网站/模板 | 244 | [工具/网站/模板](others/工具-网站-模板.md) |
 | 无关/低相关 | 157 | [无关/低相关](others/无关-低相关.md) |
+
+## 通用大仓
+
+共 42 个，详见 [general.md](general.md)。代表仓库：[openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera)、[jeekzhang/Awesome-Fudan](https://github.com/jeekzhang/Awesome-Fudan)、[Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025)、[ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses)、[Su-Zi-Zhan/FDU-SDS-Lecture-Notes](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes)。
 
 ## 课程索引
 
@@ -175,10 +194,6 @@ README 覆盖 2781 / 4943。分类为启发式结果，详见 [METHOD.md](METHOD
 | 68 | 医学图像处理 | 1 | [医学图像处理](courses/医学图像处理.md) |
 | 69 | 数值分析 | 1 | [数值分析](courses/数值分析.md) |
 | 70 | 未识别具体课程 | 583 | [未识别具体课程](courses/未识别具体课程.md) |
-
-## 通用大仓
-
-共 42 个，详见 [general.md](general.md)。代表仓库：[openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera)、[jeekzhang/Awesome-Fudan](https://github.com/jeekzhang/Awesome-Fudan)、[Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025)、[ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses)、[Su-Zi-Zhan/FDU-SDS-Lecture-Notes](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes)。
 
 ## 高星仓库 Top 20
 
