@@ -7,6 +7,8 @@
 > 若你是被收录仓库的作者且不希望被收录，请提 Issue 或邮件 `hansonpeter1722@gmail.com`，核实后 **48 小时内移除**。
 >
 > 本仓库**只搬运链接**、不托管任何仓库内容；被收录仓库本身的任何问题请**直接联系原作者**。详见 [DISCLAIMER.md](DISCLAIMER.md)。
+>
+> 本清单由**大模型批量筛选**，未能逐一取得 4,943 位作者的授权；如你觉得不妥，[告诉我，立刻删](#关于方法与授权请先看这一节)。
 
 📖 **第一次来？先看 [使用说明](GUIDE.md)**：怎么按课程查、两个 CSV 的字段含义、常见问题。
 
@@ -142,6 +144,27 @@ README 覆盖 2781 / 4943。分类为启发式结果，详见 [METHOD.md](METHOD
 | [jeekzhang/Awesome-Fudan](https://github.com/jeekzhang/Awesome-Fudan) | 381 | 通用大仓 | Awesome-Fudan: a code repository list of computer courses at Fudan University |
 | [fudan-generative-vision/WAM-Flow](https://github.com/fudan-generative-vision/WAM-Flow) | 371 | 其他 | (CVPR 2026) WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching f |
 | [fudan-zvg/SeaFormer](https://github.com/fudan-zvg/SeaFormer) | 369 | 其他 | (ICLR 2023 & IJCV 2025) SeaFormer: Squeeze-enhanced Axial Transformer |
+
+## 关于方法与授权（请先看这一节）
+
+**这份清单是用大模型（DeepSeek）批量筛出来的，不是人工逐个读过 4,943 个仓库。**
+
+做法是把每个仓库的名称、描述和 README 摘要交给模型，让它判断「是不是复旦相关」「属于哪门课」，再用关键词规则复核一遍。好处是能在有限时间里覆盖全量，代价也很清楚：
+
+- **分类一定会有错**，也一定有你不同意的判断；
+- **描述不一定准确**，模型可能被措辞误导，把 A 课的作业放进 B 课。
+
+更要说清楚的是授权：
+
+> 这些仓库都是公开的，但**「公开」不等于「授权转载」**。受时间和条件限制，我没有、也无法逐一联系 4,943 位作者取得许可。
+
+我能做到的只有四条：**只摘录公开的描述与元数据**、**不复制任何代码和文档内容**、**对个人信息做脱敏**、**随时准备删除**。
+
+所以——
+
+> **如果任何一位作者觉得自己的仓库出现在这里不妥，不需要理由，也不必和我讨论「这算不算公开数据」。提个 Issue 或发邮件，我看到就删，48 小时内处理完。**
+
+这份整理没有任何商业目的，也不接受任何形式的付费转载或倒卖。如果它给你带来了困扰，那就是它做错了，删掉就好。
 
 ## 方法与局限
 
