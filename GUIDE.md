@@ -22,7 +22,7 @@
 ## 二、目录结构
 
 ```
-fdu-course-collect/
+fdu-github-collect/
 ├── README.md          总览：分类统计、69 门课程索引、高星 Top 20
 ├── GUIDE.md           本文件
 ├── METHOD.md          抓取方式、分类规则、已知局限、隐私处理
@@ -55,7 +55,7 @@ fdu-course-collect/
 **在 GitHub 网页里**（推到 GitHub 后可用）：
 
 ```
-repo:hansonpeter1722-lgtm/fdu-course-collect 操作系统
+repo:hansonpeter1722-lgtm/fdu-github-collect 操作系统
 ```
 
 **在本地命令行里**（克隆下来之后）：
@@ -114,7 +114,7 @@ df[df["课程/子类"] == "数据库"].sort_values("Star", ascending=False).head
 
 | 字段 | 含义 | 备注 |
 | --- | --- | --- |
-| `类别` | 课程学习资料 / 通用大仓 / 其他 | 1,643 / 42 / 3,258 |
+| `类别` | 课程学习资料 / 通用大仓 / 其他 | 1,611 / 42 / 3,290 |
 | `课程/子类` | 课程名或「其他」下的子类 | 共 76 种取值 |
 | `仓库` | `owner/repo` | |
 | `链接` | 仓库地址 | |
@@ -133,7 +133,7 @@ df[df["课程/子类"] == "数据库"].sort_values("Star", ascending=False).head
 - **去重**：按 repository id；默认**排除 fork**；仅公开仓库。
 - **分类**：关键词词典 + 组织账号匹配的启发式规则，不是人工逐条核对。规则与已知误判见 [METHOD.md](METHOD.md)。
 - **时间**：全部为 **2026-10-19** 的快照，之后的变化不会自动同步。
-- **README 覆盖**：2,781 / 4,943 个仓库有 README，其余靠名称与描述判断，因此「未识别具体课程」有 602 个。
+- **README 覆盖**：2,781 / 4,943 个仓库有 README，其余靠名称与描述判断，因此「未识别具体课程」有 583 个。
 
 ---
 
@@ -174,7 +174,7 @@ df[df["课程/子类"] == "数据库"].sort_values("Star", ascending=False).head
   title        = {复旦大学相关 GitHub 仓库整理（Fudan GitHub Repositories Collection）},
   author       = {{hansonpeter1722-lgtm}},
   year         = {2026},
-  howpublished = {\url{https://github.com/hansonpeter1722-lgtm/fdu-course-collect}},
+  howpublished = {\url{https://github.com/hansonpeter1722-lgtm/fdu-github-collect}},
   note         = {4,943 个公开仓库，抓取于 2026-10-19；仅整理链接与元数据，版权归各原作者}
 }
 ```
