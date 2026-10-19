@@ -4,7 +4,7 @@
 
 > ⚠️ **使用限制**：仅限**非商业**用途，**禁止倒卖、禁止付费分发**（[LICENSE](LICENSE)：CC BY-NC 4.0）。
 >
-> 若你是被收录仓库的作者且不希望被收录，请提 Issue 或邮件 `hansonpeter1722@gmail.com`，核实后 **48 小时内移除**。
+> 若你是被收录仓库的作者且不希望被收录，[点此提交移除请求](https://github.com/hansonpeter1722-lgtm/fdu-github-collect/issues/new?template=removal-request.yml) 或邮件 `hansonpeter1722@gmail.com`，**48 小时内移除，不需要理由**。
 >
 > 本仓库**只搬运链接**、不托管任何仓库内容；被收录仓库本身的任何问题请**直接联系原作者**。详见 [DISCLAIMER.md](DISCLAIMER.md)。
 >

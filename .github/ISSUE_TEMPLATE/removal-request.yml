@@ -1,0 +1,46 @@
+name: 移除请求
+description: 不希望自己的仓库出现在本清单中？填这个表单即可，不需要说明理由。
+title: "[移除请求] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        谢谢你的理解。提交后我会在 **48 小时内**移除相关条目，**不需要你解释原因**。
+
+        不想公开提 issue 的话，也可以直接发邮件到 `hansonpeter1722@gmail.com`，标题写「移除请求」。
+
+  - type: input
+    id: repo
+    attributes:
+      label: 仓库地址
+      description: 填 `owner/repo` 或完整链接即可
+      placeholder: owner/repo
+    validations:
+      required: true
+
+  - type: dropdown
+    id: relation
+    attributes:
+      label: 你的身份
+      options:
+        - 该仓库的作者
+        - 该仓库所属组织的成员
+        - 其他（代他人提交 / 隐私相关）
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: 补充说明（可不填）
+      description: 不需要解释原因。如果涉及隐私、个人信息或敏感内容，可以简单说一句，我会优先处理。
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: 确认
+      options:
+        - label: 我确认希望该仓库从清单中移除
+          required: true

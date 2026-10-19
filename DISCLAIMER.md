@@ -29,7 +29,7 @@
 
 如果你是被收录仓库的作者，**不希望自己的仓库出现在本清单中**，无需说明理由，通过以下任一方式联系我们：
 
-1. **提 Issue**：在本仓库提交 issue，附上仓库地址（`owner/repo`）即可；
+1. **提交移除请求**：点 [新建 Issue](https://github.com/hansonpeter1722-lgtm/fdu-github-collect/issues/new?template=removal-request.yml) → 选「移除请求」→ 填 `owner/repo` 即可，**不需要说明理由**；
 2. **发邮件**：`hansonpeter1722@gmail.com`，标题注明「移除请求」。
 
 我们会在核实后 **48 小时内**移除相关条目，并同步更新分类统计。批量移除（例如整个组织账号）同样适用。
