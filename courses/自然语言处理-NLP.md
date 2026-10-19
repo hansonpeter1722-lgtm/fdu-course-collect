@@ -21,3 +21,7 @@
 | [linmuqian/MANA130017-Graduation-Thesis](https://github.com/linmuqian/MANA130017-Graduation-Thesis) | 0 | Jupyter Notebook | This is the code of  MANA130017 |
 | [sgallon-rin/intro-to-nlp](https://github.com/sgallon-rin/intro-to-nlp) | 0 | Python | （已归档）(2019 Fall) course materials for FDU DATA130030: Introduction to Natural Language Processi |
 | [Wangningsen/FDU-2025NLP-PJ](https://github.com/Wangningsen/FDU-2025NLP-PJ) | 0 | Python | This is the repository for CS30040 |
+
+---
+
+> 以上仓库的版权归各作者所有，本页仅收录公开链接与元数据，不包含任何仓库内容。如有异议，请提 Issue 或邮件 hansonpeter1722@gmail.com，48 小时内移除。详见 [DISCLAIMER](../DISCLAIMER.md)。

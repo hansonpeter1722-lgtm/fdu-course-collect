@@ -113,3 +113,7 @@
 | [yyyang06/ICS-26Fall-FDU-github](https://github.com/yyyang06/ICS-26Fall-FDU-github) | 0 | Makefile | Due: 30 Sep, 23:59:59 |
 | [ZeroKnighting/ics](https://github.com/ZeroKnighting/ics) | 0 | — | Course Homepage of Introduction to Computer Systems in Fudan University |
 | [zouningcan/ics-lab2-bomblab](https://github.com/zouningcan/ics-lab2-bomblab) | 0 | C | FDU 2026 Fall ICS Lab2 BombLab |
+
+---
+
+> 以上仓库的版权归各作者所有，本页仅收录公开链接与元数据，不包含任何仓库内容。如有异议，请提 Issue 或邮件 hansonpeter1722@gmail.com，48 小时内移除。详见 [DISCLAIMER](../DISCLAIMER.md)。

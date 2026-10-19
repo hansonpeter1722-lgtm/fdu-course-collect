@@ -31,3 +31,7 @@
 | [weaselkns/FDU-PRML-PJ](https://github.com/weaselkns/FDU-PRML-PJ) | 0 | Python | 复旦大学2025年秋季学期PRML项目仓库，项目为模拟机械臂移动物体 |
 | [yanqinghe1230/PRMLPJ](https://github.com/yanqinghe1230/PRMLPJ) | 0 | Python | 2025fall fdu PRML final PJ |
 | [zdleeeeee/FDU-PRML-prompt_engineering](https://github.com/zdleeeeee/FDU-PRML-prompt_engineering) | 0 | TeX | — |
+
+---
+
+> 以上仓库的版权归各作者所有，本页仅收录公开链接与元数据，不包含任何仓库内容。如有异议，请提 Issue 或邮件 hansonpeter1722@gmail.com，48 小时内移除。详见 [DISCLAIMER](../DISCLAIMER.md)。

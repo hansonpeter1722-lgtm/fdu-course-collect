@@ -48,3 +48,7 @@
 | [Ren-ZY/Undergraduate-Course-in-FDU](https://github.com/Ren-ZY/Undergraduate-Course-in-FDU) | 0 | — | All the courses  I have learned in fdu |
 | [YuehuGong/Cheeses](https://github.com/YuehuGong/Cheeses) | 0 | — | Some markdowns of my courses in Fudan |
 | [zhs-bj/2025_fudan_wiki](https://github.com/zhs-bj/2025_fudan_wiki) | 0 | HTML | We use (Vue.js)(https://vuejs.org/) and (Vitepress)(https://vitepress.dev/) to build our w |
+
+---
+
+> 以上仓库的版权归各作者所有，本页仅收录公开链接与元数据，不包含任何仓库内容。如有异议，请提 Issue 或邮件 hansonpeter1722@gmail.com，48 小时内移除。详见 [DISCLAIMER](DISCLAIMER.md)。
