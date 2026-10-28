@@ -27,3 +27,7 @@
 | [mimiqi/FDU-CS30057-ArtificialIntelligence](https://github.com/mimiqi/FDU-CS30057-ArtificialIntelligence) | Python | 2026 | 人工智能（H） · 课程仓库（Python，2026） |
 | [weaselkns/FDU-AIH-2026spring-lab2](https://github.com/weaselkns/FDU-AIH-2026spring-lab2) | Python | 2026 | Python 3.10+（与类型注解、torch 等兼容较好）。（Python，2026） |
 | [xht03/AI](https://github.com/xht03/AI) | Jupyter Notebook | 2025 | 人工智能（H） · 课程实验：Labs for FDU 2025 AI(H)（Jupyter Notebook，2025） |
+
+---
+
+> 以上仓库的版权归各作者所有，本页仅收录公开链接与元数据，不包含任何仓库内容。如有异议，[点此提交移除请求](https://github.com/hansonpeter1722-lgtm/fdu-github-collect/issues/new?template=removal-request.yml)，48 小时内处理。详见 [DISCLAIMER](../DISCLAIMER.md)。

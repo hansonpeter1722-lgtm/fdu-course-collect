@@ -95,3 +95,7 @@
 | [ymsdad/fdu-18ss-web-lab](https://github.com/ymsdad/fdu-18ss-web-lab) | TSQL | 2019 | Web 开发 · 课程实验（TSQL，2019） |
 | [zengmou/-fdu-18ss-web-lab-](https://github.com/zengmou/-fdu-18ss-web-lab-) | HTML | 2019 | Web 开发 · 课程实验：lab5（HTML，2019） |
 | [zhshy666/fdu-18ss-web-lab](https://github.com/zhshy666/fdu-18ss-web-lab) | TSQL | 2019 | Web 开发 · 课程实验（TSQL，2019） |
+
+---
+
+> 以上仓库的版权归各作者所有，本页仅收录公开链接与元数据，不包含任何仓库内容。如有异议，[点此提交移除请求](https://github.com/hansonpeter1722-lgtm/fdu-github-collect/issues/new?template=removal-request.yml)，48 小时内处理。详见 [DISCLAIMER](../DISCLAIMER.md)。

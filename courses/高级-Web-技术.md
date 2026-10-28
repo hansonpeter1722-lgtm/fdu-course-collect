@@ -30,3 +30,7 @@
 | [Summer-Shen/Three.js-and-socket.io-demo](https://github.com/Summer-Shen/Three.js-and-socket.io-demo) | JavaScript | 2021 | 高级 Web 技术 · 课程实验：An implementation of a multi-user 3d application for Lab 3, SOFT130050 Advanced Web, Spring 2021 at…（JavaScript，2021） |
 | [To-D/sort-guys-frontend](https://github.com/To-D/sort-guys-frontend) | TypeScript | 2023 | 高级 Web 技术 · 课程项目：The frontend of a web3D game named sort-guys, which is the course project of Advanced Web Developmen…（TypeScript，2023） |
 | [pengyb2001/AdvancedWeb2023](https://github.com/pengyb2001/AdvancedWeb2023) | JavaScript | 2023 | 高级 Web 技术 · 课程项目：Fudan Univ.（JavaScript，2023） |
+
+---
+
+> 以上仓库的版权归各作者所有，本页仅收录公开链接与元数据，不包含任何仓库内容。如有异议，[点此提交移除请求](https://github.com/hansonpeter1722-lgtm/fdu-github-collect/issues/new?template=removal-request.yml)，48 小时内处理。详见 [DISCLAIMER](../DISCLAIMER.md)。
