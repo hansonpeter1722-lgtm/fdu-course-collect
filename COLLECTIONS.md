@@ -1,79 +1,185 @@
 # 合集内资源（按模块）
 
-> 从 14 个合集仓拆出 **5633** 个文件链接，归为 **247** 个「课程 × 合集 × 模块」组。
-> 每个文件直接链到 blob；已排除 runs/build/dist/__pycache__ 等构建产物和图片。
-> 不再单列父目录/子仓；合集资源已并入各课程页的四个模块。
+> 从 23 个合集仓拆出 **13879** 个文件链接，归为 **432** 个「课程 × 合集 × 模块」组。
+> 每个文件直接链到 GitHub blob；已排除构建产物和图片。课程页已统一并入 试题 / 课程资料 / 代码仓库 三块。
 
 [返回首页](README.md) · [课程总览](COURSES.md)
 
-## 试题（1285 个文件 / 1285 个链接）
+## 试题（1525 个文件）
 
 | 课程 | 合集 | 文件数 | 文件链接 |
-| --- | --- | ---: | ---: |
-| [人工智能](courses/人工智能.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 1 |
-| [优化方法](courses/优化方法.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 26 | 26 |
-| [优化方法](courses/优化方法.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 5 | 5 |
-| [回归分析](courses/回归分析.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 11 | 11 |
-| [图像处理与可视化](courses/图像处理与可视化.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 229 | 229 |
-| [大学物理](courses/大学物理.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 9 | 9 |
-| [大学物理](courses/大学物理.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 39 | 39 |
-| [大数据技术](courses/大数据技术.md) | [NinaZ65/notes-for-courses](https://github.com/NinaZ65/notes-for-courses) | 2 | 2 |
-| [嵌入式系统](courses/嵌入式系统.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 1 |
-| [思政](courses/思政.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 1 | 1 |
-| [思政](courses/思政.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 19 | 19 |
-| [数值算法](courses/数值算法.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 189 | 189 |
-| [数字信号处理](courses/数字信号处理.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 2 | 2 |
-| [数字逻辑与部件设计](courses/数字逻辑与部件设计.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 2 | 2 |
-| [数学分析](courses/数学分析.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 50 | 50 |
-| [数据库系统引论](courses/数据库系统引论.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 2 | 2 |
-| [数据库系统引论](courses/数据库系统引论.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 4 | 4 |
-| [数据库系统引论](courses/数据库系统引论.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 80 | 80 |
-| [数据库系统引论](courses/数据库系统引论.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 5 | 5 |
-| [数据结构](courses/数据结构.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 6 | 6 |
-| [数据结构](courses/数据结构.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 24 | 24 |
-| [数据结构](courses/数据结构.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 29 | 29 |
-| [机器人学](courses/机器人学.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 1 | 1 |
-| [机器学习](courses/机器学习.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 4 | 4 |
-| [机器学习](courses/机器学习.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 1 | 1 |
-| [概率论](courses/概率论.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 1 | 1 |
-| [概率论](courses/概率论.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 1 | 1 |
-| [概率论](courses/概率论.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 14 | 14 |
-| [生物学](courses/生物学.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 38 | 38 |
-| [电路](courses/电路.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 1 | 1 |
-| [电路](courses/电路.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 5 | 5 |
-| [神经网络与深度学习](courses/神经网络与深度学习.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 1 | 1 |
-| [离散数学](courses/离散数学.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 28 | 28 |
-| [离散数学](courses/离散数学.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 14 | 14 |
-| [程序设计](courses/程序设计.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 23 | 23 |
-| [程序设计](courses/程序设计.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 3 | 3 |
-| [程序设计](courses/程序设计.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 47 | 47 |
-| [算法设计与分析](courses/算法设计与分析.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 19 | 19 |
-| [算法设计与分析](courses/算法设计与分析.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 8 | 8 |
-| [线性代数](courses/线性代数.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 66 | 66 |
-| [线性代数](courses/线性代数.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 41 | 41 |
-| [经济学](courses/经济学.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 11 | 11 |
-| [经济学](courses/经济学.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 21 | 21 |
-| [统计计算](courses/统计计算.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 1 | 1 |
-| [自然语言处理导论](courses/自然语言处理导论.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 1 |
-| [计算机体系结构](courses/计算机体系结构.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 4 | 4 |
-| [计算机体系结构](courses/计算机体系结构.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 15 | 15 |
-| [计算机体系结构](courses/计算机体系结构.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 4 | 4 |
-| [计算机系统基础](courses/计算机系统基础.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 5 | 5 |
-| [计算机网络](courses/计算机网络.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 1 | 1 |
-| [软件工程](courses/软件工程.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 1 | 1 |
-| [随机过程](courses/随机过程.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 11 | 11 |
-| [集成电路工艺原理](courses/集成电路工艺原理.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 2 | 2 |
-| [面向对象程序设计](courses/面向对象程序设计.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 29 | 29 |
-| [高等代数](courses/高等代数.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 22 | 22 |
-| [高等代数](courses/高等代数.md) | [Su-Zi-Zhan/FDU-SDS-Lecture-Notes](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes) | 4 | 4 |
-| [高等代数](courses/高等代数.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 1 | 1 |
-| [高等代数](courses/高等代数.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 18 | 18 |
-| [高等数学](courses/高等数学.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 1 | 1 |
-| [高等数学](courses/高等数学.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 52 | 52 |
-| [高等数学](courses/高等数学.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 20 | 20 |
-| [高级 Web 技术](courses/高级-Web-技术.md) | [BeneneeYu/Course-Project](https://github.com/BeneneeYu/Course-Project) | 9 | 9 |
+| --- | --- | ---: | --- |
+| [Essay Writing](courses/Essay Writing.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 13 | 展开见下 |
+| [FET](courses/FET.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 1 | 展开见下 |
+| [Java](courses/Java.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 15 | 展开见下 |
+| [《法哲学原理》导读](courses/《法哲学原理》导读.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 展开见下 |
+| [中国音乐史](courses/中国音乐史.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 展开见下 |
+| [中外大学校园文化对比研究](courses/中外大学校园文化对比研究.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 2 | 展开见下 |
+| [中外音乐审美](courses/中外音乐审美.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 2 | 展开见下 |
+| [人工智能](courses/人工智能.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 17 | 展开见下 |
+| [人工智能](courses/人工智能.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 展开见下 |
+| [优化方法](courses/优化方法.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 26 | 展开见下 |
+| [优化方法](courses/优化方法.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 5 | 展开见下 |
+| [会计](courses/会计.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 20 | 展开见下 |
+| [先秦哲学](courses/先秦哲学.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 展开见下 |
+| [军事理论](courses/军事理论.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 5 | 展开见下 |
+| [回归分析](courses/回归分析.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 11 | 展开见下 |
+| [图像处理与可视化](courses/图像处理与可视化.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 229 | 展开见下 |
+| [复杂系统理论与仿真](courses/复杂系统理论与仿真.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 1 | 展开见下 |
+| [大学物理](courses/大学物理.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 9 | 展开见下 |
+| [大学物理](courses/大学物理.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 39 | 展开见下 |
+| [大学英语三级](courses/大学英语三级.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 28 | 展开见下 |
+| [大数据技术](courses/大数据技术.md) | [NinaZ65/notes-for-courses](https://github.com/NinaZ65/notes-for-courses) | 2 | 展开见下 |
+| [宋词导读](courses/宋词导读.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 2 | 展开见下 |
+| [嵌入式系统](courses/嵌入式系统.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 展开见下 |
+| [并行分布计算](courses/并行分布计算.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 1 | 展开见下 |
+| [并行分布计算](courses/并行分布计算.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 1 | 展开见下 |
+| [并行分布计算](courses/并行分布计算.md) | [clb2001/FDU-COMP](https://github.com/clb2001/FDU-COMP) | 1 | 展开见下 |
+| [应用泛函分析](courses/应用泛函分析.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 8 | 展开见下 |
+| [影视剧艺术](courses/影视剧艺术.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 展开见下 |
+| [思政](courses/思政.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 3 | 展开见下 |
+| [思政](courses/思政.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 4 | 展开见下 |
+| [思政](courses/思政.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 1 | 展开见下 |
+| [思政](courses/思政.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 30 | 展开见下 |
+| [数值算法](courses/数值算法.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 189 | 展开见下 |
+| [数字信号处理](courses/数字信号处理.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 2 | 展开见下 |
+| [数字图像处理](courses/数字图像处理.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 8 | 展开见下 |
+| [数字逻辑与部件设计](courses/数字逻辑与部件设计.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 2 | 展开见下 |
+| [数学分析](courses/数学分析.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 50 | 展开见下 |
+| [数据库系统引论](courses/数据库系统引论.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 6 | 展开见下 |
+| [数据库系统引论](courses/数据库系统引论.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 2 | 展开见下 |
+| [数据库系统引论](courses/数据库系统引论.md) | [clb2001/FDU-COMP](https://github.com/clb2001/FDU-COMP) | 4 | 展开见下 |
+| [数据库系统引论](courses/数据库系统引论.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 4 | 展开见下 |
+| [数据库系统引论](courses/数据库系统引论.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 80 | 展开见下 |
+| [数据库系统引论](courses/数据库系统引论.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 5 | 展开见下 |
+| [数据结构](courses/数据结构.md) | [clb2001/FDU-COMP](https://github.com/clb2001/FDU-COMP) | 5 | 展开见下 |
+| [数据结构](courses/数据结构.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 6 | 展开见下 |
+| [数据结构](courses/数据结构.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 1 | 展开见下 |
+| [数据结构](courses/数据结构.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 24 | 展开见下 |
+| [数据结构](courses/数据结构.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 29 | 展开见下 |
+| [数理统计](courses/数理统计.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 12 | 展开见下 |
+| [数理统计](courses/数理统计.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 1 | 展开见下 |
+| [普化A上](courses/普化A上.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 22 | 展开见下 |
+| [智能移动平台开发](courses/智能移动平台开发.md) | [ChenTao98/FudanUniversity](https://github.com/ChenTao98/FudanUniversity) | 2 | 展开见下 |
+| [机器人学](courses/机器人学.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 1 | 展开见下 |
+| [机器学习](courses/机器学习.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 4 | 展开见下 |
+| [机器学习](courses/机器学习.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 1 | 展开见下 |
+| [概率论](courses/概率论.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 1 | 展开见下 |
+| [概率论](courses/概率论.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 1 | 展开见下 |
+| [概率论](courses/概率论.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 14 | 展开见下 |
+| [模式识别与机器学习](courses/模式识别与机器学习.md) | [zhuth/FDUCS](https://github.com/zhuth/FDUCS) | 1 | 展开见下 |
+| [法律与社会](courses/法律与社会.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 2 | 展开见下 |
+| [生物学](courses/生物学.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 38 | 展开见下 |
+| [电路](courses/电路.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 1 | 展开见下 |
+| [电路](courses/电路.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 5 | 展开见下 |
+| [神经网络与深度学习](courses/神经网络与深度学习.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 1 | 展开见下 |
+| [离散数学](courses/离散数学.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 28 | 展开见下 |
+| [离散数学](courses/离散数学.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 14 | 展开见下 |
+| [程序设计](courses/程序设计.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 23 | 展开见下 |
+| [程序设计](courses/程序设计.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 1 | 展开见下 |
+| [程序设计](courses/程序设计.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 3 | 展开见下 |
+| [程序设计](courses/程序设计.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 47 | 展开见下 |
+| [算法设计与分析](courses/算法设计与分析.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 2 | 展开见下 |
+| [算法设计与分析](courses/算法设计与分析.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 19 | 展开见下 |
+| [算法设计与分析](courses/算法设计与分析.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 8 | 展开见下 |
+| [线性代数](courses/线性代数.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 66 | 展开见下 |
+| [线性代数](courses/线性代数.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 41 | 展开见下 |
+| [经济学](courses/经济学.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 11 | 展开见下 |
+| [经济学](courses/经济学.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 21 | 展开见下 |
+| [统计计算](courses/统计计算.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 1 | 展开见下 |
+| [腾飞先导课](courses/腾飞先导课.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 展开见下 |
+| [自然语言处理导论](courses/自然语言处理导论.md) | [clb2001/FDU-COMP](https://github.com/clb2001/FDU-COMP) | 7 | 展开见下 |
+| [自然语言处理导论](courses/自然语言处理导论.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 1 | 展开见下 |
+| [自然语言处理导论](courses/自然语言处理导论.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 展开见下 |
+| [计算机体系结构](courses/计算机体系结构.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 4 | 展开见下 |
+| [计算机体系结构](courses/计算机体系结构.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 15 | 展开见下 |
+| [计算机体系结构](courses/计算机体系结构.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 4 | 展开见下 |
+| [计算机原理](courses/计算机原理.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 1 | 展开见下 |
+| [计算机可视化](courses/计算机可视化.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 2 | 展开见下 |
+| [计算机图形学](courses/计算机图形学.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 11 | 展开见下 |
+| [计算机系统基础](courses/计算机系统基础.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 5 | 展开见下 |
+| [计算机网络](courses/计算机网络.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 1 | 展开见下 |
+| [设计模式](courses/设计模式.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 1 | 展开见下 |
+| [软件工程](courses/软件工程.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 2 | 展开见下 |
+| [软件工程](courses/软件工程.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 1 | 展开见下 |
+| [软件工程](courses/软件工程.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 1 | 展开见下 |
+| [随机过程](courses/随机过程.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 11 | 展开见下 |
+| [集成电路工艺原理](courses/集成电路工艺原理.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 2 | 展开见下 |
+| [面向对象程序设计](courses/面向对象程序设计.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 2 | 展开见下 |
+| [面向对象程序设计](courses/面向对象程序设计.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 5 | 展开见下 |
+| [面向对象程序设计](courses/面向对象程序设计.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 29 | 展开见下 |
+| [高等代数](courses/高等代数.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 22 | 展开见下 |
+| [高等代数](courses/高等代数.md) | [Su-Zi-Zhan/FDU-SDS-Lecture-Notes](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes) | 4 | 展开见下 |
+| [高等代数](courses/高等代数.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 1 | 展开见下 |
+| [高等代数](courses/高等代数.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 18 | 展开见下 |
+| [高等数学](courses/高等数学.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 1 | 展开见下 |
+| [高等数学](courses/高等数学.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 52 | 展开见下 |
+| [高等数学](courses/高等数学.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 20 | 展开见下 |
+| [高级 Web 技术](courses/高级-Web-技术.md) | [BeneneeYu/Course-Project](https://github.com/BeneneeYu/Course-Project) | 9 | 展开见下 |
 
 <details><summary>展开试题文件链接</summary>
+
+**Essay Writing / Snivallus/FDU-Course-Notes-2024-2025**
+- [Essay Writing/Example Essays/Backwards Britain.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Example%20Essays/Backwards%20Britain.pdf)
+- [Essay Writing/Example Essays/Cars Are Killing Us.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Example%20Essays/Cars%20Are%20Killing%20Us.pdf)
+- [Essay Writing/Example Essays/Choose Leaders At Random.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Example%20Essays/Choose%20Leaders%20At%20Random.pdf)
+- [Essay Writing/Example Essays/End Duty Free.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Example%20Essays/End%20Duty%20Free.pdf)
+- [Essay Writing/Example Essays/Give Children the Vote.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Example%20Essays/Give%20Children%20the%20Vote.pdf)
+- [Essay Writing/Example Essays/Here's to Your Health.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Example%20Essays/Here%27s%20to%20Your%20Health.pdf)
+- [Essay Writing/Example Essays/In Defense of Prejudice.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Example%20Essays/In%20Defense%20of%20Prejudice.pdf)
+- [Essay Writing/Example Essays/Just Let Prisoners Have Cellphones.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Example%20Essays/Just%20Let%20Prisoners%20Have%20Cellphones.pdf)
+- [Essay Writing/Example Essays/Let People Sell Their Kidneys.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Example%20Essays/Let%20People%20Sell%20Their%20Kidneys.pdf)
+- [Essay Writing/Example Essays/On the Phenomenon of Bullshit Jobs.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Example%20Essays/On%20the%20Phenomenon%20of%20Bullshit%C2%A0Jobs.pdf)
+- [Essay Writing/Example Essays/Prostitution - A Personal Choice.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Example%20Essays/Prostitution%20-%20A%20Personal%20Choice.pdf)
+- [Essay Writing/Example Essays/The United States Doesn't Spend Enough on Its Military.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Example%20Essays/The%20United%20States%20Doesn%27t%20Spend%20Enough%20on%20Its%20Military.pdf)
+- 另有 1 个文件，见 data/collection_files.csv
+
+**FET / AniroHU/FDU_Courses_Undergraduate**
+- [FET/复旦大学英语水平测试样卷及答案（2020年修订版）.pdf](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/FET/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E6%B0%B4%E5%B9%B3%E6%B5%8B%E8%AF%95%E6%A0%B7%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88%EF%BC%882020%E5%B9%B4%E4%BF%AE%E8%AE%A2%E7%89%88%EF%BC%89.pdf)
+
+**Java / AniroHU/FDU_Courses_Undergraduate**
+- [Java/Labs&Assignments/Assignment3/GuessMaster/app/src/androidTest/java/com/example/guessmaster/ExampleInstrumentedTest.kt](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment3/GuessMaster/app/src/androidTest/java/com/example/guessmaster/ExampleInstrumentedTest.kt)
+- [Java/Labs&Assignments/Assignment3/GuessMaster/app/src/main/java/com/example/guessmaster/Country.java](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment3/GuessMaster/app/src/main/java/com/example/guessmaster/Country.java)
+- [Java/Labs&Assignments/Assignment3/GuessMaster/app/src/main/java/com/example/guessmaster/Date.java](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment3/GuessMaster/app/src/main/java/com/example/guessmaster/Date.java)
+- [Java/Labs&Assignments/Assignment3/GuessMaster/app/src/main/java/com/example/guessmaster/Entity.java](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment3/GuessMaster/app/src/main/java/com/example/guessmaster/Entity.java)
+- [Java/Labs&Assignments/Assignment3/GuessMaster/app/src/main/java/com/example/guessmaster/GuessMaster.java](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment3/GuessMaster/app/src/main/java/com/example/guessmaster/GuessMaster.java)
+- [Java/Labs&Assignments/Assignment3/GuessMaster/app/src/main/java/com/example/guessmaster/MainActivity.kt](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment3/GuessMaster/app/src/main/java/com/example/guessmaster/MainActivity.kt)
+- [Java/Labs&Assignments/Assignment3/GuessMaster/app/src/main/java/com/example/guessmaster/Person.java](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment3/GuessMaster/app/src/main/java/com/example/guessmaster/Person.java)
+- [Java/Labs&Assignments/Assignment3/GuessMaster/app/src/main/java/com/example/guessmaster/Politician.java](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment3/GuessMaster/app/src/main/java/com/example/guessmaster/Politician.java)
+- [Java/Labs&Assignments/Assignment3/GuessMaster/app/src/main/java/com/example/guessmaster/Singer.java](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment3/GuessMaster/app/src/main/java/com/example/guessmaster/Singer.java)
+- [Java/Labs&Assignments/Assignment3/GuessMaster/app/src/main/java/com/example/guessmaster/ui/theme/Color.kt](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment3/GuessMaster/app/src/main/java/com/example/guessmaster/ui/theme/Color.kt)
+- [Java/Labs&Assignments/Assignment3/GuessMaster/app/src/main/java/com/example/guessmaster/ui/theme/Theme.kt](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment3/GuessMaster/app/src/main/java/com/example/guessmaster/ui/theme/Theme.kt)
+- [Java/Labs&Assignments/Assignment3/GuessMaster/app/src/main/java/com/example/guessmaster/ui/theme/Type.kt](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment3/GuessMaster/app/src/main/java/com/example/guessmaster/ui/theme/Type.kt)
+- 另有 3 个文件，见 data/collection_files.csv
+
+**《法哲学原理》导读 / victkk/FDU-Sharing**
+- [public/resources/《法哲学原理》导读/真题.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E3%80%8A%E6%B3%95%E5%93%B2%E5%AD%A6%E5%8E%9F%E7%90%86%E3%80%8B%E5%AF%BC%E8%AF%BB/%E7%9C%9F%E9%A2%98.docx)
+
+**中国音乐史 / victkk/FDU-Sharing**
+- [public/resources/中国音乐史/中国音乐史期末复习资料汇总.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E6%B1%87%E6%80%BB.docx)
+
+**中外大学校园文化对比研究 / openFudan/fudan-coursera**
+- [1.通识教育/大学英语/中外大学校园文化对比研究/1application/PH_campus+culture1_application_examination+of+gaokao.pdf](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E4%B8%AD%E5%A4%96%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%9B%AD%E6%96%87%E5%8C%96%E5%AF%B9%E6%AF%94%E7%A0%94%E7%A9%B6/1application/PH_campus%2Bculture1_application_examination%2Bof%2Bgaokao.pdf)
+- [1.通识教育/大学英语/中外大学校园文化对比研究/notes/期末成绩.docx](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E4%B8%AD%E5%A4%96%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%9B%AD%E6%96%87%E5%8C%96%E5%AF%B9%E6%AF%94%E7%A0%94%E7%A9%B6/notes/%E6%9C%9F%E6%9C%AB%E6%88%90%E7%BB%A9.docx)
+
+**中外音乐审美 / victkk/FDU-Sharing**
+- [public/resources/中外音乐审美/24学年期末考了《流浪者之歌》可以提前看一下曲子赏析.txt](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%B8%AD%E5%A4%96%E9%9F%B3%E4%B9%90%E5%AE%A1%E7%BE%8E/24%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%80%83%E4%BA%86%E3%80%8A%E6%B5%81%E6%B5%AA%E8%80%85%E4%B9%8B%E6%AD%8C%E3%80%8B%E5%8F%AF%E4%BB%A5%E6%8F%90%E5%89%8D%E7%9C%8B%E4%B8%80%E4%B8%8B%E6%9B%B2%E5%AD%90%E8%B5%8F%E6%9E%90.txt)
+- [public/resources/中外音乐审美/评分标准和真题.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%B8%AD%E5%A4%96%E9%9F%B3%E4%B9%90%E5%AE%A1%E7%BE%8E/%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86%E5%92%8C%E7%9C%9F%E9%A2%98.docx)
+
+**人工智能 / Zhouxunzhe/Fudan-CS-Projects**
+- [Artificial-Intelligence/pj2/pj2_part2/CRF++-0.58/example/JapaneseNE/exec.sh](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj2/pj2_part2/CRF%2B%2B-0.58/example/JapaneseNE/exec.sh)
+- [Artificial-Intelligence/pj2/pj2_part2/CRF++-0.58/example/JapaneseNE/template](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj2/pj2_part2/CRF%2B%2B-0.58/example/JapaneseNE/template)
+- [Artificial-Intelligence/pj2/pj2_part2/CRF++-0.58/example/JapaneseNE/test.data](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj2/pj2_part2/CRF%2B%2B-0.58/example/JapaneseNE/test.data)
+- [Artificial-Intelligence/pj2/pj2_part2/CRF++-0.58/example/JapaneseNE/train.data](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj2/pj2_part2/CRF%2B%2B-0.58/example/JapaneseNE/train.data)
+- [Artificial-Intelligence/pj2/pj2_part2/CRF++-0.58/example/basenp/exec.sh](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj2/pj2_part2/CRF%2B%2B-0.58/example/basenp/exec.sh)
+- [Artificial-Intelligence/pj2/pj2_part2/CRF++-0.58/example/basenp/template](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj2/pj2_part2/CRF%2B%2B-0.58/example/basenp/template)
+- [Artificial-Intelligence/pj2/pj2_part2/CRF++-0.58/example/basenp/test.data](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj2/pj2_part2/CRF%2B%2B-0.58/example/basenp/test.data)
+- [Artificial-Intelligence/pj2/pj2_part2/CRF++-0.58/example/basenp/train.data](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj2/pj2_part2/CRF%2B%2B-0.58/example/basenp/train.data)
+- [Artificial-Intelligence/pj2/pj2_part2/CRF++-0.58/example/chunking/exec.sh](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj2/pj2_part2/CRF%2B%2B-0.58/example/chunking/exec.sh)
+- [Artificial-Intelligence/pj2/pj2_part2/CRF++-0.58/example/chunking/template](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj2/pj2_part2/CRF%2B%2B-0.58/example/chunking/template)
+- [Artificial-Intelligence/pj2/pj2_part2/CRF++-0.58/example/chunking/test.data](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj2/pj2_part2/CRF%2B%2B-0.58/example/chunking/test.data)
+- [Artificial-Intelligence/pj2/pj2_part2/CRF++-0.58/example/chunking/train.data](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj2/pj2_part2/CRF%2B%2B-0.58/example/chunking/train.data)
+- 另有 5 个文件，见 data/collection_files.csv
 
 **人工智能 / victkk/FDU-Sharing**
 - [public/resources/人工智能的软件基础/2026春-期末-试题.md](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/2026%E6%98%A5-%E6%9C%9F%E6%9C%AB-%E8%AF%95%E9%A2%98.md)
@@ -99,6 +205,31 @@
 - [public/resources/最优化方法/final22.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/final22.pdf)
 - [public/resources/最优化方法/期中20？.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/%E6%9C%9F%E4%B8%AD20%EF%BC%9F.pdf)
 - [public/resources/最优化方法/期中试题回忆.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/%E6%9C%9F%E4%B8%AD%E8%AF%95%E9%A2%98%E5%9B%9E%E5%BF%86.docx)
+
+**会计 / kanzaler123/fdu-course-resources**
+- [会计/习题/19-20第二学期 期末卷（A卷）.docx](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BC%9A%E8%AE%A1/%E4%B9%A0%E9%A2%98/19-20%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%E6%9C%9F%E6%9C%AB%E5%8D%B7%EF%BC%88A%E5%8D%B7%EF%BC%89.docx)
+- [会计/习题/19-20第二学期 期末卷（A卷）.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BC%9A%E8%AE%A1/%E4%B9%A0%E9%A2%98/19-20%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%E6%9C%9F%E6%9C%AB%E5%8D%B7%EF%BC%88A%E5%8D%B7%EF%BC%89.pdf)
+- [会计/习题/2015和2017期末考试题.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BC%9A%E8%AE%A1/%E4%B9%A0%E9%A2%98/2015%E5%92%8C2017%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E9%A2%98.pdf)
+- [会计/习题/21-22第二学期 期末卷（A卷）.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BC%9A%E8%AE%A1/%E4%B9%A0%E9%A2%98/21-22%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%E6%9C%9F%E6%9C%AB%E5%8D%B7%EF%BC%88A%E5%8D%B7%EF%BC%89.pdf)
+- [会计/参考资料/第四章 企业经济业务核算(1)-final.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BC%9A%E8%AE%A1/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E4%BC%81%E4%B8%9A%E7%BB%8F%E6%B5%8E%E4%B8%9A%E5%8A%A1%E6%A0%B8%E7%AE%97%281%29-final.pdf)
+- [会计/参考资料/第四章 企业经济业务核算(1)final.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BC%9A%E8%AE%A1/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E4%BC%81%E4%B8%9A%E7%BB%8F%E6%B5%8E%E4%B8%9A%E5%8A%A1%E6%A0%B8%E7%AE%97%281%29final.pdf)
+- [会计/参考资料/第四章 企业经济业务核算(2)final.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BC%9A%E8%AE%A1/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E4%BC%81%E4%B8%9A%E7%BB%8F%E6%B5%8E%E4%B8%9A%E5%8A%A1%E6%A0%B8%E7%AE%97%282%29final.pdf)
+- [会计/复习笔记/期末复习思维导图.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BC%9A%E8%AE%A1/%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0/%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.pdf)
+- [会计/官方答案/4-7章业务题答案.xlsx](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BC%9A%E8%AE%A1/%E5%AE%98%E6%96%B9%E7%AD%94%E6%A1%88/4-7%E7%AB%A0%E4%B8%9A%E5%8A%A1%E9%A2%98%E7%AD%94%E6%A1%88.xlsx)
+- [会计/官方答案/业务题练习1-答案.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BC%9A%E8%AE%A1/%E5%AE%98%E6%96%B9%E7%AD%94%E6%A1%88/%E4%B8%9A%E5%8A%A1%E9%A2%98%E7%BB%83%E4%B9%A01-%E7%AD%94%E6%A1%88.pdf)
+- [会计/官方答案/习题答案补充.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BC%9A%E8%AE%A1/%E5%AE%98%E6%96%B9%E7%AD%94%E6%A1%88/%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88%E8%A1%A5%E5%85%85.pdf)
+- [会计/官方答案/会计学1-3章答案.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BC%9A%E8%AE%A1/%E5%AE%98%E6%96%B9%E7%AD%94%E6%A1%88/%E4%BC%9A%E8%AE%A1%E5%AD%A61-3%E7%AB%A0%E7%AD%94%E6%A1%88.pdf)
+- 另有 8 个文件，见 data/collection_files.csv
+
+**先秦哲学 / victkk/FDU-Sharing**
+- [public/resources/先秦哲学/先秦哲学2025期末.png](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%85%88%E7%A7%A6%E5%93%B2%E5%AD%A6/%E5%85%88%E7%A7%A6%E5%93%B2%E5%AD%A62025%E6%9C%9F%E6%9C%AB.png)
+
+**军事理论 / victkk/FDU-Sharing**
+- [public/resources/军事理论/2023.6军理期末真题.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/2023.6%E5%86%9B%E7%90%86%E6%9C%9F%E6%9C%AB%E7%9C%9F%E9%A2%98.pdf)
+- [public/resources/军事理论/2024.12军理期末真题 (1).pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/2024.12%E5%86%9B%E7%90%86%E6%9C%9F%E6%9C%AB%E7%9C%9F%E9%A2%98%20%281%29.pdf)
+- [public/resources/军事理论/军理资料（购买/【05】军事理论历年真题（07-21）.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E5%86%9B%E7%90%86%E8%B5%84%E6%96%99%EF%BC%88%E8%B4%AD%E4%B9%B0/%E3%80%9005%E3%80%91%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%8807-21%EF%BC%89.docx)
+- [public/resources/军事理论/军理资料（购买/【08】军事理论2022-2023第二学期期末A卷.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E5%86%9B%E7%90%86%E8%B5%84%E6%96%99%EF%BC%88%E8%B4%AD%E4%B9%B0/%E3%80%9008%E3%80%91%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA2022-2023%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%ABA%E5%8D%B7.docx)
+- [public/resources/军事理论/复旦BBS军理题库真题.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E5%A4%8D%E6%97%A6BBS%E5%86%9B%E7%90%86%E9%A2%98%E5%BA%93%E7%9C%9F%E9%A2%98.pdf)
 
 **回归分析 / Snivallus/FDU-Course-Notes-2024-2025**
 - [Markdown 源码临时目录/统计学基础Ⅱ回归分析/Homework/期中考试/2023秋期中.md](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Markdown%20%E6%BA%90%E7%A0%81%E4%B8%B4%E6%97%B6%E7%9B%AE%E5%BD%95/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A1%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90/Homework/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95/2023%E7%A7%8B%E6%9C%9F%E4%B8%AD.md)
@@ -128,6 +259,9 @@
 - [图像处理与可视化/Homework & Final/数字图像处理 01/P2/HW01_P2_2.py](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96/Homework%20%26%20Final/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%2001/P2/HW01_P2_2.py)
 - 另有 217 个文件，见 data/collection_files.csv
 
+**复杂系统理论与仿真 / Snivallus/FDU-Course-Notes-2024-2025**
+- [复杂系统理论与仿真/2025 期末.md](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E4%B8%8E%E4%BB%BF%E7%9C%9F/2025%20%E6%9C%9F%E6%9C%AB.md)
+
 **大学物理 / AniroHU/FDU_Courses_Undergraduate**
 - [大学物理/大物考试卷/2020 大学物理B(下) 期末A卷（线上）（密码20200610）.pdf](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E5%A4%A7%E7%89%A9%E8%80%83%E8%AF%95%E5%8D%B7/2020%20%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86B%28%E4%B8%8B%29%20%E6%9C%9F%E6%9C%ABA%E5%8D%B7%EF%BC%88%E7%BA%BF%E4%B8%8A%EF%BC%89%EF%BC%88%E5%AF%86%E7%A0%8120200610%EF%BC%89.pdf)
 - [大学物理/大物考试卷/21级大物B上陆明半期考试(1).pdf](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E5%A4%A7%E7%89%A9%E8%80%83%E8%AF%95%E5%8D%B7/21%E7%BA%A7%E5%A4%A7%E7%89%A9B%E4%B8%8A%E9%99%86%E6%98%8E%E5%8D%8A%E6%9C%9F%E8%80%83%E8%AF%95%281%29.pdf)
@@ -154,15 +288,67 @@
 - [public/resources/大学物理/2023-2024学年第一学期大物B期中考试.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%A7%E7%89%A9B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf)
 - 另有 27 个文件，见 data/collection_files.csv
 
+**大学英语三级 / openFudan/fudan-coursera**
+- [1.通识教育/大学英语/大学英语三级/listening/期末/Amy+Purdy+-+Living+Beyond+Limits+高清.mp3](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E4%B8%89%E7%BA%A7/listening/%E6%9C%9F%E6%9C%AB/Amy%2BPurdy%2B-%2BLiving%2BBeyond%2BLimits%2B%E9%AB%98%E6%B8%85.mp3)
+- [1.通识教育/大学英语/大学英语三级/listening/期末/Listening+1-+Australia-love-video.mp3](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E4%B8%89%E7%BA%A7/listening/%E6%9C%9F%E6%9C%AB/Listening%2B1-%2BAustralia-love-video.mp3)
+- [1.通识教育/大学英语/大学英语三级/listening/期末/Listening+1-+Christmas+Jars.rm](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E4%B8%89%E7%BA%A7/listening/%E6%9C%9F%E6%9C%AB/Listening%2B1-%2BChristmas%2BJars.rm)
+- [1.通识教育/大学英语/大学英语三级/listening/期末/Listening+2+-+Suicide+Prevention.dat](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E4%B8%89%E7%BA%A7/listening/%E6%9C%9F%E6%9C%AB/Listening%2B2%2B-%2BSuicide%2BPrevention.dat)
+- [1.通识教育/大学英语/大学英语三级/listening/期末/Listening+2-+Lost+Luggage+Ends+Up+Here.mp3](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E4%B8%89%E7%BA%A7/listening/%E6%9C%9F%E6%9C%AB/Listening%2B2-%2BLost%2BLuggage%2BEnds%2BUp%2BHere.mp3)
+- [1.通识教育/大学英语/大学英语三级/listening/期末/Listening_Ex.docx](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E4%B8%89%E7%BA%A7/listening/%E6%9C%9F%E6%9C%AB/Listening_Ex.docx)
+- [1.通识教育/大学英语/大学英语三级/listening/期末/Listening_练习.docx](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E4%B8%89%E7%BA%A7/listening/%E6%9C%9F%E6%9C%AB/Listening_%E7%BB%83%E4%B9%A0.docx)
+- [1.通识教育/大学英语/大学英语三级/listening/期末/Pardon+Turkey+as+a+Tradition.docx](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E4%B8%89%E7%BA%A7/listening/%E6%9C%9F%E6%9C%AB/Pardon%2BTurkey%2Bas%2Ba%2BTradition.docx)
+- [1.通识教育/大学英语/大学英语三级/listening/期末/Pardon+Turkey+as+a+Tradition.mp3](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E4%B8%89%E7%BA%A7/listening/%E6%9C%9F%E6%9C%AB/Pardon%2BTurkey%2Bas%2Ba%2BTradition.mp3)
+- [1.通识教育/大学英语/大学英语三级/listening/期末/Unit+6+Listening+1+_+2.docx](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E4%B8%89%E7%BA%A7/listening/%E6%9C%9F%E6%9C%AB/Unit%2B6%2BListening%2B1%2B_%2B2.docx)
+- [1.通识教育/大学英语/大学英语三级/listening/期末/Unit+7+Listening+（New）.docx](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E4%B8%89%E7%BA%A7/listening/%E6%9C%9F%E6%9C%AB/Unit%2B7%2BListening%2B%EF%BC%88New%EF%BC%89.docx)
+- [1.通识教育/大学英语/大学英语三级/listening/期末/bbc_150720_tae_575_digital_detox_audio_150720_tae_575_digital_detox_audio_au_bb.mp3](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E4%B8%89%E7%BA%A7/listening/%E6%9C%9F%E6%9C%AB/bbc_150720_tae_575_digital_detox_audio_150720_tae_575_digital_detox_audio_au_bb.mp3)
+- 另有 16 个文件，见 data/collection_files.csv
+
 **大数据技术 / NinaZ65/notes-for-courses**
 - [大数据开卷/9. final.md](https://github.com/NinaZ65/notes-for-courses/blob/main/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8D%B7/9.%20final.md)
 - [大数据开卷/9. final.pdf](https://github.com/NinaZ65/notes-for-courses/blob/main/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8D%B7/9.%20final.pdf)
 
+**宋词导读 / victkk/FDU-Sharing**
+- [public/resources/宋词导读/宋词导读期末试卷.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf)
+- [public/resources/宋词导读/期末A卷2022.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/%E6%9C%9F%E6%9C%ABA%E5%8D%B72022.pdf)
+
 **嵌入式系统 / victkk/FDU-Sharing**
 - [public/resources/嵌入式处理器与芯片系统设计/嵌入式处理器与芯片系统设计_2_线上考试试卷-A（2022年春季学期）.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%A4%84%E7%90%86%E5%99%A8%E4%B8%8E%E8%8A%AF%E7%89%87%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%A4%84%E7%90%86%E5%99%A8%E4%B8%8E%E8%8A%AF%E7%89%87%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1_2_%E7%BA%BF%E4%B8%8A%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7-A%EF%BC%882022%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%EF%BC%89.pdf)
 
+**并行分布计算 / Snivallus/FDU-Course-Notes-2024-2025**
+- [并行分布式计算/2025 期末.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%B9%B6%E8%A1%8C%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97/2025%20%E6%9C%9F%E6%9C%AB.pdf)
+
+**并行分布计算 / Zhouxunzhe/Fudan-CS-Projects**
+- [Parallel-Computing/并行计算期末PJ-纸质.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Parallel-Computing/%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97%E6%9C%9F%E6%9C%ABPJ-%E7%BA%B8%E8%B4%A8.pdf)
+
+**并行分布计算 / clb2001/FDU-COMP**
+- [并行计算/Final Exam.pdf](https://github.com/clb2001/FDU-COMP/blob/main/%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97/Final%20Exam.pdf)
+
+**应用泛函分析 / Snivallus/FDU-Course-Notes-2024-2025**
+- [应用泛函分析/Homework & Exam/2022期末.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%BA%94%E7%94%A8%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/Homework%20%26%20Exam/2022%E6%9C%9F%E6%9C%AB.pdf)
+- [应用泛函分析/Homework & Exam/2024期末.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%BA%94%E7%94%A8%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/Homework%20%26%20Exam/2024%E6%9C%9F%E6%9C%AB.pdf)
+- [应用泛函分析/Homework & Exam/2025期末.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%BA%94%E7%94%A8%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/Homework%20%26%20Exam/2025%E6%9C%9F%E6%9C%AB.pdf)
+- [应用泛函分析/Homework & Exam/泛函分析 01.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%BA%94%E7%94%A8%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/Homework%20%26%20Exam/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%2001.pdf)
+- [应用泛函分析/Homework & Exam/泛函分析 02.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%BA%94%E7%94%A8%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/Homework%20%26%20Exam/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%2002.pdf)
+- [应用泛函分析/Homework & Exam/泛函分析 03.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%BA%94%E7%94%A8%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/Homework%20%26%20Exam/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%2003.pdf)
+- [应用泛函分析/Homework & Exam/泛函分析 04.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%BA%94%E7%94%A8%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/Homework%20%26%20Exam/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%2004.pdf)
+- [应用泛函分析/Homework & Exam/泛函分析 05.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%BA%94%E7%94%A8%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/Homework%20%26%20Exam/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%2005.pdf)
+
+**影视剧艺术 / victkk/FDU-Sharing**
+- [public/resources/影视剧艺术/2025-期末-试卷.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%BD%B1%E8%A7%86%E5%89%A7%E8%89%BA%E6%9C%AF/2025-%E6%9C%9F%E6%9C%AB-%E8%AF%95%E5%8D%B7.pdf)
+
+**思政 / AniroHU/FDU_Courses_Undergraduate**
+- [改革开放史/22307140083-胡济赟-期中作业.docx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE%E5%8F%B2/22307140083-%E8%83%A1%E6%B5%8E%E8%B5%9F-%E6%9C%9F%E4%B8%AD%E4%BD%9C%E4%B8%9A.docx)
+- [改革开放史/22307140083-胡济赟-期末论文.docx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE%E5%8F%B2/22307140083-%E8%83%A1%E6%B5%8E%E8%B5%9F-%E6%9C%9F%E6%9C%AB%E8%AE%BA%E6%96%87.docx)
+- [改革开放史/关于本学期 改革开放史 期末论文提交要求.pdf](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE%E5%8F%B2/%E5%85%B3%E4%BA%8E%E6%9C%AC%E5%AD%A6%E6%9C%9F%20%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE%E5%8F%B2%20%E6%9C%9F%E6%9C%AB%E8%AE%BA%E6%96%87%E6%8F%90%E4%BA%A4%E8%A6%81%E6%B1%82.pdf)
+
 **思政 / kanzaler123/fdu-course-resources**
 - [毛概/毛概近年真题答案（20-22部分）及报告补充 .docx](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%AF%9B%E6%A6%82/%E6%AF%9B%E6%A6%82%E8%BF%91%E5%B9%B4%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88%EF%BC%8820-22%E9%83%A8%E5%88%86%EF%BC%89%E5%8F%8A%E6%8A%A5%E5%91%8A%E8%A1%A5%E5%85%85%20.docx)
+- [近纲/历年真题.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E8%BF%91%E7%BA%B2/%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf)
+- [近纲/近纲材料/2022年下半年考试试卷-纲要A卷.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E8%BF%91%E7%BA%B2/%E8%BF%91%E7%BA%B2%E6%9D%90%E6%96%99/2022%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7-%E7%BA%B2%E8%A6%81A%E5%8D%B7.pdf)
+- [近纲/近纲材料/期末作业参考范例.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E8%BF%91%E7%BA%B2/%E8%BF%91%E7%BA%B2%E6%9D%90%E6%96%99/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E8%8C%83%E4%BE%8B.pdf)
+
+**思政 / openFudan/fudan-coursera**
+- [1.通识教育/思想政治/毛泽东思想概论/毛概题库/大学毛概考试题库.doc](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA/%E6%AF%9B%E6%A6%82%E9%A2%98%E5%BA%93/%E5%A4%A7%E5%AD%A6%E6%AF%9B%E6%A6%82%E8%80%83%E8%AF%95%E9%A2%98%E5%BA%93.doc)
 
 **思政 / victkk/FDU-Sharing**
 - [public/resources/习概/得A答案.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%B9%A0%E6%A6%82/%E5%BE%97A%E7%AD%94%E6%A1%88.docx)
@@ -177,7 +363,7 @@
 - [public/resources/近代史纲要/【近纲】2022-2023学年第2学期期末考试A卷.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E8%BF%91%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81/%E3%80%90%E8%BF%91%E7%BA%B2%E3%80%912022-2023%E5%AD%A6%E5%B9%B4%E7%AC%AC2%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95A%E5%8D%B7.pdf)
 - [public/resources/近代史纲要/历年真题.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E8%BF%91%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81/%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf)
 - [public/resources/马克思主义基本原理/2020-2021第一学期期末.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/2020-2021%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB.docx)
-- 另有 7 个文件，见 data/collection_files.csv
+- 另有 18 个文件，见 data/collection_files.csv
 
 **数值算法 / Snivallus/FDU-Course-Notes-2024-2025**
 - [Markdown 源码临时目录/数值算法与案例分析Ⅰ/1. 稠密线性方程组的直接解法/example_1_2_1.m](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Markdown%20%E6%BA%90%E7%A0%81%E4%B8%B4%E6%97%B6%E7%9B%AE%E5%BD%95/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A0/1.%20%E7%A8%A0%E5%AF%86%E7%BA%BF%E6%80%A7%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E7%9B%B4%E6%8E%A5%E8%A7%A3%E6%B3%95/example_1_2_1.m)
@@ -198,6 +384,16 @@
 - [public/resources/信号与通信系统/2026-期末-信号与系统-25-试题回忆.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E9%80%9A%E4%BF%A1%E7%B3%BB%E7%BB%9F/2026-%E6%9C%9F%E6%9C%AB-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F-25-%E8%AF%95%E9%A2%98%E5%9B%9E%E5%BF%86.docx)
 - [public/resources/信号与通信系统/信号与通信系统试题A卷-2020.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E9%80%9A%E4%BF%A1%E7%B3%BB%E7%BB%9F/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E9%80%9A%E4%BF%A1%E7%B3%BB%E7%BB%9F%E8%AF%95%E9%A2%98A%E5%8D%B7-2020.pdf)
 
+**数字图像处理 / lrcc275/FudanCources**
+- [COMP130032数字图像处理/DIP_PJ/sample_pictures/D-HAZY-example.jpg](https://github.com/lrcc275/FudanCources/blob/main/COMP130032%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/DIP_PJ/sample_pictures/D-HAZY-example.jpg)
+- [COMP130032数字图像处理/DIP_PJ/sample_pictures/HazeRD-example.jpg](https://github.com/lrcc275/FudanCources/blob/main/COMP130032%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/DIP_PJ/sample_pictures/HazeRD-example.jpg)
+- [COMP130032数字图像处理/DIP_PJ/sample_pictures/O-HAZY-example.jpg](https://github.com/lrcc275/FudanCources/blob/main/COMP130032%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/DIP_PJ/sample_pictures/O-HAZY-example.jpg)
+- [COMP130032数字图像处理/DIP_PJ/sample_pictures/RESIDE-example.jpg](https://github.com/lrcc275/FudanCources/blob/main/COMP130032%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/DIP_PJ/sample_pictures/RESIDE-example.jpg)
+- [COMP130032数字图像处理/DIP_Project/Self-selected-pictures/D-HAZY-example.jpg](https://github.com/lrcc275/FudanCources/blob/main/COMP130032%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/DIP_Project/Self-selected-pictures/D-HAZY-example.jpg)
+- [COMP130032数字图像处理/DIP_Project/Self-selected-pictures/HazeRD-example.jpg](https://github.com/lrcc275/FudanCources/blob/main/COMP130032%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/DIP_Project/Self-selected-pictures/HazeRD-example.jpg)
+- [COMP130032数字图像处理/DIP_Project/Self-selected-pictures/O-HAZY-example.jpg](https://github.com/lrcc275/FudanCources/blob/main/COMP130032%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/DIP_Project/Self-selected-pictures/O-HAZY-example.jpg)
+- [COMP130032数字图像处理/DIP_Project/Self-selected-pictures/RESIDE-example.jpg](https://github.com/lrcc275/FudanCources/blob/main/COMP130032%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/DIP_Project/Self-selected-pictures/RESIDE-example.jpg)
+
 **数字逻辑与部件设计 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/数字逻辑与部件设计/2016《数字逻辑与部件设计》期末练习卷%2B答案.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E4%B8%8E%E9%83%A8%E4%BB%B6%E8%AE%BE%E8%AE%A1/2016%E3%80%8A%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E4%B8%8E%E9%83%A8%E4%BB%B6%E8%AE%BE%E8%AE%A1%E3%80%8B%E6%9C%9F%E6%9C%AB%E7%BB%83%E4%B9%A0%E5%8D%B7%252B%E7%AD%94%E6%A1%88.pdf)
 - [3.专业教育/计算机科学与技术/专业必修/数字逻辑与部件设计/期中考试.txt](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E4%B8%8E%E9%83%A8%E4%BB%B6%E8%AE%BE%E8%AE%A1/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.txt)
@@ -217,9 +413,23 @@
 - [public/resources/数学分析B/21-2022学年第二学期数学分析下期终考试A卷试题.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90B/21-2022%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%E4%B8%8B%E6%9C%9F%E7%BB%88%E8%80%83%E8%AF%95A%E5%8D%B7%E8%AF%95%E9%A2%98.pdf)
 - 另有 38 个文件，见 data/collection_files.csv
 
+**数据库系统引论 / AniroHU/FDU_Courses_Undergraduate**
+- [Database/Slides/ER Example 1 (in class) -- Pet adoptions.html](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Database/Slides/ER%20Example%201%20%28in%20class%29%20--%20Pet%20adoptions.html)
+- [Database/Slides/ElderCare Example (in class example).html](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Database/Slides/ElderCare%20Example%20%28in%20class%20example%29.html)
+- [Database/Slides/Exam 2024.docx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Database/Slides/Exam%202024.docx)
+- [Database/Slides/Example Used In Class.html](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Database/Slides/Example%20Used%20In%20Class.html)
+- [Database/Slides/Examples 2024 - Updated.zip](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Database/Slides/Examples%202024%20-%20Updated.zip)
+- [Database/Slides/exam_v1.docx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Database/Slides/exam_v1.docx)
+
 **数据库系统引论 / Snivallus/FDU-Course-Notes-2024-2025**
 - [数据库引论/Homework & Exam/期中考试 (2024 春).pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/Homework%20%26%20Exam/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%20%282024%20%E6%98%A5%29.pdf)
 - [数据库引论/Homework & Exam/期中考试 (2025 春).pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/Homework%20%26%20Exam/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%20%282025%20%E6%98%A5%29.pdf)
+
+**数据库系统引论 / clb2001/FDU-COMP**
+- [数据库引论/历年试题/2022上数据库期末考试题.pdf](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/%E5%8E%86%E5%B9%B4%E8%AF%95%E9%A2%98/2022%E4%B8%8A%E6%95%B0%E6%8D%AE%E5%BA%93%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E9%A2%98.pdf)
+- [数据库引论/历年试题/2022下数据库引论_期中考试卷_带答案.pdf](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/%E5%8E%86%E5%B9%B4%E8%AF%95%E9%A2%98/2022%E4%B8%8B%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA_%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E5%8D%B7_%E5%B8%A6%E7%AD%94%E6%A1%88.pdf)
+- [数据库引论/历年试题/2022下数据库引论期末考试试卷.pdf](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/%E5%8E%86%E5%B9%B4%E8%AF%95%E9%A2%98/2022%E4%B8%8B%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf)
+- [数据库引论/历年试题/2023年数据库课堂练习1（含参考答案）.pdf](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/%E5%8E%86%E5%B9%B4%E8%AF%95%E9%A2%98/2023%E5%B9%B4%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AF%BE%E5%A0%82%E7%BB%83%E4%B9%A01%EF%BC%88%E5%90%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%89.pdf)
 
 **数据库系统引论 / kanzaler123/fdu-course-resources**
 - [数据库/往年真题/2021-06-A.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%BE%80%E5%B9%B4%E7%9C%9F%E9%A2%98/2021-06-A.pdf)
@@ -249,6 +459,13 @@
 - [public/resources/数据库引论/~$2023年数据库课堂练习1（含参考答案）.doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/~%242023%E5%B9%B4%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AF%BE%E5%A0%82%E7%BB%83%E4%B9%A01%EF%BC%88%E5%90%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%89.doc)
 - [public/resources/数据库引论/~$23年数据库课堂练习2（含参考答案）.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/~%2423%E5%B9%B4%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AF%BE%E5%A0%82%E7%BB%83%E4%B9%A02%EF%BC%88%E5%90%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%89.docx)
 
+**数据结构 / clb2001/FDU-COMP**
+- [数据结构/FinalTest/bin/t1.exe](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/FinalTest/bin/t1.exe)
+- [数据结构/FinalTest/bin/t2.exe](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/FinalTest/bin/t2.exe)
+- [数据结构/FinalTest/t1.cpp](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/FinalTest/t1.cpp)
+- [数据结构/FinalTest/t2.cpp](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/FinalTest/t2.cpp)
+- [数据结构/数据结构22试卷第1部分（精英班）.pdf](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%8422%E8%AF%95%E5%8D%B7%E7%AC%AC1%E9%83%A8%E5%88%86%EF%BC%88%E7%B2%BE%E8%8B%B1%E7%8F%AD%EF%BC%89.pdf)
+
 **数据结构 / kanzaler123/fdu-course-resources**
 - [数据结构/往年真题/2010年《数据结构》期末试题（A卷）.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%BE%80%E5%B9%B4%E7%9C%9F%E9%A2%98/2010%E5%B9%B4%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%EF%BC%88A%E5%8D%B7%EF%BC%89.pdf)
 - [数据结构/往年真题/2010年《数据结构》期末试题（A卷）答案及评分标准.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%BE%80%E5%B9%B4%E7%9C%9F%E9%A2%98/2010%E5%B9%B4%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%EF%BC%88A%E5%8D%B7%EF%BC%89%E7%AD%94%E6%A1%88%E5%8F%8A%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf)
@@ -256,6 +473,9 @@
 - [数据结构/往年真题/2022年《数据结构》期末试题（A卷）.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%BE%80%E5%B9%B4%E7%9C%9F%E9%A2%98/2022%E5%B9%B4%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%EF%BC%88A%E5%8D%B7%EF%BC%89.pdf)
 - [数据结构/往年真题/期中讲解.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%BE%80%E5%B9%B4%E7%9C%9F%E9%A2%98/%E6%9C%9F%E4%B8%AD%E8%AE%B2%E8%A7%A3.pdf)
 - [数据结构/往年真题/期中试卷讲解.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%BE%80%E5%B9%B4%E7%9C%9F%E9%A2%98/%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7%E8%AE%B2%E8%A7%A3.pdf)
+
+**数据结构 / lrcc275/FudanCources**
+- [COMP130004数据结构/2022年《数据结构》期末试题（A卷）.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130004%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/2022%E5%B9%B4%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%EF%BC%88A%E5%8D%B7%EF%BC%89.pdf)
 
 **数据结构 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/数据结构(C++)/模拟试卷/2008级《数据结构》期末试题（A卷）.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%28C%2B%2B%29/%E6%A8%A1%E6%8B%9F%E8%AF%95%E5%8D%B7/2008%E7%BA%A7%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%EF%BC%88A%E5%8D%B7%EF%BC%89.pdf)
@@ -286,6 +506,42 @@
 - [public/resources/数据结构/2023ds_final_practice.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/2023ds_final_practice.pdf)
 - [public/resources/数据结构/2024ds_final.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/2024ds_final.pdf)
 - 另有 17 个文件，见 data/collection_files.csv
+
+**数理统计 / Snivallus/FDU-Course-Notes-2024-2025**
+- [统计学基础Ⅰ数理统计/Homework & Exam/Assignment 1.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/Homework%20%26%20Exam/Assignment%201.pdf)
+- [统计学基础Ⅰ数理统计/Homework & Exam/Assignment 2.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/Homework%20%26%20Exam/Assignment%202.pdf)
+- [统计学基础Ⅰ数理统计/Homework & Exam/Assignment 3.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/Homework%20%26%20Exam/Assignment%203.pdf)
+- [统计学基础Ⅰ数理统计/Homework & Exam/Assignment 4.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/Homework%20%26%20Exam/Assignment%204.pdf)
+- [统计学基础Ⅰ数理统计/Homework & Exam/Assignment 5.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/Homework%20%26%20Exam/Assignment%205.pdf)
+- [统计学基础Ⅰ数理统计/Homework & Exam/Assignment 6.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/Homework%20%26%20Exam/Assignment%206.pdf)
+- [统计学基础Ⅰ数理统计/Homework & Exam/Assignment 7.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/Homework%20%26%20Exam/Assignment%207.pdf)
+- [统计学基础Ⅰ数理统计/Homework & Exam/Assignment 8.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/Homework%20%26%20Exam/Assignment%208.pdf)
+- [统计学基础Ⅰ数理统计/Homework & Exam/Assignment 9.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/Homework%20%26%20Exam/Assignment%209.pdf)
+- [统计学基础Ⅰ数理统计/Homework & Exam/期中考试 (2024 春).pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/Homework%20%26%20Exam/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%20%282024%20%E6%98%A5%29.pdf)
+- [统计学基础Ⅰ数理统计/Homework & Exam/期中考试 (2025 春).pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/Homework%20%26%20Exam/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%20%282025%20%E6%98%A5%29.pdf)
+- [统计学基础Ⅰ数理统计/Homework & Exam/期末考试 (2025 春).pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/Homework%20%26%20Exam/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%20%282025%20%E6%98%A5%29.pdf)
+
+**数理统计 / hadanice/OpenDS**
+- [统计学基础Ⅰ：数理统计/final.pdf](https://github.com/hadanice/OpenDS/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%EF%BC%9A%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/final.pdf)
+
+**普化A上 / victkk/FDU-Sharing**
+- [public/resources/普化A上/21-22普化A下期末.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/21-22%E6%99%AE%E5%8C%96A%E4%B8%8B%E6%9C%9F%E6%9C%AB.pdf)
+- [public/resources/普化A上/强推！！普化上各章作业（题很棒，归纳得也很好）/普化作业答案_完整版.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/%E5%BC%BA%E6%8E%A8%EF%BC%81%EF%BC%81%E6%99%AE%E5%8C%96%E4%B8%8A%E5%90%84%E7%AB%A0%E4%BD%9C%E4%B8%9A%EF%BC%88%E9%A2%98%E5%BE%88%E6%A3%92%EF%BC%8C%E5%BD%92%E7%BA%B3%E5%BE%97%E4%B9%9F%E5%BE%88%E5%A5%BD%EF%BC%89/%E6%99%AE%E5%8C%96%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88_%E5%AE%8C%E6%95%B4%E7%89%88.pdf)
+- [public/resources/普化A上/强推！！普化上各章作业（题很棒，归纳得也很好）/第1章物态课堂习题-答案20151112.ppt](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/%E5%BC%BA%E6%8E%A8%EF%BC%81%EF%BC%81%E6%99%AE%E5%8C%96%E4%B8%8A%E5%90%84%E7%AB%A0%E4%BD%9C%E4%B8%9A%EF%BC%88%E9%A2%98%E5%BE%88%E6%A3%92%EF%BC%8C%E5%BD%92%E7%BA%B3%E5%BE%97%E4%B9%9F%E5%BE%88%E5%A5%BD%EF%BC%89/%E7%AC%AC1%E7%AB%A0%E7%89%A9%E6%80%81%E8%AF%BE%E5%A0%82%E4%B9%A0%E9%A2%98-%E7%AD%94%E6%A1%8820151112.ppt)
+- [public/resources/普化A上/强推！！普化上各章作业（题很棒，归纳得也很好）/第1章物质的聚集状态-20151009作业部分答案.doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/%E5%BC%BA%E6%8E%A8%EF%BC%81%EF%BC%81%E6%99%AE%E5%8C%96%E4%B8%8A%E5%90%84%E7%AB%A0%E4%BD%9C%E4%B8%9A%EF%BC%88%E9%A2%98%E5%BE%88%E6%A3%92%EF%BC%8C%E5%BD%92%E7%BA%B3%E5%BE%97%E4%B9%9F%E5%BE%88%E5%A5%BD%EF%BC%89/%E7%AC%AC1%E7%AB%A0%E7%89%A9%E8%B4%A8%E7%9A%84%E8%81%9A%E9%9B%86%E7%8A%B6%E6%80%81-20151009%E4%BD%9C%E4%B8%9A%E9%83%A8%E5%88%86%E7%AD%94%E6%A1%88.doc)
+- [public/resources/普化A上/强推！！普化上各章作业（题很棒，归纳得也很好）/第1章物质的聚集状态-20151009作业部分答案.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/%E5%BC%BA%E6%8E%A8%EF%BC%81%EF%BC%81%E6%99%AE%E5%8C%96%E4%B8%8A%E5%90%84%E7%AB%A0%E4%BD%9C%E4%B8%9A%EF%BC%88%E9%A2%98%E5%BE%88%E6%A3%92%EF%BC%8C%E5%BD%92%E7%BA%B3%E5%BE%97%E4%B9%9F%E5%BE%88%E5%A5%BD%EF%BC%89/%E7%AC%AC1%E7%AB%A0%E7%89%A9%E8%B4%A8%E7%9A%84%E8%81%9A%E9%9B%86%E7%8A%B6%E6%80%81-20151009%E4%BD%9C%E4%B8%9A%E9%83%A8%E5%88%86%E7%AD%94%E6%A1%88.pdf)
+- [public/resources/普化A上/强推！！普化上各章作业（题很棒，归纳得也很好）/第1章物质的聚集状态-20151023上交作业作业答案.doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/%E5%BC%BA%E6%8E%A8%EF%BC%81%EF%BC%81%E6%99%AE%E5%8C%96%E4%B8%8A%E5%90%84%E7%AB%A0%E4%BD%9C%E4%B8%9A%EF%BC%88%E9%A2%98%E5%BE%88%E6%A3%92%EF%BC%8C%E5%BD%92%E7%BA%B3%E5%BE%97%E4%B9%9F%E5%BE%88%E5%A5%BD%EF%BC%89/%E7%AC%AC1%E7%AB%A0%E7%89%A9%E8%B4%A8%E7%9A%84%E8%81%9A%E9%9B%86%E7%8A%B6%E6%80%81-20151023%E4%B8%8A%E4%BA%A4%E4%BD%9C%E4%B8%9A%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.doc)
+- [public/resources/普化A上/强推！！普化上各章作业（题很棒，归纳得也很好）/第2和第3章小测验试题-20151218.doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/%E5%BC%BA%E6%8E%A8%EF%BC%81%EF%BC%81%E6%99%AE%E5%8C%96%E4%B8%8A%E5%90%84%E7%AB%A0%E4%BD%9C%E4%B8%9A%EF%BC%88%E9%A2%98%E5%BE%88%E6%A3%92%EF%BC%8C%E5%BD%92%E7%BA%B3%E5%BE%97%E4%B9%9F%E5%BE%88%E5%A5%BD%EF%BC%89/%E7%AC%AC2%E5%92%8C%E7%AC%AC3%E7%AB%A0%E5%B0%8F%E6%B5%8B%E9%AA%8C%E8%AF%95%E9%A2%98-20151218.doc)
+- [public/resources/普化A上/强推！！普化上各章作业（题很棒，归纳得也很好）/第2章和第3章小测验答案-20151228.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/%E5%BC%BA%E6%8E%A8%EF%BC%81%EF%BC%81%E6%99%AE%E5%8C%96%E4%B8%8A%E5%90%84%E7%AB%A0%E4%BD%9C%E4%B8%9A%EF%BC%88%E9%A2%98%E5%BE%88%E6%A3%92%EF%BC%8C%E5%BD%92%E7%BA%B3%E5%BE%97%E4%B9%9F%E5%BE%88%E5%A5%BD%EF%BC%89/%E7%AC%AC2%E7%AB%A0%E5%92%8C%E7%AC%AC3%E7%AB%A0%E5%B0%8F%E6%B5%8B%E9%AA%8C%E7%AD%94%E6%A1%88-20151228.docx)
+- [public/resources/普化A上/强推！！普化上各章作业（题很棒，归纳得也很好）/第１章+补充作业答案-20151127.ppt](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/%E5%BC%BA%E6%8E%A8%EF%BC%81%EF%BC%81%E6%99%AE%E5%8C%96%E4%B8%8A%E5%90%84%E7%AB%A0%E4%BD%9C%E4%B8%9A%EF%BC%88%E9%A2%98%E5%BE%88%E6%A3%92%EF%BC%8C%E5%BD%92%E7%BA%B3%E5%BE%97%E4%B9%9F%E5%BE%88%E5%A5%BD%EF%BC%89/%E7%AC%AC%EF%BC%91%E7%AB%A0%2B%E8%A1%A5%E5%85%85%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88-20151127.ppt)
+- [public/resources/普化A上/普化作业答案_完整版.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/%E6%99%AE%E5%8C%96%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88_%E5%AE%8C%E6%95%B4%E7%89%88.pdf)
+- [public/resources/普化A上/普通化学题库及答案.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/%E6%99%AE%E9%80%9A%E5%8C%96%E5%AD%A6%E9%A2%98%E5%BA%93%E5%8F%8A%E7%AD%94%E6%A1%88.pdf)
+- [public/resources/普化A上/期中小测验真题（6+2份）/18期中（含答案）.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/%E6%9C%9F%E4%B8%AD%E5%B0%8F%E6%B5%8B%E9%AA%8C%E7%9C%9F%E9%A2%98%EF%BC%886%2B2%E4%BB%BD%EF%BC%89/18%E6%9C%9F%E4%B8%AD%EF%BC%88%E5%90%AB%E7%AD%94%E6%A1%88%EF%BC%89.pdf)
+- 另有 10 个文件，见 data/collection_files.csv
+
+**智能移动平台开发 / ChenTao98/FudanUniversity**
+- [智能移动平台开发/ImgCluster/app/src/androidTest/java/com/app/zpvoh/imgcluster/ExampleInstrumentedTest.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/app/src/androidTest/java/com/app/zpvoh/imgcluster/ExampleInstrumentedTest.java)
+- [智能移动平台开发/ImgCluster/app/src/test/java/com/app/zpvoh/imgcluster/ExampleUnitTest.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/app/src/test/java/com/app/zpvoh/imgcluster/ExampleUnitTest.java)
 
 **机器人学 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业选修/机器人学导论/期末.docx](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E6%9C%9F%E6%9C%AB.docx)
@@ -319,6 +575,13 @@
 - [public/resources/经院统计学/复旦大学经济学院统计学期末考试C卷答案(1).doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%BB%8F%E9%99%A2%E7%BB%9F%E8%AE%A1%E5%AD%A6/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E7%BB%8F%E6%B5%8E%E5%AD%A6%E9%99%A2%E7%BB%9F%E8%AE%A1%E5%AD%A6%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95C%E5%8D%B7%E7%AD%94%E6%A1%88%281%29.doc)
 - [public/resources/经院统计学/复旦大学经济学院统计学期末考试试卷A(1).doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%BB%8F%E9%99%A2%E7%BB%9F%E8%AE%A1%E5%AD%A6/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E7%BB%8F%E6%B5%8E%E5%AD%A6%E9%99%A2%E7%BB%9F%E8%AE%A1%E5%AD%A6%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7A%281%29.doc)
 - 另有 2 个文件，见 data/collection_files.csv
+
+**模式识别与机器学习 / zhuth/FDUCS**
+- [PatternRecognition_Project/final.pdf](https://github.com/zhuth/FDUCS/blob/master/PatternRecognition_Project/final.pdf)
+
+**法律与社会 / AniroHU/FDU_Courses_Undergraduate**
+- [法律与社会/资料/法律与社会试题及答案(1) (1).docx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E6%B3%95%E5%BE%8B%E4%B8%8E%E7%A4%BE%E4%BC%9A/%E8%B5%84%E6%96%99/%E6%B3%95%E5%BE%8B%E4%B8%8E%E7%A4%BE%E4%BC%9A%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88%281%29%20%281%29.docx)
+- [法律与社会/资料/法律与社会试题及答案(1).docx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E6%B3%95%E5%BE%8B%E4%B8%8E%E7%A4%BE%E4%BC%9A/%E8%B5%84%E6%96%99/%E6%B3%95%E5%BE%8B%E4%B8%8E%E7%A4%BE%E4%BC%9A%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88%281%29.docx)
 
 **生物学 / victkk/FDU-Sharing**
 - [public/resources/现代生物科学导论/复习资料、历年题/生导思考题.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E7%94%9F%E5%AF%BC%E6%80%9D%E8%80%83%E9%A2%98.docx)
@@ -393,6 +656,9 @@
 - [程序设计/习题/2022程设期末/2021-2022期末A卷_v2_页面_10.jpg](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E4%B9%A0%E9%A2%98/2022%E7%A8%8B%E8%AE%BE%E6%9C%9F%E6%9C%AB/2021-2022%E6%9C%9F%E6%9C%ABA%E5%8D%B7_v2_%E9%A1%B5%E9%9D%A2_10.jpg)
 - 另有 11 个文件，见 data/collection_files.csv
 
+**程序设计 / Zhouxunzhe/Fudan-CS-Projects**
+- [Programming/hw1/ta-lib-python-master/tools/example.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming/hw1/ta-lib-python-master/tools/example.py)
+
 **程序设计 / openFudan/fudan-coursera**
 - [2.基础教育/计算机科学与技术/程序设计/20151113答案.mdb](https://github.com/openFudan/fudan-coursera/blob/master/2.%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/20151113%E7%AD%94%E6%A1%88.mdb)
 - [2.基础教育/计算机科学与技术/程序设计/c期中考试样卷.mdb](https://github.com/openFudan/fudan-coursera/blob/master/2.%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/c%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E6%A0%B7%E5%8D%B7.mdb)
@@ -412,6 +678,10 @@
 - [public/resources/python程序设计/Python-2026/【4】网上搜刮的资料/Python期末编程题完整版.md](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Python-2026/%E3%80%904%E3%80%91%E7%BD%91%E4%B8%8A%E6%90%9C%E5%88%AE%E7%9A%84%E8%B5%84%E6%96%99/Python%E6%9C%9F%E6%9C%AB%E7%BC%96%E7%A8%8B%E9%A2%98%E5%AE%8C%E6%95%B4%E7%89%88.md)
 - [public/resources/python程序设计/Python-2026/【4】网上搜刮的资料/Python期末编程题完整版.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Python-2026/%E3%80%904%E3%80%91%E7%BD%91%E4%B8%8A%E6%90%9C%E5%88%AE%E7%9A%84%E8%B5%84%E6%96%99/Python%E6%9C%9F%E6%9C%AB%E7%BC%96%E7%A8%8B%E9%A2%98%E5%AE%8C%E6%95%B4%E7%89%88.pdf)
 - 另有 35 个文件，见 data/collection_files.csv
+
+**算法设计与分析 / lrcc275/FudanCources**
+- [COMP130011算法设计与分析/算法设计与分析_2022_Final.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130011%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90_2022_Final.pdf)
+- [COMP130011算法设计与分析/算法设计与分析_2022_Final_2.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130011%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90_2022_Final_2.pdf)
 
 **算法设计与分析 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/算法导论/算法导论答案/算法导论第三版答案(中文版和英文版)/算法导论 答案.zip](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E7%AD%94%E6%A1%88/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E7%AC%AC%E4%B8%89%E7%89%88%E7%AD%94%E6%A1%88%28%E4%B8%AD%E6%96%87%E7%89%88%E5%92%8C%E8%8B%B1%E6%96%87%E7%89%88%29/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%20%E7%AD%94%E6%A1%88.zip)
@@ -499,6 +769,21 @@
 **统计计算 / Snivallus/FDU-Course-Notes-2024-2025**
 - [统计计算/2025 期末回忆.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E8%AE%A1%E7%AE%97/2025%20%E6%9C%9F%E6%9C%AB%E5%9B%9E%E5%BF%86.pdf)
 
+**腾飞先导课 / victkk/FDU-Sharing**
+- [public/resources/腾飞先导课/2018级技术科学大类入学测试卷-2018-09-06.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E8%85%BE%E9%A3%9E%E5%85%88%E5%AF%BC%E8%AF%BE/2018%E7%BA%A7%E6%8A%80%E6%9C%AF%E7%A7%91%E5%AD%A6%E5%A4%A7%E7%B1%BB%E5%85%A5%E5%AD%A6%E6%B5%8B%E8%AF%95%E5%8D%B7-2018-09-06.pdf)
+
+**自然语言处理导论 / clb2001/FDU-COMP**
+- [自然语言处理/FinalProject/Aspect Based Sentiment analysis.docx](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/FinalProject/Aspect%20Based%20Sentiment%20analysis.docx)
+- [自然语言处理/FinalProject/Laptop_Train_v2.csv](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/FinalProject/Laptop_Train_v2.csv)
+- [自然语言处理/FinalProject/Restaurants_Train_v2.csv](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/FinalProject/Restaurants_Train_v2.csv)
+- [自然语言处理/FinalProject/res_laptop.png](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/FinalProject/res_laptop.png)
+- [自然语言处理/FinalProject/res_restaurants.png](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/FinalProject/res_restaurants.png)
+- [自然语言处理/FinalProject/semeval2014_laptop.ipynb](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/FinalProject/semeval2014_laptop.ipynb)
+- [自然语言处理/FinalProject/semeval2014_restaurants.ipynb](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/FinalProject/semeval2014_restaurants.ipynb)
+
+**自然语言处理导论 / lrcc275/FudanCources**
+- [COMP130141自然语言处理/课件/cs224n-2023-lecture07-final-project.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130141%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/%E8%AF%BE%E4%BB%B6/cs224n-2023-lecture07-final-project.pdf)
+
 **自然语言处理导论 / victkk/FDU-Sharing**
 - [public/resources/自然语言处理/2024NLP期末考试(含答案)(不含简答题).pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/2024NLP%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%28%E5%90%AB%E7%AD%94%E6%A1%88%29%28%E4%B8%8D%E5%90%AB%E7%AE%80%E7%AD%94%E9%A2%98%29.pdf)
 
@@ -529,6 +814,26 @@
 - [public/resources/计算机组成与体系结构/2022计算机组成与体系结构试卷A-1.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/2022%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84%E8%AF%95%E5%8D%B7A-1.pdf)
 - [public/resources/计算机组成与体系结构/计算机组成与体系结构22自制答案.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%8422%E8%87%AA%E5%88%B6%E7%AD%94%E6%A1%88.pdf)
 
+**计算机原理 / hadanice/OpenDS**
+- [计算机原理/笔记/13-期末题型速查.md](https://github.com/hadanice/OpenDS/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/%E7%AC%94%E8%AE%B0/13-%E6%9C%9F%E6%9C%AB%E9%A2%98%E5%9E%8B%E9%80%9F%E6%9F%A5.md)
+
+**计算机可视化 / lrcc275/FudanCources**
+- [COMP130174计算机可视化/final_pj/DecimaMonoPro.otf](https://github.com/lrcc275/FudanCources/blob/main/COMP130174%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AF%E8%A7%86%E5%8C%96/final_pj/DecimaMonoPro.otf)
+- [COMP130174计算机可视化/final_pj/pj.ipynb](https://github.com/lrcc275/FudanCources/blob/main/COMP130174%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AF%E8%A7%86%E5%8C%96/final_pj/pj.ipynb)
+
+**计算机图形学 / lrcc275/FudanCources**
+- [COMP130018计算机图形学/Project1/starter1/glfw/examples/CMakeLists.txt](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glfw/examples/CMakeLists.txt)
+- [COMP130018计算机图形学/Project1/starter1/glfw/examples/boing.c](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glfw/examples/boing.c)
+- [COMP130018计算机图形学/Project1/starter1/glfw/examples/gears.c](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glfw/examples/gears.c)
+- [COMP130018计算机图形学/Project1/starter1/glfw/examples/glfw.icns](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glfw/examples/glfw.icns)
+- [COMP130018计算机图形学/Project1/starter1/glfw/examples/glfw.ico](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glfw/examples/glfw.ico)
+- [COMP130018计算机图形学/Project1/starter1/glfw/examples/glfw.rc](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glfw/examples/glfw.rc)
+- [COMP130018计算机图形学/Project1/starter1/glfw/examples/heightmap.c](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glfw/examples/heightmap.c)
+- [COMP130018计算机图形学/Project1/starter1/glfw/examples/particles.c](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glfw/examples/particles.c)
+- [COMP130018计算机图形学/Project1/starter1/glfw/examples/simple.c](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glfw/examples/simple.c)
+- [COMP130018计算机图形学/Project1/starter1/glfw/examples/splitview.c](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glfw/examples/splitview.c)
+- [COMP130018计算机图形学/Project1/starter1/glfw/examples/wave.c](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glfw/examples/wave.c)
+
 **计算机系统基础 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/计算机系统基础/2016年试题.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/2016%E5%B9%B4%E8%AF%95%E9%A2%98.pdf)
 - [3.专业教育/计算机科学与技术/专业必修/计算机系统基础/历届期中试卷/ICS.2013.Mid.Exam.Sol.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/%E5%8E%86%E5%B1%8A%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7/ICS.2013.Mid.Exam.Sol.pdf)
@@ -538,6 +843,16 @@
 
 **计算机网络 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/计算机网络/_高传善_毛迪林_课后答案.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/_%E9%AB%98%E4%BC%A0%E5%96%84_%E6%AF%9B%E8%BF%AA%E6%9E%97_%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88.pdf)
+
+**设计模式 / Zhouxunzhe/Fudan-CS-Projects**
+- [Design-Pattern/lab2/phrase1/讲稿finalfinal.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Design-Pattern/lab2/phrase1/%E8%AE%B2%E7%A8%BFfinalfinal.pdf)
+
+**软件工程 / Zhouxunzhe/Fudan-CS-Projects**
+- [Software-Engineering/frontend/vue3/cypress/e2e/example.cy.js](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Software-Engineering/frontend/vue3/cypress/e2e/example.cy.js)
+- [Software-Engineering/frontend/vue3/cypress/fixtures/example.json](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Software-Engineering/frontend/vue3/cypress/fixtures/example.json)
+
+**软件工程 / lrcc275/FudanCources**
+- [COMP130015软件工程/课件/软件工程_2020_Final.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130015%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E8%AF%BE%E4%BB%B6/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B_2020_Final.pdf)
 
 **软件工程 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/软件工程/final.docx](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/final.docx)
@@ -558,6 +873,17 @@
 **集成电路工艺原理 / victkk/FDU-Sharing**
 - [public/resources/数字集成电路设计原理/2022数集期中.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%95%B0%E5%AD%97%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86/2022%E6%95%B0%E9%9B%86%E6%9C%9F%E4%B8%AD.pdf)
 - [public/resources/数字集成电路设计原理/23数集期中.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%95%B0%E5%AD%97%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86/23%E6%95%B0%E9%9B%86%E6%9C%9F%E4%B8%AD.pdf)
+
+**面向对象程序设计 / Zhouxunzhe/Fudan-CS-Projects**
+- [Object-Oriented-Programming/HW5/HW5_1_20307110315/final](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Object-Oriented-Programming/HW5/HW5_1_20307110315/final)
+- [Object-Oriented-Programming/HW6/HW6_1_20307110315/final](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Object-Oriented-Programming/HW6/HW6_1_20307110315/final)
+
+**面向对象程序设计 / lrcc275/FudanCources**
+- [COMP130135面向对象程序设计/作业/期末考试模拟考/密码：OOP@cs0609.txt](https://github.com/lrcc275/FudanCources/blob/main/COMP130135%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E4%BD%9C%E4%B8%9A/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E6%A8%A1%E6%8B%9F%E8%80%83/%E5%AF%86%E7%A0%81%EF%BC%9AOOP%40cs0609.txt)
+- [COMP130135面向对象程序设计/作业/期末考试模拟考/模拟考试_参考答案.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130135%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E4%BD%9C%E4%B8%9A/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E6%A8%A1%E6%8B%9F%E8%80%83/%E6%A8%A1%E6%8B%9F%E8%80%83%E8%AF%95_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf)
+- [COMP130135面向对象程序设计/作业/期末考试模拟考/模拟考试试卷.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130135%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E4%BD%9C%E4%B8%9A/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E6%A8%A1%E6%8B%9F%E8%80%83/%E6%A8%A1%E6%8B%9F%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf)
+- [COMP130135面向对象程序设计/作业/期末考试模拟考/面向对象程序设计A卷  答案.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130135%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E4%BD%9C%E4%B8%9A/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E6%A8%A1%E6%8B%9F%E8%80%83/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1A%E5%8D%B7%20%20%E7%AD%94%E6%A1%88.pdf)
+- [COMP130135面向对象程序设计/面向对象程序设计A卷  答案.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130135%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1A%E5%8D%B7%20%20%E7%AD%94%E6%A1%88.pdf)
 
 **面向对象程序设计 / victkk/FDU-Sharing**
 - [public/resources/面向对象程序设计/20春OOP期末考试试卷.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/20%E6%98%A5OOP%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf)
@@ -659,441 +985,388 @@
 
 </details>
 
-## 笔记（281 个文件 / 281 个链接）
+## 课程资料（8213 个文件）
 
 | 课程 | 合集 | 文件数 | 文件链接 |
-| --- | --- | ---: | ---: |
-| [人工智能](courses/人工智能.md) | [NinaZ65/notes-for-courses](https://github.com/NinaZ65/notes-for-courses) | 5 | 5 |
-| [人工智能（H）](courses/人工智能-H.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 2 | 2 |
-| [优化方法](courses/优化方法.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 10 | 10 |
-| [思政](courses/思政.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 3 | 3 |
-| [思政](courses/思政.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 1 | 1 |
-| [思政](courses/思政.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 7 | 7 |
-| [数值算法](courses/数值算法.md) | [Su-Zi-Zhan/FDU-SDS-Lecture-Notes](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes) | 6 | 6 |
-| [数值算法](courses/数值算法.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 18 | 18 |
-| [数值算法](courses/数值算法.md) | [michaellu2007/fdu-note-summarized](https://github.com/michaellu2007/fdu-note-summarized) | 3 | 3 |
-| [数据库及实现](courses/数据库及实现.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 14 | 14 |
-| [数据结构](courses/数据结构.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 12 | 12 |
-| [数据结构](courses/数据结构.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 1 | 1 |
-| [数据结构](courses/数据结构.md) | [michaellu2007/fdu-note-summarized](https://github.com/michaellu2007/fdu-note-summarized) | 3 | 3 |
-| [数据结构](courses/数据结构.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 3 | 3 |
-| [概率论](courses/概率论.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 10 | 10 |
-| [概率论](courses/概率论.md) | [michaellu2007/fdu-note-summarized](https://github.com/michaellu2007/fdu-note-summarized) | 2 | 2 |
-| [概率论](courses/概率论.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 1 | 1 |
-| [生物学](courses/生物学.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 26 | 26 |
-| [离散数学](courses/离散数学.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 15 | 15 |
-| [程序设计](courses/程序设计.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 1 | 1 |
-| [程序设计](courses/程序设计.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 8 | 8 |
-| [算法设计与分析](courses/算法设计与分析.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 1 | 1 |
-| [经济学](courses/经济学.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 3 | 3 |
-| [经济学](courses/经济学.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 26 | 26 |
-| [自然语言处理与大语言模型](courses/自然语言处理与大语言模型.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 13 | 13 |
-| [计算机网络](courses/计算机网络.md) | [flyingc2004/fdu-cs-grade3](https://github.com/flyingc2004/fdu-cs-grade3) | 37 | 37 |
-| [计算机网络](courses/计算机网络.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 1 | 1 |
-| [计算理论基础](courses/计算理论基础.md) | [michaellu2007/fdu-note-summarized](https://github.com/michaellu2007/fdu-note-summarized) | 16 | 16 |
-| [高等代数](courses/高等代数.md) | [Su-Zi-Zhan/FDU-SDS-Lecture-Notes](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes) | 14 | 14 |
-| [高等代数](courses/高等代数.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 15 | 15 |
-| [高等数学](courses/高等数学.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 2 | 2 |
-| [高等数学](courses/高等数学.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 2 | 2 |
+| --- | --- | ---: | --- |
+| [Essay Writing](courses/Essay Writing.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 21 | 展开见下 |
+| [FET](courses/FET.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 2 | 展开见下 |
+| [Java](courses/Java.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 99 | 展开见下 |
+| [Java](courses/Java.md) | [ChenTao98/FudanUniversity](https://github.com/ChenTao98/FudanUniversity) | 85 | 展开见下 |
+| [Java](courses/Java.md) | [rapidhere/fdu-pjs](https://github.com/rapidhere/fdu-pjs) | 59 | 展开见下 |
+| [Web 开发](courses/Web-开发.md) | [clb2001/FDU-COMP](https://github.com/clb2001/FDU-COMP) | 14 | 展开见下 |
+| [Web 开发](courses/Web-开发.md) | [rapidhere/fdu-pjs](https://github.com/rapidhere/fdu-pjs) | 16 | 展开见下 |
+| [《法哲学原理》导读](courses/《法哲学原理》导读.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 18 | 展开见下 |
+| [中国音乐史](courses/中国音乐史.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 展开见下 |
+| [中外大学校园文化对比研究](courses/中外大学校园文化对比研究.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 109 | 展开见下 |
+| [中外建筑](courses/中外建筑.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 2 | 展开见下 |
+| [中外音乐审美](courses/中外音乐审美.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 4 | 展开见下 |
+| [京剧](courses/京剧.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 11 | 展开见下 |
+| [人工智能](courses/人工智能.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 5 | 展开见下 |
+| [人工智能](courses/人工智能.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 展开见下 |
+| [人工智能](courses/人工智能.md) | [NinaZ65/notes-for-courses](https://github.com/NinaZ65/notes-for-courses) | 10 | 展开见下 |
+| [人工智能](courses/人工智能.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 34 | 展开见下 |
+| [人工智能](courses/人工智能.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 12 | 展开见下 |
+| [人工智能](courses/人工智能.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 15 | 展开见下 |
+| [人工智能](courses/人工智能.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 5 | 展开见下 |
+| [人工智能](courses/人工智能.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 3 | 展开见下 |
+| [人工智能（H）](courses/人工智能-H.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 2 | 展开见下 |
+| [人机交互](courses/人机交互.md) | [FDUanonym/FDU-CST-Cracker](https://github.com/FDUanonym/FDU-CST-Cracker) | 2 | 展开见下 |
+| [人机交互](courses/人机交互.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 10 | 展开见下 |
+| [优化方法](courses/优化方法.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 展开见下 |
+| [优化方法](courses/优化方法.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 2 | 展开见下 |
+| [优化方法](courses/优化方法.md) | [Su-Zi-Zhan/FDU-SDS-Lecture-Notes](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes) | 6 | 展开见下 |
+| [优化方法](courses/优化方法.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 22 | 展开见下 |
+| [会计](courses/会计.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 69 | 展开见下 |
+| [军事理论](courses/军事理论.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 35 | 展开见下 |
+| [回归分析](courses/回归分析.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 2 | 展开见下 |
+| [回归分析](courses/回归分析.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 19 | 展开见下 |
+| [因果推断](courses/因果推断.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 展开见下 |
+| [图像处理与可视化](courses/图像处理与可视化.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 12 | 展开见下 |
+| [图像处理与可视化](courses/图像处理与可视化.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 8 | 展开见下 |
+| [在线社交网络](courses/在线社交网络.md) | [FDUanonym/FDU-CST-Cracker](https://github.com/FDUanonym/FDU-CST-Cracker) | 1 | 展开见下 |
+| [复杂系统理论与仿真](courses/复杂系统理论与仿真.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 4 | 展开见下 |
+| [多媒体技术基础](courses/多媒体技术基础.md) | [ChenTao98/FudanUniversity](https://github.com/ChenTao98/FudanUniversity) | 13 | 展开见下 |
+| [多模态](courses/多模态.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 1 | 展开见下 |
+| [大学物理](courses/大学物理.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 38 | 展开见下 |
+| [大学物理](courses/大学物理.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 3 | 展开见下 |
+| [大学物理](courses/大学物理.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 14 | 展开见下 |
+| [大学英语三级](courses/大学英语三级.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 53 | 展开见下 |
+| [大数据分析与应用](courses/大数据分析与应用.md) | [FDUanonym/FDU-CST-Cracker](https://github.com/FDUanonym/FDU-CST-Cracker) | 9 | 展开见下 |
+| [大数据技术](courses/大数据技术.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 展开见下 |
+| [大数据技术](courses/大数据技术.md) | [NinaZ65/notes-for-courses](https://github.com/NinaZ65/notes-for-courses) | 30 | 展开见下 |
+| [宋词导读](courses/宋词导读.md) | [AryZhao2006/FDU-Course-AryZhao](https://github.com/AryZhao2006/FDU-Course-AryZhao) | 30 | 展开见下 |
+| [宋词导读](courses/宋词导读.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 19 | 展开见下 |
+| [宋词导读](courses/宋词导读.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 26 | 展开见下 |
+| [常微分方程](courses/常微分方程.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 3 | 展开见下 |
+| [并行分布计算](courses/并行分布计算.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 3 | 展开见下 |
+| [并行分布计算](courses/并行分布计算.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 9 | 展开见下 |
+| [并行分布计算](courses/并行分布计算.md) | [clb2001/FDU-COMP](https://github.com/clb2001/FDU-COMP) | 2 | 展开见下 |
+| [并行分布计算](courses/并行分布计算.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 19 | 展开见下 |
+| [应用实变函数与泛函分析基础](courses/应用实变函数与泛函分析基础.md) | [Su-Zi-Zhan/FDU-SDS-Lecture-Notes](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes) | 4 | 展开见下 |
+| [应用泛函分析](courses/应用泛函分析.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 7 | 展开见下 |
+| [影视剧艺术](courses/影视剧艺术.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 展开见下 |
+| [思政](courses/思政.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 22 | 展开见下 |
+| [思政](courses/思政.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 21 | 展开见下 |
+| [思政](courses/思政.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 37 | 展开见下 |
+| [操作系统](courses/操作系统.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 20 | 展开见下 |
+| [操作系统](courses/操作系统.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 33 | 展开见下 |
+| [操作系统](courses/操作系统.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 155 | 展开见下 |
+| [操作系统](courses/操作系统.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 43 | 展开见下 |
+| [操作系统](courses/操作系统.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 36 | 展开见下 |
+| [操作系统](courses/操作系统.md) | [zhuth/FDUCS](https://github.com/zhuth/FDUCS) | 6 | 展开见下 |
+| [数值算法](courses/数值算法.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 4 | 展开见下 |
+| [数值算法](courses/数值算法.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 59 | 展开见下 |
+| [数值算法](courses/数值算法.md) | [Su-Zi-Zhan/FDU-SDS-Lecture-Notes](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes) | 13 | 展开见下 |
+| [数值算法](courses/数值算法.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 64 | 展开见下 |
+| [数值算法](courses/数值算法.md) | [michaellu2007/fdu-note-summarized](https://github.com/michaellu2007/fdu-note-summarized) | 23 | 展开见下 |
+| [数字信号处理](courses/数字信号处理.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 展开见下 |
+| [数字图像处理](courses/数字图像处理.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 4 | 展开见下 |
+| [数字图像处理](courses/数字图像处理.md) | [zhuth/FDUCS](https://github.com/zhuth/FDUCS) | 2 | 展开见下 |
+| [数字逻辑与部件设计](courses/数字逻辑与部件设计.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 785 | 展开见下 |
+| [数字逻辑与部件设计](courses/数字逻辑与部件设计.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 展开见下 |
+| [数学分析](courses/数学分析.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 25 | 展开见下 |
+| [数据可视化](courses/数据可视化.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 展开见下 |
+| [数据库及实现](courses/数据库及实现.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 展开见下 |
+| [数据库及实现](courses/数据库及实现.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 14 | 展开见下 |
+| [数据库新进展](courses/数据库新进展.md) | [FDUanonym/FDU-CST-Cracker](https://github.com/FDUanonym/FDU-CST-Cracker) | 1 | 展开见下 |
+| [数据库系统引论](courses/数据库系统引论.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 20 | 展开见下 |
+| [数据库系统引论](courses/数据库系统引论.md) | [ChenTao98/FudanUniversity](https://github.com/ChenTao98/FudanUniversity) | 21 | 展开见下 |
+| [数据库系统引论](courses/数据库系统引论.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 6 | 展开见下 |
+| [数据库系统引论](courses/数据库系统引论.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 102 | 展开见下 |
+| [数据库系统引论](courses/数据库系统引论.md) | [clb2001/FDU-COMP](https://github.com/clb2001/FDU-COMP) | 77 | 展开见下 |
+| [数据库系统引论](courses/数据库系统引论.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 14 | 展开见下 |
+| [数据库系统引论](courses/数据库系统引论.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 62 | 展开见下 |
+| [数据挖掘技术](courses/数据挖掘技术.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 45 | 展开见下 |
+| [数据的背后](courses/数据的背后.md) | [Su-Zi-Zhan/FDU-SDS-Lecture-Notes](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes) | 1 | 展开见下 |
+| [数据科学](courses/数据科学.md) | [FDUanonym/FDU-CST-Cracker](https://github.com/FDUanonym/FDU-CST-Cracker) | 3 | 展开见下 |
+| [数据结构](courses/数据结构.md) | [BeneneeYu/Course-Project](https://github.com/BeneneeYu/Course-Project) | 6 | 展开见下 |
+| [数据结构](courses/数据结构.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 3 | 展开见下 |
+| [数据结构](courses/数据结构.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 3 | 展开见下 |
+| [数据结构](courses/数据结构.md) | [clb2001/FDU-COMP](https://github.com/clb2001/FDU-COMP) | 175 | 展开见下 |
+| [数据结构](courses/数据结构.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 25 | 展开见下 |
+| [数据结构](courses/数据结构.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 23 | 展开见下 |
+| [数据结构](courses/数据结构.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 10 | 展开见下 |
+| [数据结构](courses/数据结构.md) | [michaellu2007/fdu-note-summarized](https://github.com/michaellu2007/fdu-note-summarized) | 23 | 展开见下 |
+| [数据结构](courses/数据结构.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 50 | 展开见下 |
+| [数据结构](courses/数据结构.md) | [rapidhere/fdu-pjs](https://github.com/rapidhere/fdu-pjs) | 381 | 展开见下 |
+| [数据结构](courses/数据结构.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 6 | 展开见下 |
+| [数据隐私保护技术概论](courses/数据隐私保护技术概论.md) | [FDUanonym/FDU-CST-Cracker](https://github.com/FDUanonym/FDU-CST-Cracker) | 1 | 展开见下 |
+| [数理统计](courses/数理统计.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 展开见下 |
+| [数理统计](courses/数理统计.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 4 | 展开见下 |
+| [数理统计](courses/数理统计.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 17 | 展开见下 |
+| [文本挖掘](courses/文本挖掘.md) | [cxxixi/FDU_DS](https://github.com/cxxixi/FDU_DS) | 1 | 展开见下 |
+| [日本文明的历史变迁](courses/日本文明的历史变迁.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 45 | 展开见下 |
+| [时间序列与空间统计](courses/时间序列与空间统计.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 展开见下 |
+| [普化A上](courses/普化A上.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 13 | 展开见下 |
+| [智能移动平台开发](courses/智能移动平台开发.md) | [ChenTao98/FudanUniversity](https://github.com/ChenTao98/FudanUniversity) | 58 | 展开见下 |
+| [机器人学](courses/机器人学.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 45 | 展开见下 |
+| [机器学习](courses/机器学习.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 53 | 展开见下 |
+| [机器学习](courses/机器学习.md) | [FDUanonym/FDU-CST-Cracker](https://github.com/FDUanonym/FDU-CST-Cracker) | 9 | 展开见下 |
+| [机器学习](courses/机器学习.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 9 | 展开见下 |
+| [机器学习](courses/机器学习.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 57 | 展开见下 |
+| [植物改变生活](courses/植物改变生活.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 11 | 展开见下 |
+| [概率论](courses/概率论.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 14 | 展开见下 |
+| [概率论](courses/概率论.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 展开见下 |
+| [概率论](courses/概率论.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 22 | 展开见下 |
+| [概率论](courses/概率论.md) | [michaellu2007/fdu-note-summarized](https://github.com/michaellu2007/fdu-note-summarized) | 22 | 展开见下 |
+| [概率论](courses/概率论.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 1 | 展开见下 |
+| [概率论](courses/概率论.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 展开见下 |
+| [模式识别与机器学习](courses/模式识别与机器学习.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 42 | 展开见下 |
+| [模式识别与机器学习](courses/模式识别与机器学习.md) | [zhuth/FDUCS](https://github.com/zhuth/FDUCS) | 1 | 展开见下 |
+| [殖民帝国史](courses/殖民帝国史.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 18 | 展开见下 |
+| [法律与社会](courses/法律与社会.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 5 | 展开见下 |
+| [深度学习及其应用](courses/深度学习及其应用.md) | [FDUanonym/FDU-CST-Cracker](https://github.com/FDUanonym/FDU-CST-Cracker) | 9 | 展开见下 |
+| [游戏设计与开发](courses/游戏设计与开发.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 2 | 展开见下 |
+| [生物医学工程学基础](courses/生物医学工程学基础.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 6 | 展开见下 |
+| [生物学](courses/生物学.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 31 | 展开见下 |
+| [生物统计学](courses/生物统计学.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 10 | 展开见下 |
+| [电子系统](courses/电子系统.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 12 | 展开见下 |
+| [电路](courses/电路.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 23 | 展开见下 |
+| [社会网络挖掘](courses/社会网络挖掘.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 展开见下 |
+| [神经网络与深度学习](courses/神经网络与深度学习.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 6 | 展开见下 |
+| [离散数学](courses/离散数学.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 91 | 展开见下 |
+| [离散数学](courses/离散数学.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 5 | 展开见下 |
+| [科技人才英语沟通](courses/科技人才英语沟通.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 展开见下 |
+| [程序设计](courses/程序设计.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 28 | 展开见下 |
+| [程序设计](courses/程序设计.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 146 | 展开见下 |
+| [程序设计](courses/程序设计.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 10 | 展开见下 |
+| [程序设计](courses/程序设计.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 21 | 展开见下 |
+| [程序设计](courses/程序设计.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 58 | 展开见下 |
+| [程序语言](courses/程序语言.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 22 | 展开见下 |
+| [笛卡尔《谈谈方法》导读](courses/笛卡尔《谈谈方法》导读.md) | [Su-Zi-Zhan/FDU-SDS-Lecture-Notes](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes) | 1 | 展开见下 |
+| [算法设计与分析](courses/算法设计与分析.md) | [BeneneeYu/Course-Project](https://github.com/BeneneeYu/Course-Project) | 18 | 展开见下 |
+| [算法设计与分析](courses/算法设计与分析.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 15 | 展开见下 |
+| [算法设计与分析](courses/算法设计与分析.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 93 | 展开见下 |
+| [算法设计与分析](courses/算法设计与分析.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 6 | 展开见下 |
+| [系统程序设计](courses/系统程序设计.md) | [ChenTao98/FudanUniversity](https://github.com/ChenTao98/FudanUniversity) | 10 | 展开见下 |
+| [线性代数](courses/线性代数.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 7 | 展开见下 |
+| [线性代数](courses/线性代数.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 32 | 展开见下 |
+| [线性代数](courses/线性代数.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 7 | 展开见下 |
+| [经济史](courses/经济史.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 44 | 展开见下 |
+| [经济学](courses/经济学.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 76 | 展开见下 |
+| [经济学](courses/经济学.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 50 | 展开见下 |
+| [统计学习概论](courses/统计学习概论.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 展开见下 |
+| [统计计算](courses/统计计算.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 展开见下 |
+| [统计计算](courses/统计计算.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 7 | 展开见下 |
+| [编程方法与技术](courses/编程方法与技术.md) | [clb2001/FDU-COMP](https://github.com/clb2001/FDU-COMP) | 92 | 展开见下 |
+| [编程方法与技术](courses/编程方法与技术.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 21 | 展开见下 |
+| [编译原理](courses/编译原理.md) | [BeneneeYu/Course-Project](https://github.com/BeneneeYu/Course-Project) | 3 | 展开见下 |
+| [编译原理](courses/编译原理.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 83 | 展开见下 |
+| [编译原理](courses/编译原理.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 20 | 展开见下 |
+| [脑科学与类脑系统](courses/脑科学与类脑系统.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 28 | 展开见下 |
+| [腾飞先导课](courses/腾飞先导课.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 2 | 展开见下 |
+| [自然语言处理与大语言模型](courses/自然语言处理与大语言模型.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 13 | 展开见下 |
+| [自然语言处理与大语言模型](courses/自然语言处理与大语言模型.md) | [michaellu2007/fdu-note-summarized](https://github.com/michaellu2007/fdu-note-summarized) | 34 | 展开见下 |
+| [自然语言处理导论](courses/自然语言处理导论.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 展开见下 |
+| [自然语言处理导论](courses/自然语言处理导论.md) | [clb2001/FDU-COMP](https://github.com/clb2001/FDU-COMP) | 110 | 展开见下 |
+| [自然语言处理导论](courses/自然语言处理导论.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 14 | 展开见下 |
+| [计算机体系结构](courses/计算机体系结构.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 471 | 展开见下 |
+| [计算机体系结构](courses/计算机体系结构.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 183 | 展开见下 |
+| [计算机体系结构](courses/计算机体系结构.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 2 | 展开见下 |
+| [计算机体系结构](courses/计算机体系结构.md) | [zhuth/FDUCS](https://github.com/zhuth/FDUCS) | 40 | 展开见下 |
+| [计算机原理](courses/计算机原理.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 展开见下 |
+| [计算机原理](courses/计算机原理.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 54 | 展开见下 |
+| [计算机可视化](courses/计算机可视化.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 8 | 展开见下 |
+| [计算机图形学](courses/计算机图形学.md) | [ChenTao98/FudanUniversity](https://github.com/ChenTao98/FudanUniversity) | 12 | 展开见下 |
+| [计算机图形学](courses/计算机图形学.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 44 | 展开见下 |
+| [计算机图形学](courses/计算机图形学.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 181 | 展开见下 |
+| [计算机图形学](courses/计算机图形学.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 23 | 展开见下 |
+| [计算机系统基础](courses/计算机系统基础.md) | [ChenTao98/FudanUniversity](https://github.com/ChenTao98/FudanUniversity) | 70 | 展开见下 |
+| [计算机系统基础](courses/计算机系统基础.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 1029 | 展开见下 |
+| [计算机系统基础](courses/计算机系统基础.md) | [clb2001/FDU-COMP](https://github.com/clb2001/FDU-COMP) | 1 | 展开见下 |
+| [计算机系统基础](courses/计算机系统基础.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 4 | 展开见下 |
+| [计算机系统基础](courses/计算机系统基础.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 31 | 展开见下 |
+| [计算机系统基础](courses/计算机系统基础.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 14 | 展开见下 |
+| [计算机系统工程](courses/计算机系统工程.md) | [ChenTao98/FudanUniversity](https://github.com/ChenTao98/FudanUniversity) | 20 | 展开见下 |
+| [计算机组成原理](courses/计算机组成原理.md) | [NinaZ65/notes-for-courses](https://github.com/NinaZ65/notes-for-courses) | 3 | 展开见下 |
+| [计算机网络](courses/计算机网络.md) | [ChenTao98/FudanUniversity](https://github.com/ChenTao98/FudanUniversity) | 21 | 展开见下 |
+| [计算机网络](courses/计算机网络.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 60 | 展开见下 |
+| [计算机网络](courses/计算机网络.md) | [clb2001/FDU-COMP](https://github.com/clb2001/FDU-COMP) | 11 | 展开见下 |
+| [计算机网络](courses/计算机网络.md) | [flyingc2004/fdu-cs-grade3](https://github.com/flyingc2004/fdu-cs-grade3) | 80 | 展开见下 |
+| [计算机网络](courses/计算机网络.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 32 | 展开见下 |
+| [计算机网络](courses/计算机网络.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 37 | 展开见下 |
+| [计算机视觉](courses/计算机视觉.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 展开见下 |
+| [计算机视觉](courses/计算机视觉.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 8 | 展开见下 |
+| [计算理论基础](courses/计算理论基础.md) | [michaellu2007/fdu-note-summarized](https://github.com/michaellu2007/fdu-note-summarized) | 36 | 展开见下 |
+| [设计模式](courses/设计模式.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 13 | 展开见下 |
+| [贝叶斯统计](courses/贝叶斯统计.md) | [cxxixi/FDU_DS](https://github.com/cxxixi/FDU_DS) | 5 | 展开见下 |
+| [软件工程](courses/软件工程.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 29 | 展开见下 |
+| [软件工程](courses/软件工程.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 10 | 展开见下 |
+| [软件工程](courses/软件工程.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 25 | 展开见下 |
+| [软件过程管理](courses/软件过程管理.md) | [FDUanonym/FDU-CST-Cracker](https://github.com/FDUanonym/FDU-CST-Cracker) | 3 | 展开见下 |
+| [随机过程](courses/随机过程.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 展开见下 |
+| [随机过程](courses/随机过程.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 20 | 展开见下 |
+| [随机过程](courses/随机过程.md) | [Su-Zi-Zhan/FDU-SDS-Lecture-Notes](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes) | 2 | 展开见下 |
+| [面向对象程序设计](courses/面向对象程序设计.md) | [ChenTao98/FudanUniversity](https://github.com/ChenTao98/FudanUniversity) | 145 | 展开见下 |
+| [面向对象程序设计](courses/面向对象程序设计.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 29 | 展开见下 |
+| [面向对象程序设计](courses/面向对象程序设计.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 39 | 展开见下 |
+| [面向对象程序设计](courses/面向对象程序设计.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 10 | 展开见下 |
+| [领域数据科学](courses/领域数据科学.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 3 | 展开见下 |
+| [高等代数](courses/高等代数.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 14 | 展开见下 |
+| [高等代数](courses/高等代数.md) | [CodingMizore/SharedFDU](https://github.com/CodingMizore/SharedFDU) | 14 | 展开见下 |
+| [高等代数](courses/高等代数.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 展开见下 |
+| [高等代数](courses/高等代数.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 39 | 展开见下 |
+| [高等代数](courses/高等代数.md) | [Su-Zi-Zhan/FDU-SDS-Lecture-Notes](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes) | 20 | 展开见下 |
+| [高等代数](courses/高等代数.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 15 | 展开见下 |
+| [高等代数](courses/高等代数.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 展开见下 |
+| [高等数学](courses/高等数学.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 1 | 展开见下 |
+| [高等数学](courses/高等数学.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 15 | 展开见下 |
+| [高等数学](courses/高等数学.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 9 | 展开见下 |
+| [高级 Web 技术](courses/高级-Web-技术.md) | [BeneneeYu/Course-Project](https://github.com/BeneneeYu/Course-Project) | 111 | 展开见下 |
+| [高维数据建模](courses/高维数据建模.md) | [cxxixi/FDU_DS](https://github.com/cxxixi/FDU_DS) | 5 | 展开见下 |
 
-<details><summary>展开笔记文件链接</summary>
+<details><summary>展开课程资料文件链接</summary>
 
-**人工智能 / NinaZ65/notes-for-courses**
-- [人工智能/gpt复习/九 强化学习.md](https://github.com/NinaZ65/notes-for-courses/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/gpt%E5%A4%8D%E4%B9%A0/%E4%B9%9D%20%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md)
-- [人工智能/gpt复习/五 SVM.md](https://github.com/NinaZ65/notes-for-courses/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/gpt%E5%A4%8D%E4%B9%A0/%E4%BA%94%20SVM.md)
-- [人工智能/gpt复习/八 CNN.md](https://github.com/NinaZ65/notes-for-courses/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/gpt%E5%A4%8D%E4%B9%A0/%E5%85%AB%20CNN.md)
-- [人工智能/gpt复习/六 深度学习基础.md](https://github.com/NinaZ65/notes-for-courses/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/gpt%E5%A4%8D%E4%B9%A0/%E5%85%AD%20%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80.md)
-- [人工智能/gpt复习/四 机器学习.md](https://github.com/NinaZ65/notes-for-courses/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/gpt%E5%A4%8D%E4%B9%A0/%E5%9B%9B%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md)
+**Essay Writing / Snivallus/FDU-Course-Notes-2024-2025**
+- [Essay Writing/Class Reading/In Defense of Torture.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Class%20Reading/In%20Defense%20of%20Torture.pdf)
+- [Essay Writing/Class Reading/Keynes Economic Possibilities.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Class%20Reading/Keynes%20Economic%20Possibilities.pdf)
+- [Essay Writing/Class Reading/Kill the Language Requirement.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Class%20Reading/Kill%20the%20Language%20Requirement.pdf)
+- [Essay Writing/Class Reading/Teaching Kids to Kill.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Class%20Reading/Teaching%20Kids%20to%20Kill.pdf)
+- [Essay Writing/Class Reading/The Case for Getting Rid of Borders.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Class%20Reading/The%20Case%20for%20Getting%20Rid%20of%20Borders.pdf)
+- [Essay Writing/Class Reading/Where Are They.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Class%20Reading/Where%20Are%20They.pdf)
+- [Essay Writing/Class Reading/Why Economists Should Like Booze.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Class%20Reading/Why%20Economists%20Should%20Like%20Booze.pdf)
+- [Essay Writing/Handbook of Essay Writing (Patrick Thame).pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Handbook%20of%20Essay%20Writing%20%28Patrick%20Thame%29.pdf)
+- [Essay Writing/Lecture 01.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Lecture%2001.pdf)
+- [Essay Writing/Lecture 02.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Lecture%2002.pdf)
+- [Essay Writing/Lecture 03.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Lecture%2003.pdf)
+- [Essay Writing/Lecture 06.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Lecture%2006.pdf)
+- 另有 9 个文件，见 data/collection_files.csv
 
-**人工智能（H） / victkk/FDU-Sharing**
-- [public/resources/人工智能H（郑骁庆）/2026-笔记-人工智能H（郑骁庆）.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDH%EF%BC%88%E9%83%91%E9%AA%81%E5%BA%86%EF%BC%89/2026-%E7%AC%94%E8%AE%B0-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDH%EF%BC%88%E9%83%91%E9%AA%81%E5%BA%86%EF%BC%89.pdf)
-- [public/resources/人工智能H（郑骁庆）/2026-笔记-人工智能H（郑骁庆）页码索引.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDH%EF%BC%88%E9%83%91%E9%AA%81%E5%BA%86%EF%BC%89/2026-%E7%AC%94%E8%AE%B0-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDH%EF%BC%88%E9%83%91%E9%AA%81%E5%BA%86%EF%BC%89%E9%A1%B5%E7%A0%81%E7%B4%A2%E5%BC%95.pdf)
+**FET / AniroHU/FDU_Courses_Undergraduate**
+- [FET/FET模拟卷听力部分.mp3](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/FET/FET%E6%A8%A1%E6%8B%9F%E5%8D%B7%E5%90%AC%E5%8A%9B%E9%83%A8%E5%88%86.mp3)
+- [FET/复旦大学英语水平测试大纲 (2020年修订版）.pdf](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/FET/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E6%B0%B4%E5%B9%B3%E6%B5%8B%E8%AF%95%E5%A4%A7%E7%BA%B2%20%282020%E5%B9%B4%E4%BF%AE%E8%AE%A2%E7%89%88%EF%BC%89.pdf)
 
-**优化方法 / hadanice/OpenDS**
-- [最优化方法/笔记/10_近端梯度法.md](https://github.com/hadanice/OpenDS/blob/main/%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/%E7%AC%94%E8%AE%B0/10_%E8%BF%91%E7%AB%AF%E6%A2%AF%E5%BA%A6%E6%B3%95.md)
-- [最优化方法/笔记/2_凸集与凸函数.md](https://github.com/hadanice/OpenDS/blob/main/%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/%E7%AC%94%E8%AE%B0/2_%E5%87%B8%E9%9B%86%E4%B8%8E%E5%87%B8%E5%87%BD%E6%95%B0.md)
-- [最优化方法/笔记/3_凸优化问题.md](https://github.com/hadanice/OpenDS/blob/main/%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/%E7%AC%94%E8%AE%B0/3_%E5%87%B8%E4%BC%98%E5%8C%96%E9%97%AE%E9%A2%98.md)
-- [最优化方法/笔记/4_最优性条件.md](https://github.com/hadanice/OpenDS/blob/main/%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/%E7%AC%94%E8%AE%B0/4_%E6%9C%80%E4%BC%98%E6%80%A7%E6%9D%A1%E4%BB%B6.md)
-- [最优化方法/笔记/5_拉格朗日对偶.md](https://github.com/hadanice/OpenDS/blob/main/%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/%E7%AC%94%E8%AE%B0/5_%E6%8B%89%E6%A0%BC%E6%9C%97%E6%97%A5%E5%AF%B9%E5%81%B6.md)
-- [最优化方法/笔记/6_梯度下降与牛顿法.md](https://github.com/hadanice/OpenDS/blob/main/%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/%E7%AC%94%E8%AE%B0/6_%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E4%B8%8E%E7%89%9B%E9%A1%BF%E6%B3%95.md)
-- [最优化方法/笔记/7_牛顿法.md](https://github.com/hadanice/OpenDS/blob/main/%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/%E7%AC%94%E8%AE%B0/7_%E7%89%9B%E9%A1%BF%E6%B3%95.md)
-- [最优化方法/笔记/8_拟牛顿法.md](https://github.com/hadanice/OpenDS/blob/main/%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/%E7%AC%94%E8%AE%B0/8_%E6%8B%9F%E7%89%9B%E9%A1%BF%E6%B3%95.md)
-- [最优化方法/笔记/9_次梯度与次梯度法.md](https://github.com/hadanice/OpenDS/blob/main/%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/%E7%AC%94%E8%AE%B0/9_%E6%AC%A1%E6%A2%AF%E5%BA%A6%E4%B8%8E%E6%AC%A1%E6%A2%AF%E5%BA%A6%E6%B3%95.md)
-- [最优化方法/笔记/index.md](https://github.com/hadanice/OpenDS/blob/main/%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/%E7%AC%94%E8%AE%B0/index.md)
+**Java / AniroHU/FDU_Courses_Undergraduate**
+- [Java/Labs&Assignments/Assignment2/.classpath](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment2/.classpath)
+- [Java/Labs&Assignments/Assignment2/.project](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment2/.project)
+- [Java/Labs&Assignments/Assignment2/.settings/org.eclipse.core.resources.prefs](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment2/.settings/org.eclipse.core.resources.prefs)
+- [Java/Labs&Assignments/Assignment2/.settings/org.eclipse.jdt.core.prefs](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment2/.settings/org.eclipse.jdt.core.prefs)
+- [Java/Labs&Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/.classpath](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/.classpath)
+- [Java/Labs&Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/.project](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/.project)
+- [Java/Labs&Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/.settings/org.eclipse.core.resources.prefs](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/.settings/org.eclipse.core.resources.prefs)
+- [Java/Labs&Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/.settings/org.eclipse.jdt.core.prefs](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/.settings/org.eclipse.jdt.core.prefs)
+- [Java/Labs&Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/bin/package1/Country.class](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/bin/package1/Country.class)
+- [Java/Labs&Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/bin/package1/Date.class](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/bin/package1/Date.class)
+- [Java/Labs&Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/bin/package1/Entity.class](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/bin/package1/Entity.class)
+- [Java/Labs&Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/bin/package1/GuessMaster.class](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/bin/package1/GuessMaster.class)
+- 另有 87 个文件，见 data/collection_files.csv
 
-**思政 / kanzaler123/fdu-course-resources**
-- [毛概/毛概 考点 答题框架模板 全部笔记整理（83页）.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%AF%9B%E6%A6%82/%E6%AF%9B%E6%A6%82%20%E8%80%83%E7%82%B9%20%E7%AD%94%E9%A2%98%E6%A1%86%E6%9E%B6%E6%A8%A1%E6%9D%BF%20%E5%85%A8%E9%83%A8%E7%AC%94%E8%AE%B0%E6%95%B4%E7%90%86%EF%BC%8883%E9%A1%B5%EF%BC%89.pdf)
-- [毛概/毛概笔记（43页全）.docx](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%AF%9B%E6%A6%82/%E6%AF%9B%E6%A6%82%E7%AC%94%E8%AE%B0%EF%BC%8843%E9%A1%B5%E5%85%A8%EF%BC%89.docx)
-- [毛概/知识点.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%AF%9B%E6%A6%82/%E7%9F%A5%E8%AF%86%E7%82%B9.pdf)
+**Java / ChenTao98/FudanUniversity**
+- [JavaProjects/Huffman压缩/.idea/artifacts/Project1_jar.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/JavaProjects/Huffman%E5%8E%8B%E7%BC%A9/.idea/artifacts/Project1_jar.xml)
+- [JavaProjects/Huffman压缩/.idea/misc.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/JavaProjects/Huffman%E5%8E%8B%E7%BC%A9/.idea/misc.xml)
+- [JavaProjects/Huffman压缩/.idea/modules.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/JavaProjects/Huffman%E5%8E%8B%E7%BC%A9/.idea/modules.xml)
+- [JavaProjects/Huffman压缩/.idea/workspace.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/JavaProjects/Huffman%E5%8E%8B%E7%BC%A9/.idea/workspace.xml)
+- [JavaProjects/Huffman压缩/Project1.iml](https://github.com/ChenTao98/FudanUniversity/blob/master/JavaProjects/Huffman%E5%8E%8B%E7%BC%A9/Project1.iml)
+- [JavaProjects/Huffman压缩/src/META-INF/MANIFEST.MF](https://github.com/ChenTao98/FudanUniversity/blob/master/JavaProjects/Huffman%E5%8E%8B%E7%BC%A9/src/META-INF/MANIFEST.MF)
+- [JavaProjects/java版五子棋/.idea/Pj2.iml](https://github.com/ChenTao98/FudanUniversity/blob/master/JavaProjects/java%E7%89%88%E4%BA%94%E5%AD%90%E6%A3%8B/.idea/Pj2.iml)
+- [JavaProjects/java版五子棋/.idea/compiler.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/JavaProjects/java%E7%89%88%E4%BA%94%E5%AD%90%E6%A3%8B/.idea/compiler.xml)
+- [JavaProjects/java版五子棋/.idea/copyright/profiles_settings.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/JavaProjects/java%E7%89%88%E4%BA%94%E5%AD%90%E6%A3%8B/.idea/copyright/profiles_settings.xml)
+- [JavaProjects/java版五子棋/.idea/misc.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/JavaProjects/java%E7%89%88%E4%BA%94%E5%AD%90%E6%A3%8B/.idea/misc.xml)
+- [JavaProjects/java版五子棋/.idea/modules.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/JavaProjects/java%E7%89%88%E4%BA%94%E5%AD%90%E6%A3%8B/.idea/modules.xml)
+- [JavaProjects/java版五子棋/.idea/workspace.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/JavaProjects/java%E7%89%88%E4%BA%94%E5%AD%90%E6%A3%8B/.idea/workspace.xml)
+- 另有 73 个文件，见 data/collection_files.csv
 
-**思政 / openFudan/fudan-coursera**
-- [1.通识教育/思想政治/毛泽东思想概论/毛概题库/毛概/毛概复习资料大总结！！！.doc](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA/%E6%AF%9B%E6%A6%82%E9%A2%98%E5%BA%93/%E6%AF%9B%E6%A6%82/%E6%AF%9B%E6%A6%82%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E5%A4%A7%E6%80%BB%E7%BB%93%EF%BC%81%EF%BC%81%EF%BC%81.doc)
+**Java / rapidhere/fdu-pjs**
+- [java-lang/Project1/.idea/.name](https://github.com/rapidhere/fdu-pjs/blob/master/java-lang/Project1/.idea/.name)
+- [java-lang/Project1/.idea/compiler.xml](https://github.com/rapidhere/fdu-pjs/blob/master/java-lang/Project1/.idea/compiler.xml)
+- [java-lang/Project1/.idea/copyright/profiles_settings.xml](https://github.com/rapidhere/fdu-pjs/blob/master/java-lang/Project1/.idea/copyright/profiles_settings.xml)
+- [java-lang/Project1/.idea/dictionaries/rapid.xml](https://github.com/rapidhere/fdu-pjs/blob/master/java-lang/Project1/.idea/dictionaries/rapid.xml)
+- [java-lang/Project1/.idea/encodings.xml](https://github.com/rapidhere/fdu-pjs/blob/master/java-lang/Project1/.idea/encodings.xml)
+- [java-lang/Project1/.idea/misc.xml](https://github.com/rapidhere/fdu-pjs/blob/master/java-lang/Project1/.idea/misc.xml)
+- [java-lang/Project1/.idea/modules.xml](https://github.com/rapidhere/fdu-pjs/blob/master/java-lang/Project1/.idea/modules.xml)
+- [java-lang/Project1/.idea/scopes/scope_settings.xml](https://github.com/rapidhere/fdu-pjs/blob/master/java-lang/Project1/.idea/scopes/scope_settings.xml)
+- [java-lang/Project1/.idea/uiDesigner.xml](https://github.com/rapidhere/fdu-pjs/blob/master/java-lang/Project1/.idea/uiDesigner.xml)
+- [java-lang/Project1/.idea/vcs.xml](https://github.com/rapidhere/fdu-pjs/blob/master/java-lang/Project1/.idea/vcs.xml)
+- [java-lang/Project1/.idea/workspace.xml](https://github.com/rapidhere/fdu-pjs/blob/master/java-lang/Project1/.idea/workspace.xml)
+- [java-lang/Project1/BoxMover.jar](https://github.com/rapidhere/fdu-pjs/blob/master/java-lang/Project1/BoxMover.jar)
+- 另有 47 个文件，见 data/collection_files.csv
 
-**思政 / victkk/FDU-Sharing**
-- [public/resources/习概/习概笔记（含PPT重点)（重要！！）.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%B9%A0%E6%A6%82/%E4%B9%A0%E6%A6%82%E7%AC%94%E8%AE%B0%EF%BC%88%E5%90%ABPPT%E9%87%8D%E7%82%B9%29%EF%BC%88%E9%87%8D%E8%A6%81%EF%BC%81%EF%BC%81%EF%BC%89.docx)
-- [public/resources/习概/习概老师总结（出过原题）.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%B9%A0%E6%A6%82/%E4%B9%A0%E6%A6%82%E8%80%81%E5%B8%88%E6%80%BB%E7%BB%93%EF%BC%88%E5%87%BA%E8%BF%87%E5%8E%9F%E9%A2%98%EF%BC%89.docx)
-- [public/resources/习概/习概老师总结（出过原题）.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%B9%A0%E6%A6%82/%E4%B9%A0%E6%A6%82%E8%80%81%E5%B8%88%E6%80%BB%E7%BB%93%EF%BC%88%E5%87%BA%E8%BF%87%E5%8E%9F%E9%A2%98%EF%BC%89.pdf)
-- [public/resources/毛概/北大学姐手写笔记.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%AF%9B%E6%A6%82/%E5%8C%97%E5%A4%A7%E5%AD%A6%E5%A7%90%E6%89%8B%E5%86%99%E7%AC%94%E8%AE%B0.pdf)
-- [public/resources/毛概/知识点.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%AF%9B%E6%A6%82/%E7%9F%A5%E8%AF%86%E7%82%B9.pdf)
-- [public/resources/近代史纲要/《中国近现代史纲要》笔记和课后习题详解.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E8%BF%91%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81/%E3%80%8A%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81%E3%80%8B%E7%AC%94%E8%AE%B0%E5%92%8C%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E8%AF%A6%E8%A7%A3.pdf)
-- [public/resources/近代史纲要/总复习.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E8%BF%91%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81/%E6%80%BB%E5%A4%8D%E4%B9%A0.pdf)
-
-**数值算法 / Su-Zi-Zhan/FDU-SDS-Lecture-Notes**
-- [MATH50009.01-数值算法与案例分析Ⅱ/notes/Lecture 1.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH50009.01-%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A1/notes/Lecture%201.pdf)
-- [MATH50009.01-数值算法与案例分析Ⅱ/notes/Lecture 2.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH50009.01-%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A1/notes/Lecture%202.pdf)
-- [MATH50009.01-数值算法与案例分析Ⅱ/notes/Lecture 3.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH50009.01-%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A1/notes/Lecture%203.pdf)
-- [MATH50009.01-数值算法与案例分析Ⅱ/notes/Lecture 5.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH50009.01-%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A1/notes/Lecture%205.pdf)
-- [MATH50009.01-数值算法与案例分析Ⅱ/notes/Lecture 7.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH50009.01-%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A1/notes/Lecture%207.pdf)
-- [MATH50009.01-数值算法与案例分析Ⅱ/notes/Lecture 8.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH50009.01-%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A1/notes/Lecture%208.pdf)
-
-**数值算法 / hadanice/OpenDS**
-- [数值算法与案例分析Ⅰ/NumAlgo笔记.pdf](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A0/NumAlgo%E7%AC%94%E8%AE%B0.pdf)
-- [数值算法与案例分析Ⅰ/笔记/01-浮点数与误差分析.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A0/%E7%AC%94%E8%AE%B0/01-%E6%B5%AE%E7%82%B9%E6%95%B0%E4%B8%8E%E8%AF%AF%E5%B7%AE%E5%88%86%E6%9E%90.md)
-- [数值算法与案例分析Ⅰ/笔记/02-三角求解与LU分解.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A0/%E7%AC%94%E8%AE%B0/02-%E4%B8%89%E8%A7%92%E6%B1%82%E8%A7%A3%E4%B8%8ELU%E5%88%86%E8%A7%A3.md)
-- [数值算法与案例分析Ⅰ/笔记/03-Cholesky分解与结构利用.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A0/%E7%AC%94%E8%AE%B0/03-Cholesky%E5%88%86%E8%A7%A3%E4%B8%8E%E7%BB%93%E6%9E%84%E5%88%A9%E7%94%A8.md)
-- [数值算法与案例分析Ⅰ/笔记/04-正交变换与QR分解.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A0/%E7%AC%94%E8%AE%B0/04-%E6%AD%A3%E4%BA%A4%E5%8F%98%E6%8D%A2%E4%B8%8EQR%E5%88%86%E8%A7%A3.md)
-- [数值算法与案例分析Ⅰ/笔记/05-最小二乘与正则化.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A0/%E7%AC%94%E8%AE%B0/05-%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E4%B8%8E%E6%AD%A3%E5%88%99%E5%8C%96.md)
-- [数值算法与案例分析Ⅰ/笔记/06-幂法与子空间迭代.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A0/%E7%AC%94%E8%AE%B0/06-%E5%B9%82%E6%B3%95%E4%B8%8E%E5%AD%90%E7%A9%BA%E9%97%B4%E8%BF%AD%E4%BB%A3.md)
-- [数值算法与案例分析Ⅰ/笔记/07-Hessenberg化与QR算法.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A0/%E7%AC%94%E8%AE%B0/07-Hessenberg%E5%8C%96%E4%B8%8EQR%E7%AE%97%E6%B3%95.md)
-- [数值算法与案例分析Ⅰ/笔记/08-对称特征值与SVD算法.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A0/%E7%AC%94%E8%AE%B0/08-%E5%AF%B9%E7%A7%B0%E7%89%B9%E5%BE%81%E5%80%BC%E4%B8%8ESVD%E7%AE%97%E6%B3%95.md)
-- [数值算法与案例分析Ⅰ/笔记/09-矩阵方程与矩阵函数.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A0/%E7%AC%94%E8%AE%B0/09-%E7%9F%A9%E9%98%B5%E6%96%B9%E7%A8%8B%E4%B8%8E%E7%9F%A9%E9%98%B5%E5%87%BD%E6%95%B0.md)
-- [数值算法与案例分析Ⅰ/笔记/10-稀疏矩阵与定常迭代.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A0/%E7%AC%94%E8%AE%B0/10-%E7%A8%80%E7%96%8F%E7%9F%A9%E9%98%B5%E4%B8%8E%E5%AE%9A%E5%B8%B8%E8%BF%AD%E4%BB%A3.md)
-- [数值算法与案例分析Ⅰ/笔记/11-Arnoldi与GMRES.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A0/%E7%AC%94%E8%AE%B0/11-Arnoldi%E4%B8%8EGMRES.md)
-- 另有 6 个文件，见 data/collection_files.csv
-
-**数值算法 / michaellu2007/fdu-note-summarized**
-- [数值算法与案例分析/补课笔记-幂法反幂法与第3章引言.html](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/%E8%A1%A5%E8%AF%BE%E7%AC%94%E8%AE%B0-%E5%B9%82%E6%B3%95%E5%8F%8D%E5%B9%82%E6%B3%95%E4%B8%8E%E7%AC%AC3%E7%AB%A0%E5%BC%95%E8%A8%80.html)
-- [数值算法与案例分析/课堂笔记-20261020-Krylov子空间与Arnoldi分解.html](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/%E8%AF%BE%E5%A0%82%E7%AC%94%E8%AE%B0-20261020-Krylov%E5%AD%90%E7%A9%BA%E9%97%B4%E4%B8%8EArnoldi%E5%88%86%E8%A7%A3.html)
-- [数值算法与案例分析/课堂笔记-20261027-特征向量的计算.html](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/%E8%AF%BE%E5%A0%82%E7%AC%94%E8%AE%B0-20261027-%E7%89%B9%E5%BE%81%E5%90%91%E9%87%8F%E7%9A%84%E8%AE%A1%E7%AE%97.html)
-
-**数据库及实现 / hadanice/OpenDS**
-- [数据库及实现/笔记/01-数据库系统概论.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8F%8A%E5%AE%9E%E7%8E%B0/%E7%AC%94%E8%AE%B0/01-%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA.md)
-- [数据库及实现/笔记/02-关系数据库基本原理.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8F%8A%E5%AE%9E%E7%8E%B0/%E7%AC%94%E8%AE%B0/02-%E5%85%B3%E7%B3%BB%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86.md)
-- [数据库及实现/笔记/03-数据库设计方法.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8F%8A%E5%AE%9E%E7%8E%B0/%E7%AC%94%E8%AE%B0/03-%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%B3%95.md)
-- [数据库及实现/笔记/04-MySQL概述.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8F%8A%E5%AE%9E%E7%8E%B0/%E7%AC%94%E8%AE%B0/04-MySQL%E6%A6%82%E8%BF%B0.md)
-- [数据库及实现/笔记/05-数据库和表的管理.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8F%8A%E5%AE%9E%E7%8E%B0/%E7%AC%94%E8%AE%B0/05-%E6%95%B0%E6%8D%AE%E5%BA%93%E5%92%8C%E8%A1%A8%E7%9A%84%E7%AE%A1%E7%90%86.md)
-- [数据库及实现/笔记/06-数据查询与管理.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8F%8A%E5%AE%9E%E7%8E%B0/%E7%AC%94%E8%AE%B0/06-%E6%95%B0%E6%8D%AE%E6%9F%A5%E8%AF%A2%E4%B8%8E%E7%AE%A1%E7%90%86.md)
-- [数据库及实现/笔记/07-索引与视图.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8F%8A%E5%AE%9E%E7%8E%B0/%E7%AC%94%E8%AE%B0/07-%E7%B4%A2%E5%BC%95%E4%B8%8E%E8%A7%86%E5%9B%BE.md)
-- [数据库及实现/笔记/08-存储过程与函数.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8F%8A%E5%AE%9E%E7%8E%B0/%E7%AC%94%E8%AE%B0/08-%E5%AD%98%E5%82%A8%E8%BF%87%E7%A8%8B%E4%B8%8E%E5%87%BD%E6%95%B0.md)
-- [数据库及实现/笔记/09-触发器权限事务并发.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8F%8A%E5%AE%9E%E7%8E%B0/%E7%AC%94%E8%AE%B0/09-%E8%A7%A6%E5%8F%91%E5%99%A8%E6%9D%83%E9%99%90%E4%BA%8B%E5%8A%A1%E5%B9%B6%E5%8F%91.md)
-- [数据库及实现/笔记/10-查询执行.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8F%8A%E5%AE%9E%E7%8E%B0/%E7%AC%94%E8%AE%B0/10-%E6%9F%A5%E8%AF%A2%E6%89%A7%E8%A1%8C.md)
-- [数据库及实现/笔记/11-查询优化.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8F%8A%E5%AE%9E%E7%8E%B0/%E7%AC%94%E8%AE%B0/11-%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96.md)
-- [数据库及实现/笔记/12-分布式与NoSQL数据库.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8F%8A%E5%AE%9E%E7%8E%B0/%E7%AC%94%E8%AE%B0/12-%E5%88%86%E5%B8%83%E5%BC%8F%E4%B8%8ENoSQL%E6%95%B0%E6%8D%AE%E5%BA%93.md)
+**Web 开发 / clb2001/FDU-COMP**
+- [高级web技术/lab1/2023-Lab1说明.pdf](https://github.com/clb2001/FDU-COMP/blob/main/%E9%AB%98%E7%BA%A7web%E6%8A%80%E6%9C%AF/lab1/2023-Lab1%E8%AF%B4%E6%98%8E.pdf)
+- [高级web技术/lab1/AWS Academy Learner Lab - Stud.pdf](https://github.com/clb2001/FDU-COMP/blob/main/%E9%AB%98%E7%BA%A7web%E6%8A%80%E6%9C%AF/lab1/AWS%20Academy%20Learner%20Lab%20-%20Stud.pdf)
+- [高级web技术/lab1/MySQL安装与配置.pdf](https://github.com/clb2001/FDU-COMP/blob/main/%E9%AB%98%E7%BA%A7web%E6%8A%80%E6%9C%AF/lab1/MySQL%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE.pdf)
+- [高级web技术/lab1/lab1部署参考项目-html5&websockets.rar](https://github.com/clb2001/FDU-COMP/blob/main/%E9%AB%98%E7%BA%A7web%E6%8A%80%E6%9C%AF/lab1/lab1%E9%83%A8%E7%BD%B2%E5%8F%82%E8%80%83%E9%A1%B9%E7%9B%AE-html5%26websockets.rar)
+- [高级web技术/lab1/lab1部署参考项目-ssm-demo.rar](https://github.com/clb2001/FDU-COMP/blob/main/%E9%AB%98%E7%BA%A7web%E6%8A%80%E6%9C%AF/lab1/lab1%E9%83%A8%E7%BD%B2%E5%8F%82%E8%80%83%E9%A1%B9%E7%9B%AE-ssm-demo.rar)
+- [高级web技术/lab1/亚马逊云科技Educate 自学平台注册使用向导.pdf](https://github.com/clb2001/FDU-COMP/blob/main/%E9%AB%98%E7%BA%A7web%E6%8A%80%E6%9C%AF/lab1/%E4%BA%9A%E9%A9%AC%E9%80%8A%E4%BA%91%E7%A7%91%E6%8A%80Educate%20%E8%87%AA%E5%AD%A6%E5%B9%B3%E5%8F%B0%E6%B3%A8%E5%86%8C%E4%BD%BF%E7%94%A8%E5%90%91%E5%AF%BC.pdf)
+- [高级web技术/lab1/采用Web3D的联网五子棋.pdf](https://github.com/clb2001/FDU-COMP/blob/main/%E9%AB%98%E7%BA%A7web%E6%8A%80%E6%9C%AF/lab1/%E9%87%87%E7%94%A8Web3D%E7%9A%84%E8%81%94%E7%BD%91%E4%BA%94%E5%AD%90%E6%A3%8B.pdf)
+- [高级web技术/lab2/3D-multi-player-main.zip](https://github.com/clb2001/FDU-COMP/blob/main/%E9%AB%98%E7%BA%A7web%E6%8A%80%E6%9C%AF/lab2/3D-multi-player-main.zip)
+- [高级web技术/lab2/Lab2-主文档.pdf](https://github.com/clb2001/FDU-COMP/blob/main/%E9%AB%98%E7%BA%A7web%E6%8A%80%E6%9C%AF/lab2/Lab2-%E4%B8%BB%E6%96%87%E6%A1%A3.pdf)
+- [高级web技术/lab2/lab2-基础学习文档.pdf](https://github.com/clb2001/FDU-COMP/blob/main/%E9%AB%98%E7%BA%A7web%E6%8A%80%E6%9C%AF/lab2/lab2-%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E6%96%87%E6%A1%A3.pdf)
+- [高级web技术/lab2/lab2-基础学习源码.zip](https://github.com/clb2001/FDU-COMP/blob/main/%E9%AB%98%E7%BA%A7web%E6%8A%80%E6%9C%AF/lab2/lab2-%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E6%BA%90%E7%A0%81.zip)
+- [高级web技术/lab2/node-v18.15.0-linux-x64.tar.xz](https://github.com/clb2001/FDU-COMP/blob/main/%E9%AB%98%E7%BA%A7web%E6%8A%80%E6%9C%AF/lab2/node-v18.15.0-linux-x64.tar.xz)
 - 另有 2 个文件，见 data/collection_files.csv
 
-**数据结构 / hadanice/OpenDS**
-- [算法与数据结构/笔记/01-导论_基本数据结构_复杂度.md](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%94%E8%AE%B0/01-%E5%AF%BC%E8%AE%BA_%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84_%E5%A4%8D%E6%9D%82%E5%BA%A6.md)
-- [算法与数据结构/笔记/02-递归_分治_树_堆.md](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%94%E8%AE%B0/02-%E9%80%92%E5%BD%92_%E5%88%86%E6%B2%BB_%E6%A0%91_%E5%A0%86.md)
-- [算法与数据结构/笔记/03-排序算法与比较下界.md](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%94%E8%AE%B0/03-%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E4%B8%8E%E6%AF%94%E8%BE%83%E4%B8%8B%E7%95%8C.md)
-- [算法与数据结构/笔记/04-选择问题_搜索树_红黑树_跳表.md](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%94%E8%AE%B0/04-%E9%80%89%E6%8B%A9%E9%97%AE%E9%A2%98_%E6%90%9C%E7%B4%A2%E6%A0%91_%E7%BA%A2%E9%BB%91%E6%A0%91_%E8%B7%B3%E8%A1%A8.md)
-- [算法与数据结构/笔记/05-哈希表.md](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%94%E8%AE%B0/05-%E5%93%88%E5%B8%8C%E8%A1%A8.md)
-- [算法与数据结构/笔记/06-动态规划.md](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%94%E8%AE%B0/06-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92.md)
-- [算法与数据结构/笔记/07-贪心算法.md](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%94%E8%AE%B0/07-%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95.md)
-- [算法与数据结构/笔记/08-图基础_最小生成树_BFS.md](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%94%E8%AE%B0/08-%E5%9B%BE%E5%9F%BA%E7%A1%80_%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91_BFS.md)
-- [算法与数据结构/笔记/09-DFS_边分类_拓扑排序.md](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%94%E8%AE%B0/09-DFS_%E8%BE%B9%E5%88%86%E7%B1%BB_%E6%8B%93%E6%89%91%E6%8E%92%E5%BA%8F.md)
-- [算法与数据结构/笔记/10-单源最短路径.md](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%94%E8%AE%B0/10-%E5%8D%95%E6%BA%90%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84.md)
-- [算法与数据结构/笔记/11-全源最短路径.md](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%94%E8%AE%B0/11-%E5%85%A8%E6%BA%90%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84.md)
-- [算法与数据结构/笔记/index.md](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%94%E8%AE%B0/index.md)
-
-**数据结构 / kanzaler123/fdu-course-resources**
-- [数据结构/复习笔记/数据结构总复习.pptx](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%80%BB%E5%A4%8D%E4%B9%A0.pptx)
-
-**数据结构 / michaellu2007/fdu-note-summarized**
-- [数据结构/数据结构-01-绪论-学习笔记.html](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-01-%E7%BB%AA%E8%AE%BA-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html)
-- [数据结构/数据结构-02-递归-递归树-树与堆-学习笔记.html](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-02-%E9%80%92%E5%BD%92-%E9%80%92%E5%BD%92%E6%A0%91-%E6%A0%91%E4%B8%8E%E5%A0%86-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html)
-- [数据结构/数据结构-03-快速排序-排序下界-线性时间排序-学习笔记.html](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-03-%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F-%E6%8E%92%E5%BA%8F%E4%B8%8B%E7%95%8C-%E7%BA%BF%E6%80%A7%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html)
-
-**数据结构 / openFudan/fudan-coursera**
-- [3.专业教育/计算机科学与技术/专业必修/数据结构(C++)/习题/数据结构课程第一章部分习题解答.doc](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%28C%2B%2B%29/%E4%B9%A0%E9%A2%98/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E8%AF%BE%E7%A8%8B%E7%AC%AC%E4%B8%80%E7%AB%A0%E9%83%A8%E5%88%86%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.doc)
-- [3.专业教育/计算机科学与技术/专业必修/数据结构(C++)/习题/数据结构课程第二章部分习题解答.doc](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%28C%2B%2B%29/%E4%B9%A0%E9%A2%98/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E8%AF%BE%E7%A8%8B%E7%AC%AC%E4%BA%8C%E7%AB%A0%E9%83%A8%E5%88%86%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.doc)
-- [3.专业教育/计算机科学与技术/专业必修/数据结构(C++)/笔记.txt](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%28C%2B%2B%29/%E7%AC%94%E8%AE%B0.txt)
-
-**概率论 / hadanice/OpenDS**
-- [概率论基础/笔记/01-事件与概率.md](https://github.com/hadanice/OpenDS/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80/%E7%AC%94%E8%AE%B0/01-%E4%BA%8B%E4%BB%B6%E4%B8%8E%E6%A6%82%E7%8E%87.md)
-- [概率论基础/笔记/02-概率空间与随机变量.md](https://github.com/hadanice/OpenDS/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80/%E7%AC%94%E8%AE%B0/02-%E6%A6%82%E7%8E%87%E7%A9%BA%E9%97%B4%E4%B8%8E%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F.md)
-- [概率论基础/笔记/03-条件概率全概率与独立性.md](https://github.com/hadanice/OpenDS/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80/%E7%AC%94%E8%AE%B0/03-%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E5%85%A8%E6%A6%82%E7%8E%87%E4%B8%8E%E7%8B%AC%E7%AB%8B%E6%80%A7.md)
-- [概率论基础/笔记/04-数学期望方差与不等式.md](https://github.com/hadanice/OpenDS/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80/%E7%AC%94%E8%AE%B0/04-%E6%95%B0%E5%AD%A6%E6%9C%9F%E6%9C%9B%E6%96%B9%E5%B7%AE%E4%B8%8E%E4%B8%8D%E7%AD%89%E5%BC%8F.md)
-- [概率论基础/笔记/05-连续型随机变量与随机向量.md](https://github.com/hadanice/OpenDS/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80/%E7%AC%94%E8%AE%B0/05-%E8%BF%9E%E7%BB%AD%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E4%B8%8E%E9%9A%8F%E6%9C%BA%E5%90%91%E9%87%8F.md)
-- [概率论基础/笔记/06-母函数与特征函数.md](https://github.com/hadanice/OpenDS/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80/%E7%AC%94%E8%AE%B0/06-%E6%AF%8D%E5%87%BD%E6%95%B0%E4%B8%8E%E7%89%B9%E5%BE%81%E5%87%BD%E6%95%B0.md)
-- [概率论基础/笔记/07-极限定理.md](https://github.com/hadanice/OpenDS/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80/%E7%AC%94%E8%AE%B0/07-%E6%9E%81%E9%99%90%E5%AE%9A%E7%90%86.md)
-- [概率论基础/笔记/index.md](https://github.com/hadanice/OpenDS/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80/%E7%AC%94%E8%AE%B0/index.md)
-- [概率论基础/笔记/附录A-常见分布速查表.md](https://github.com/hadanice/OpenDS/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80/%E7%AC%94%E8%AE%B0/%E9%99%84%E5%BD%95A-%E5%B8%B8%E8%A7%81%E5%88%86%E5%B8%83%E9%80%9F%E6%9F%A5%E8%A1%A8.md)
-- [概率论基础/笔记/附录B-题型图谱与作业定位.md](https://github.com/hadanice/OpenDS/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80/%E7%AC%94%E8%AE%B0/%E9%99%84%E5%BD%95B-%E9%A2%98%E5%9E%8B%E5%9B%BE%E8%B0%B1%E4%B8%8E%E4%BD%9C%E4%B8%9A%E5%AE%9A%E4%BD%8D.md)
-
-**概率论 / michaellu2007/fdu-note-summarized**
-- [概率论/概率论笔记-第四章-收敛定理与方差.html](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA/%E6%A6%82%E7%8E%87%E8%AE%BA%E7%AC%94%E8%AE%B0-%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E6%94%B6%E6%95%9B%E5%AE%9A%E7%90%86%E4%B8%8E%E6%96%B9%E5%B7%AE.html)
-- [概率论/概率论笔记-第四章期望.html](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA/%E6%A6%82%E7%8E%87%E8%AE%BA%E7%AC%94%E8%AE%B0-%E7%AC%AC%E5%9B%9B%E7%AB%A0%E6%9C%9F%E6%9C%9B.html)
-
-**概率论 / openFudan/fudan-coursera**
-- [3.专业教育/计算机科学与技术/专业必修/概率论与数理统计/概率论与数理统计(茆诗松)第二版课后习题参考答案.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%28%E8%8C%86%E8%AF%97%E6%9D%BE%29%E7%AC%AC%E4%BA%8C%E7%89%88%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf)
-
-**生物学 / victkk/FDU-Sharing**
-- [public/resources/现代生物科学导论/复习资料、历年题/名词解释/名词解释.doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A.doc)
-- [public/resources/现代生物科学导论/复习资料、历年题/名词解释/名词解释——向阳(小总).doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A%E2%80%94%E2%80%94%E5%90%91%E9%98%B3%28%E5%B0%8F%E6%80%BB%29.doc)
-- [public/resources/现代生物科学导论/复习资料、历年题/名词解释/复旦大学现代生物科学导论名词解释.ppt](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A.ppt)
-- [public/resources/现代生物科学导论/复习资料、历年题/名词解释/复旦生命科学导论名词解释及简答题.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/%E5%A4%8D%E6%97%A6%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A%E5%8F%8A%E7%AE%80%E7%AD%94%E9%A2%98.docx)
-- [public/resources/现代生物科学导论/复习资料、历年题/名词解释/现代生物科学导论名词解释.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A.docx)
-- [public/resources/现代生物科学导论/复习资料、历年题/名词解释/（推荐名解用这个背）现代生物科学导论名词解释.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/%EF%BC%88%E6%8E%A8%E8%8D%90%E5%90%8D%E8%A7%A3%E7%94%A8%E8%BF%99%E4%B8%AA%E8%83%8C%EF%BC%89%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A.docx)
-- [public/resources/现代生物科学导论/复习资料、历年题/名词解释/（长辫子个人比较推荐名解用这个背）现代生物科学导论名词解释.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/%EF%BC%88%E9%95%BF%E8%BE%AB%E5%AD%90%E4%B8%AA%E4%BA%BA%E6%AF%94%E8%BE%83%E6%8E%A8%E8%8D%90%E5%90%8D%E8%A7%A3%E7%94%A8%E8%BF%99%E4%B8%AA%E8%83%8C%EF%BC%89%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A.docx)
-- [public/resources/现代生物科学导论/复习资料、历年题/名词解释/（高频考点）复旦生导名词解释.doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/%EF%BC%88%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9%EF%BC%89%E5%A4%8D%E6%97%A6%E7%94%9F%E5%AF%BC%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A.doc)
-- [public/resources/现代生物科学导论/复习资料、历年题/复旦生命科学导论名词解释及简答题.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E5%A4%8D%E6%97%A6%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A%E5%8F%8A%E7%AE%80%E7%AD%94%E9%A2%98.docx)
-- [public/resources/现代生物科学导论/复习资料、历年题/现代生命科学导论教学大纲（完成版）.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E7%8E%B0%E4%BB%A3%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%E6%95%99%E5%AD%A6%E5%A4%A7%E7%BA%B2%EF%BC%88%E5%AE%8C%E6%88%90%E7%89%88%EF%BC%89.docx)
-- [public/resources/现代生物科学导论/复习资料、历年题/现代生物科学导论大纲.doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%E5%A4%A7%E7%BA%B2.doc)
-- [public/resources/现代生物科学导论/复习资料、历年题/生导.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E7%94%9F%E5%AF%BC.docx)
-- 另有 14 个文件，见 data/collection_files.csv
-
-**离散数学 / openFudan/fudan-coursera**
-- [3.专业教育/计算机科学与技术/专业必修/代数结构与数理逻辑/习题解答/infos.txt](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E4%B8%8E%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/infos.txt)
-- [3.专业教育/计算机科学与技术/专业必修/代数结构与数理逻辑/习题解答/solution_10.jpg](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E4%B8%8E%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/solution_10.jpg)
-- [3.专业教育/计算机科学与技术/专业必修/代数结构与数理逻辑/习题解答/solution_8.jpg](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E4%B8%8E%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/solution_8.jpg)
-- [3.专业教育/计算机科学与技术/专业必修/代数结构与数理逻辑/习题解答/solution_9.jpg](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E4%B8%8E%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/solution_9.jpg)
-- [3.专业教育/计算机科学与技术/专业必修/代数结构与数理逻辑/习题解答/习题答案5.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E4%B8%8E%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%885.pdf)
-- [3.专业教育/计算机科学与技术/专业必修/代数结构与数理逻辑/习题解答/习题解答1.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E4%B8%8E%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%941.pdf)
-- [3.专业教育/计算机科学与技术/专业必修/代数结构与数理逻辑/习题解答/习题解答2.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E4%B8%8E%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%942.pdf)
-- [3.专业教育/计算机科学与技术/专业必修/代数结构与数理逻辑/习题解答/习题解答3.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E4%B8%8E%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%943.pdf)
-- [3.专业教育/计算机科学与技术/专业必修/代数结构与数理逻辑/习题解答/习题解答4.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E4%B8%8E%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%944.pdf)
-- [3.专业教育/计算机科学与技术/专业必修/代数结构与数理逻辑/习题解答/习题解答6.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E4%B8%8E%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%946.pdf)
-- [3.专业教育/计算机科学与技术/专业必修/代数结构与数理逻辑/习题解答/习题解答7.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E4%B8%8E%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%947.pdf)
-- [3.专业教育/计算机科学与技术/专业必修/代数结构与数理逻辑/习题解答/离散-13.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E4%B8%8E%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E7%A6%BB%E6%95%A3-13.pdf)
-- 另有 3 个文件，见 data/collection_files.csv
-
-**程序设计 / openFudan/fudan-coursera**
-- [2.基础教育/计算机科学与技术/程序设计/2015期终复习.ppt](https://github.com/openFudan/fudan-coursera/blob/master/2.%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/2015%E6%9C%9F%E7%BB%88%E5%A4%8D%E4%B9%A0.ppt)
-
-**程序设计 / victkk/FDU-Sharing**
-- [public/resources/python程序设计/Python-2026/【1】课件/mdl课件/13-复习.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Python-2026/%E3%80%901%E3%80%91%E8%AF%BE%E4%BB%B6/mdl%E8%AF%BE%E4%BB%B6/13-%E5%A4%8D%E4%B9%A0.pdf)
-- [public/resources/python程序设计/Python-2026/【2】复习/zxd复习提纲.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Python-2026/%E3%80%902%E3%80%91%E5%A4%8D%E4%B9%A0/zxd%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2.docx)
-- [public/resources/python程序设计/Python-2026/【2】复习/复习.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Python-2026/%E3%80%902%E3%80%91%E5%A4%8D%E4%B9%A0/%E5%A4%8D%E4%B9%A0.docx)
-- [public/resources/python程序设计/Python-2026/【2】复习/复习大纲整理.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Python-2026/%E3%80%902%E3%80%91%E5%A4%8D%E4%B9%A0/%E5%A4%8D%E4%B9%A0%E5%A4%A7%E7%BA%B2%E6%95%B4%E7%90%86.docx)
-- [public/resources/python程序设计/Python-2026/【2】复习/！！复旦Python速通攻略！！.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Python-2026/%E3%80%902%E3%80%91%E5%A4%8D%E4%B9%A0/%EF%BC%81%EF%BC%81%E5%A4%8D%E6%97%A6Python%E9%80%9F%E9%80%9A%E6%94%BB%E7%95%A5%EF%BC%81%EF%BC%81.docx)
-- [public/resources/python程序设计/Python-2026/【4】网上搜刮的资料/Python详细笔记.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Python-2026/%E3%80%904%E3%80%91%E7%BD%91%E4%B8%8A%E6%90%9C%E5%88%AE%E7%9A%84%E8%B5%84%E6%96%99/Python%E8%AF%A6%E7%BB%86%E7%AC%94%E8%AE%B0.pdf)
-- [public/resources/python程序设计/Python-2026/【4】网上搜刮的资料/python复习笔记.md](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Python-2026/%E3%80%904%E3%80%91%E7%BD%91%E4%B8%8A%E6%90%9C%E5%88%AE%E7%9A%84%E8%B5%84%E6%96%99/python%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
-- [public/resources/python程序设计/Python-2026/【4】网上搜刮的资料/python复习笔记.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Python-2026/%E3%80%904%E3%80%91%E7%BD%91%E4%B8%8A%E6%90%9C%E5%88%AE%E7%9A%84%E8%B5%84%E6%96%99/python%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0.pdf)
-
-**算法设计与分析 / openFudan/fudan-coursera**
-- [3.专业教育/计算机科学与技术/专业必修/算法导论/算法导论课后习题与思考题答案合集.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E4%B8%8E%E6%80%9D%E8%80%83%E9%A2%98%E7%AD%94%E6%A1%88%E5%90%88%E9%9B%86.pdf)
-
-**经济学 / kanzaler123/fdu-course-resources**
-- [政治经济学/复习笔记/政治经济学笔记._加水印.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%AC%94%E8%AE%B0._%E5%8A%A0%E6%B0%B4%E5%8D%B0.pdf)
-- [政治经济学/复习笔记/政治经济学笔记._加水印__897914e0.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%AC%94%E8%AE%B0._%E5%8A%A0%E6%B0%B4%E5%8D%B0__897914e0.pdf)
-- [政治经济学/复习笔记/政经背诵提纲..pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0/%E6%94%BF%E7%BB%8F%E8%83%8C%E8%AF%B5%E6%8F%90%E7%BA%B2..pdf)
-
-**经济学 / victkk/FDU-Sharing**
-- [public/resources/微观经济学/《曼昆—微观经济学》_重点总结.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E3%80%8A%E6%9B%BC%E6%98%86%E2%80%94%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E3%80%8B_%E9%87%8D%E7%82%B9%E6%80%BB%E7%BB%93.pdf)
-- [public/resources/微观经济学/平狄克微观经济学课后习题答案(中文).pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E5%B9%B3%E7%8B%84%E5%85%8B%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88%28%E4%B8%AD%E6%96%87%29.pdf)
-- [public/resources/微观经济学/微观经济学基础知识点汇总.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E7%82%B9%E6%B1%87%E6%80%BB.pdf)
-- [public/resources/微观经济学/微观经济学复习笔记(绝对完全!).pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%28%E7%BB%9D%E5%AF%B9%E5%AE%8C%E5%85%A8%21%29.pdf)
-- [public/resources/微观经济学/微观经济学计算公式总结.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E8%AE%A1%E7%AE%97%E5%85%AC%E5%BC%8F%E6%80%BB%E7%BB%93.pdf)
-- [public/resources/政治经济学/wlx/政治经济学复习资料/政治经济学复习资料/政治经济学/政治经济学压题卷.doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6/wlx/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%8E%8B%E9%A2%98%E5%8D%B7.doc)
-- [public/resources/政治经济学/wlx/政治经济学复习资料/政治经济学复习资料/政治经济学/政治经济学打印完整.doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6/wlx/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E6%89%93%E5%8D%B0%E5%AE%8C%E6%95%B4.doc)
-- [public/resources/政治经济学/wlx/政治经济学复习资料/政治经济学复习资料/政治经济学/政治经济学考卷.doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6/wlx/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E8%80%83%E5%8D%B7.doc)
-- [public/resources/政治经济学/wlx/政治经济学复习资料/政治经济学复习资料/政治经济学/政治经济学黑体字.doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6/wlx/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E9%BB%91%E4%BD%93%E5%AD%97.doc)
-- [public/resources/政治经济学/wlx/政治经济学复习资料/政治经济学复习资料/政治经济学/政治经济学（突击版）.doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6/wlx/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88%E7%AA%81%E5%87%BB%E7%89%88%EF%BC%89.doc)
-- [public/resources/政治经济学/wlx/政治经济学复习资料/政治经济学复习资料/政治经济学/政经2013.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6/wlx/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E6%94%BF%E7%BB%8F2013.docx)
-- [public/resources/政治经济学/wlx/政治经济学复习资料/政治经济学复习资料/政治经济学资本主义部分.ppt](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6/wlx/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E9%83%A8%E5%88%86.ppt)
-- 另有 14 个文件，见 data/collection_files.csv
-
-**自然语言处理与大语言模型 / hadanice/OpenDS**
-- [自然语言处理与大语言模型/笔记/01-文本预处理与分词.md](https://github.com/hadanice/OpenDS/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/%E7%AC%94%E8%AE%B0/01-%E6%96%87%E6%9C%AC%E9%A2%84%E5%A4%84%E7%90%86%E4%B8%8E%E5%88%86%E8%AF%8D.md)
-- [自然语言处理与大语言模型/笔记/02-N-gram语言模型.md](https://github.com/hadanice/OpenDS/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/%E7%AC%94%E8%AE%B0/02-N-gram%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md)
-- [自然语言处理与大语言模型/笔记/03-文本分类与词向量.md](https://github.com/hadanice/OpenDS/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/%E7%AC%94%E8%AE%B0/03-%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB%E4%B8%8E%E8%AF%8D%E5%90%91%E9%87%8F.md)
-- [自然语言处理与大语言模型/笔记/04-神经语言模型与序列建模.md](https://github.com/hadanice/OpenDS/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/%E7%AC%94%E8%AE%B0/04-%E7%A5%9E%E7%BB%8F%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E4%B8%8E%E5%BA%8F%E5%88%97%E5%BB%BA%E6%A8%A1.md)
-- [自然语言处理与大语言模型/笔记/05-注意力与Transformer.md](https://github.com/hadanice/OpenDS/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/%E7%AC%94%E8%AE%B0/05-%E6%B3%A8%E6%84%8F%E5%8A%9B%E4%B8%8ETransformer.md)
-- [自然语言处理与大语言模型/笔记/06-预训练LLM与生成.md](https://github.com/hadanice/OpenDS/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/%E7%AC%94%E8%AE%B0/06-%E9%A2%84%E8%AE%AD%E7%BB%83LLM%E4%B8%8E%E7%94%9F%E6%88%90.md)
-- [自然语言处理与大语言模型/笔记/07-BERT与评测基准.md](https://github.com/hadanice/OpenDS/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/%E7%AC%94%E8%AE%B0/07-BERT%E4%B8%8E%E8%AF%84%E6%B5%8B%E5%9F%BA%E5%87%86.md)
-- [自然语言处理与大语言模型/笔记/08-SFT奖励模型与PPO.md](https://github.com/hadanice/OpenDS/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/%E7%AC%94%E8%AE%B0/08-SFT%E5%A5%96%E5%8A%B1%E6%A8%A1%E5%9E%8B%E4%B8%8EPPO.md)
-- [自然语言处理与大语言模型/笔记/09-GRPO与推理强化学习.md](https://github.com/hadanice/OpenDS/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/%E7%AC%94%E8%AE%B0/09-GRPO%E4%B8%8E%E6%8E%A8%E7%90%86%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md)
-- [自然语言处理与大语言模型/笔记/10-RAG检索增强生成.md](https://github.com/hadanice/OpenDS/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/%E7%AC%94%E8%AE%B0/10-RAG%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA%E7%94%9F%E6%88%90.md)
-- [自然语言处理与大语言模型/笔记/11-扩散语言模型.md](https://github.com/hadanice/OpenDS/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/%E7%AC%94%E8%AE%B0/11-%E6%89%A9%E6%95%A3%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md)
-- [自然语言处理与大语言模型/笔记/12-大语言模型智能体.md](https://github.com/hadanice/OpenDS/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/%E7%AC%94%E8%AE%B0/12-%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%99%BA%E8%83%BD%E4%BD%93.md)
-- 另有 1 个文件，见 data/collection_files.csv
-
-**计算机网络 / flyingc2004/fdu-cs-grade3**
-- [Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/notes/chapter1-Computer Networks and the Internet/1.1_What is the Internet.pptx](https://github.com/flyingc2004/fdu-cs-grade3/blob/computer-network/Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/notes/chapter1-Computer%20Networks%20and%20the%20Internet/1.1_What%20is%20the%20Internet.pptx)
-- [Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/notes/chapter1-Computer Networks and the Internet/1.2_Internet edge.pptx](https://github.com/flyingc2004/fdu-cs-grade3/blob/computer-network/Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/notes/chapter1-Computer%20Networks%20and%20the%20Internet/1.2_Internet%20edge.pptx)
-- [Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/notes/chapter1-Computer Networks and the Internet/1.3_Network Core.pptx](https://github.com/flyingc2004/fdu-cs-grade3/blob/computer-network/Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/notes/chapter1-Computer%20Networks%20and%20the%20Internet/1.3_Network%20Core.pptx)
-- [Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/notes/chapter1-Computer Networks and the Internet/1.4_Performance.pptx](https://github.com/flyingc2004/fdu-cs-grade3/blob/computer-network/Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/notes/chapter1-Computer%20Networks%20and%20the%20Internet/1.4_Performance.pptx)
-- [Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/notes/chapter1-Computer Networks and the Internet/1.5_Protocol layers.pptx](https://github.com/flyingc2004/fdu-cs-grade3/blob/computer-network/Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/notes/chapter1-Computer%20Networks%20and%20the%20Internet/1.5_Protocol%20layers.pptx)
-- [Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/notes/chapter1-Computer Networks and the Internet/1.6_Network Security.pptx](https://github.com/flyingc2004/fdu-cs-grade3/blob/computer-network/Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/notes/chapter1-Computer%20Networks%20and%20the%20Internet/1.6_Network%20Security.pptx)
-- [Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/notes/chapter1-Computer Networks and the Internet/1.7_History.pptx](https://github.com/flyingc2004/fdu-cs-grade3/blob/computer-network/Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/notes/chapter1-Computer%20Networks%20and%20the%20Internet/1.7_History.pptx)
-- [Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/notes/chapter2-Application Layer/2.1_Principles.pptx](https://github.com/flyingc2004/fdu-cs-grade3/blob/computer-network/Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/notes/chapter2-Application%20Layer/2.1_Principles.pptx)
-- [Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/notes/chapter2-Application Layer/2.2_Web and HTTP.pptx](https://github.com/flyingc2004/fdu-cs-grade3/blob/computer-network/Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/notes/chapter2-Application%20Layer/2.2_Web%20and%20HTTP.pptx)
-- [Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/notes/chapter2-Application Layer/2.3_Email.pptx](https://github.com/flyingc2004/fdu-cs-grade3/blob/computer-network/Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/notes/chapter2-Application%20Layer/2.3_Email.pptx)
-- [Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/notes/chapter2-Application Layer/2.4_DNS.pptx](https://github.com/flyingc2004/fdu-cs-grade3/blob/computer-network/Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/notes/chapter2-Application%20Layer/2.4_DNS.pptx)
-- [Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/notes/chapter2-Application Layer/2.6_Video Streaming.pptx](https://github.com/flyingc2004/fdu-cs-grade3/blob/computer-network/Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/notes/chapter2-Application%20Layer/2.6_Video%20Streaming.pptx)
-- 另有 25 个文件，见 data/collection_files.csv
-
-**计算机网络 / openFudan/fudan-coursera**
-- [3.专业教育/计算机科学与技术/专业必修/计算机网络/复习2017.pptx](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%A4%8D%E4%B9%A02017.pptx)
-
-**计算理论基础 / michaellu2007/fdu-note-summarized**
-- [计算理论/notes/t02_p1.md](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA/notes/t02_p1.md)
-- [计算理论/notes/t02_p2.md](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA/notes/t02_p2.md)
-- [计算理论/notes/t02_p3.md](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA/notes/t02_p3.md)
-- [计算理论/notes/t02_p4.md](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA/notes/t02_p4.md)
-- [计算理论/notes/t03_p1.md](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA/notes/t03_p1.md)
-- [计算理论/notes/t03_p2.md](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA/notes/t03_p2.md)
-- [计算理论/notes/t03_p3.md](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA/notes/t03_p3.md)
-- [计算理论/notes/t03_p4.md](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA/notes/t03_p4.md)
-- [计算理论/notes/t04_p1.md](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA/notes/t04_p1.md)
-- [计算理论/notes/t04_p2.md](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA/notes/t04_p2.md)
-- [计算理论/notes/t04_p3.md](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA/notes/t04_p3.md)
-- [计算理论/notes/t04_p4.md](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA/notes/t04_p4.md)
+**Web 开发 / rapidhere/fdu-pjs**
+- [web/Project 1/readme/2015-04-14-重要说明.pdf](https://github.com/rapidhere/fdu-pjs/blob/master/web/Project%201/readme/2015-04-14-%E9%87%8D%E8%A6%81%E8%AF%B4%E6%98%8E.pdf)
+- [web/Project 1/readme/Project1说明.pdf](https://github.com/rapidhere/fdu-pjs/blob/master/web/Project%201/readme/Project1%E8%AF%B4%E6%98%8E.pdf)
+- [web/Project 1/readme/Project1需求文档.pdf](https://github.com/rapidhere/fdu-pjs/blob/master/web/Project%201/readme/Project1%E9%9C%80%E6%B1%82%E6%96%87%E6%A1%A3.pdf)
+- [web/Project 1/readme/Web应用基础TA分组表.xlsx](https://github.com/rapidhere/fdu-pjs/blob/master/web/Project%201/readme/Web%E5%BA%94%E7%94%A8%E5%9F%BA%E7%A1%80TA%E5%88%86%E7%BB%84%E8%A1%A8.xlsx)
+- [web/Project 1/readme/示例页面截图/readme.txt](https://github.com/rapidhere/fdu-pjs/blob/master/web/Project%201/readme/%E7%A4%BA%E4%BE%8B%E9%A1%B5%E9%9D%A2%E6%88%AA%E5%9B%BE/readme.txt)
+- [web/Project 1/src/scripts/options.json](https://github.com/rapidhere/fdu-pjs/blob/master/web/Project%201/src/scripts/options.json)
+- [web/Project 1/src/static/fonts/FontAwesome.otf](https://github.com/rapidhere/fdu-pjs/blob/master/web/Project%201/src/static/fonts/FontAwesome.otf)
+- [web/Project 1/src/static/fonts/fontawesome-webfont.eot](https://github.com/rapidhere/fdu-pjs/blob/master/web/Project%201/src/static/fonts/fontawesome-webfont.eot)
+- [web/Project 1/src/static/fonts/fontawesome-webfont.ttf](https://github.com/rapidhere/fdu-pjs/blob/master/web/Project%201/src/static/fonts/fontawesome-webfont.ttf)
+- [web/Project 1/src/static/fonts/fontawesome-webfont.woff](https://github.com/rapidhere/fdu-pjs/blob/master/web/Project%201/src/static/fonts/fontawesome-webfont.woff)
+- [web/Project 1/src/static/fonts/fontawesome-webfont.woff2](https://github.com/rapidhere/fdu-pjs/blob/master/web/Project%201/src/static/fonts/fontawesome-webfont.woff2)
+- [web/Project 1/src/template/jade/framework.jade](https://github.com/rapidhere/fdu-pjs/blob/master/web/Project%201/src/template/jade/framework.jade)
 - 另有 4 个文件，见 data/collection_files.csv
 
-**高等代数 / Su-Zi-Zhan/FDU-SDS-Lecture-Notes**
-- [MATH10003.01-高等线性代数/Notes/Lecture 1.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Notes/Lecture%201.pdf)
-- [MATH10003.01-高等线性代数/Notes/Lecture 10.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Notes/Lecture%2010.pdf)
-- [MATH10003.01-高等线性代数/Notes/Lecture 11.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Notes/Lecture%2011.pdf)
-- [MATH10003.01-高等线性代数/Notes/Lecture 12.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Notes/Lecture%2012.pdf)
-- [MATH10003.01-高等线性代数/Notes/Lecture 13.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Notes/Lecture%2013.pdf)
-- [MATH10003.01-高等线性代数/Notes/Lecture 14.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Notes/Lecture%2014.pdf)
-- [MATH10003.01-高等线性代数/Notes/Lecture 2.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Notes/Lecture%202.pdf)
-- [MATH10003.01-高等线性代数/Notes/Lecture 3.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Notes/Lecture%203.pdf)
-- [MATH10003.01-高等线性代数/Notes/Lecture 4.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Notes/Lecture%204.pdf)
-- [MATH10003.01-高等线性代数/Notes/Lecture 5.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Notes/Lecture%205.pdf)
-- [MATH10003.01-高等线性代数/Notes/Lecture 6.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Notes/Lecture%206.pdf)
-- [MATH10003.01-高等线性代数/Notes/Lecture 7.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Notes/Lecture%207.pdf)
-- 另有 2 个文件，见 data/collection_files.csv
+**《法哲学原理》导读 / victkk/FDU-Sharing**
+- [public/resources/《法哲学原理》导读/PPT/《法哲学原理》序言（1）.pptx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E3%80%8A%E6%B3%95%E5%93%B2%E5%AD%A6%E5%8E%9F%E7%90%86%E3%80%8B%E5%AF%BC%E8%AF%BB/PPT/%E3%80%8A%E6%B3%95%E5%93%B2%E5%AD%A6%E5%8E%9F%E7%90%86%E3%80%8B%E5%BA%8F%E8%A8%80%EF%BC%881%EF%BC%89.pptx)
+- [public/resources/《法哲学原理》导读/PPT/国家篇（1）.pptx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E3%80%8A%E6%B3%95%E5%93%B2%E5%AD%A6%E5%8E%9F%E7%90%86%E3%80%8B%E5%AF%BC%E8%AF%BB/PPT/%E5%9B%BD%E5%AE%B6%E7%AF%87%EF%BC%881%EF%BC%89.pptx)
+- [public/resources/《法哲学原理》导读/PPT/国家篇（2）.pptx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E3%80%8A%E6%B3%95%E5%93%B2%E5%AD%A6%E5%8E%9F%E7%90%86%E3%80%8B%E5%AF%BC%E8%AF%BB/PPT/%E5%9B%BD%E5%AE%B6%E7%AF%87%EF%BC%882%EF%BC%89.pptx)
+- [public/resources/《法哲学原理》导读/PPT/国家篇（3）.pptx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E3%80%8A%E6%B3%95%E5%93%B2%E5%AD%A6%E5%8E%9F%E7%90%86%E3%80%8B%E5%AF%BC%E8%AF%BB/PPT/%E5%9B%BD%E5%AE%B6%E7%AF%87%EF%BC%883%EF%BC%89.pptx)
+- [public/resources/《法哲学原理》导读/PPT/家庭篇.pptx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E3%80%8A%E6%B3%95%E5%93%B2%E5%AD%A6%E5%8E%9F%E7%90%86%E3%80%8B%E5%AF%BC%E8%AF%BB/PPT/%E5%AE%B6%E5%BA%AD%E7%AF%87.pptx)
+- [public/resources/《法哲学原理》导读/PPT/导言2：如何成就自由？ (1).pptx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E3%80%8A%E6%B3%95%E5%93%B2%E5%AD%A6%E5%8E%9F%E7%90%86%E3%80%8B%E5%AF%BC%E8%AF%BB/PPT/%E5%AF%BC%E8%A8%802%EF%BC%9A%E5%A6%82%E4%BD%95%E6%88%90%E5%B0%B1%E8%87%AA%E7%94%B1%EF%BC%9F%20%281%29.pptx)
+- [public/resources/《法哲学原理》导读/PPT/导论（1）.pptx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E3%80%8A%E6%B3%95%E5%93%B2%E5%AD%A6%E5%8E%9F%E7%90%86%E3%80%8B%E5%AF%BC%E8%AF%BB/PPT/%E5%AF%BC%E8%AE%BA%EF%BC%881%EF%BC%89.pptx)
+- [public/resources/《法哲学原理》导读/PPT/市民社会.pptx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E3%80%8A%E6%B3%95%E5%93%B2%E5%AD%A6%E5%8E%9F%E7%90%86%E3%80%8B%E5%AF%BC%E8%AF%BB/PPT/%E5%B8%82%E6%B0%91%E7%A4%BE%E4%BC%9A.pptx)
+- [public/resources/《法哲学原理》导读/PPT/抽象法(2)：契约与不法 (1).pptx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E3%80%8A%E6%B3%95%E5%93%B2%E5%AD%A6%E5%8E%9F%E7%90%86%E3%80%8B%E5%AF%BC%E8%AF%BB/PPT/%E6%8A%BD%E8%B1%A1%E6%B3%95%282%29%EF%BC%9A%E5%A5%91%E7%BA%A6%E4%B8%8E%E4%B8%8D%E6%B3%95%20%281%29.pptx)
+- [public/resources/《法哲学原理》导读/PPT/抽象法（1） (1).pptx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E3%80%8A%E6%B3%95%E5%93%B2%E5%AD%A6%E5%8E%9F%E7%90%86%E3%80%8B%E5%AF%BC%E8%AF%BB/PPT/%E6%8A%BD%E8%B1%A1%E6%B3%95%EF%BC%881%EF%BC%89%20%281%29.pptx)
+- [public/resources/《法哲学原理》导读/PPT/第一讲：黑格尔与《法哲学原理》 (2).pptx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E3%80%8A%E6%B3%95%E5%93%B2%E5%AD%A6%E5%8E%9F%E7%90%86%E3%80%8B%E5%AF%BC%E8%AF%BB/PPT/%E7%AC%AC%E4%B8%80%E8%AE%B2%EF%BC%9A%E9%BB%91%E6%A0%BC%E5%B0%94%E4%B8%8E%E3%80%8A%E6%B3%95%E5%93%B2%E5%AD%A6%E5%8E%9F%E7%90%86%E3%80%8B%20%282%29.pptx)
+- [public/resources/《法哲学原理》导读/PPT/道德（1）.pptx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E3%80%8A%E6%B3%95%E5%93%B2%E5%AD%A6%E5%8E%9F%E7%90%86%E3%80%8B%E5%AF%BC%E8%AF%BB/PPT/%E9%81%93%E5%BE%B7%EF%BC%881%EF%BC%89.pptx)
+- 另有 6 个文件，见 data/collection_files.csv
 
-**高等代数 / hadanice/OpenDS**
-- [高等线性代数/LineAlge笔记.pdf](https://github.com/hadanice/OpenDS/blob/main/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/LineAlge%E7%AC%94%E8%AE%B0.pdf)
-- [高等线性代数/笔记/01-复数与复分析.md](https://github.com/hadanice/OpenDS/blob/main/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%AC%94%E8%AE%B0/01-%E5%A4%8D%E6%95%B0%E4%B8%8E%E5%A4%8D%E5%88%86%E6%9E%90.md)
-- [高等线性代数/笔记/02-矩阵运算与矩阵微积分.md](https://github.com/hadanice/OpenDS/blob/main/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%AC%94%E8%AE%B0/02-%E7%9F%A9%E9%98%B5%E8%BF%90%E7%AE%97%E4%B8%8E%E7%9F%A9%E9%98%B5%E5%BE%AE%E7%A7%AF%E5%88%86.md)
-- [高等线性代数/笔记/03-向量范数与矩阵范数.md](https://github.com/hadanice/OpenDS/blob/main/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%AC%94%E8%AE%B0/03-%E5%90%91%E9%87%8F%E8%8C%83%E6%95%B0%E4%B8%8E%E7%9F%A9%E9%98%B5%E8%8C%83%E6%95%B0.md)
-- [高等线性代数/笔记/04-向量空间与线性映射.md](https://github.com/hadanice/OpenDS/blob/main/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%AC%94%E8%AE%B0/04-%E5%90%91%E9%87%8F%E7%A9%BA%E9%97%B4%E4%B8%8E%E7%BA%BF%E6%80%A7%E6%98%A0%E5%B0%84.md)
-- [高等线性代数/笔记/05-二次型与正定矩阵.md](https://github.com/hadanice/OpenDS/blob/main/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%AC%94%E8%AE%B0/05-%E4%BA%8C%E6%AC%A1%E5%9E%8B%E4%B8%8E%E6%AD%A3%E5%AE%9A%E7%9F%A9%E9%98%B5.md)
-- [高等线性代数/笔记/06-特征值与Jordan标准形.md](https://github.com/hadanice/OpenDS/blob/main/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%AC%94%E8%AE%B0/06-%E7%89%B9%E5%BE%81%E5%80%BC%E4%B8%8EJordan%E6%A0%87%E5%87%86%E5%BD%A2.md)
-- [高等线性代数/笔记/07-内积空间与QR分解.md](https://github.com/hadanice/OpenDS/blob/main/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%AC%94%E8%AE%B0/07-%E5%86%85%E7%A7%AF%E7%A9%BA%E9%97%B4%E4%B8%8EQR%E5%88%86%E8%A7%A3.md)
-- [高等线性代数/笔记/08-奇异值分解与广义逆.md](https://github.com/hadanice/OpenDS/blob/main/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%AC%94%E8%AE%B0/08-%E5%A5%87%E5%BC%82%E5%80%BC%E5%88%86%E8%A7%A3%E4%B8%8E%E5%B9%BF%E4%B9%89%E9%80%86.md)
-- [高等线性代数/笔记/09-变分原理与矩阵扰动.md](https://github.com/hadanice/OpenDS/blob/main/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%AC%94%E8%AE%B0/09-%E5%8F%98%E5%88%86%E5%8E%9F%E7%90%86%E4%B8%8E%E7%9F%A9%E9%98%B5%E6%89%B0%E5%8A%A8.md)
-- [高等线性代数/笔记/10-仿射几何与行列式.md](https://github.com/hadanice/OpenDS/blob/main/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%AC%94%E8%AE%B0/10-%E4%BB%BF%E5%B0%84%E5%87%A0%E4%BD%95%E4%B8%8E%E8%A1%8C%E5%88%97%E5%BC%8F.md)
-- [高等线性代数/笔记/11-矩阵函数.md](https://github.com/hadanice/OpenDS/blob/main/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%AC%94%E8%AE%B0/11-%E7%9F%A9%E9%98%B5%E5%87%BD%E6%95%B0.md)
-- 另有 3 个文件，见 data/collection_files.csv
+**中国音乐史 / victkk/FDU-Sharing**
+- [public/resources/中国音乐史/中国音乐史总复习.pptx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%8F%B2%E6%80%BB%E5%A4%8D%E4%B9%A0.pptx)
 
-**高等数学 / kanzaler123/fdu-course-resources**
-- [高等数学/习题/10.13习题课 2.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E4%B9%A0%E9%A2%98/10.13%E4%B9%A0%E9%A2%98%E8%AF%BE%202.pdf)
-- [高等数学/习题/10.13习题课.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E4%B9%A0%E9%A2%98/10.13%E4%B9%A0%E9%A2%98%E8%AF%BE.pdf)
+**中外大学校园文化对比研究 / openFudan/fudan-coursera**
+- [1.通识教育/大学英语/中外大学校园文化对比研究/10campus violence/PH_campus+culture10_campus+violence_+Shooter_s+rage+at+women+too+familiar+in+America+from+CNN.pdf](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E4%B8%AD%E5%A4%96%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%9B%AD%E6%96%87%E5%8C%96%E5%AF%B9%E6%AF%94%E7%A0%94%E7%A9%B6/10campus%20violence/PH_campus%2Bculture10_campus%2Bviolence_%2BShooter_s%2Brage%2Bat%2Bwomen%2Btoo%2Bfamiliar%2Bin%2BAmerica%2Bfrom%2BCNN.pdf)
+- [1.通识教育/大学英语/中外大学校园文化对比研究/10campus violence/PH_campus+culture10_campus+violence_rape+from+CNN.pdf](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E4%B8%AD%E5%A4%96%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%9B%AD%E6%96%87%E5%8C%96%E5%AF%B9%E6%AF%94%E7%A0%94%E7%A9%B6/10campus%20violence/PH_campus%2Bculture10_campus%2Bviolence_rape%2Bfrom%2BCNN.pdf)
+- [1.通识教育/大学英语/中外大学校园文化对比研究/10campus violence/PH_campus+culture10_campus+violence_suicide+waver.pdf](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E4%B8%AD%E5%A4%96%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%9B%AD%E6%96%87%E5%8C%96%E5%AF%B9%E6%AF%94%E7%A0%94%E7%A9%B6/10campus%20violence/PH_campus%2Bculture10_campus%2Bviolence_suicide%2Bwaver.pdf)
+- [1.通识教育/大学英语/中外大学校园文化对比研究/10campus violence/PH_campus+culture10_campus+violence_virginia+massacre+from+BBC.pdf](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E4%B8%AD%E5%A4%96%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%9B%AD%E6%96%87%E5%8C%96%E5%AF%B9%E6%AF%94%E7%A0%94%E7%A9%B6/10campus%20violence/PH_campus%2Bculture10_campus%2Bviolence_virginia%2Bmassacre%2Bfrom%2BBBC.pdf)
+- [1.通识教育/大学英语/中外大学校园文化对比研究/10campus violence/PH_campus+culture10_violence_US+University+Seeks+Answers+to+Motive+for+Murder+of+Five+Students.pdf](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E4%B8%AD%E5%A4%96%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%9B%AD%E6%96%87%E5%8C%96%E5%AF%B9%E6%AF%94%E7%A0%94%E7%A9%B6/10campus%20violence/PH_campus%2Bculture10_violence_US%2BUniversity%2BSeeks%2BAnswers%2Bto%2BMotive%2Bfor%2BMurder%2Bof%2BFive%2BStudents.pdf)
+- [1.通识教育/大学英语/中外大学校园文化对比研究/10campus violence/PH_campus+culture10_violence_US+University+shooting+cases.pdf](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E4%B8%AD%E5%A4%96%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%9B%AD%E6%96%87%E5%8C%96%E5%AF%B9%E6%AF%94%E7%A0%94%E7%A9%B6/10campus%20violence/PH_campus%2Bculture10_violence_US%2BUniversity%2Bshooting%2Bcases.pdf)
+- [1.通识教育/大学英语/中外大学校园文化对比研究/10campus violence/PH_campus+culture10_violence_World+Leaders+Express+Condolences+for+Victims+of+US+University+Massacre.pdf](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E4%B8%AD%E5%A4%96%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%9B%AD%E6%96%87%E5%8C%96%E5%AF%B9%E6%AF%94%E7%A0%94%E7%A9%B6/10campus%20violence/PH_campus%2Bculture10_violence_World%2BLeaders%2BExpress%2BCondolences%2Bfor%2BVictims%2Bof%2BUS%2BUniversity%2BMassacre.pdf)
+- [1.通识教育/大学英语/中外大学校园文化对比研究/10campus violence/PH_campus+culture10_violence_colorador+gunfire.pdf](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E4%B8%AD%E5%A4%96%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%9B%AD%E6%96%87%E5%8C%96%E5%AF%B9%E6%AF%94%E7%A0%94%E7%A9%B6/10campus%20violence/PH_campus%2Bculture10_violence_colorador%2Bgunfire.pdf)
+- [1.通识教育/大学英语/中外大学校园文化对比研究/10campus violence/PH_campus+culture10_violence_hazing+From+New+York+Times2012.pdf](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E4%B8%AD%E5%A4%96%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%9B%AD%E6%96%87%E5%8C%96%E5%AF%B9%E6%AF%94%E7%A0%94%E7%A9%B6/10campus%20violence/PH_campus%2Bculture10_violence_hazing%2BFrom%2BNew%2BYork%2BTimes2012.pdf)
+- [1.通识教育/大学英语/中外大学校园文化对比研究/10campus violence/PH_campus+culture10_violence_hazing+from+Guardian2012.pdf](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E4%B8%AD%E5%A4%96%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%9B%AD%E6%96%87%E5%8C%96%E5%AF%B9%E6%AF%94%E7%A0%94%E7%A9%B6/10campus%20violence/PH_campus%2Bculture10_violence_hazing%2Bfrom%2BGuardian2012.pdf)
+- [1.通识教育/大学英语/中外大学校园文化对比研究/10campus violence/PH_campus+culture10_violence_mourning+and+mulling.pdf](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E4%B8%AD%E5%A4%96%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%9B%AD%E6%96%87%E5%8C%96%E5%AF%B9%E6%AF%94%E7%A0%94%E7%A9%B6/10campus%20violence/PH_campus%2Bculture10_violence_mourning%2Band%2Bmulling.pdf)
+- [1.通识教育/大学英语/中外大学校园文化对比研究/10campus violence/PH_campus+culture10_violence_understanding+and+preventing+campus+violence_chap4.pdf](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E4%B8%AD%E5%A4%96%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%9B%AD%E6%96%87%E5%8C%96%E5%AF%B9%E6%AF%94%E7%A0%94%E7%A9%B6/10campus%20violence/PH_campus%2Bculture10_violence_understanding%2Band%2Bpreventing%2Bcampus%2Bviolence_chap4.pdf)
+- 另有 97 个文件，见 data/collection_files.csv
 
-**高等数学 / victkk/FDU-Sharing**
-- [public/resources/高等数学B（下）/高等数学B（下）/高数下笔记.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6B%EF%BC%88%E4%B8%8B%EF%BC%89/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6B%EF%BC%88%E4%B8%8B%EF%BC%89/%E9%AB%98%E6%95%B0%E4%B8%8B%E7%AC%94%E8%AE%B0.pdf)
-- [public/resources/高等数学B（下）/高等数学B（下）/高数复习.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6B%EF%BC%88%E4%B8%8B%EF%BC%89/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6B%EF%BC%88%E4%B8%8B%EF%BC%89/%E9%AB%98%E6%95%B0%E5%A4%8D%E4%B9%A0.pdf)
+**中外建筑 / kanzaler123/fdu-course-resources**
+- [中外建筑/参考资料/传统园林的现代转译.docx](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%B8%AD%E5%A4%96%E5%BB%BA%E7%AD%91/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/%E4%BC%A0%E7%BB%9F%E5%9B%AD%E6%9E%97%E7%9A%84%E7%8E%B0%E4%BB%A3%E8%BD%AC%E8%AF%91.docx)
+- [中外建筑/参考资料/教学大纲 - 详情.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%B8%AD%E5%A4%96%E5%BB%BA%E7%AD%91/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/%E6%95%99%E5%AD%A6%E5%A4%A7%E7%BA%B2%20-%20%E8%AF%A6%E6%83%85.pdf)
 
-</details>
+**中外音乐审美 / victkk/FDU-Sharing**
+- [public/resources/中外音乐审美/考试听辩题材料.zip](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%B8%AD%E5%A4%96%E9%9F%B3%E4%B9%90%E5%AE%A1%E7%BE%8E/%E8%80%83%E8%AF%95%E5%90%AC%E8%BE%A9%E9%A2%98%E6%9D%90%E6%96%99.zip)
+- [public/resources/中外音乐审美/课堂ppt.zip](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%B8%AD%E5%A4%96%E9%9F%B3%E4%B9%90%E5%AE%A1%E7%BE%8E/%E8%AF%BE%E5%A0%82ppt.zip)
+- [public/resources/中外音乐审美/课堂笔记.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%B8%AD%E5%A4%96%E9%9F%B3%E4%B9%90%E5%AE%A1%E7%BE%8E/%E8%AF%BE%E5%A0%82%E7%AC%94%E8%AE%B0.docx)
+- [public/resources/中外音乐审美/音乐审美文字-1.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%B8%AD%E5%A4%96%E9%9F%B3%E4%B9%90%E5%AE%A1%E7%BE%8E/%E9%9F%B3%E4%B9%90%E5%AE%A1%E7%BE%8E%E6%96%87%E5%AD%97-1.docx)
 
-## 课程材料（3210 个文件 / 3210 个链接）
-
-| 课程 | 合集 | 文件数 | 文件链接 |
-| --- | --- | ---: | ---: |
-| [人工智能](courses/人工智能.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 5 | 5 |
-| [人工智能](courses/人工智能.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 1 |
-| [人工智能](courses/人工智能.md) | [NinaZ65/notes-for-courses](https://github.com/NinaZ65/notes-for-courses) | 5 | 5 |
-| [人工智能](courses/人工智能.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 12 | 12 |
-| [人工智能](courses/人工智能.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 5 | 5 |
-| [人工智能](courses/人工智能.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 3 | 3 |
-| [人机交互](courses/人机交互.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 10 | 10 |
-| [优化方法](courses/优化方法.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 1 |
-| [优化方法](courses/优化方法.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 2 | 2 |
-| [优化方法](courses/优化方法.md) | [Su-Zi-Zhan/FDU-SDS-Lecture-Notes](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes) | 6 | 6 |
-| [优化方法](courses/优化方法.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 12 | 12 |
-| [回归分析](courses/回归分析.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 2 | 2 |
-| [回归分析](courses/回归分析.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 19 | 19 |
-| [因果推断](courses/因果推断.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 1 |
-| [图像处理与可视化](courses/图像处理与可视化.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 12 | 12 |
-| [图像处理与可视化](courses/图像处理与可视化.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 8 | 8 |
-| [多模态](courses/多模态.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 1 | 1 |
-| [大学物理](courses/大学物理.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 38 | 38 |
-| [大学物理](courses/大学物理.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 3 | 3 |
-| [大学物理](courses/大学物理.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 14 | 14 |
-| [大数据技术](courses/大数据技术.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 1 |
-| [大数据技术](courses/大数据技术.md) | [NinaZ65/notes-for-courses](https://github.com/NinaZ65/notes-for-courses) | 30 | 30 |
-| [思政](courses/思政.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 4 | 4 |
-| [思政](courses/思政.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 5 | 5 |
-| [思政](courses/思政.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 27 | 27 |
-| [操作系统](courses/操作系统.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 20 | 20 |
-| [操作系统](courses/操作系统.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 33 | 33 |
-| [操作系统](courses/操作系统.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 36 | 36 |
-| [数值算法](courses/数值算法.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 4 | 4 |
-| [数值算法](courses/数值算法.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 59 | 59 |
-| [数值算法](courses/数值算法.md) | [Su-Zi-Zhan/FDU-SDS-Lecture-Notes](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes) | 7 | 7 |
-| [数值算法](courses/数值算法.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 46 | 46 |
-| [数值算法](courses/数值算法.md) | [michaellu2007/fdu-note-summarized](https://github.com/michaellu2007/fdu-note-summarized) | 20 | 20 |
-| [数字信号处理](courses/数字信号处理.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 1 |
-| [数字逻辑与部件设计](courses/数字逻辑与部件设计.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 785 | 785 |
-| [数字逻辑与部件设计](courses/数字逻辑与部件设计.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 1 |
-| [数学分析](courses/数学分析.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 25 | 25 |
-| [数据可视化](courses/数据可视化.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 1 |
-| [数据库及实现](courses/数据库及实现.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 1 |
-| [数据库系统引论](courses/数据库系统引论.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 6 | 6 |
-| [数据库系统引论](courses/数据库系统引论.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 14 | 14 |
-| [数据库系统引论](courses/数据库系统引论.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 62 | 62 |
-| [数据结构](courses/数据结构.md) | [BeneneeYu/Course-Project](https://github.com/BeneneeYu/Course-Project) | 6 | 6 |
-| [数据结构](courses/数据结构.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 3 | 3 |
-| [数据结构](courses/数据结构.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 13 | 13 |
-| [数据结构](courses/数据结构.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 22 | 22 |
-| [数据结构](courses/数据结构.md) | [michaellu2007/fdu-note-summarized](https://github.com/michaellu2007/fdu-note-summarized) | 20 | 20 |
-| [数据结构](courses/数据结构.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 47 | 47 |
-| [数据结构](courses/数据结构.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 6 | 6 |
-| [机器人学](courses/机器人学.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 45 | 45 |
-| [机器学习](courses/机器学习.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 53 | 53 |
-| [机器学习](courses/机器学习.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 9 | 9 |
-| [概率论](courses/概率论.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 14 | 14 |
-| [概率论](courses/概率论.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 1 |
-| [概率论](courses/概率论.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 12 | 12 |
-| [概率论](courses/概率论.md) | [michaellu2007/fdu-note-summarized](https://github.com/michaellu2007/fdu-note-summarized) | 20 | 20 |
-| [概率论](courses/概率论.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 1 |
-| [模式识别与机器学习](courses/模式识别与机器学习.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 42 | 42 |
-| [游戏设计与开发](courses/游戏设计与开发.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 2 | 2 |
-| [生物学](courses/生物学.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 5 | 5 |
-| [电路](courses/电路.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 23 | 23 |
-| [社会网络挖掘](courses/社会网络挖掘.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 1 |
-| [神经网络与深度学习](courses/神经网络与深度学习.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 6 | 6 |
-| [离散数学](courses/离散数学.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 76 | 76 |
-| [离散数学](courses/离散数学.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 5 | 5 |
-| [程序设计](courses/程序设计.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 28 | 28 |
-| [程序设计](courses/程序设计.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 20 | 20 |
-| [程序设计](courses/程序设计.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 50 | 50 |
-| [算法设计与分析](courses/算法设计与分析.md) | [BeneneeYu/Course-Project](https://github.com/BeneneeYu/Course-Project) | 18 | 18 |
-| [算法设计与分析](courses/算法设计与分析.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 92 | 92 |
-| [算法设计与分析](courses/算法设计与分析.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 6 | 6 |
-| [线性代数](courses/线性代数.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 7 | 7 |
-| [线性代数](courses/线性代数.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 7 | 7 |
-| [经济学](courses/经济学.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 73 | 73 |
-| [经济学](courses/经济学.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 24 | 24 |
-| [统计计算](courses/统计计算.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 1 |
-| [统计计算](courses/统计计算.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 7 | 7 |
-| [编译原理](courses/编译原理.md) | [BeneneeYu/Course-Project](https://github.com/BeneneeYu/Course-Project) | 3 | 3 |
-| [编译原理](courses/编译原理.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 20 | 20 |
-| [自然语言处理导论](courses/自然语言处理导论.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 1 |
-| [计算机体系结构](courses/计算机体系结构.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 471 | 471 |
-| [计算机体系结构](courses/计算机体系结构.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 183 | 183 |
-| [计算机体系结构](courses/计算机体系结构.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 2 | 2 |
-| [计算机图形学](courses/计算机图形学.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 23 | 23 |
-| [计算机系统基础](courses/计算机系统基础.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 4 | 4 |
-| [计算机系统基础](courses/计算机系统基础.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 14 | 14 |
-| [计算机组成原理](courses/计算机组成原理.md) | [NinaZ65/notes-for-courses](https://github.com/NinaZ65/notes-for-courses) | 3 | 3 |
-| [计算机网络](courses/计算机网络.md) | [flyingc2004/fdu-cs-grade3](https://github.com/flyingc2004/fdu-cs-grade3) | 43 | 43 |
-| [计算机网络](courses/计算机网络.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 36 | 36 |
-| [计算机视觉](courses/计算机视觉.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 1 |
-| [计算机视觉](courses/计算机视觉.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 8 | 8 |
-| [计算理论基础](courses/计算理论基础.md) | [michaellu2007/fdu-note-summarized](https://github.com/michaellu2007/fdu-note-summarized) | 20 | 20 |
-| [软件工程](courses/软件工程.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 25 | 25 |
-| [随机过程](courses/随机过程.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 1 |
-| [随机过程](courses/随机过程.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 20 | 20 |
-| [随机过程](courses/随机过程.md) | [Su-Zi-Zhan/FDU-SDS-Lecture-Notes](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes) | 2 | 2 |
-| [面向对象程序设计](courses/面向对象程序设计.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 10 | 10 |
-| [高等代数](courses/高等代数.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 14 | 14 |
-| [高等代数](courses/高等代数.md) | [CodingMizore/SharedFDU](https://github.com/CodingMizore/SharedFDU) | 14 | 14 |
-| [高等代数](courses/高等代数.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 1 | 1 |
-| [高等代数](courses/高等代数.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 39 | 39 |
-| [高等代数](courses/高等代数.md) | [Su-Zi-Zhan/FDU-SDS-Lecture-Notes](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes) | 6 | 6 |
-| [高等代数](courses/高等代数.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 1 |
-| [高等数学](courses/高等数学.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 1 | 1 |
-| [高等数学](courses/高等数学.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 13 | 13 |
-| [高等数学](courses/高等数学.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 7 | 7 |
-| [高级 Web 技术](courses/高级-Web-技术.md) | [BeneneeYu/Course-Project](https://github.com/BeneneeYu/Course-Project) | 111 | 111 |
-
-<details><summary>展开课程材料文件链接</summary>
+**京剧 / victkk/FDU-Sharing**
+- [public/resources/京剧/京剧中的乐器.pptx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%BA%AC%E5%89%A7/%E4%BA%AC%E5%89%A7%E4%B8%AD%E7%9A%84%E4%B9%90%E5%99%A8.pptx)
+- [public/resources/京剧/京剧感悟（本人）.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%BA%AC%E5%89%A7/%E4%BA%AC%E5%89%A7%E6%84%9F%E6%82%9F%EF%BC%88%E6%9C%AC%E4%BA%BA%EF%BC%89.docx)
+- [public/resources/京剧/京剧演出场地的变迁 elearning 25.9.23.pptx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%BA%AC%E5%89%A7/%E4%BA%AC%E5%89%A7%E6%BC%94%E5%87%BA%E5%9C%BA%E5%9C%B0%E7%9A%84%E5%8F%98%E8%BF%81%20elearning%2025.9.23.pptx)
+- [public/resources/京剧/京剧表演艺术课件.pps..ppt](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%BA%AC%E5%89%A7/%E4%BA%AC%E5%89%A7%E8%A1%A8%E6%BC%94%E8%89%BA%E6%9C%AF%E8%AF%BE%E4%BB%B6.pps..ppt)
+- [public/resources/京剧/京剧观摩资料.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%BA%AC%E5%89%A7/%E4%BA%AC%E5%89%A7%E8%A7%82%E6%91%A9%E8%B5%84%E6%96%99.docx)
+- [public/resources/京剧/医心观戏韵：临八视角下的京剧之美.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%BA%AC%E5%89%A7/%E5%8C%BB%E5%BF%83%E8%A7%82%E6%88%8F%E9%9F%B5%EF%BC%9A%E4%B8%B4%E5%85%AB%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E4%BA%AC%E5%89%A7%E4%B9%8B%E7%BE%8E.docx)
+- [public/resources/京剧/笔记/笔记/京剧--拓展资料.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%BA%AC%E5%89%A7/%E7%AC%94%E8%AE%B0/%E7%AC%94%E8%AE%B0/%E4%BA%AC%E5%89%A7--%E6%8B%93%E5%B1%95%E8%B5%84%E6%96%99.docx)
+- [public/resources/京剧/笔记/笔记/京剧ppt整理.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%BA%AC%E5%89%A7/%E7%AC%94%E8%AE%B0/%E7%AC%94%E8%AE%B0/%E4%BA%AC%E5%89%A7ppt%E6%95%B4%E7%90%86.docx)
+- [public/resources/京剧/笔记/笔记/京剧改制.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%BA%AC%E5%89%A7/%E7%AC%94%E8%AE%B0/%E7%AC%94%E8%AE%B0/%E4%BA%AC%E5%89%A7%E6%94%B9%E5%88%B6.docx)
+- [public/resources/京剧/笔记/笔记/京剧简史.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%BA%AC%E5%89%A7/%E7%AC%94%E8%AE%B0/%E7%AC%94%E8%AE%B0/%E4%BA%AC%E5%89%A7%E7%AE%80%E5%8F%B2.docx)
+- [public/resources/京剧/笔记/笔记/京剧组成.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%BA%AC%E5%89%A7/%E7%AC%94%E8%AE%B0/%E7%AC%94%E8%AE%B0/%E4%BA%AC%E5%89%A7%E7%BB%84%E6%88%90.docx)
 
 **人工智能 / AniroHU/FDU_Courses_Undergraduate**
 - [人工智能前沿探索实践/0、课程基本情况介绍.pdf](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%89%8D%E6%B2%BF%E6%8E%A2%E7%B4%A2%E5%AE%9E%E8%B7%B5/0%E3%80%81%E8%AF%BE%E7%A8%8B%E5%9F%BA%E6%9C%AC%E6%83%85%E5%86%B5%E4%BB%8B%E7%BB%8D.pdf)
@@ -1111,6 +1384,26 @@
 - [人工智能/PPT08 深度学习（二）卷积神经网络 CNN.md](https://github.com/NinaZ65/notes-for-courses/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/PPT08%20%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%BA%8C%EF%BC%89%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%20CNN.md)
 - [人工智能/PPT09 深度学习（三）：计算机视觉与自然语言处理基础](https://github.com/NinaZ65/notes-for-courses/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/PPT09%20%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%89%EF%BC%89%EF%BC%9A%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E4%B8%8E%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E5%9F%BA%E7%A1%80)
 - [人工智能/PPT10 深度学习（四）：Transformer 及大模型.md](https://github.com/NinaZ65/notes-for-courses/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/PPT10%20%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%EF%BC%88%E5%9B%9B%EF%BC%89%EF%BC%9ATransformer%20%E5%8F%8A%E5%A4%A7%E6%A8%A1%E5%9E%8B.md)
+- [人工智能/gpt复习/九 强化学习.md](https://github.com/NinaZ65/notes-for-courses/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/gpt%E5%A4%8D%E4%B9%A0/%E4%B9%9D%20%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md)
+- [人工智能/gpt复习/五 SVM.md](https://github.com/NinaZ65/notes-for-courses/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/gpt%E5%A4%8D%E4%B9%A0/%E4%BA%94%20SVM.md)
+- [人工智能/gpt复习/八 CNN.md](https://github.com/NinaZ65/notes-for-courses/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/gpt%E5%A4%8D%E4%B9%A0/%E5%85%AB%20CNN.md)
+- [人工智能/gpt复习/六 深度学习基础.md](https://github.com/NinaZ65/notes-for-courses/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/gpt%E5%A4%8D%E4%B9%A0/%E5%85%AD%20%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80.md)
+- [人工智能/gpt复习/四 机器学习.md](https://github.com/NinaZ65/notes-for-courses/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/gpt%E5%A4%8D%E4%B9%A0/%E5%9B%9B%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md)
+
+**人工智能 / Zhouxunzhe/Fudan-CS-Projects**
+- [Artificial-Intelligence/pj1/Project1.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj1/Project1.pdf)
+- [Artificial-Intelligence/pj1/pj1_part1/20307110315-周训哲/20307110315-周训哲.rar](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj1/pj1_part1/20307110315-%E5%91%A8%E8%AE%AD%E5%93%B2/20307110315-%E5%91%A8%E8%AE%AD%E5%93%B2.rar)
+- [Artificial-Intelligence/pj1/pj1_part1/20307110315-周训哲/pj1_part1实验文档.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj1/pj1_part1/20307110315-%E5%91%A8%E8%AE%AD%E5%93%B2/pj1_part1%E5%AE%9E%E9%AA%8C%E6%96%87%E6%A1%A3.pdf)
+- [Artificial-Intelligence/pj1/pj1_part2/20307110315-周训哲.rar](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj1/pj1_part2/20307110315-%E5%91%A8%E8%AE%AD%E5%93%B2.rar)
+- [Artificial-Intelligence/pj1/pj1_part2/20307110315-周训哲/pj1_part2实验文档.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj1/pj1_part2/20307110315-%E5%91%A8%E8%AE%AD%E5%93%B2/pj1_part2%E5%AE%9E%E9%AA%8C%E6%96%87%E6%A1%A3.pdf)
+- [Artificial-Intelligence/pj1/pj1_part2/pj1_part2实验文档.docx](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj1/pj1_part2/pj1_part2%E5%AE%9E%E9%AA%8C%E6%96%87%E6%A1%A3.docx)
+- [Artificial-Intelligence/pj1/pj1_part2/截屏/cnn/cnn优化.txt](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj1/pj1_part2/%E6%88%AA%E5%B1%8F/cnn/cnn%E4%BC%98%E5%8C%96.txt)
+- [Artificial-Intelligence/pj1/pj1_part3/20307110315-周训哲/code/model.pth](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj1/pj1_part3/20307110315-%E5%91%A8%E8%AE%AD%E5%93%B2/code/model.pth)
+- [Artificial-Intelligence/pj1/pj1_part3/20307110315-周训哲/pj1_part3实验文档.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj1/pj1_part3/20307110315-%E5%91%A8%E8%AE%AD%E5%93%B2/pj1_part3%E5%AE%9E%E9%AA%8C%E6%96%87%E6%A1%A3.pdf)
+- [Artificial-Intelligence/pj2/Chinese_test.txt](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj2/Chinese_test.txt)
+- [Artificial-Intelligence/pj2/English_test.txt](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj2/English_test.txt)
+- [Artificial-Intelligence/pj2/NER.txt](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj2/NER.txt)
+- 另有 22 个文件，见 data/collection_files.csv
 
 **人工智能 / kanzaler123/fdu-course-resources**
 - [人工智能的软件基础/L1-使用python编写神经网络.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/L1-%E4%BD%BF%E7%94%A8python%E7%BC%96%E5%86%99%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.pdf)
@@ -1126,6 +1419,21 @@
 - [人工智能的软件基础/L8-算子融合.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/L8-%E7%AE%97%E5%AD%90%E8%9E%8D%E5%90%88.pdf)
 - [人工智能的软件基础/L9-大语言模型.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/L9-%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.pdf)
 
+**人工智能 / lrcc275/FudanCources**
+- [COMP130031人工智能A/PJ/21307130148_陈锐林_lab2.pth](https://github.com/lrcc275/FudanCources/blob/main/COMP130031%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDA/PJ/21307130148_%E9%99%88%E9%94%90%E6%9E%97_lab2.pth)
+- [COMP130031人工智能A/PJ/21307130148_陈锐林_lab3.pt](https://github.com/lrcc275/FudanCources/blob/main/COMP130031%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDA/PJ/21307130148_%E9%99%88%E9%94%90%E6%9E%97_lab3.pt)
+- [COMP130031人工智能A/PJ/21307130148_陈锐林_qnetwork.pth](https://github.com/lrcc275/FudanCources/blob/main/COMP130031%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDA/PJ/21307130148_%E9%99%88%E9%94%90%E6%9E%97_qnetwork.pth)
+- [COMP130031人工智能A/PJ/21307130148_陈锐林_qtable.pth](https://github.com/lrcc275/FudanCources/blob/main/COMP130031%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDA/PJ/21307130148_%E9%99%88%E9%94%90%E6%9E%97_qtable.pth)
+- [COMP130031人工智能A/课件/ai_lec01.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130031%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDA/%E8%AF%BE%E4%BB%B6/ai_lec01.pdf)
+- [COMP130031人工智能A/课件/ai_lec02.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130031%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDA/%E8%AF%BE%E4%BB%B6/ai_lec02.pdf)
+- [COMP130031人工智能A/课件/ai_lec03.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130031%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDA/%E8%AF%BE%E4%BB%B6/ai_lec03.pdf)
+- [COMP130031人工智能A/课件/ai_lec04.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130031%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDA/%E8%AF%BE%E4%BB%B6/ai_lec04.pdf)
+- [COMP130031人工智能A/课件/ai_lec05.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130031%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDA/%E8%AF%BE%E4%BB%B6/ai_lec05.pdf)
+- [COMP130031人工智能A/课件/ai_lec06.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130031%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDA/%E8%AF%BE%E4%BB%B6/ai_lec06.pdf)
+- [COMP130031人工智能A/课件/ai_lec07.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130031%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDA/%E8%AF%BE%E4%BB%B6/ai_lec07.pdf)
+- [COMP130031人工智能A/课件/ai_lec08.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130031%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDA/%E8%AF%BE%E4%BB%B6/ai_lec08.pdf)
+- 另有 3 个文件，见 data/collection_files.csv
+
 **人工智能 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业选修/人工智能/Artificial_Intelligence_-_A_Guide_to_Intelligent_Systems.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/Artificial_Intelligence_-_A_Guide_to_Intelligent_Systems.pdf)
 - [3.专业教育/计算机科学与技术/专业选修/人工智能/project/Rule-based_Expert_System-master/facts/facts.txt](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/project/Rule-based_Expert_System-master/facts/facts.txt)
@@ -1137,6 +1445,14 @@
 - [public/resources/人工智能基础/HW1解析.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80/HW1%E8%A7%A3%E6%9E%90.pdf)
 - [public/resources/人工智能基础/作业1说明.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A1%E8%AF%B4%E6%98%8E.pdf)
 - [public/resources/人工智能基础/实验报告参考范例.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E5%8F%82%E8%80%83%E8%8C%83%E4%BE%8B.pdf)
+
+**人工智能（H） / victkk/FDU-Sharing**
+- [public/resources/人工智能H（郑骁庆）/2026-笔记-人工智能H（郑骁庆）.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDH%EF%BC%88%E9%83%91%E9%AA%81%E5%BA%86%EF%BC%89/2026-%E7%AC%94%E8%AE%B0-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDH%EF%BC%88%E9%83%91%E9%AA%81%E5%BA%86%EF%BC%89.pdf)
+- [public/resources/人工智能H（郑骁庆）/2026-笔记-人工智能H（郑骁庆）页码索引.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDH%EF%BC%88%E9%83%91%E9%AA%81%E5%BA%86%EF%BC%89/2026-%E7%AC%94%E8%AE%B0-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDH%EF%BC%88%E9%83%91%E9%AA%81%E5%BA%86%EF%BC%89%E9%A1%B5%E7%A0%81%E7%B4%A2%E5%BC%95.pdf)
+
+**人机交互 / FDUanonym/FDU-CST-Cracker**
+- [COMP630054 人机交互/HCI-lecture1.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/COMP630054%20%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92/HCI-lecture1.pdf)
+- [COMP630054 人机交互/HCI-lecture3.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/COMP630054%20%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92/HCI-lecture3.pdf)
 
 **人机交互 / kanzaler123/fdu-course-resources**
 - [人机交互/参考资料/1904.12066v1.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/1904.12066v1.pdf)
@@ -1178,6 +1494,37 @@
 - [最优化方法/作业/A7.pdf](https://github.com/hadanice/OpenDS/blob/main/%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/A7.pdf)
 - [最优化方法/作业/A8.pdf](https://github.com/hadanice/OpenDS/blob/main/%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/A8.pdf)
 - [最优化方法/作业/A9.pdf](https://github.com/hadanice/OpenDS/blob/main/%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/A9.pdf)
+- 另有 10 个文件，见 data/collection_files.csv
+
+**会计 / kanzaler123/fdu-course-resources**
+- [会计/习题/19-20考卷.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BC%9A%E8%AE%A1/%E4%B9%A0%E9%A2%98/19-20%E8%80%83%E5%8D%B7.pdf)
+- [会计/习题/4-7章的练习题.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BC%9A%E8%AE%A1/%E4%B9%A0%E9%A2%98/4-7%E7%AB%A0%E7%9A%84%E7%BB%83%E4%B9%A0%E9%A2%98.pdf)
+- [会计/习题/A卷.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BC%9A%E8%AE%A1/%E4%B9%A0%E9%A2%98/A%E5%8D%B7.pdf)
+- [会计/习题/业务题练习.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BC%9A%E8%AE%A1/%E4%B9%A0%E9%A2%98/%E4%B8%9A%E5%8A%A1%E9%A2%98%E7%BB%83%E4%B9%A0.pdf)
+- [会计/习题/习题课1_20210422.pptx](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BC%9A%E8%AE%A1/%E4%B9%A0%E9%A2%98/%E4%B9%A0%E9%A2%98%E8%AF%BE1_20210422.pptx)
+- [会计/习题/习题课1_20210422.xlsx](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BC%9A%E8%AE%A1/%E4%B9%A0%E9%A2%98/%E4%B9%A0%E9%A2%98%E8%AF%BE1_20210422.xlsx)
+- [会计/习题/会计分录公式大全.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BC%9A%E8%AE%A1/%E4%B9%A0%E9%A2%98/%E4%BC%9A%E8%AE%A1%E5%88%86%E5%BD%95%E5%85%AC%E5%BC%8F%E5%A4%A7%E5%85%A8.pdf)
+- [会计/习题/会计学1-3章答题纸.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BC%9A%E8%AE%A1/%E4%B9%A0%E9%A2%98/%E4%BC%9A%E8%AE%A1%E5%AD%A61-3%E7%AB%A0%E7%AD%94%E9%A2%98%E7%BA%B8.pdf)
+- [会计/习题/会计学1-3章练习题.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BC%9A%E8%AE%A1/%E4%B9%A0%E9%A2%98/%E4%BC%9A%E8%AE%A1%E5%AD%A61-3%E7%AB%A0%E7%BB%83%E4%B9%A0%E9%A2%98.pdf)
+- [会计/习题/会计学习题作业(2).pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BC%9A%E8%AE%A1/%E4%B9%A0%E9%A2%98/%E4%BC%9A%E8%AE%A1%E5%AD%A6%E4%B9%A0%E9%A2%98%E4%BD%9C%E4%B8%9A%282%29.pdf)
+- [会计/习题/会计学习题作业_0429.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BC%9A%E8%AE%A1/%E4%B9%A0%E9%A2%98/%E4%BC%9A%E8%AE%A1%E5%AD%A6%E4%B9%A0%E9%A2%98%E4%BD%9C%E4%B8%9A_0429.pdf)
+- [会计/习题/会计学习题作业（4）.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BC%9A%E8%AE%A1/%E4%B9%A0%E9%A2%98/%E4%BC%9A%E8%AE%A1%E5%AD%A6%E4%B9%A0%E9%A2%98%E4%BD%9C%E4%B8%9A%EF%BC%884%EF%BC%89.pdf)
+- 另有 57 个文件，见 data/collection_files.csv
+
+**军事理论 / victkk/FDU-Sharing**
+- [public/resources/军事理论/2024年1-12月军理时政.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/2024%E5%B9%B41-12%E6%9C%88%E5%86%9B%E7%90%86%E6%97%B6%E6%94%BF.pdf)
+- [public/resources/军事理论/2025印巴冲突、俄乌局势（共2页）.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/2025%E5%8D%B0%E5%B7%B4%E5%86%B2%E7%AA%81%E3%80%81%E4%BF%84%E4%B9%8C%E5%B1%80%E5%8A%BF%EF%BC%88%E5%85%B12%E9%A1%B5%EF%BC%89.pdf)
+- [public/resources/军事理论/2025年1-5月军理时政.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/2025%E5%B9%B41-5%E6%9C%88%E5%86%9B%E7%90%86%E6%97%B6%E6%94%BF.pdf)
+- [public/resources/军事理论/中国人民解放军.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B.docx)
+- [public/resources/军事理论/军事理论.doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA.doc)
+- [public/resources/军事理论/军事理论课件ppt精华整理.rar](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA%E8%AF%BE%E4%BB%B6ppt%E7%B2%BE%E5%8D%8E%E6%95%B4%E7%90%86.rar)
+- [public/resources/军事理论/军事理论课本梳理.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA%E8%AF%BE%E6%9C%AC%E6%A2%B3%E7%90%86.docx)
+- [public/resources/军事理论/军理得A资料.zip](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E5%86%9B%E7%90%86%E5%BE%97A%E8%B5%84%E6%96%99.zip)
+- [public/resources/军事理论/军理笔记（补充版）-超超超高含金量.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E5%86%9B%E7%90%86%E7%AC%94%E8%AE%B0%EF%BC%88%E8%A1%A5%E5%85%85%E7%89%88%EF%BC%89-%E8%B6%85%E8%B6%85%E8%B6%85%E9%AB%98%E5%90%AB%E9%87%91%E9%87%8F.docx)
+- [public/resources/军事理论/军理笔记（补充版）-超超超高含金量.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E5%86%9B%E7%90%86%E7%AC%94%E8%AE%B0%EF%BC%88%E8%A1%A5%E5%85%85%E7%89%88%EF%BC%89-%E8%B6%85%E8%B6%85%E8%B6%85%E9%AB%98%E5%90%AB%E9%87%91%E9%87%8F.pdf)
+- [public/resources/军事理论/军理补充.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E5%86%9B%E7%90%86%E8%A1%A5%E5%85%85.docx)
+- [public/resources/军事理论/军理资料（忘了哪来的）/军理资料（忘了哪来的）/军事技术部分整理加页码.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E5%86%9B%E7%90%86%E8%B5%84%E6%96%99%EF%BC%88%E5%BF%98%E4%BA%86%E5%93%AA%E6%9D%A5%E7%9A%84%EF%BC%89/%E5%86%9B%E7%90%86%E8%B5%84%E6%96%99%EF%BC%88%E5%BF%98%E4%BA%86%E5%93%AA%E6%9D%A5%E7%9A%84%EF%BC%89/%E5%86%9B%E4%BA%8B%E6%8A%80%E6%9C%AF%E9%83%A8%E5%88%86%E6%95%B4%E7%90%86%E5%8A%A0%E9%A1%B5%E7%A0%81.pdf)
+- 另有 23 个文件，见 data/collection_files.csv
 
 **回归分析 / ForeverHaibara/Fudan-Courses**
 - [回归分析/回归分析.md](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90/%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90.md)
@@ -1225,6 +1572,30 @@
 - [图像处理与可视化/FDU 数字图像处理 7. 图像配准.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96/FDU%20%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%207.%20%E5%9B%BE%E5%83%8F%E9%85%8D%E5%87%86.pdf)
 - [图像处理与可视化/FDU 数字图像处理 8. 可视化.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96/FDU%20%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%208.%20%E5%8F%AF%E8%A7%86%E5%8C%96.pdf)
 
+**在线社交网络 / FDUanonym/FDU-CST-Cracker**
+- [COMP630067 在线社交网络/23-10-14 HGNN.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/COMP630067%20%E5%9C%A8%E7%BA%BF%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C/23-10-14%20HGNN.pdf)
+
+**复杂系统理论与仿真 / Snivallus/FDU-Course-Notes-2024-2025**
+- [复杂系统理论与仿真/FDU 复杂系统 0. An Introduction.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E4%B8%8E%E4%BB%BF%E7%9C%9F/FDU%20%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F%200.%20An%20Introduction.pdf)
+- [复杂系统理论与仿真/FDU 复杂系统 1. 一维流.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E4%B8%8E%E4%BB%BF%E7%9C%9F/FDU%20%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F%201.%20%E4%B8%80%E7%BB%B4%E6%B5%81.pdf)
+- [复杂系统理论与仿真/FDU 复杂系统 2. 二维流.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E4%B8%8E%E4%BB%BF%E7%9C%9F/FDU%20%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F%202.%20%E4%BA%8C%E7%BB%B4%E6%B5%81.pdf)
+- [复杂系统理论与仿真/FDU 复杂系统 3. 混沌.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E4%B8%8E%E4%BB%BF%E7%9C%9F/FDU%20%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F%203.%20%E6%B7%B7%E6%B2%8C.pdf)
+
+**多媒体技术基础 / ChenTao98/FudanUniversity**
+- [多媒体技术基础/project_3/.idea/codeStyles/Project.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/project_3/.idea/codeStyles/Project.xml)
+- [多媒体技术基础/project_3/.idea/encodings.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/project_3/.idea/encodings.xml)
+- [多媒体技术基础/project_3/.idea/misc.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/project_3/.idea/misc.xml)
+- [多媒体技术基础/project_3/.idea/modules.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/project_3/.idea/modules.xml)
+- [多媒体技术基础/project_3/.idea/workspace.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/project_3/.idea/workspace.xml)
+- [多媒体技术基础/project_3/Makefile](https://github.com/ChenTao98/FudanUniversity/blob/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/project_3/Makefile)
+- [多媒体技术基础/project_3/cio.o](https://github.com/ChenTao98/FudanUniversity/blob/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/project_3/cio.o)
+- [多媒体技术基础/project_3/cjpeg](https://github.com/ChenTao98/FudanUniversity/blob/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/project_3/cjpeg)
+- [多媒体技术基础/project_3/cjpeg.o](https://github.com/ChenTao98/FudanUniversity/blob/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/project_3/cjpeg.o)
+- [多媒体技术基础/project_3/cmarker.o](https://github.com/ChenTao98/FudanUniversity/blob/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/project_3/cmarker.o)
+- [多媒体技术基础/project_3/fdctflt.o](https://github.com/ChenTao98/FudanUniversity/blob/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/project_3/fdctflt.o)
+- [多媒体技术基础/project_3/rdbmp.o](https://github.com/ChenTao98/FudanUniversity/blob/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/project_3/rdbmp.o)
+- 另有 1 个文件，见 data/collection_files.csv
+
 **多模态 / Snivallus/FDU-Course-Notes-2024-2025**
 - [多模态数据同化/FDU 数据同化 1. 单参数模型.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%A4%9A%E6%A8%A1%E6%80%81%E6%95%B0%E6%8D%AE%E5%90%8C%E5%8C%96/FDU%20%E6%95%B0%E6%8D%AE%E5%90%8C%E5%8C%96%201.%20%E5%8D%95%E5%8F%82%E6%95%B0%E6%A8%A1%E5%9E%8B.pdf)
 
@@ -1263,6 +1634,32 @@
 - [public/resources/大学物理/22级大物B上第七章测验卷.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/22%E7%BA%A7%E5%A4%A7%E7%89%A9B%E4%B8%8A%E7%AC%AC%E4%B8%83%E7%AB%A0%E6%B5%8B%E9%AA%8C%E5%8D%B7.docx)
 - 另有 2 个文件，见 data/collection_files.csv
 
+**大学英语三级 / openFudan/fudan-coursera**
+- [1.通识教育/大学英语/大学英语三级/listening/1.MP3](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E4%B8%89%E7%BA%A7/listening/1.MP3)
+- [1.通识教育/大学英语/大学英语三级/listening/1.doc](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E4%B8%89%E7%BA%A7/listening/1.doc)
+- [1.通识教育/大学英语/大学英语三级/listening/2.doc](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E4%B8%89%E7%BA%A7/listening/2.doc)
+- [1.通识教育/大学英语/大学英语三级/listening/2.mp3](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E4%B8%89%E7%BA%A7/listening/2.mp3)
+- [1.通识教育/大学英语/大学英语三级/listening/B3U5_Listening+2_Alphons_+art+classes.mp3](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E4%B8%89%E7%BA%A7/listening/B3U5_Listening%2B2_Alphons_%2Bart%2Bclasses.mp3)
+- [1.通识教育/大学英语/大学英语三级/listening/B3U5_Listening+2_Alphons_+art+classes_exercise.docx](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E4%B8%89%E7%BA%A7/listening/B3U5_Listening%2B2_Alphons_%2Bart%2Bclasses_exercise.docx)
+- [1.通识教育/大学英语/大学英语三级/listening/B3U5_Listening+2_Alphons_+art+classes_trascript+_+words+list.docx](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E4%B8%89%E7%BA%A7/listening/B3U5_Listening%2B2_Alphons_%2Bart%2Bclasses_trascript%2B_%2Bwords%2Blist.docx)
+- [1.通识教育/大学英语/大学英语三级/listening/B3U5_listening+1_a+month+of+new+changes_exercise.docx](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E4%B8%89%E7%BA%A7/listening/B3U5_listening%2B1_a%2Bmonth%2Bof%2Bnew%2Bchanges_exercise.docx)
+- [1.通识教育/大学英语/大学英语三级/listening/B3U5_listening+1_a+month+of+new+changes_transcript+_+words+list.docx](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E4%B8%89%E7%BA%A7/listening/B3U5_listening%2B1_a%2Bmonth%2Bof%2Bnew%2Bchanges_transcript%2B_%2Bwords%2Blist.docx)
+- [1.通识教育/大学英语/大学英语三级/listening/B3U5_listenting+1_a+month+of+new+change.mp3](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E4%B8%89%E7%BA%A7/listening/B3U5_listenting%2B1_a%2Bmonth%2Bof%2Bnew%2Bchange.mp3)
+- [1.通识教育/大学英语/大学英语三级/listening/Script+1.docx](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E4%B8%89%E7%BA%A7/listening/Script%2B1.docx)
+- [1.通识教育/大学英语/大学英语三级/listening/Script+for+1.doc](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E4%B8%89%E7%BA%A7/listening/Script%2Bfor%2B1.doc)
+- 另有 41 个文件，见 data/collection_files.csv
+
+**大数据分析与应用 / FDUanonym/FDU-CST-Cracker**
+- [SOFT620030 大数据分析与应用/Big Data Analytics & Applications - 01 Overview.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/SOFT620030%20%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%8E%E5%BA%94%E7%94%A8/Big%20Data%20Analytics%20%26%20Applications%20-%2001%20Overview.pdf)
+- [SOFT620030 大数据分析与应用/Big Data Analytics & Applications - 02 Introduction to Machine Learning.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/SOFT620030%20%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%8E%E5%BA%94%E7%94%A8/Big%20Data%20Analytics%20%26%20Applications%20-%2002%20Introduction%20to%20Machine%20Learning.pdf)
+- [SOFT620030 大数据分析与应用/Big Data Analytics & Applications - 03 Text Data Analytics (Random Features).pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/SOFT620030%20%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%8E%E5%BA%94%E7%94%A8/Big%20Data%20Analytics%20%26%20Applications%20-%2003%20Text%20Data%20Analytics%20%28Random%20Features%29.pdf)
+- [SOFT620030 大数据分析与应用/Big Data Analytics & Applications - 04 Text Data Analytics (Word Embedding).pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/SOFT620030%20%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%8E%E5%BA%94%E7%94%A8/Big%20Data%20Analytics%20%26%20Applications%20-%2004%20Text%20Data%20Analytics%20%28Word%20Embedding%29.pdf)
+- [SOFT620030 大数据分析与应用/Big Data Analytics & Applications - 05 Text Data Analytics (Topic Modeling).pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/SOFT620030%20%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%8E%E5%BA%94%E7%94%A8/Big%20Data%20Analytics%20%26%20Applications%20-%2005%20Text%20Data%20Analytics%20%28Topic%20Modeling%29.pdf)
+- [SOFT620030 大数据分析与应用/Big Data Analytics & Applications - 06 Network Data Analytics (Overview).pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/SOFT620030%20%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%8E%E5%BA%94%E7%94%A8/Big%20Data%20Analytics%20%26%20Applications%20-%2006%20Network%20Data%20Analytics%20%28Overview%29.pdf)
+- [SOFT620030 大数据分析与应用/Big Data Analytics & Applications - 07 Network Data Analytics (Collaborative Filtering).pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/SOFT620030%20%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%8E%E5%BA%94%E7%94%A8/Big%20Data%20Analytics%20%26%20Applications%20-%2007%20Network%20Data%20Analytics%20%28Collaborative%20Filtering%29.pdf)
+- [SOFT620030 大数据分析与应用/Big Data Analytics & Applications - 08 Network Data Analytics (Advanced Topics).pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/SOFT620030%20%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%8E%E5%BA%94%E7%94%A8/Big%20Data%20Analytics%20%26%20Applications%20-%2008%20Network%20Data%20Analytics%20%28Advanced%20Topics%29.pdf)
+- [SOFT620030 大数据分析与应用/大数据分析与应用大纲.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/SOFT620030%20%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%8E%E5%BA%94%E7%94%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%8E%E5%BA%94%E7%94%A8%E5%A4%A7%E7%BA%B2.pdf)
+
 **大数据技术 / ForeverHaibara/Fudan-Courses**
 - [医疗大数据统计学/医疗大数据统计学.md](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E5%8C%BB%E7%96%97%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%BB%9F%E8%AE%A1%E5%AD%A6/%E5%8C%BB%E7%96%97%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%BB%9F%E8%AE%A1%E5%AD%A6.md)
 
@@ -1281,33 +1678,153 @@
 - [大数据开卷/6. Dremel.pdf](https://github.com/NinaZ65/notes-for-courses/blob/main/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8D%B7/6.%20Dremel.pdf)
 - 另有 18 个文件，见 data/collection_files.csv
 
+**宋词导读 / AryZhao2006/FDU-Course-AryZhao**
+- [宋词导读/01-slides/01 导论：词体美感特质.pdf](https://github.com/AryZhao2006/FDU-Course-AryZhao/blob/main/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/01-slides/01%20%E5%AF%BC%E8%AE%BA%EF%BC%9A%E8%AF%8D%E4%BD%93%E7%BE%8E%E6%84%9F%E7%89%B9%E8%B4%A8.pdf)
+- [宋词导读/01-slides/02 词源与词乐.pdf](https://github.com/AryZhao2006/FDU-Course-AryZhao/blob/main/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/01-slides/02%20%E8%AF%8D%E6%BA%90%E4%B8%8E%E8%AF%8D%E4%B9%90.pdf)
+- [宋词导读/01-slides/03 花间词人.pdf](https://github.com/AryZhao2006/FDU-Course-AryZhao/blob/main/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/01-slides/03%20%E8%8A%B1%E9%97%B4%E8%AF%8D%E4%BA%BA.pdf)
+- [宋词导读/01-slides/04 南唐词人.pdf](https://github.com/AryZhao2006/FDU-Course-AryZhao/blob/main/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/01-slides/04%20%E5%8D%97%E5%94%90%E8%AF%8D%E4%BA%BA.pdf)
+- [宋词导读/01-slides/05 北宋令曲.pdf](https://github.com/AryZhao2006/FDU-Course-AryZhao/blob/main/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/01-slides/05%20%E5%8C%97%E5%AE%8B%E4%BB%A4%E6%9B%B2.pdf)
+- [宋词导读/01-slides/06 情钟醉翁.pdf](https://github.com/AryZhao2006/FDU-Course-AryZhao/blob/main/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/01-slides/06%20%E6%83%85%E9%92%9F%E9%86%89%E7%BF%81.pdf)
+- [宋词导读/01-slides/07 屯田蹊径.pdf](https://github.com/AryZhao2006/FDU-Course-AryZhao/blob/main/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/01-slides/07%20%E5%B1%AF%E7%94%B0%E8%B9%8A%E5%BE%84.pdf)
+- [宋词导读/01-slides/08 人生如梦.pdf](https://github.com/AryZhao2006/FDU-Course-AryZhao/blob/main/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/01-slides/08%20%E4%BA%BA%E7%94%9F%E5%A6%82%E6%A2%A6.pdf)
+- [宋词导读/01-slides/09 苏门学士.pdf](https://github.com/AryZhao2006/FDU-Course-AryZhao/blob/main/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/01-slides/09%20%E8%8B%8F%E9%97%A8%E5%AD%A6%E5%A3%AB.pdf)
+- [宋词导读/01-slides/10 浑厚大成.pdf](https://github.com/AryZhao2006/FDU-Course-AryZhao/blob/main/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/01-slides/10%20%E6%B5%91%E5%8E%9A%E5%A4%A7%E6%88%90.pdf)
+- [宋词导读/01-slides/11 南渡词人.pdf](https://github.com/AryZhao2006/FDU-Course-AryZhao/blob/main/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/01-slides/11%20%E5%8D%97%E6%B8%A1%E8%AF%8D%E4%BA%BA.pdf)
+- [宋词导读/01-slides/12 龙腾虎掷.pdf](https://github.com/AryZhao2006/FDU-Course-AryZhao/blob/main/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/01-slides/12%20%E9%BE%99%E8%85%BE%E8%99%8E%E6%8E%B7.pdf)
+- 另有 18 个文件，见 data/collection_files.csv
+
+**宋词导读 / Snivallus/FDU-Course-Notes-2024-2025**
+- [宋词导读/FDU 宋词导读 1. 基础知识.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/FDU%20%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB%201.%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.pdf)
+- [宋词导读/FDU 宋词导读 2. 唐五代.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/FDU%20%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB%202.%20%E5%94%90%E4%BA%94%E4%BB%A3.pdf)
+- [宋词导读/FDU 宋词导读 3. 北宋.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/FDU%20%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB%203.%20%E5%8C%97%E5%AE%8B.pdf)
+- [宋词导读/FDU 宋词导读 4. 南宋.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/FDU%20%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB%204.%20%E5%8D%97%E5%AE%8B.pdf)
+- [宋词导读/PPT/00 词体美感特质.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/PPT/00%20%E8%AF%8D%E4%BD%93%E7%BE%8E%E6%84%9F%E7%89%B9%E8%B4%A8.pdf)
+- [宋词导读/PPT/01 词源与词乐.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/PPT/01%20%E8%AF%8D%E6%BA%90%E4%B8%8E%E8%AF%8D%E4%B9%90.pdf)
+- [宋词导读/PPT/02 花间词人.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/PPT/02%20%E8%8A%B1%E9%97%B4%E8%AF%8D%E4%BA%BA.pdf)
+- [宋词导读/PPT/03 南唐词人.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/PPT/03%20%E5%8D%97%E5%94%90%E8%AF%8D%E4%BA%BA.pdf)
+- [宋词导读/PPT/04 北宋令曲.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/PPT/04%20%E5%8C%97%E5%AE%8B%E4%BB%A4%E6%9B%B2.pdf)
+- [宋词导读/PPT/05 情钟醉翁.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/PPT/05%20%E6%83%85%E9%92%9F%E9%86%89%E7%BF%81.pdf)
+- [宋词导读/PPT/06 屯田蹊径.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/PPT/06%20%E5%B1%AF%E7%94%B0%E8%B9%8A%E5%BE%84.pdf)
+- [宋词导读/PPT/07 人生如梦.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/PPT/07%20%E4%BA%BA%E7%94%9F%E5%A6%82%E6%A2%A6.pdf)
+- 另有 7 个文件，见 data/collection_files.csv
+
+**宋词导读 / victkk/FDU-Sharing**
+- [public/resources/宋词导读/人生如梦.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/%E4%BA%BA%E7%94%9F%E5%A6%82%E6%A2%A6.pdf)
+- [public/resources/宋词导读/令曲与慢词pre/事意分定.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/%E4%BB%A4%E6%9B%B2%E4%B8%8E%E6%85%A2%E8%AF%8Dpre/%E4%BA%8B%E6%84%8F%E5%88%86%E5%AE%9A.docx)
+- [public/resources/宋词导读/令曲与慢词pre/宋词导读第三次讨论课.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/%E4%BB%A4%E6%9B%B2%E4%B8%8E%E6%85%A2%E8%AF%8Dpre/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%AE%A8%E8%AE%BA%E8%AF%BE.docx)
+- [public/resources/宋词导读/令曲与慢词pre/讲稿.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/%E4%BB%A4%E6%9B%B2%E4%B8%8E%E6%85%A2%E8%AF%8Dpre/%E8%AE%B2%E7%A8%BF.docx)
+- [public/resources/宋词导读/令曲与慢词pre/词学史上的“潜气内转”说_彭玉平.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/%E4%BB%A4%E6%9B%B2%E4%B8%8E%E6%85%A2%E8%AF%8Dpre/%E8%AF%8D%E5%AD%A6%E5%8F%B2%E4%B8%8A%E7%9A%84%E2%80%9C%E6%BD%9C%E6%B0%94%E5%86%85%E8%BD%AC%E2%80%9D%E8%AF%B4_%E5%BD%AD%E7%8E%89%E5%B9%B3.pdf)
+- [public/resources/宋词导读/令曲与慢词pre/金心远-事意分定.pptx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/%E4%BB%A4%E6%9B%B2%E4%B8%8E%E6%85%A2%E8%AF%8Dpre/%E9%87%91%E5%BF%83%E8%BF%9C-%E4%BA%8B%E6%84%8F%E5%88%86%E5%AE%9A.pptx)
+- [public/resources/宋词导读/令曲与慢词pre/金心远-事意分定：令曲与慢词的结构组织与情绪表达——以秦观《望海潮》《千秋岁》为例.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/%E4%BB%A4%E6%9B%B2%E4%B8%8E%E6%85%A2%E8%AF%8Dpre/%E9%87%91%E5%BF%83%E8%BF%9C-%E4%BA%8B%E6%84%8F%E5%88%86%E5%AE%9A%EF%BC%9A%E4%BB%A4%E6%9B%B2%E4%B8%8E%E6%85%A2%E8%AF%8D%E7%9A%84%E7%BB%93%E6%9E%84%E7%BB%84%E7%BB%87%E4%B8%8E%E6%83%85%E7%BB%AA%E8%A1%A8%E8%BE%BE%E2%80%94%E2%80%94%E4%BB%A5%E7%A7%A6%E8%A7%82%E3%80%8A%E6%9C%9B%E6%B5%B7%E6%BD%AE%E3%80%8B%E3%80%8A%E5%8D%83%E7%A7%8B%E5%B2%81%E3%80%8B%E4%B8%BA%E4%BE%8B.pdf)
+- [public/resources/宋词导读/北宋令曲.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/%E5%8C%97%E5%AE%8B%E4%BB%A4%E6%9B%B2.pdf)
+- [public/resources/宋词导读/南唐词人.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/%E5%8D%97%E5%94%90%E8%AF%8D%E4%BA%BA.pdf)
+- [public/resources/宋词导读/南渡词人.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/%E5%8D%97%E6%B8%A1%E8%AF%8D%E4%BA%BA.pdf)
+- [public/resources/宋词导读/宋詞導讀第一次討論課.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/%E5%AE%8B%E8%A9%9E%E5%B0%8E%E8%AE%80%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A8%8E%E8%AB%96%E8%AA%B2.docx)
+- [public/resources/宋词导读/宋词导读—简略版.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB/%E5%AE%8B%E8%AF%8D%E5%AF%BC%E8%AF%BB%E2%80%94%E7%AE%80%E7%95%A5%E7%89%88.docx)
+- 另有 14 个文件，见 data/collection_files.csv
+
+**常微分方程 / AniroHU/FDU_Courses_Undergraduate**
+- [常微分方程/常微分方程-复旦.pdf](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B-%E5%A4%8D%E6%97%A6.pdf)
+- [常微分方程/常微分方程.docx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B.docx)
+- [常微分方程/常微分方程教程.pdf](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E6%95%99%E7%A8%8B.pdf)
+
+**并行分布计算 / Snivallus/FDU-Course-Notes-2024-2025**
+- [并行分布式计算/FDU 并行计算 1. 并行计算机.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%B9%B6%E8%A1%8C%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97/FDU%20%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97%201.%20%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97%E6%9C%BA.pdf)
+- [并行分布式计算/FDU 并行计算 2. 并行算法设计.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%B9%B6%E8%A1%8C%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97/FDU%20%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97%202.%20%E5%B9%B6%E8%A1%8C%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1.pdf)
+- [并行分布式计算/FDU 并行计算 3. 并行编程.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%B9%B6%E8%A1%8C%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97/FDU%20%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97%203.%20%E5%B9%B6%E8%A1%8C%E7%BC%96%E7%A8%8B.pdf)
+
+**并行分布计算 / Zhouxunzhe/Fudan-CS-Projects**
+- [Parallel-Computing/20307110315-周训哲.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Parallel-Computing/20307110315-%E5%91%A8%E8%AE%AD%E5%93%B2.pdf)
+- [Parallel-Computing/WordCount/.idea/WordCount.iml](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Parallel-Computing/WordCount/.idea/WordCount.iml)
+- [Parallel-Computing/WordCount/.idea/dbnavigator.xml](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Parallel-Computing/WordCount/.idea/dbnavigator.xml)
+- [Parallel-Computing/WordCount/.idea/inspectionProfiles/Project_Default.xml](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Parallel-Computing/WordCount/.idea/inspectionProfiles/Project_Default.xml)
+- [Parallel-Computing/WordCount/.idea/inspectionProfiles/profiles_settings.xml](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Parallel-Computing/WordCount/.idea/inspectionProfiles/profiles_settings.xml)
+- [Parallel-Computing/WordCount/.idea/misc.xml](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Parallel-Computing/WordCount/.idea/misc.xml)
+- [Parallel-Computing/WordCount/.idea/modules.xml](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Parallel-Computing/WordCount/.idea/modules.xml)
+- [Parallel-Computing/WordCount/run.txt](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Parallel-Computing/WordCount/run.txt)
+- [Parallel-Computing/并行分布式计算PJ.docx](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Parallel-Computing/%E5%B9%B6%E8%A1%8C%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97PJ.docx)
+
+**并行分布计算 / clb2001/FDU-COMP**
+- [并行计算/Lab 2：并行化 LCS.pdf](https://github.com/clb2001/FDU-COMP/blob/main/%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97/Lab%202%EF%BC%9A%E5%B9%B6%E8%A1%8C%E5%8C%96%20LCS.pdf)
+- [并行计算/Lab1：矩阵乘法.pdf](https://github.com/clb2001/FDU-COMP/blob/main/%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97/Lab1%EF%BC%9A%E7%9F%A9%E9%98%B5%E4%B9%98%E6%B3%95.pdf)
+
+**并行分布计算 / lrcc275/FudanCources**
+- [COMP130192并行分布式计算/PJ/numbers.txt](https://github.com/lrcc275/FudanCources/blob/main/COMP130192%E5%B9%B6%E8%A1%8C%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97/PJ/numbers.txt)
+- [COMP130192并行分布式计算/PJ/report_21307130148_陈锐林.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130192%E5%B9%B6%E8%A1%8C%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97/PJ/report_21307130148_%E9%99%88%E9%94%90%E6%9E%97.pdf)
+- [COMP130192并行分布式计算/课件/Lecture.01.并行计算与并行计算机结构模型(1).pptx](https://github.com/lrcc275/FudanCources/blob/main/COMP130192%E5%B9%B6%E8%A1%8C%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97/%E8%AF%BE%E4%BB%B6/Lecture.01.%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97%E4%B8%8E%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%93%E6%9E%84%E6%A8%A1%E5%9E%8B%281%29.pptx)
+- [COMP130192并行分布式计算/课件/Lecture.02.典型并行计算机系统介绍(1).pptx](https://github.com/lrcc275/FudanCources/blob/main/COMP130192%E5%B9%B6%E8%A1%8C%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97/%E8%AF%BE%E4%BB%B6/Lecture.02.%E5%85%B8%E5%9E%8B%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E4%BB%8B%E7%BB%8D%281%29.pptx)
+- [COMP130192并行分布式计算/课件/Lecture.03.并行算法与井行计算模型-.pptx](https://github.com/lrcc275/FudanCources/blob/main/COMP130192%E5%B9%B6%E8%A1%8C%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97/%E8%AF%BE%E4%BB%B6/Lecture.03.%E5%B9%B6%E8%A1%8C%E7%AE%97%E6%B3%95%E4%B8%8E%E4%BA%95%E8%A1%8C%E8%AE%A1%E7%AE%97%E6%A8%A1%E5%9E%8B-.pptx)
+- [COMP130192并行分布式计算/课件/Lecture.04.1.并行计算性能评测.pptx](https://github.com/lrcc275/FudanCources/blob/main/COMP130192%E5%B9%B6%E8%A1%8C%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97/%E8%AF%BE%E4%BB%B6/Lecture.04.1.%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97%E6%80%A7%E8%83%BD%E8%AF%84%E6%B5%8B.pptx)
+- [COMP130192并行分布式计算/课件/Lecture.04.2.并行算法基本设计策略-.pptx](https://github.com/lrcc275/FudanCources/blob/main/COMP130192%E5%B9%B6%E8%A1%8C%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97/%E8%AF%BE%E4%BB%B6/Lecture.04.2.%E5%B9%B6%E8%A1%8C%E7%AE%97%E6%B3%95%E5%9F%BA%E6%9C%AC%E8%AE%BE%E8%AE%A1%E7%AD%96%E7%95%A5-.pptx)
+- [COMP130192并行分布式计算/课件/Lecture.05.1.并行算法常用设计技术.pptx](https://github.com/lrcc275/FudanCources/blob/main/COMP130192%E5%B9%B6%E8%A1%8C%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97/%E8%AF%BE%E4%BB%B6/Lecture.05.1.%E5%B9%B6%E8%A1%8C%E7%AE%97%E6%B3%95%E5%B8%B8%E7%94%A8%E8%AE%BE%E8%AE%A1%E6%8A%80%E6%9C%AF.pptx)
+- [COMP130192并行分布式计算/课件/Lecture.05.2.并行算法一般设计过程.pptx](https://github.com/lrcc275/FudanCources/blob/main/COMP130192%E5%B9%B6%E8%A1%8C%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97/%E8%AF%BE%E4%BB%B6/Lecture.05.2.%E5%B9%B6%E8%A1%8C%E7%AE%97%E6%B3%95%E4%B8%80%E8%88%AC%E8%AE%BE%E8%AE%A1%E8%BF%87%E7%A8%8B.pptx)
+- [COMP130192并行分布式计算/课件/Lecture.06.1.稠密矩阵计算.pptx](https://github.com/lrcc275/FudanCources/blob/main/COMP130192%E5%B9%B6%E8%A1%8C%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97/%E8%AF%BE%E4%BB%B6/Lecture.06.1.%E7%A8%A0%E5%AF%86%E7%9F%A9%E9%98%B5%E8%AE%A1%E7%AE%97.pptx)
+- [COMP130192并行分布式计算/课件/Lecture.06.2.并行程序设计基础.pptx](https://github.com/lrcc275/FudanCources/blob/main/COMP130192%E5%B9%B6%E8%A1%8C%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97/%E8%AF%BE%E4%BB%B6/Lecture.06.2.%E5%B9%B6%E8%A1%8C%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80.pptx)
+- [COMP130192并行分布式计算/课件/Lecture.07.共享存储系统并行编程.v1.pptx](https://github.com/lrcc275/FudanCources/blob/main/COMP130192%E5%B9%B6%E8%A1%8C%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97/%E8%AF%BE%E4%BB%B6/Lecture.07.%E5%85%B1%E4%BA%AB%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F%E5%B9%B6%E8%A1%8C%E7%BC%96%E7%A8%8B.v1.pptx)
+- 另有 7 个文件，见 data/collection_files.csv
+
+**应用实变函数与泛函分析基础 / Su-Zi-Zhan/FDU-SDS-Lecture-Notes**
+- [AAST50010.01-应用实变函数与泛函分析基础/Lecture 1.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/AAST50010.01-%E5%BA%94%E7%94%A8%E5%AE%9E%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80/Lecture%201.pdf)
+- [AAST50010.01-应用实变函数与泛函分析基础/Lecture 2.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/AAST50010.01-%E5%BA%94%E7%94%A8%E5%AE%9E%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80/Lecture%202.pdf)
+- [AAST50010.01-应用实变函数与泛函分析基础/Lecture 3.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/AAST50010.01-%E5%BA%94%E7%94%A8%E5%AE%9E%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80/Lecture%203.pdf)
+- [AAST50010.01-应用实变函数与泛函分析基础/Lecture 4.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/AAST50010.01-%E5%BA%94%E7%94%A8%E5%AE%9E%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80/Lecture%204.pdf)
+
+**应用泛函分析 / Snivallus/FDU-Course-Notes-2024-2025**
+- [应用泛函分析/FDU 泛函分析 0. 实分析基础.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%BA%94%E7%94%A8%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/FDU%20%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%200.%20%E5%AE%9E%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80.pdf)
+- [应用泛函分析/FDU 泛函分析 1. 度量空间.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%BA%94%E7%94%A8%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/FDU%20%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%201.%20%E5%BA%A6%E9%87%8F%E7%A9%BA%E9%97%B4.pdf)
+- [应用泛函分析/FDU 泛函分析 2. Banach 空间.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%BA%94%E7%94%A8%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/FDU%20%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%202.%20Banach%20%E7%A9%BA%E9%97%B4.pdf)
+- [应用泛函分析/FDU 泛函分析 3. Hilbert 空间.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%BA%94%E7%94%A8%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/FDU%20%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%203.%20Hilbert%20%E7%A9%BA%E9%97%B4.pdf)
+- [应用泛函分析/FDU 泛函分析 4. 有界线性算子的基本理论.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%BA%94%E7%94%A8%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/FDU%20%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%204.%20%E6%9C%89%E7%95%8C%E7%BA%BF%E6%80%A7%E7%AE%97%E5%AD%90%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%90%86%E8%AE%BA.pdf)
+- [应用泛函分析/FDU 泛函分析 附录 A. 常用不等式.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%BA%94%E7%94%A8%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/FDU%20%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%20%E9%99%84%E5%BD%95%20A.%20%E5%B8%B8%E7%94%A8%E4%B8%8D%E7%AD%89%E5%BC%8F.pdf)
+- [应用泛函分析/泛函分析讲义.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%BA%94%E7%94%A8%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E8%AE%B2%E4%B9%89.pdf)
+
+**影视剧艺术 / victkk/FDU-Sharing**
+- [public/resources/影视剧艺术/2025-复习-重点总结.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%BD%B1%E8%A7%86%E5%89%A7%E8%89%BA%E6%9C%AF/2025-%E5%A4%8D%E4%B9%A0-%E9%87%8D%E7%82%B9%E6%80%BB%E7%BB%93.pdf)
+
 **思政 / kanzaler123/fdu-course-resources**
 - [毛概/2008年考卷.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%AF%9B%E6%A6%82/2008%E5%B9%B4%E8%80%83%E5%8D%B7.pdf)
 - [毛概/2009年考卷.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%AF%9B%E6%A6%82/2009%E5%B9%B4%E8%80%83%E5%8D%B7.pdf)
 - [毛概/2012年选择题.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%AF%9B%E6%A6%82/2012%E5%B9%B4%E9%80%89%E6%8B%A9%E9%A2%98.pdf)
+- [毛概/毛概 考点 答题框架模板 全部笔记整理（83页）.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%AF%9B%E6%A6%82/%E6%AF%9B%E6%A6%82%20%E8%80%83%E7%82%B9%20%E7%AD%94%E9%A2%98%E6%A1%86%E6%9E%B6%E6%A8%A1%E6%9D%BF%20%E5%85%A8%E9%83%A8%E7%AC%94%E8%AE%B0%E6%95%B4%E7%90%86%EF%BC%8883%E9%A1%B5%EF%BC%89.pdf)
+- [毛概/毛概笔记（43页全）.docx](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%AF%9B%E6%A6%82/%E6%AF%9B%E6%A6%82%E7%AC%94%E8%AE%B0%EF%BC%8843%E9%A1%B5%E5%85%A8%EF%BC%89.docx)
+- [毛概/知识点.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%AF%9B%E6%A6%82/%E7%9F%A5%E8%AF%86%E7%82%B9.pdf)
 - [毛概/选择题题库（20页）.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%AF%9B%E6%A6%82/%E9%80%89%E6%8B%A9%E9%A2%98%E9%A2%98%E5%BA%93%EF%BC%8820%E9%A1%B5%EF%BC%89.pdf)
+- [近纲/总复习.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E8%BF%91%E7%BA%B2/%E6%80%BB%E5%A4%8D%E4%B9%A0.pdf)
+- [近纲/近纲ppt/第一章 2.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E8%BF%91%E7%BA%B2/%E8%BF%91%E7%BA%B2ppt/%E7%AC%AC%E4%B8%80%E7%AB%A0%202.pdf)
+- [近纲/近纲ppt/第一章.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E8%BF%91%E7%BA%B2/%E8%BF%91%E7%BA%B2ppt/%E7%AC%AC%E4%B8%80%E7%AB%A0.pdf)
+- [近纲/近纲ppt/第七章.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E8%BF%91%E7%BA%B2/%E8%BF%91%E7%BA%B2ppt/%E7%AC%AC%E4%B8%83%E7%AB%A0.pdf)
+- [近纲/近纲ppt/第三章.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E8%BF%91%E7%BA%B2/%E8%BF%91%E7%BA%B2ppt/%E7%AC%AC%E4%B8%89%E7%AB%A0.pdf)
+- 另有 10 个文件，见 data/collection_files.csv
 
 **思政 / openFudan/fudan-coursera**
 - [1.通识教育/思想政治/毛泽东思想概论/毛概题库/毛概/思考习题.doc](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA/%E6%AF%9B%E6%A6%82%E9%A2%98%E5%BA%93/%E6%AF%9B%E6%A6%82/%E6%80%9D%E8%80%83%E4%B9%A0%E9%A2%98.doc)
 - [1.通识教育/思想政治/毛泽东思想概论/毛概题库/毛概/毛概1。1.doc](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA/%E6%AF%9B%E6%A6%82%E9%A2%98%E5%BA%93/%E6%AF%9B%E6%A6%82/%E6%AF%9B%E6%A6%821%E3%80%821.doc)
 - [1.通识教育/思想政治/毛泽东思想概论/毛概题库/毛概/毛概2。2.doc](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA/%E6%AF%9B%E6%A6%82%E9%A2%98%E5%BA%93/%E6%AF%9B%E6%A6%82/%E6%AF%9B%E6%A6%822%E3%80%822.doc)
+- [1.通识教育/思想政治/毛泽东思想概论/毛概题库/毛概/毛概复习资料大总结！！！.doc](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA/%E6%AF%9B%E6%A6%82%E9%A2%98%E5%BA%93/%E6%AF%9B%E6%A6%82/%E6%AF%9B%E6%A6%82%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E5%A4%A7%E6%80%BB%E7%BB%93%EF%BC%81%EF%BC%81%EF%BC%81.doc)
 - [1.通识教育/思想政治/毛泽东思想概论/毛概题库/毛概/毛概打印1.docx](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA/%E6%AF%9B%E6%A6%82%E9%A2%98%E5%BA%93/%E6%AF%9B%E6%A6%82/%E6%AF%9B%E6%A6%82%E6%89%93%E5%8D%B01.docx)
 - [1.通识教育/思想政治/毛泽东思想概论/毛概题库/毛概/毛概打印2.docx](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA/%E6%AF%9B%E6%A6%82%E9%A2%98%E5%BA%93/%E6%AF%9B%E6%A6%82/%E6%AF%9B%E6%A6%82%E6%89%93%E5%8D%B02.docx)
+- [1.通识教育/思想政治/毛泽东思想概论/2023毛概资料.pdf](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA/2023%E6%AF%9B%E6%A6%82%E8%B5%84%E6%96%99.pdf)
+- [1.通识教育/思想政治/毛泽东思想概论/毛概笔记  李冉.rtf](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA/%E6%AF%9B%E6%A6%82%E7%AC%94%E8%AE%B0%20%20%E6%9D%8E%E5%86%89.rtf)
+- [1.通识教育/思想政治/毛泽东思想概论/毛概题库/mg.doc](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA/%E6%AF%9B%E6%A6%82%E9%A2%98%E5%BA%93/mg.doc)
+- [1.通识教育/思想政治/毛泽东思想概论/毛概题库/mg/mg.doc](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA/%E6%AF%9B%E6%A6%82%E9%A2%98%E5%BA%93/mg/mg.doc)
+- [1.通识教育/思想政治/毛泽东思想概论/毛概题库/mg/mg2.doc](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA/%E6%AF%9B%E6%A6%82%E9%A2%98%E5%BA%93/mg/mg2.doc)
+- [1.通识教育/思想政治/毛泽东思想概论/毛概题库/mg/mg3.doc](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA/%E6%AF%9B%E6%A6%82%E9%A2%98%E5%BA%93/mg/mg3.doc)
+- 另有 9 个文件，见 data/collection_files.csv
 
 **思政 / victkk/FDU-Sharing**
 - [public/resources/习概/2023春A卷回忆版.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%B9%A0%E6%A6%82/2023%E6%98%A5A%E5%8D%B7%E5%9B%9E%E5%BF%86%E7%89%88.docx)
 - [public/resources/习概/2023秋习概.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%B9%A0%E6%A6%82/2023%E7%A7%8B%E4%B9%A0%E6%A6%82.docx)
 - [public/resources/习概/22-23学年第一学期 A卷.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%B9%A0%E6%A6%82/22-23%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20A%E5%8D%B7.pdf)
 - [public/resources/习概/习思想-A卷.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%B9%A0%E6%A6%82/%E4%B9%A0%E6%80%9D%E6%83%B3-A%E5%8D%B7.pdf)
+- [public/resources/习概/习概笔记（含PPT重点)（重要！！）.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%B9%A0%E6%A6%82/%E4%B9%A0%E6%A6%82%E7%AC%94%E8%AE%B0%EF%BC%88%E5%90%ABPPT%E9%87%8D%E7%82%B9%29%EF%BC%88%E9%87%8D%E8%A6%81%EF%BC%81%EF%BC%81%EF%BC%89.docx)
+- [public/resources/习概/习概老师总结（出过原题）.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%B9%A0%E6%A6%82/%E4%B9%A0%E6%A6%82%E8%80%81%E5%B8%88%E6%80%BB%E7%BB%93%EF%BC%88%E5%87%BA%E8%BF%87%E5%8E%9F%E9%A2%98%EF%BC%89.docx)
+- [public/resources/习概/习概老师总结（出过原题）.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%B9%A0%E6%A6%82/%E4%B9%A0%E6%A6%82%E8%80%81%E5%B8%88%E6%80%BB%E7%BB%93%EF%BC%88%E5%87%BA%E8%BF%87%E5%8E%9F%E9%A2%98%EF%BC%89.pdf)
 - [public/resources/习概/习概资料.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%B9%A0%E6%A6%82/%E4%B9%A0%E6%A6%82%E8%B5%84%E6%96%99.docx)
 - [public/resources/习概/习概资料.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%B9%A0%E6%A6%82/%E4%B9%A0%E6%A6%82%E8%B5%84%E6%96%99.pdf)
 - [public/resources/习概/二十大报告.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%B9%A0%E6%A6%82/%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%8A%A5%E5%91%8A.pdf)
 - [public/resources/习概/二十大报告图解.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%B9%A0%E6%A6%82/%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%8A%A5%E5%91%8A%E5%9B%BE%E8%A7%A3.docx)
 - [public/resources/习概/二十大报告图解.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%B9%A0%E6%A6%82/%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%8A%A5%E5%91%8A%E5%9B%BE%E8%A7%A3.pdf)
-- [public/resources/习概/二十大相关资料.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%B9%A0%E6%A6%82/%E4%BA%8C%E5%8D%81%E5%A4%A7%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99.pdf)
-- [public/resources/毛概/2008年考卷.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%AF%9B%E6%A6%82/2008%E5%B9%B4%E8%80%83%E5%8D%B7.pdf)
-- [public/resources/毛概/2009年考卷.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%AF%9B%E6%A6%82/2009%E5%B9%B4%E8%80%83%E5%8D%B7.pdf)
-- 另有 15 个文件，见 data/collection_files.csv
+- 另有 25 个文件，见 data/collection_files.csv
 
 **操作系统 / AniroHU/FDU_Courses_Undergraduate**
 - [操作系统/Chp4 VM Policy Swap.pptx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/Chp4%20VM%20Policy%20Swap.pptx)
@@ -1339,6 +1856,36 @@
 - [操作系统/Lab/Lab 07.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/Lab/Lab%2007.pdf)
 - 另有 21 个文件，见 data/collection_files.csv
 
+**操作系统 / Zhouxunzhe/Fudan-CS-Projects**
+- [Operating-System/OSTEP/The little book of semaphores.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Operating-System/OSTEP/The%20little%20book%20of%20semaphores.pdf)
+- [Operating-System/OSTEP/lecture12-Semapores.pptx](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Operating-System/OSTEP/lecture12-Semapores.pptx)
+- [Operating-System/OSTEP/ostep-code-master/cpu-api/Makefile](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Operating-System/OSTEP/ostep-code-master/cpu-api/Makefile)
+- [Operating-System/OSTEP/ostep-code-master/dist-intro/Makefile](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Operating-System/OSTEP/ostep-code-master/dist-intro/Makefile)
+- [Operating-System/OSTEP/ostep-code-master/intro/Makefile](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Operating-System/OSTEP/ostep-code-master/intro/Makefile)
+- [Operating-System/OSTEP/ostep-code-master/threads-api/Makefile](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Operating-System/OSTEP/ostep-code-master/threads-api/Makefile)
+- [Operating-System/OSTEP/ostep-code-master/threads-bugs/Makefile](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Operating-System/OSTEP/ostep-code-master/threads-bugs/Makefile)
+- [Operating-System/OSTEP/ostep-code-master/threads-cv/Makefile](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Operating-System/OSTEP/ostep-code-master/threads-cv/Makefile)
+- [Operating-System/OSTEP/ostep-code-master/threads-intro/Makefile](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Operating-System/OSTEP/ostep-code-master/threads-intro/Makefile)
+- [Operating-System/OSTEP/ostep-code-master/threads-sema/Makefile](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Operating-System/OSTEP/ostep-code-master/threads-sema/Makefile)
+- [Operating-System/OSTEP/ostep-code-master/vm-intro/Makefile](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Operating-System/OSTEP/ostep-code-master/vm-intro/Makefile)
+- [Operating-System/OSlab/.repo/TRACE_FILE](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Operating-System/OSlab/.repo/TRACE_FILE)
+- 另有 143 个文件，见 data/collection_files.csv
+
+**操作系统 / lrcc275/FudanCources**
+- [COMP130110操作系统/Operating Systems Three Easy Pieces (... (Z-Library).pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130110%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/Operating%20Systems%20Three%20Easy%20Pieces%20%28...%20%28Z-Library%29.pdf)
+- [COMP130110操作系统/lab报告/21307130148-陈锐林-oslab0.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130110%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/lab%E6%8A%A5%E5%91%8A/21307130148-%E9%99%88%E9%94%90%E6%9E%97-oslab0.pdf)
+- [COMP130110操作系统/lab报告/21307130148-陈锐林-oslab1.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130110%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/lab%E6%8A%A5%E5%91%8A/21307130148-%E9%99%88%E9%94%90%E6%9E%97-oslab1.pdf)
+- [COMP130110操作系统/lab报告/21307130148-陈锐林-oslab3.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130110%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/lab%E6%8A%A5%E5%91%8A/21307130148-%E9%99%88%E9%94%90%E6%9E%97-oslab3.pdf)
+- [COMP130110操作系统/lab报告/21307130148-陈锐林-oslab4.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130110%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/lab%E6%8A%A5%E5%91%8A/21307130148-%E9%99%88%E9%94%90%E6%9E%97-oslab4.pdf)
+- [COMP130110操作系统/lab报告/21307130148-陈锐林-oslab5.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130110%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/lab%E6%8A%A5%E5%91%8A/21307130148-%E9%99%88%E9%94%90%E6%9E%97-oslab5.pdf)
+- [COMP130110操作系统/lab报告/21307130148-陈锐林-oslab6.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130110%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/lab%E6%8A%A5%E5%91%8A/21307130148-%E9%99%88%E9%94%90%E6%9E%97-oslab6.pdf)
+- [COMP130110操作系统/lab报告/21307130148-陈锐林oslab2.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130110%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/lab%E6%8A%A5%E5%91%8A/21307130148-%E9%99%88%E9%94%90%E6%9E%97oslab2.pdf)
+- [COMP130110操作系统/作业/HW10_21307130148.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130110%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E4%BD%9C%E4%B8%9A/HW10_21307130148.pdf)
+- [COMP130110操作系统/作业/HW11_21307130148.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130110%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E4%BD%9C%E4%B8%9A/HW11_21307130148.pdf)
+- [COMP130110操作系统/作业/HW12_21307130148.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130110%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E4%BD%9C%E4%B8%9A/HW12_21307130148.pdf)
+- [COMP130110操作系统/作业/HW2_21307130148.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130110%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E4%BD%9C%E4%B8%9A/HW2_21307130148.pdf)
+- 另有 31 个文件，见 data/collection_files.csv
+
 **操作系统 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/操作系统/0_os.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/0_os.pdf)
 - [3.专业教育/计算机科学与技术/专业必修/操作系统/11_IO Manage and disk shceduling.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/11_IO%20Manage%20and%20disk%20shceduling.pdf)
@@ -1353,6 +1900,14 @@
 - [3.专业教育/计算机科学与技术/专业必修/操作系统/8_virtual memory.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/8_virtual%20memory.pdf)
 - [3.专业教育/计算机科学与技术/专业必修/操作系统/9_uniprocessor scheduling.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/9_uniprocessor%20scheduling.pdf)
 - 另有 24 个文件，见 data/collection_files.csv
+
+**操作系统 / zhuth/FDUCS**
+- [OSlab/09300240004_朱恬骅_lab5_rev1.pdf](https://github.com/zhuth/FDUCS/blob/master/OSlab/09300240004_%E6%9C%B1%E6%81%AC%E9%AA%85_lab5_rev1.pdf)
+- [OSlab/09300240004_朱恬骅_lab6.pdf](https://github.com/zhuth/FDUCS/blob/master/OSlab/09300240004_%E6%9C%B1%E6%81%AC%E9%AA%85_lab6.pdf)
+- [OSlab/09300240004_朱恬骅_lab7.pdf](https://github.com/zhuth/FDUCS/blob/master/OSlab/09300240004_%E6%9C%B1%E6%81%AC%E9%AA%85_lab7.pdf)
+- [OSlab/lab3-报告.docx](https://github.com/zhuth/FDUCS/blob/master/OSlab/lab3-%E6%8A%A5%E5%91%8A.docx)
+- [OSlab/lab4_朱恬骅_09300240004.pdf](https://github.com/zhuth/FDUCS/blob/master/OSlab/lab4_%E6%9C%B1%E6%81%AC%E9%AA%85_09300240004.pdf)
+- [OSlab/lab7.rar](https://github.com/zhuth/FDUCS/blob/master/OSlab/lab7.rar)
 
 **数值算法 / ForeverHaibara/Fudan-Courses**
 - [数值算法与案例分析/Project 1/Project 1 Intro.md](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/Project%201/Project%201%20Intro.md)
@@ -1383,8 +1938,15 @@
 - [MATH50009.01-数值算法与案例分析Ⅱ/homework/HW-0310.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH50009.01-%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A1/homework/HW-0310.pdf)
 - [MATH50009.01-数值算法与案例分析Ⅱ/homework/HW-0317.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH50009.01-%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A1/homework/HW-0317.pdf)
 - [MATH50009.01-数值算法与案例分析Ⅱ/homework/HW-0324.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH50009.01-%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A1/homework/HW-0324.pdf)
+- [MATH50009.01-数值算法与案例分析Ⅱ/notes/Lecture 1.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH50009.01-%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A1/notes/Lecture%201.pdf)
+- [MATH50009.01-数值算法与案例分析Ⅱ/notes/Lecture 2.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH50009.01-%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A1/notes/Lecture%202.pdf)
+- [MATH50009.01-数值算法与案例分析Ⅱ/notes/Lecture 3.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH50009.01-%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A1/notes/Lecture%203.pdf)
+- [MATH50009.01-数值算法与案例分析Ⅱ/notes/Lecture 5.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH50009.01-%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A1/notes/Lecture%205.pdf)
+- [MATH50009.01-数值算法与案例分析Ⅱ/notes/Lecture 7.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH50009.01-%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A1/notes/Lecture%207.pdf)
+- 另有 1 个文件，见 data/collection_files.csv
 
 **数值算法 / hadanice/OpenDS**
+- [数值算法与案例分析Ⅰ/NumAlgo笔记.pdf](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A0/NumAlgo%E7%AC%94%E8%AE%B0.pdf)
 - [数值算法与案例分析Ⅰ/project/Francis_QR.pdf](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A0/project/Francis_QR.pdf)
 - [数值算法与案例分析Ⅰ/作业/20250908/What every computer scientist should know about floating-point arithmetic.pdf](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A0/%E4%BD%9C%E4%B8%9A/20250908/What%20every%20computer%20scientist%20should%20know%20about%20floating-point%20arithmetic.pdf)
 - [数值算法与案例分析Ⅰ/作业/20250908/homework-20250908.pdf](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A0/%E4%BD%9C%E4%B8%9A/20250908/homework-20250908.pdf)
@@ -1396,8 +1958,7 @@
 - [数值算法与案例分析Ⅰ/作业/20250922/作业9.22.pdf](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A0/%E4%BD%9C%E4%B8%9A/20250922/%E4%BD%9C%E4%B8%9A9.22.pdf)
 - [数值算法与案例分析Ⅰ/作业/20250929/homework-20250929.pdf](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A0/%E4%BD%9C%E4%B8%9A/20250929/homework-20250929.pdf)
 - [数值算法与案例分析Ⅰ/作业/20250929/作业9.29.pdf](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A0/%E4%BD%9C%E4%B8%9A/20250929/%E4%BD%9C%E4%B8%9A9.29.pdf)
-- [数值算法与案例分析Ⅰ/作业/20251013/homework-20251013.pdf](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A0/%E4%BD%9C%E4%B8%9A/20251013/homework-20251013.pdf)
-- 另有 34 个文件，见 data/collection_files.csv
+- 另有 52 个文件，见 data/collection_files.csv
 
 **数值算法 / michaellu2007/fdu-note-summarized**
 - [数值算法与案例分析/assets/katex/fonts/KaTeX_AMS-Regular.woff2](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/assets/katex/fonts/KaTeX_AMS-Regular.woff2)
@@ -1412,10 +1973,20 @@
 - [数值算法与案例分析/assets/katex/fonts/KaTeX_Math-BoldItalic.woff2](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/assets/katex/fonts/KaTeX_Math-BoldItalic.woff2)
 - [数值算法与案例分析/assets/katex/fonts/KaTeX_Math-Italic.woff2](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/assets/katex/fonts/KaTeX_Math-Italic.woff2)
 - [数值算法与案例分析/assets/katex/fonts/KaTeX_SansSerif-Bold.woff2](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/assets/katex/fonts/KaTeX_SansSerif-Bold.woff2)
-- 另有 8 个文件，见 data/collection_files.csv
+- 另有 11 个文件，见 data/collection_files.csv
 
 **数字信号处理 / victkk/FDU-Sharing**
 - [public/resources/信号与通信系统/信号与系统概论-2022年春季学期-A卷.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E9%80%9A%E4%BF%A1%E7%B3%BB%E7%BB%9F/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA-2022%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F-A%E5%8D%B7.pdf)
+
+**数字图像处理 / lrcc275/FudanCources**
+- [COMP130032数字图像处理/DIP_PJ/main.tex](https://github.com/lrcc275/FudanCources/blob/main/COMP130032%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/DIP_PJ/main.tex)
+- [COMP130032数字图像处理/DIP_PJ/ref.bib](https://github.com/lrcc275/FudanCources/blob/main/COMP130032%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/DIP_PJ/ref.bib)
+- [COMP130032数字图像处理/DIP_Project/NonLocal_Data.txt](https://github.com/lrcc275/FudanCources/blob/main/COMP130032%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/DIP_Project/NonLocal_Data.txt)
+- [COMP130032数字图像处理/Report_21307130148_陈锐林.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130032%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/Report_21307130148_%E9%99%88%E9%94%90%E6%9E%97.pdf)
+
+**数字图像处理 / zhuth/FDUCS**
+- [DigitalImageProcessing_Project/main.pdf](https://github.com/zhuth/FDUCS/blob/master/DigitalImageProcessing_Project/main.pdf)
+- [DigitalImageProcessing_Project/presen.pdf](https://github.com/zhuth/FDUCS/blob/master/DigitalImageProcessing_Project/presen.pdf)
 
 **数字逻辑与部件设计 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/数字逻辑与部件设计/01-二进制+From+Zero+to+One+1.pptx](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E4%B8%8E%E9%83%A8%E4%BB%B6%E8%AE%BE%E8%AE%A1/01-%E4%BA%8C%E8%BF%9B%E5%88%B6%2BFrom%2BZero%2Bto%2BOne%2B1.pptx)
@@ -1456,6 +2027,54 @@
 **数据库及实现 / ForeverHaibara/Fudan-Courses**
 - [数据库及实现/数据库及实现.md](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8F%8A%E5%AE%9E%E7%8E%B0/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8F%8A%E5%AE%9E%E7%8E%B0.md)
 
+**数据库及实现 / hadanice/OpenDS**
+- [数据库及实现/笔记/01-数据库系统概论.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8F%8A%E5%AE%9E%E7%8E%B0/%E7%AC%94%E8%AE%B0/01-%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA.md)
+- [数据库及实现/笔记/02-关系数据库基本原理.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8F%8A%E5%AE%9E%E7%8E%B0/%E7%AC%94%E8%AE%B0/02-%E5%85%B3%E7%B3%BB%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86.md)
+- [数据库及实现/笔记/03-数据库设计方法.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8F%8A%E5%AE%9E%E7%8E%B0/%E7%AC%94%E8%AE%B0/03-%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%B3%95.md)
+- [数据库及实现/笔记/04-MySQL概述.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8F%8A%E5%AE%9E%E7%8E%B0/%E7%AC%94%E8%AE%B0/04-MySQL%E6%A6%82%E8%BF%B0.md)
+- [数据库及实现/笔记/05-数据库和表的管理.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8F%8A%E5%AE%9E%E7%8E%B0/%E7%AC%94%E8%AE%B0/05-%E6%95%B0%E6%8D%AE%E5%BA%93%E5%92%8C%E8%A1%A8%E7%9A%84%E7%AE%A1%E7%90%86.md)
+- [数据库及实现/笔记/06-数据查询与管理.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8F%8A%E5%AE%9E%E7%8E%B0/%E7%AC%94%E8%AE%B0/06-%E6%95%B0%E6%8D%AE%E6%9F%A5%E8%AF%A2%E4%B8%8E%E7%AE%A1%E7%90%86.md)
+- [数据库及实现/笔记/07-索引与视图.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8F%8A%E5%AE%9E%E7%8E%B0/%E7%AC%94%E8%AE%B0/07-%E7%B4%A2%E5%BC%95%E4%B8%8E%E8%A7%86%E5%9B%BE.md)
+- [数据库及实现/笔记/08-存储过程与函数.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8F%8A%E5%AE%9E%E7%8E%B0/%E7%AC%94%E8%AE%B0/08-%E5%AD%98%E5%82%A8%E8%BF%87%E7%A8%8B%E4%B8%8E%E5%87%BD%E6%95%B0.md)
+- [数据库及实现/笔记/09-触发器权限事务并发.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8F%8A%E5%AE%9E%E7%8E%B0/%E7%AC%94%E8%AE%B0/09-%E8%A7%A6%E5%8F%91%E5%99%A8%E6%9D%83%E9%99%90%E4%BA%8B%E5%8A%A1%E5%B9%B6%E5%8F%91.md)
+- [数据库及实现/笔记/10-查询执行.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8F%8A%E5%AE%9E%E7%8E%B0/%E7%AC%94%E8%AE%B0/10-%E6%9F%A5%E8%AF%A2%E6%89%A7%E8%A1%8C.md)
+- [数据库及实现/笔记/11-查询优化.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8F%8A%E5%AE%9E%E7%8E%B0/%E7%AC%94%E8%AE%B0/11-%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96.md)
+- [数据库及实现/笔记/12-分布式与NoSQL数据库.md](https://github.com/hadanice/OpenDS/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8F%8A%E5%AE%9E%E7%8E%B0/%E7%AC%94%E8%AE%B0/12-%E5%88%86%E5%B8%83%E5%BC%8F%E4%B8%8ENoSQL%E6%95%B0%E6%8D%AE%E5%BA%93.md)
+- 另有 2 个文件，见 data/collection_files.csv
+
+**数据库新进展 / FDUanonym/FDU-CST-Cracker**
+- [COMP630040 数据库新进展/数据库新进展大纲.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/COMP630040%20%E6%95%B0%E6%8D%AE%E5%BA%93%E6%96%B0%E8%BF%9B%E5%B1%95/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%96%B0%E8%BF%9B%E5%B1%95%E5%A4%A7%E7%BA%B2.pdf)
+
+**数据库系统引论 / AniroHU/FDU_Courses_Undergraduate**
+- [Database/Demo(1).mp4](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Database/Demo%281%29.mp4)
+- [Database/Slides/CISC 332 NoSQL Lecture 1.pdf](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Database/Slides/CISC%20332%20NoSQL%20Lecture%201.pdf)
+- [Database/Slides/CISC332 Lecture 2 MongoDB.pdf](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Database/Slides/CISC332%20Lecture%202%20MongoDB.pdf)
+- [Database/Slides/CISC332 Lecture 4 RAG (1).pdf](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Database/Slides/CISC332%20Lecture%204%20RAG%20%281%29.pdf)
+- [Database/Slides/DDL - Winter 2024.pptx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Database/Slides/DDL%20-%20Winter%202024.pptx)
+- [Database/Slides/ER model 2024.pptx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Database/Slides/ER%20model%202024.pptx)
+- [Database/Slides/Relational Model 2024.pptx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Database/Slides/Relational%20Model%202024.pptx)
+- [Database/Slides/SQL-Intro-20241.pptx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Database/Slides/SQL-Intro-20241.pptx)
+- [Database/Slides/SQL-advanced-20241.pptx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Database/Slides/SQL-advanced-20241.pptx)
+- [Database/Slides/SQL-joins-2025.pptx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Database/Slides/SQL-joins-2025.pptx)
+- [Database/Slides/UniversityDataPDF1.pdf](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Database/Slides/UniversityDataPDF1.pdf)
+- [Database/Slides/V6.doc](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Database/Slides/V6.doc)
+- 另有 8 个文件，见 data/collection_files.csv
+
+**数据库系统引论 / ChenTao98/FudanUniversity**
+- [数据库/db_project/.idea/artifacts/db_project_jar.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/db_project/.idea/artifacts/db_project_jar.xml)
+- [数据库/db_project/.idea/artifacts/db_project_jar2.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/db_project/.idea/artifacts/db_project_jar2.xml)
+- [数据库/db_project/.idea/dataSources.local.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/db_project/.idea/dataSources.local.xml)
+- [数据库/db_project/.idea/dataSources.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/db_project/.idea/dataSources.xml)
+- [数据库/db_project/.idea/dataSources/7aee8073-a71a-475b-84ad-6e635d861626.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/db_project/.idea/dataSources/7aee8073-a71a-475b-84ad-6e635d861626.xml)
+- [数据库/db_project/.idea/libraries/JPA_1_0_JPA_1_0.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/db_project/.idea/libraries/JPA_1_0_JPA_1_0.xml)
+- [数据库/db_project/.idea/libraries/commons_dbutils_1_4.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/db_project/.idea/libraries/commons_dbutils_1_4.xml)
+- [数据库/db_project/.idea/libraries/mysql_connector_java_8_0_11.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/db_project/.idea/libraries/mysql_connector_java_8_0_11.xml)
+- [数据库/db_project/.idea/libraries/mysql_connector_java_8_0_11.xml___jb_old___](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/db_project/.idea/libraries/mysql_connector_java_8_0_11.xml___jb_old___)
+- [数据库/db_project/.idea/misc.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/db_project/.idea/misc.xml)
+- [数据库/db_project/.idea/modules.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/db_project/.idea/modules.xml)
+- [数据库/db_project/.idea/uiDesigner.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/db_project/.idea/uiDesigner.xml)
+- 另有 9 个文件，见 data/collection_files.csv
+
 **数据库系统引论 / Snivallus/FDU-Course-Notes-2024-2025**
 - [数据库引论/FDU 数据库 1. 关系数据库.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/FDU%20%E6%95%B0%E6%8D%AE%E5%BA%93%201.%20%E5%85%B3%E7%B3%BB%E6%95%B0%E6%8D%AE%E5%BA%93.pdf)
 - [数据库引论/FDU 数据库 2. SQL.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/FDU%20%E6%95%B0%E6%8D%AE%E5%BA%93%202.%20SQL.pdf)
@@ -1463,6 +2082,36 @@
 - [数据库引论/FDU 数据库 4. 存储与索引.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/FDU%20%E6%95%B0%E6%8D%AE%E5%BA%93%204.%20%E5%AD%98%E5%82%A8%E4%B8%8E%E7%B4%A2%E5%BC%95.pdf)
 - [数据库引论/FDU 数据库 5. 查询优化.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/FDU%20%E6%95%B0%E6%8D%AE%E5%BA%93%205.%20%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96.pdf)
 - [数据库引论/FDU 数据库 6. 事务管理.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/FDU%20%E6%95%B0%E6%8D%AE%E5%BA%93%206.%20%E4%BA%8B%E5%8A%A1%E7%AE%A1%E7%90%86.pdf)
+
+**数据库系统引论 / Zhouxunzhe/Fudan-CS-Projects**
+- [DataBase/MyJQL/CMakeLists.txt](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/DataBase/MyJQL/CMakeLists.txt)
+- [DataBase/MyJQL/CMakeSettings.json](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/DataBase/MyJQL/CMakeSettings.json)
+- [DataBase/MyJQL/Debug/myjql.exe](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/DataBase/MyJQL/Debug/myjql.exe)
+- [DataBase/MyJQL/Debug/myjql.pdb](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/DataBase/MyJQL/Debug/myjql.pdb)
+- [DataBase/MyJQL/driver/CMakeLists.txt](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/DataBase/MyJQL/driver/CMakeLists.txt)
+- [DataBase/MyJQL/main/CMakeLists.txt](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/DataBase/MyJQL/main/CMakeLists.txt)
+- [DataBase/MyJQL/myjql.sln](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/DataBase/MyJQL/myjql.sln)
+- [DataBase/MyJQL/myjql/Debug/block.obj](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/DataBase/MyJQL/myjql/Debug/block.obj)
+- [DataBase/MyJQL/myjql/Debug/buffer_pool.obj](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/DataBase/MyJQL/myjql/Debug/buffer_pool.obj)
+- [DataBase/MyJQL/myjql/Debug/file_io.obj](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/DataBase/MyJQL/myjql/Debug/file_io.obj)
+- [DataBase/MyJQL/myjql/Debug/hash_map.obj](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/DataBase/MyJQL/myjql/Debug/hash_map.obj)
+- [DataBase/MyJQL/myjql/Debug/hash_map_main.obj](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/DataBase/MyJQL/myjql/Debug/hash_map_main.obj)
+- 另有 90 个文件，见 data/collection_files.csv
+
+**数据库系统引论 / clb2001/FDU-COMP**
+- [数据库引论/MusicMusic/.classpath](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/MusicMusic/.classpath)
+- [数据库引论/MusicMusic/.project](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/MusicMusic/.project)
+- [数据库引论/MusicMusic/.settings/.jsdtscope](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/MusicMusic/.settings/.jsdtscope)
+- [数据库引论/MusicMusic/.settings/org.eclipse.jdt.core.prefs](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/MusicMusic/.settings/org.eclipse.jdt.core.prefs)
+- [数据库引论/MusicMusic/.settings/org.eclipse.wst.common.component](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/MusicMusic/.settings/org.eclipse.wst.common.component)
+- [数据库引论/MusicMusic/.settings/org.eclipse.wst.common.project.facet.core.xml](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/MusicMusic/.settings/org.eclipse.wst.common.project.facet.core.xml)
+- [数据库引论/MusicMusic/.settings/org.eclipse.wst.jsdt.ui.superType.container](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/MusicMusic/.settings/org.eclipse.wst.jsdt.ui.superType.container)
+- [数据库引论/MusicMusic/.settings/org.eclipse.wst.jsdt.ui.superType.name](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/MusicMusic/.settings/org.eclipse.wst.jsdt.ui.superType.name)
+- [数据库引论/MusicMusic/WebContent/META-INF/MANIFEST.MF](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/MusicMusic/WebContent/META-INF/MANIFEST.MF)
+- [数据库引论/MusicMusic/WebContent/WEB-INF/lib/commons-beanutils-1.8.3.jar](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/MusicMusic/WebContent/WEB-INF/lib/commons-beanutils-1.8.3.jar)
+- [数据库引论/MusicMusic/WebContent/WEB-INF/lib/commons-fileupload-1.2.2.jar](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/MusicMusic/WebContent/WEB-INF/lib/commons-fileupload-1.2.2.jar)
+- [数据库引论/MusicMusic/WebContent/WEB-INF/lib/commons-io-2.2.jar](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/MusicMusic/WebContent/WEB-INF/lib/commons-io-2.2.jar)
+- 另有 65 个文件，见 data/collection_files.csv
 
 **数据库系统引论 / kanzaler123/fdu-course-resources**
 - [数据库/参考资料/2021-06-A.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/2021-06-A.pdf)
@@ -1494,6 +2143,29 @@
 - [3.专业教育/计算机科学与技术/专业必修/数据库引论/Part 3 Data Storage and Querying/ch11.ppt.crdownload](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/Part%203%20Data%20Storage%20and%20Querying/ch11.ppt.crdownload)
 - 另有 50 个文件，见 data/collection_files.csv
 
+**数据挖掘技术 / Zhouxunzhe/Fudan-CS-Projects**
+- [Data-Mining/PROJECT/part1/Part1 Knowledge Graph Mining.docx](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Mining/PROJECT/part1/Part1%20Knowledge%20Graph%20Mining.docx)
+- [Data-Mining/PROJECT/part1/type_count.txt](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Mining/PROJECT/part1/type_count.txt)
+- [Data-Mining/PROJECT/分工.txt](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Mining/PROJECT/%E5%88%86%E5%B7%A5.txt)
+- [Data-Mining/PROJECT/数据挖掘.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Mining/PROJECT/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98.pdf)
+- [Data-Mining/label/Doc2vec and Kmeans.md](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Mining/label/Doc2vec%20and%20Kmeans.md)
+- [Data-Mining/label/data/36kr.csv](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Mining/label/data/36kr.csv)
+- [Data-Mining/label/data/36kr_articles.csv](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Mining/label/data/36kr_articles.csv)
+- [Data-Mining/label/data/36kr_articles.pkl](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Mining/label/data/36kr_articles.pkl)
+- [Data-Mining/label/data/cluster_article.pkl](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Mining/label/data/cluster_article.pkl)
+- [Data-Mining/label/data/stop_words.txt](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Mining/label/data/stop_words.txt)
+- [Data-Mining/multi-models/data/stop_words.txt](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Mining/multi-models/data/stop_words.txt)
+- [Data-Mining/multi-models/data/test_data.txt](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Mining/multi-models/data/test_data.txt)
+- 另有 33 个文件，见 data/collection_files.csv
+
+**数据的背后 / Su-Zi-Zhan/FDU-SDS-Lecture-Notes**
+- [GECC10096.01-数据的背后/cheatingSheet.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/GECC10096.01-%E6%95%B0%E6%8D%AE%E7%9A%84%E8%83%8C%E5%90%8E/cheatingSheet.pdf)
+
+**数据科学 / FDUanonym/FDU-CST-Cracker**
+- [COMP820036 数据科学/ch1绪论202309to.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/COMP820036%20%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6/ch1%E7%BB%AA%E8%AE%BA202309to.pdf)
+- [COMP820036 数据科学/ch2数据界202309to.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/COMP820036%20%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6/ch2%E6%95%B0%E6%8D%AE%E7%95%8C202309to.pdf)
+- [COMP820036 数据科学/ch3人与数据202309to.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/COMP820036%20%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6/ch3%E4%BA%BA%E4%B8%8E%E6%95%B0%E6%8D%AE202309to.pdf)
+
 **数据结构 / BeneneeYu/Course-Project**
 - [Optimizing-Query-With-AC-Automaton/out/production/DataStructureProject3/com/ACautomaton$MyOneACSearchTest$StringSearchResult.class](https://github.com/BeneneeYu/Course-Project/blob/master/Optimizing-Query-With-AC-Automaton/out/production/DataStructureProject3/com/ACautomaton%24MyOneACSearchTest%24StringSearchResult.class)
 - [Optimizing-Query-With-AC-Automaton/out/production/DataStructureProject3/com/ACautomaton$MyOneACSearchTest$TreeNode.class](https://github.com/BeneneeYu/Course-Project/blob/master/Optimizing-Query-With-AC-Automaton/out/production/DataStructureProject3/com/ACautomaton%24MyOneACSearchTest%24TreeNode.class)
@@ -1507,20 +2179,40 @@
 - [算法与数据结构/16 MaximumFlowApplications.pdf](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/16%20MaximumFlowApplications.pdf)
 - [算法与数据结构/算法与数据结构.md](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
 
+**数据结构 / Zhouxunzhe/Fudan-CS-Projects**
+- [Data-Structure/Union.h.gch](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Structure/Union.h.gch)
+- [Data-Structure/main.exe](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Structure/main.exe)
+- [Data-Structure/课程设计报告.docx](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Structure/%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1%E6%8A%A5%E5%91%8A.docx)
+
+**数据结构 / clb2001/FDU-COMP**
+- [数据结构/DS-OOP/.vscode/c_cpp_properties.json](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DS-OOP/.vscode/c_cpp_properties.json)
+- [数据结构/DS-OOP/.vscode/launch.json](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DS-OOP/.vscode/launch.json)
+- [数据结构/DS-OOP/.vscode/settings.json](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DS-OOP/.vscode/settings.json)
+- [数据结构/DS-OOP/.vscode/tasks.json](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DS-OOP/.vscode/tasks.json)
+- [数据结构/DS-OOP/ch02_LinerList/CircList/CircList.dsp](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DS-OOP/ch02_LinerList/CircList/CircList.dsp)
+- [数据结构/DS-OOP/ch02_LinerList/CircList/CircList.dsw](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DS-OOP/ch02_LinerList/CircList/CircList.dsw)
+- [数据结构/DS-OOP/ch02_LinerList/CircList/list.txt](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DS-OOP/ch02_LinerList/CircList/list.txt)
+- [数据结构/DS-OOP/ch02_LinerList/DblList/DblList.dsp](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DS-OOP/ch02_LinerList/DblList/DblList.dsp)
+- [数据结构/DS-OOP/ch02_LinerList/DblList/DblList.dsw](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DS-OOP/ch02_LinerList/DblList/DblList.dsw)
+- [数据结构/DS-OOP/ch02_LinerList/DblList/Main.exe](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DS-OOP/ch02_LinerList/DblList/Main.exe)
+- [数据结构/DS-OOP/ch02_LinerList/DblList/list.txt](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DS-OOP/ch02_LinerList/DblList/list.txt)
+- [数据结构/DS-OOP/ch02_LinerList/LinkedList/LinkedList.dsp](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DS-OOP/ch02_LinerList/LinkedList/LinkedList.dsp)
+- 另有 163 个文件，见 data/collection_files.csv
+
 **数据结构 / hadanice/OpenDS**
 - [算法与数据结构/作业/书面作业2/assignment2.pdf](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E4%BD%9C%E4%B8%9A/%E4%B9%A6%E9%9D%A2%E4%BD%9C%E4%B8%9A2/assignment2.pdf)
 - [算法与数据结构/作业/书面作业2/hw2.pdf](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E4%BD%9C%E4%B8%9A/%E4%B9%A6%E9%9D%A2%E4%BD%9C%E4%B8%9A2/hw2.pdf)
-- [算法与数据结构/课件/01Introduction.pdf](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E8%AF%BE%E4%BB%B6/01Introduction.pdf)
-- [算法与数据结构/课件/02lecture.pdf](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E8%AF%BE%E4%BB%B6/02lecture.pdf)
-- [算法与数据结构/课件/03lecture.pdf](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E8%AF%BE%E4%BB%B6/03lecture.pdf)
-- [算法与数据结构/课件/04lecture.pdf](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E8%AF%BE%E4%BB%B6/04lecture.pdf)
-- [算法与数据结构/课件/05 哈希表.pdf](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E8%AF%BE%E4%BB%B6/05%20%E5%93%88%E5%B8%8C%E8%A1%A8.pdf)
-- [算法与数据结构/课件/06 动态规划.pdf](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E8%AF%BE%E4%BB%B6/06%20%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92.pdf)
-- [算法与数据结构/课件/07 贪心算法.pdf](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E8%AF%BE%E4%BB%B6/07%20%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95.pdf)
-- [算法与数据结构/课件/08 图算法.pdf](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E8%AF%BE%E4%BB%B6/08%20%E5%9B%BE%E7%AE%97%E6%B3%95.pdf)
-- [算法与数据结构/课件/09 DFS.pdf](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E8%AF%BE%E4%BB%B6/09%20DFS.pdf)
-- [算法与数据结构/课件/10 Shortest Path.pdf](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E8%AF%BE%E4%BB%B6/10%20Shortest%20Path.pdf)
-- 另有 1 个文件，见 data/collection_files.csv
+- [算法与数据结构/笔记/01-导论_基本数据结构_复杂度.md](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%94%E8%AE%B0/01-%E5%AF%BC%E8%AE%BA_%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84_%E5%A4%8D%E6%9D%82%E5%BA%A6.md)
+- [算法与数据结构/笔记/02-递归_分治_树_堆.md](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%94%E8%AE%B0/02-%E9%80%92%E5%BD%92_%E5%88%86%E6%B2%BB_%E6%A0%91_%E5%A0%86.md)
+- [算法与数据结构/笔记/03-排序算法与比较下界.md](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%94%E8%AE%B0/03-%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E4%B8%8E%E6%AF%94%E8%BE%83%E4%B8%8B%E7%95%8C.md)
+- [算法与数据结构/笔记/04-选择问题_搜索树_红黑树_跳表.md](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%94%E8%AE%B0/04-%E9%80%89%E6%8B%A9%E9%97%AE%E9%A2%98_%E6%90%9C%E7%B4%A2%E6%A0%91_%E7%BA%A2%E9%BB%91%E6%A0%91_%E8%B7%B3%E8%A1%A8.md)
+- [算法与数据结构/笔记/05-哈希表.md](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%94%E8%AE%B0/05-%E5%93%88%E5%B8%8C%E8%A1%A8.md)
+- [算法与数据结构/笔记/06-动态规划.md](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%94%E8%AE%B0/06-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92.md)
+- [算法与数据结构/笔记/07-贪心算法.md](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%94%E8%AE%B0/07-%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95.md)
+- [算法与数据结构/笔记/08-图基础_最小生成树_BFS.md](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%94%E8%AE%B0/08-%E5%9B%BE%E5%9F%BA%E7%A1%80_%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91_BFS.md)
+- [算法与数据结构/笔记/09-DFS_边分类_拓扑排序.md](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%94%E8%AE%B0/09-DFS_%E8%BE%B9%E5%88%86%E7%B1%BB_%E6%8B%93%E6%89%91%E6%8E%92%E5%BA%8F.md)
+- [算法与数据结构/笔记/10-单源最短路径.md](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%94%E8%AE%B0/10-%E5%8D%95%E6%BA%90%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84.md)
+- 另有 13 个文件，见 data/collection_files.csv
 
 **数据结构 / kanzaler123/fdu-course-resources**
 - [数据结构/习题/第2章辅助练习.pptx](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E4%B9%A0%E9%A2%98/%E7%AC%AC2%E7%AB%A0%E8%BE%85%E5%8A%A9%E7%BB%83%E4%B9%A0.pptx)
@@ -1535,7 +2227,19 @@
 - [数据结构/参考资料/chapter-3-串.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/chapter-3-%E4%B8%B2.pdf)
 - [数据结构/参考资料/chapter-4-栈和队列.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/chapter-4-%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97.pdf)
 - [数据结构/参考资料/chapter-5-递归和广义表.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/chapter-5-%E9%80%92%E5%BD%92%E5%92%8C%E5%B9%BF%E4%B9%89%E8%A1%A8.pdf)
-- 另有 10 个文件，见 data/collection_files.csv
+- 另有 11 个文件，见 data/collection_files.csv
+
+**数据结构 / lrcc275/FudanCources**
+- [COMP130004数据结构/DSProject/.vscode/settings.json](https://github.com/lrcc275/FudanCources/blob/main/COMP130004%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DSProject/.vscode/settings.json)
+- [COMP130004数据结构/DSProject/DSProject.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130004%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DSProject/DSProject.pdf)
+- [COMP130004数据结构/DSProject/Makefile](https://github.com/lrcc275/FudanCources/blob/main/COMP130004%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DSProject/Makefile)
+- [COMP130004数据结构/DSProject/base](https://github.com/lrcc275/FudanCources/blob/main/COMP130004%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DSProject/base)
+- [COMP130004数据结构/DSProject/bonus](https://github.com/lrcc275/FudanCources/blob/main/COMP130004%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DSProject/bonus)
+- [COMP130004数据结构/DSProject/bvh_parser.o](https://github.com/lrcc275/FudanCources/blob/main/COMP130004%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DSProject/bvh_parser.o)
+- [COMP130004数据结构/DSProject/json.o](https://github.com/lrcc275/FudanCources/blob/main/COMP130004%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DSProject/json.o)
+- [COMP130004数据结构/DSProject/output.json](https://github.com/lrcc275/FudanCources/blob/main/COMP130004%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DSProject/output.json)
+- [COMP130004数据结构/DSProject/sample.bvh](https://github.com/lrcc275/FudanCources/blob/main/COMP130004%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DSProject/sample.bvh)
+- [COMP130004数据结构/数据结构 C++语言版 第三版 (邓俊辉).pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130004%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%20C%2B%2B%E8%AF%AD%E8%A8%80%E7%89%88%20%E7%AC%AC%E4%B8%89%E7%89%88%20%28%E9%82%93%E4%BF%8A%E8%BE%89%29.pdf)
 
 **数据结构 / michaellu2007/fdu-note-summarized**
 - [数据结构/assets/katex/fonts/KaTeX_AMS-Regular.woff2](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/assets/katex/fonts/KaTeX_AMS-Regular.woff2)
@@ -1550,7 +2254,7 @@
 - [数据结构/assets/katex/fonts/KaTeX_Math-BoldItalic.woff2](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/assets/katex/fonts/KaTeX_Math-BoldItalic.woff2)
 - [数据结构/assets/katex/fonts/KaTeX_Math-Italic.woff2](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/assets/katex/fonts/KaTeX_Math-Italic.woff2)
 - [数据结构/assets/katex/fonts/KaTeX_SansSerif-Bold.woff2](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/assets/katex/fonts/KaTeX_SansSerif-Bold.woff2)
-- 另有 8 个文件，见 data/collection_files.csv
+- 另有 11 个文件，见 data/collection_files.csv
 
 **数据结构 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/数据结构(C++)/上机/实验一/2016年数据结构第一次上机.docx](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%28C%2B%2B%29/%E4%B8%8A%E6%9C%BA/%E5%AE%9E%E9%AA%8C%E4%B8%80/2016%E5%B9%B4%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8A%E6%9C%BA.docx)
@@ -1565,7 +2269,22 @@
 - [3.专业教育/计算机科学与技术/专业必修/数据结构(C++)/上机/实验十一/第十一次上机.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%28C%2B%2B%29/%E4%B8%8A%E6%9C%BA/%E5%AE%9E%E9%AA%8C%E5%8D%81%E4%B8%80/%E7%AC%AC%E5%8D%81%E4%B8%80%E6%AC%A1%E4%B8%8A%E6%9C%BA.pdf)
 - [3.专业教育/计算机科学与技术/专业必修/数据结构(C++)/上机/实验四/实验课题目444.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%28C%2B%2B%29/%E4%B8%8A%E6%9C%BA/%E5%AE%9E%E9%AA%8C%E5%9B%9B/%E5%AE%9E%E9%AA%8C%E8%AF%BE%E9%A2%98%E7%9B%AE444.pdf)
 - [3.专业教育/计算机科学与技术/专业必修/数据结构(C++)/习题/数据结构练习3.doc](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%28C%2B%2B%29/%E4%B9%A0%E9%A2%98/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%BB%83%E4%B9%A03.doc)
-- 另有 35 个文件，见 data/collection_files.csv
+- 另有 38 个文件，见 data/collection_files.csv
+
+**数据结构 / rapidhere/fdu-pjs**
+- [ds/Project 1/TODO.md](https://github.com/rapidhere/fdu-pjs/blob/master/ds/Project%201/TODO.md)
+- [ds/Project 1/pj1-materials/Appendix-Huffman Coding Reference.pdf](https://github.com/rapidhere/fdu-pjs/blob/master/ds/Project%201/pj1-materials/Appendix-Huffman%20Coding%20Reference.pdf)
+- [ds/Project 1/pj1-materials/Project 1 Document.pdf](https://github.com/rapidhere/fdu-pjs/blob/master/ds/Project%201/pj1-materials/Project%201%20Document.pdf)
+- [ds/Project 1/pj1-materials/Project 1 Slides.pdf](https://github.com/rapidhere/fdu-pjs/blob/master/ds/Project%201/pj1-materials/Project%201%20Slides.pdf)
+- [ds/Project 1/pj1-materials/Test/test1/20080012688.htm](https://github.com/rapidhere/fdu-pjs/blob/master/ds/Project%201/pj1-materials/Test/test1/20080012688.htm)
+- [ds/Project 1/pj1-materials/Test/test1/20080018466.htm](https://github.com/rapidhere/fdu-pjs/blob/master/ds/Project%201/pj1-materials/Test/test1/20080018466.htm)
+- [ds/Project 1/pj1-materials/Test/test1/20080042804.htm](https://github.com/rapidhere/fdu-pjs/blob/master/ds/Project%201/pj1-materials/Test/test1/20080042804.htm)
+- [ds/Project 1/pj1-materials/Test/test1/20080051193.htm](https://github.com/rapidhere/fdu-pjs/blob/master/ds/Project%201/pj1-materials/Test/test1/20080051193.htm)
+- [ds/Project 1/pj1-materials/Test/test1/20080106386.htm](https://github.com/rapidhere/fdu-pjs/blob/master/ds/Project%201/pj1-materials/Test/test1/20080106386.htm)
+- [ds/Project 1/pj1-materials/Test/test1/20080108261.htm](https://github.com/rapidhere/fdu-pjs/blob/master/ds/Project%201/pj1-materials/Test/test1/20080108261.htm)
+- [ds/Project 1/pj1-materials/Test/test1/20080165005.htm](https://github.com/rapidhere/fdu-pjs/blob/master/ds/Project%201/pj1-materials/Test/test1/20080165005.htm)
+- [ds/Project 1/pj1-materials/Test/test1/20080227434.htm](https://github.com/rapidhere/fdu-pjs/blob/master/ds/Project%201/pj1-materials/Test/test1/20080227434.htm)
+- 另有 369 个文件，见 data/collection_files.csv
 
 **数据结构 / victkk/FDU-Sharing**
 - [public/resources/数据结构/23ds_mid.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/23ds_mid.pdf)
@@ -1574,6 +2293,84 @@
 - [public/resources/数据结构/心得.txt](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%BF%83%E5%BE%97.txt)
 - [public/resources/数据结构/快速中位数算法.txt](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%BF%AB%E9%80%9F%E4%B8%AD%E4%BD%8D%E6%95%B0%E7%AE%97%E6%B3%95.txt)
 - [public/resources/数据结构/第五章作业1.txt](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%AC%E4%BA%94%E7%AB%A0%E4%BD%9C%E4%B8%9A1.txt)
+
+**数据隐私保护技术概论 / FDUanonym/FDU-CST-Cracker**
+- [COMP737009 数据隐私保护技术概论/数据隐私保护技术概论大纲.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/COMP737009%20%E6%95%B0%E6%8D%AE%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E6%8A%80%E6%9C%AF%E6%A6%82%E8%AE%BA/%E6%95%B0%E6%8D%AE%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E6%8A%80%E6%9C%AF%E6%A6%82%E8%AE%BA%E5%A4%A7%E7%BA%B2.pdf)
+
+**数理统计 / ForeverHaibara/Fudan-Courses**
+- [数理统计/数理统计.md](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1.md)
+
+**数理统计 / Snivallus/FDU-Course-Notes-2024-2025**
+- [统计学基础Ⅰ数理统计/FDU 数理统计 0. R语言.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/FDU%20%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%200.%20R%E8%AF%AD%E8%A8%80.pdf)
+- [统计学基础Ⅰ数理统计/FDU 数理统计 1. 基本知识.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/FDU%20%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%201.%20%E5%9F%BA%E6%9C%AC%E7%9F%A5%E8%AF%86.pdf)
+- [统计学基础Ⅰ数理统计/FDU 数理统计 2. 参数点估计.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/FDU%20%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%202.%20%E5%8F%82%E6%95%B0%E7%82%B9%E4%BC%B0%E8%AE%A1.pdf)
+- [统计学基础Ⅰ数理统计/FDU 数理统计 3. 假设检验.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/FDU%20%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%203.%20%E5%81%87%E8%AE%BE%E6%A3%80%E9%AA%8C.pdf)
+
+**数理统计 / hadanice/OpenDS**
+- [统计学基础Ⅰ：数理统计/笔记/index.md](https://github.com/hadanice/OpenDS/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%EF%BC%9A%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E7%AC%94%E8%AE%B0/index.md)
+- [统计学基础Ⅰ：数理统计/笔记/第10章_正态分布推断.md](https://github.com/hadanice/OpenDS/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%EF%BC%9A%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E7%AC%94%E8%AE%B0/%E7%AC%AC10%E7%AB%A0_%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83%E6%8E%A8%E6%96%AD.md)
+- [统计学基础Ⅰ：数理统计/笔记/第11章_数据类型概览.md](https://github.com/hadanice/OpenDS/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%EF%BC%9A%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E7%AC%94%E8%AE%B0/%E7%AC%AC11%E7%AB%A0_%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E6%A6%82%E8%A7%88.md)
+- [统计学基础Ⅰ：数理统计/笔记/第12章_双样本推断.md](https://github.com/hadanice/OpenDS/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%EF%BC%9A%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E7%AC%94%E8%AE%B0/%E7%AC%AC12%E7%AB%A0_%E5%8F%8C%E6%A0%B7%E6%9C%AC%E6%8E%A8%E6%96%AD.md)
+- [统计学基础Ⅰ：数理统计/笔记/第13章_线性回归与Lasso.md](https://github.com/hadanice/OpenDS/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%EF%BC%9A%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E7%AC%94%E8%AE%B0/%E7%AC%AC13%E7%AB%A0_%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E4%B8%8ELasso.md)
+- [统计学基础Ⅰ：数理统计/笔记/第14章_收缩估计与方差分析.md](https://github.com/hadanice/OpenDS/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%EF%BC%9A%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E7%AC%94%E8%AE%B0/%E7%AC%AC14%E7%AB%A0_%E6%94%B6%E7%BC%A9%E4%BC%B0%E8%AE%A1%E4%B8%8E%E6%96%B9%E5%B7%AE%E5%88%86%E6%9E%90.md)
+- [统计学基础Ⅰ：数理统计/笔记/第15章_随机区组与非参数方法.md](https://github.com/hadanice/OpenDS/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%EF%BC%9A%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E7%AC%94%E8%AE%B0/%E7%AC%AC15%E7%AB%A0_%E9%9A%8F%E6%9C%BA%E5%8C%BA%E7%BB%84%E4%B8%8E%E9%9D%9E%E5%8F%82%E6%95%B0%E6%96%B9%E6%B3%95.md)
+- [统计学基础Ⅰ：数理统计/笔记/第16章_因果推断.md](https://github.com/hadanice/OpenDS/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%EF%BC%9A%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E7%AC%94%E8%AE%B0/%E7%AC%AC16%E7%AB%A0_%E5%9B%A0%E6%9E%9C%E6%8E%A8%E6%96%AD.md)
+- [统计学基础Ⅰ：数理统计/笔记/第1章_概率论导论.md](https://github.com/hadanice/OpenDS/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%EF%BC%9A%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E7%AC%94%E8%AE%B0/%E7%AC%AC1%E7%AB%A0_%E6%A6%82%E7%8E%87%E8%AE%BA%E5%AF%BC%E8%AE%BA.md)
+- [统计学基础Ⅰ：数理统计/笔记/第2章_随机变量I.md](https://github.com/hadanice/OpenDS/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%EF%BC%9A%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E7%AC%94%E8%AE%B0/%E7%AC%AC2%E7%AB%A0_%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8FI.md)
+- [统计学基础Ⅰ：数理统计/笔记/第3章_随机变量II.md](https://github.com/hadanice/OpenDS/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%EF%BC%9A%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E7%AC%94%E8%AE%B0/%E7%AC%AC3%E7%AB%A0_%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8FII.md)
+- [统计学基础Ⅰ：数理统计/笔记/第4章_随机变量III.md](https://github.com/hadanice/OpenDS/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%EF%BC%9A%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E7%AC%94%E8%AE%B0/%E7%AC%AC4%E7%AB%A0_%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8FIII.md)
+- 另有 5 个文件，见 data/collection_files.csv
+
+**文本挖掘 / cxxixi/FDU_DS**
+- [文本挖掘/slm-course.pdf](https://github.com/cxxixi/FDU_DS/blob/master/%E6%96%87%E6%9C%AC%E6%8C%96%E6%8E%98/slm-course.pdf)
+
+**日本文明的历史变迁 / openFudan/fudan-coursera**
+- [1.通识教育/七大模块/日本文明的历史变迁/导言和第一章第一、第二节概要.docx](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E4%B8%83%E5%A4%A7%E6%A8%A1%E5%9D%97/%E6%97%A5%E6%9C%AC%E6%96%87%E6%98%8E%E7%9A%84%E5%8E%86%E5%8F%B2%E5%8F%98%E8%BF%81/%E5%AF%BC%E8%A8%80%E5%92%8C%E7%AC%AC%E4%B8%80%E7%AB%A0%E7%AC%AC%E4%B8%80%E3%80%81%E7%AC%AC%E4%BA%8C%E8%8A%82%E6%A6%82%E8%A6%81.docx)
+- [1.通识教育/七大模块/日本文明的历史变迁/日本历史脉络.txt](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E4%B8%83%E5%A4%A7%E6%A8%A1%E5%9D%97/%E6%97%A5%E6%9C%AC%E6%96%87%E6%98%8E%E7%9A%84%E5%8E%86%E5%8F%B2%E5%8F%98%E8%BF%81/%E6%97%A5%E6%9C%AC%E5%8E%86%E5%8F%B2%E8%84%89%E7%BB%9C.txt)
+- [1.通识教育/七大模块/日本文明的历史变迁/第一章3、4、5节’.docx](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E4%B8%83%E5%A4%A7%E6%A8%A1%E5%9D%97/%E6%97%A5%E6%9C%AC%E6%96%87%E6%98%8E%E7%9A%84%E5%8E%86%E5%8F%B2%E5%8F%98%E8%BF%81/%E7%AC%AC%E4%B8%80%E7%AB%A03%E3%80%814%E3%80%815%E8%8A%82%E2%80%99.docx)
+- [1.通识教育/七大模块/日本文明的历史变迁/第三章一、二、三、四节.docx](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E4%B8%83%E5%A4%A7%E6%A8%A1%E5%9D%97/%E6%97%A5%E6%9C%AC%E6%96%87%E6%98%8E%E7%9A%84%E5%8E%86%E5%8F%B2%E5%8F%98%E8%BF%81/%E7%AC%AC%E4%B8%89%E7%AB%A0%E4%B8%80%E3%80%81%E4%BA%8C%E3%80%81%E4%B8%89%E3%80%81%E5%9B%9B%E8%8A%82.docx)
+- [1.通识教育/七大模块/日本文明的历史变迁/第二章   中国：日本的路标.docx](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E4%B8%83%E5%A4%A7%E6%A8%A1%E5%9D%97/%E6%97%A5%E6%9C%AC%E6%96%87%E6%98%8E%E7%9A%84%E5%8E%86%E5%8F%B2%E5%8F%98%E8%BF%81/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%20%E4%B8%AD%E5%9B%BD%EF%BC%9A%E6%97%A5%E6%9C%AC%E7%9A%84%E8%B7%AF%E6%A0%87.docx)
+- [1.通识教育/七大模块/日本文明的历史变迁/第五章、第六章.docx](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E4%B8%83%E5%A4%A7%E6%A8%A1%E5%9D%97/%E6%97%A5%E6%9C%AC%E6%96%87%E6%98%8E%E7%9A%84%E5%8E%86%E5%8F%B2%E5%8F%98%E8%BF%81/%E7%AC%AC%E4%BA%94%E7%AB%A0%E3%80%81%E7%AC%AC%E5%85%AD%E7%AB%A0.docx)
+- [1.通识教育/七大模块/日本文明的历史变迁/话题讨论/天皇与民主/《武士道》.pdf](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E4%B8%83%E5%A4%A7%E6%A8%A1%E5%9D%97/%E6%97%A5%E6%9C%AC%E6%96%87%E6%98%8E%E7%9A%84%E5%8E%86%E5%8F%B2%E5%8F%98%E8%BF%81/%E8%AF%9D%E9%A2%98%E8%AE%A8%E8%AE%BA/%E5%A4%A9%E7%9A%87%E4%B8%8E%E6%B0%91%E4%B8%BB/%E3%80%8A%E6%AD%A6%E5%A3%AB%E9%81%93%E3%80%8B.pdf)
+- [1.通识教育/七大模块/日本文明的历史变迁/话题讨论/天皇与民主/从-世袭政治-看日本民主的实像.pdf](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E4%B8%83%E5%A4%A7%E6%A8%A1%E5%9D%97/%E6%97%A5%E6%9C%AC%E6%96%87%E6%98%8E%E7%9A%84%E5%8E%86%E5%8F%B2%E5%8F%98%E8%BF%81/%E8%AF%9D%E9%A2%98%E8%AE%A8%E8%AE%BA/%E5%A4%A9%E7%9A%87%E4%B8%8E%E6%B0%91%E4%B8%BB/%E4%BB%8E-%E4%B8%96%E8%A2%AD%E6%94%BF%E6%B2%BB-%E7%9C%8B%E6%97%A5%E6%9C%AC%E6%B0%91%E4%B8%BB%E7%9A%84%E5%AE%9E%E5%83%8F.pdf)
+- [1.通识教育/七大模块/日本文明的历史变迁/话题讨论/天皇与民主/战后日本民主主义的发展及其局限__省略_期文部省教科书_民主主义_为中心_刘岳兵.pdf](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E4%B8%83%E5%A4%A7%E6%A8%A1%E5%9D%97/%E6%97%A5%E6%9C%AC%E6%96%87%E6%98%8E%E7%9A%84%E5%8E%86%E5%8F%B2%E5%8F%98%E8%BF%81/%E8%AF%9D%E9%A2%98%E8%AE%A8%E8%AE%BA/%E5%A4%A9%E7%9A%87%E4%B8%8E%E6%B0%91%E4%B8%BB/%E6%88%98%E5%90%8E%E6%97%A5%E6%9C%AC%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%8A%E5%85%B6%E5%B1%80%E9%99%90__%E7%9C%81%E7%95%A5_%E6%9C%9F%E6%96%87%E9%83%A8%E7%9C%81%E6%95%99%E7%A7%91%E4%B9%A6_%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89_%E4%B8%BA%E4%B8%AD%E5%BF%83_%E5%88%98%E5%B2%B3%E5%85%B5.pdf)
+- [1.通识教育/七大模块/日本文明的历史变迁/话题讨论/天皇与民主/教育观念是如何传播的%3f--民主诉求与二战后通识教育模式在德国、日本的扩散.pdf](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E4%B8%83%E5%A4%A7%E6%A8%A1%E5%9D%97/%E6%97%A5%E6%9C%AC%E6%96%87%E6%98%8E%E7%9A%84%E5%8E%86%E5%8F%B2%E5%8F%98%E8%BF%81/%E8%AF%9D%E9%A2%98%E8%AE%A8%E8%AE%BA/%E5%A4%A9%E7%9A%87%E4%B8%8E%E6%B0%91%E4%B8%BB/%E6%95%99%E8%82%B2%E8%A7%82%E5%BF%B5%E6%98%AF%E5%A6%82%E4%BD%95%E4%BC%A0%E6%92%AD%E7%9A%84%253f--%E6%B0%91%E4%B8%BB%E8%AF%89%E6%B1%82%E4%B8%8E%E4%BA%8C%E6%88%98%E5%90%8E%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2%E6%A8%A1%E5%BC%8F%E5%9C%A8%E5%BE%B7%E5%9B%BD%E3%80%81%E6%97%A5%E6%9C%AC%E7%9A%84%E6%89%A9%E6%95%A3.pdf)
+- [1.通识教育/七大模块/日本文明的历史变迁/话题讨论/天皇与民主/新建文本文档.txt](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E4%B8%83%E5%A4%A7%E6%A8%A1%E5%9D%97/%E6%97%A5%E6%9C%AC%E6%96%87%E6%98%8E%E7%9A%84%E5%8E%86%E5%8F%B2%E5%8F%98%E8%BF%81/%E8%AF%9D%E9%A2%98%E8%AE%A8%E8%AE%BA/%E5%A4%A9%E7%9A%87%E4%B8%8E%E6%B0%91%E4%B8%BB/%E6%96%B0%E5%BB%BA%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3.txt)
+- [1.通识教育/七大模块/日本文明的历史变迁/话题讨论/天皇与民主/日本武士道源流考述_娄贵书.pdf](https://github.com/openFudan/fudan-coursera/blob/master/1.%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2/%E4%B8%83%E5%A4%A7%E6%A8%A1%E5%9D%97/%E6%97%A5%E6%9C%AC%E6%96%87%E6%98%8E%E7%9A%84%E5%8E%86%E5%8F%B2%E5%8F%98%E8%BF%81/%E8%AF%9D%E9%A2%98%E8%AE%A8%E8%AE%BA/%E5%A4%A9%E7%9A%87%E4%B8%8E%E6%B0%91%E4%B8%BB/%E6%97%A5%E6%9C%AC%E6%AD%A6%E5%A3%AB%E9%81%93%E6%BA%90%E6%B5%81%E8%80%83%E8%BF%B0_%E5%A8%84%E8%B4%B5%E4%B9%A6.pdf)
+- 另有 33 个文件，见 data/collection_files.csv
+
+**时间序列与空间统计 / ForeverHaibara/Fudan-Courses**
+- [时间序列与空间统计/时间序列与空间统计.md](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E4%B8%8E%E7%A9%BA%E9%97%B4%E7%BB%9F%E8%AE%A1/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E4%B8%8E%E7%A9%BA%E9%97%B4%E7%BB%9F%E8%AE%A1.md)
+
+**普化A上 / victkk/FDU-Sharing**
+- [public/resources/普化A上/其他复习资料整理/另一份手写笔记.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/%E5%85%B6%E4%BB%96%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%8F%A6%E4%B8%80%E4%BB%BD%E6%89%8B%E5%86%99%E7%AC%94%E8%AE%B0.pdf)
+- [public/resources/普化A上/其他复习资料整理/普化A上复习.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/%E5%85%B6%E4%BB%96%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E6%99%AE%E5%8C%96A%E4%B8%8A%E5%A4%8D%E4%B9%A0.pdf)
+- [public/resources/普化A上/其他复习资料整理/普通化学讲义.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/%E5%85%B6%E4%BB%96%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E6%99%AE%E9%80%9A%E5%8C%96%E5%AD%A6%E8%AE%B2%E4%B9%89.pdf)
+- [public/resources/普化A上/其他复习资料整理/波恩-哈勃循环（必考！）.png](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/%E5%85%B6%E4%BB%96%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E6%B3%A2%E6%81%A9-%E5%93%88%E5%8B%83%E5%BE%AA%E7%8E%AF%EF%BC%88%E5%BF%85%E8%80%83%EF%BC%81%EF%BC%89.png)
+- [public/resources/普化A上/大一上_普通化学A史上最全整理.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/%E5%A4%A7%E4%B8%80%E4%B8%8A_%E6%99%AE%E9%80%9A%E5%8C%96%E5%AD%A6A%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%85%A8%E6%95%B4%E7%90%86.pdf)
+- [public/resources/普化A上/强推！！普化上各章作业（题很棒，归纳得也很好）/第1章物态课堂习题20151113.ppt](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/%E5%BC%BA%E6%8E%A8%EF%BC%81%EF%BC%81%E6%99%AE%E5%8C%96%E4%B8%8A%E5%90%84%E7%AB%A0%E4%BD%9C%E4%B8%9A%EF%BC%88%E9%A2%98%E5%BE%88%E6%A3%92%EF%BC%8C%E5%BD%92%E7%BA%B3%E5%BE%97%E4%B9%9F%E5%BE%88%E5%A5%BD%EF%BC%89/%E7%AC%AC1%E7%AB%A0%E7%89%A9%E6%80%81%E8%AF%BE%E5%A0%82%E4%B9%A0%E9%A2%9820151113.ppt)
+- [public/resources/普化A上/强推！！普化上各章作业（题很棒，归纳得也很好）/第1章物质的聚集状态-作业3.doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/%E5%BC%BA%E6%8E%A8%EF%BC%81%EF%BC%81%E6%99%AE%E5%8C%96%E4%B8%8A%E5%90%84%E7%AB%A0%E4%BD%9C%E4%B8%9A%EF%BC%88%E9%A2%98%E5%BE%88%E6%A3%92%EF%BC%8C%E5%BD%92%E7%BA%B3%E5%BE%97%E4%B9%9F%E5%BE%88%E5%A5%BD%EF%BC%89/%E7%AC%AC1%E7%AB%A0%E7%89%A9%E8%B4%A8%E7%9A%84%E8%81%9A%E9%9B%86%E7%8A%B6%E6%80%81-%E4%BD%9C%E4%B8%9A3.doc)
+- [public/resources/普化A上/强推！！普化上各章作业（题很棒，归纳得也很好）/第1章物质的聚集状态1-作业问题.doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/%E5%BC%BA%E6%8E%A8%EF%BC%81%EF%BC%81%E6%99%AE%E5%8C%96%E4%B8%8A%E5%90%84%E7%AB%A0%E4%BD%9C%E4%B8%9A%EF%BC%88%E9%A2%98%E5%BE%88%E6%A3%92%EF%BC%8C%E5%BD%92%E7%BA%B3%E5%BE%97%E4%B9%9F%E5%BE%88%E5%A5%BD%EF%BC%89/%E7%AC%AC1%E7%AB%A0%E7%89%A9%E8%B4%A8%E7%9A%84%E8%81%9A%E9%9B%86%E7%8A%B6%E6%80%811-%E4%BD%9C%E4%B8%9A%E9%97%AE%E9%A2%98.doc)
+- [public/resources/普化A上/强推！！普化上各章作业（题很棒，归纳得也很好）/第4章化学热力学初步1.doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/%E5%BC%BA%E6%8E%A8%EF%BC%81%EF%BC%81%E6%99%AE%E5%8C%96%E4%B8%8A%E5%90%84%E7%AB%A0%E4%BD%9C%E4%B8%9A%EF%BC%88%E9%A2%98%E5%BE%88%E6%A3%92%EF%BC%8C%E5%BD%92%E7%BA%B3%E5%BE%97%E4%B9%9F%E5%BE%88%E5%A5%BD%EF%BC%89/%E7%AC%AC4%E7%AB%A0%E5%8C%96%E5%AD%A6%E7%83%AD%E5%8A%9B%E5%AD%A6%E5%88%9D%E6%AD%A51.doc)
+- [public/resources/普化A上/强推！！普化上各章作业（题很棒，归纳得也很好）/第4章热力学_上_总结与习题20151225.ppt](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/%E5%BC%BA%E6%8E%A8%EF%BC%81%EF%BC%81%E6%99%AE%E5%8C%96%E4%B8%8A%E5%90%84%E7%AB%A0%E4%BD%9C%E4%B8%9A%EF%BC%88%E9%A2%98%E5%BE%88%E6%A3%92%EF%BC%8C%E5%BD%92%E7%BA%B3%E5%BE%97%E4%B9%9F%E5%BE%88%E5%A5%BD%EF%BC%89/%E7%AC%AC4%E7%AB%A0%E7%83%AD%E5%8A%9B%E5%AD%A6_%E4%B8%8A_%E6%80%BB%E7%BB%93%E4%B8%8E%E4%B9%A0%E9%A2%9820151225.ppt)
+- [public/resources/普化A上/强推！！普化上各章作业（题很棒，归纳得也很好）/第１章+补充作业-20151120.ppt](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/%E5%BC%BA%E6%8E%A8%EF%BC%81%EF%BC%81%E6%99%AE%E5%8C%96%E4%B8%8A%E5%90%84%E7%AB%A0%E4%BD%9C%E4%B8%9A%EF%BC%88%E9%A2%98%E5%BE%88%E6%A3%92%EF%BC%8C%E5%BD%92%E7%BA%B3%E5%BE%97%E4%B9%9F%E5%BE%88%E5%A5%BD%EF%BC%89/%E7%AC%AC%EF%BC%91%E7%AB%A0%2B%E8%A1%A5%E5%85%85%E4%BD%9C%E4%B8%9A-20151120.ppt)
+- [public/resources/普化A上/手写笔记整理.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/%E6%89%8B%E5%86%99%E7%AC%94%E8%AE%B0%E6%95%B4%E7%90%86.pdf)
+- 另有 1 个文件，见 data/collection_files.csv
+
+**智能移动平台开发 / ChenTao98/FudanUniversity**
+- [智能移动平台开发/ImgCluster/.idea/caches/build_file_checksums.ser](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/.idea/caches/build_file_checksums.ser)
+- [智能移动平台开发/ImgCluster/.idea/codeStyles/Project.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/.idea/codeStyles/Project.xml)
+- [智能移动平台开发/ImgCluster/.idea/gradle.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/.idea/gradle.xml)
+- [智能移动平台开发/ImgCluster/.idea/misc.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/.idea/misc.xml)
+- [智能移动平台开发/ImgCluster/.idea/modules.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/.idea/modules.xml)
+- [智能移动平台开发/ImgCluster/.idea/runConfigurations.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/.idea/runConfigurations.xml)
+- [智能移动平台开发/ImgCluster/.idea/vcs.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/.idea/vcs.xml)
+- [智能移动平台开发/ImgCluster/app/build.gradle](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/app/build.gradle)
+- [智能移动平台开发/ImgCluster/app/libs/commons-dbutils-1.4.jar](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/app/libs/commons-dbutils-1.4.jar)
+- [智能移动平台开发/ImgCluster/app/libs/ganymed-ssh2-build210.jar](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/app/libs/ganymed-ssh2-build210.jar)
+- [智能移动平台开发/ImgCluster/app/libs/mysql-connector-java-5.1.27.jar](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/app/libs/mysql-connector-java-5.1.27.jar)
+- [智能移动平台开发/ImgCluster/app/proguard-rules.pro](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/app/proguard-rules.pro)
+- 另有 46 个文件，见 data/collection_files.csv
 
 **机器人学 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业选修/机器人学导论/COMP130062.01-2017-2018-2.doc](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6%E5%AF%BC%E8%AE%BA/COMP130062.01-2017-2018-2.doc)
@@ -1605,6 +2402,17 @@
 - [MachineLearning&DeepLearning/Lab1/lab1_data_code.zip](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/MachineLearning%26DeepLearning/Lab1/lab1_data_code.zip)
 - 另有 41 个文件，见 data/collection_files.csv
 
+**机器学习 / FDUanonym/FDU-CST-Cracker**
+- [COMP737001 机器学习/Chapter -1 Machine Learning Course.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/COMP737001%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/Chapter%20-1%20Machine%20Learning%20Course.pdf)
+- [COMP737001 机器学习/Chapter 0 - Machine Learning An Overview.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/COMP737001%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/Chapter%200%20-%20Machine%20Learning%20An%20Overview.pdf)
+- [COMP737001 机器学习/Chapter 1 - Introduction.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/COMP737001%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/Chapter%201%20-%20Introduction.pdf)
+- [COMP737001 机器学习/Chapter 2 - Probability Distributions.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/COMP737001%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/Chapter%202%20-%20Probability%20Distributions.pdf)
+- [COMP737001 机器学习/Chapter 3 - Linear Regression Models.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/COMP737001%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/Chapter%203%20-%20Linear%20Regression%20Models.pdf)
+- [COMP737001 机器学习/Chapter 4 - Linear Models for Classification.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/COMP737001%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/Chapter%204%20-%20Linear%20Models%20for%20Classification.pdf)
+- [COMP737001 机器学习/Chapter 5 - Clustering Algorithms.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/COMP737001%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/Chapter%205%20-%20Clustering%20Algorithms.pdf)
+- [COMP737001 机器学习/Chapter 7 - Deep learning.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/COMP737001%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/Chapter%207%20-%20Deep%20learning.pdf)
+- [COMP737001 机器学习/Chapter 9 - Expectation Maximization and Gaussian Mixture Distribution.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/COMP737001%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/Chapter%209%20-%20Expectation%20Maximization%20and%20Gaussian%20Mixture%20Distribution.pdf)
+
 **机器学习 / Snivallus/FDU-Course-Notes-2024-2025**
 - [统计机器学习/FDU 统计机器学习 1. An Introduction.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/FDU%20%E7%BB%9F%E8%AE%A1%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%201.%20An%20Introduction.pdf)
 - [统计机器学习/FDU 统计机器学习 2. 线性回归.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/FDU%20%E7%BB%9F%E8%AE%A1%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%202.%20%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.pdf)
@@ -1615,6 +2423,34 @@
 - [统计机器学习/Homework/统计机器学习 02.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/Homework/%E7%BB%9F%E8%AE%A1%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%2002.pdf)
 - [统计机器学习/Homework/统计机器学习 03.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/Homework/%E7%BB%9F%E8%AE%A1%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%2003.pdf)
 - [统计机器学习/Homework/统计机器学习 06.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/Homework/%E7%BB%9F%E8%AE%A1%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%2006.pdf)
+
+**机器学习 / Zhouxunzhe/Fudan-CS-Projects**
+- [Machine-Learning/ATEC/ATEC.txt](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Machine-Learning/ATEC/ATEC.txt)
+- [Machine-Learning/ATEC/ATEC任务报告.docx](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Machine-Learning/ATEC/ATEC%E4%BB%BB%E5%8A%A1%E6%8A%A5%E5%91%8A.docx)
+- [Machine-Learning/ATEC/ATEC任务报告.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Machine-Learning/ATEC/ATEC%E4%BB%BB%E5%8A%A1%E6%8A%A5%E5%91%8A.pdf)
+- [Machine-Learning/ATEC/参数.xlsx](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Machine-Learning/ATEC/%E5%8F%82%E6%95%B0.xlsx)
+- [Machine-Learning/ATEC/参数特征.txt](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Machine-Learning/ATEC/%E5%8F%82%E6%95%B0%E7%89%B9%E5%BE%81.txt)
+- [Machine-Learning/ATEC/机器学习ATEC实训.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Machine-Learning/ATEC/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0ATEC%E5%AE%9E%E8%AE%AD.pdf)
+- [Machine-Learning/CNN/CNN.rar](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Machine-Learning/CNN/CNN.rar)
+- [Machine-Learning/CNN/CNN报告.docx](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Machine-Learning/CNN/CNN%E6%8A%A5%E5%91%8A.docx)
+- [Machine-Learning/CNN/code/.idea/CNN.iml](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Machine-Learning/CNN/code/.idea/CNN.iml)
+- [Machine-Learning/CNN/code/.idea/dbnavigator.xml](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Machine-Learning/CNN/code/.idea/dbnavigator.xml)
+- [Machine-Learning/CNN/code/.idea/inspectionProfiles/profiles_settings.xml](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Machine-Learning/CNN/code/.idea/inspectionProfiles/profiles_settings.xml)
+- [Machine-Learning/CNN/code/.idea/misc.xml](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Machine-Learning/CNN/code/.idea/misc.xml)
+- 另有 45 个文件，见 data/collection_files.csv
+
+**植物改变生活 / victkk/FDU-Sharing**
+- [public/resources/植物改变生活/植物/《植物改变生活》知识点-供参考2025秋.doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%A4%8D%E7%89%A9%E6%94%B9%E5%8F%98%E7%94%9F%E6%B4%BB/%E6%A4%8D%E7%89%A9/%E3%80%8A%E6%A4%8D%E7%89%A9%E6%94%B9%E5%8F%98%E7%94%9F%E6%B4%BB%E3%80%8B%E7%9F%A5%E8%AF%86%E7%82%B9-%E4%BE%9B%E5%8F%82%E8%80%832025%E7%A7%8B.doc)
+- [public/resources/植物改变生活/植物/植物改变生活1-2025秋.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%A4%8D%E7%89%A9%E6%94%B9%E5%8F%98%E7%94%9F%E6%B4%BB/%E6%A4%8D%E7%89%A9/%E6%A4%8D%E7%89%A9%E6%94%B9%E5%8F%98%E7%94%9F%E6%B4%BB1-2025%E7%A7%8B.pdf)
+- [public/resources/植物改变生活/植物/植物改变生活10-2025秋.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%A4%8D%E7%89%A9%E6%94%B9%E5%8F%98%E7%94%9F%E6%B4%BB/%E6%A4%8D%E7%89%A9/%E6%A4%8D%E7%89%A9%E6%94%B9%E5%8F%98%E7%94%9F%E6%B4%BB10-2025%E7%A7%8B.pdf)
+- [public/resources/植物改变生活/植物/植物改变生活2-2025秋.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%A4%8D%E7%89%A9%E6%94%B9%E5%8F%98%E7%94%9F%E6%B4%BB/%E6%A4%8D%E7%89%A9/%E6%A4%8D%E7%89%A9%E6%94%B9%E5%8F%98%E7%94%9F%E6%B4%BB2-2025%E7%A7%8B.pdf)
+- [public/resources/植物改变生活/植物/植物改变生活3-2025秋.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%A4%8D%E7%89%A9%E6%94%B9%E5%8F%98%E7%94%9F%E6%B4%BB/%E6%A4%8D%E7%89%A9/%E6%A4%8D%E7%89%A9%E6%94%B9%E5%8F%98%E7%94%9F%E6%B4%BB3-2025%E7%A7%8B.pdf)
+- [public/resources/植物改变生活/植物/植物改变生活4-2025秋.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%A4%8D%E7%89%A9%E6%94%B9%E5%8F%98%E7%94%9F%E6%B4%BB/%E6%A4%8D%E7%89%A9/%E6%A4%8D%E7%89%A9%E6%94%B9%E5%8F%98%E7%94%9F%E6%B4%BB4-2025%E7%A7%8B.pdf)
+- [public/resources/植物改变生活/植物/植物改变生活5-2025秋.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%A4%8D%E7%89%A9%E6%94%B9%E5%8F%98%E7%94%9F%E6%B4%BB/%E6%A4%8D%E7%89%A9/%E6%A4%8D%E7%89%A9%E6%94%B9%E5%8F%98%E7%94%9F%E6%B4%BB5-2025%E7%A7%8B.pdf)
+- [public/resources/植物改变生活/植物/植物改变生活6-2025秋.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%A4%8D%E7%89%A9%E6%94%B9%E5%8F%98%E7%94%9F%E6%B4%BB/%E6%A4%8D%E7%89%A9/%E6%A4%8D%E7%89%A9%E6%94%B9%E5%8F%98%E7%94%9F%E6%B4%BB6-2025%E7%A7%8B.pdf)
+- [public/resources/植物改变生活/植物/植物改变生活7-2025秋.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%A4%8D%E7%89%A9%E6%94%B9%E5%8F%98%E7%94%9F%E6%B4%BB/%E6%A4%8D%E7%89%A9/%E6%A4%8D%E7%89%A9%E6%94%B9%E5%8F%98%E7%94%9F%E6%B4%BB7-2025%E7%A7%8B.pdf)
+- [public/resources/植物改变生活/植物/植物改变生活8-2025秋.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%A4%8D%E7%89%A9%E6%94%B9%E5%8F%98%E7%94%9F%E6%B4%BB/%E6%A4%8D%E7%89%A9/%E6%A4%8D%E7%89%A9%E6%94%B9%E5%8F%98%E7%94%9F%E6%B4%BB8-2025%E7%A7%8B.pdf)
+- [public/resources/植物改变生活/植物/植物改变生活9-2025秋.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%A4%8D%E7%89%A9%E6%94%B9%E5%8F%98%E7%94%9F%E6%B4%BB/%E6%A4%8D%E7%89%A9/%E6%A4%8D%E7%89%A9%E6%94%B9%E5%8F%98%E7%94%9F%E6%B4%BB9-2025%E7%A7%8B.pdf)
 
 **概率论 / AniroHU/FDU_Courses_Undergraduate**
 - [概率论基础/R 4.3.3.lnk](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80/R%204.3.3.lnk)
@@ -1647,6 +2483,7 @@
 - [概率论基础/作业/作业12.5.pdf](https://github.com/hadanice/OpenDS/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A/%E4%BD%9C%E4%B8%9A12.5.pdf)
 - [概率论基础/作业/作业9.26.pdf](https://github.com/hadanice/OpenDS/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A/%E4%BD%9C%E4%B8%9A9.26.pdf)
 - [概率论基础/作业/补交12.5.pdf](https://github.com/hadanice/OpenDS/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A/%E8%A1%A5%E4%BA%A412.5.pdf)
+- 另有 10 个文件，见 data/collection_files.csv
 
 **概率论 / michaellu2007/fdu-note-summarized**
 - [概率论/assets/katex/fonts/KaTeX_AMS-Regular.woff2](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA/assets/katex/fonts/KaTeX_AMS-Regular.woff2)
@@ -1661,7 +2498,10 @@
 - [概率论/assets/katex/fonts/KaTeX_Math-BoldItalic.woff2](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA/assets/katex/fonts/KaTeX_Math-BoldItalic.woff2)
 - [概率论/assets/katex/fonts/KaTeX_Math-Italic.woff2](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA/assets/katex/fonts/KaTeX_Math-Italic.woff2)
 - [概率论/assets/katex/fonts/KaTeX_SansSerif-Bold.woff2](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA/assets/katex/fonts/KaTeX_SansSerif-Bold.woff2)
-- 另有 8 个文件，见 data/collection_files.csv
+- 另有 10 个文件，见 data/collection_files.csv
+
+**概率论 / openFudan/fudan-coursera**
+- [3.专业教育/计算机科学与技术/专业必修/概率论与数理统计/概率论与数理统计(茆诗松)第二版课后习题参考答案.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%28%E8%8C%86%E8%AF%97%E6%9D%BE%29%E7%AC%AC%E4%BA%8C%E7%89%88%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf)
 
 **概率论 / victkk/FDU-Sharing**
 - [public/resources/经院统计学/统计学2022秋-A卷.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%BB%8F%E9%99%A2%E7%BB%9F%E8%AE%A1%E5%AD%A6/%E7%BB%9F%E8%AE%A1%E5%AD%A62022%E7%A7%8B-A%E5%8D%B7.docx)
@@ -1681,16 +2521,94 @@
 - [3.专业教育/计算机科学与技术/专业选修/模式识别/Q-learning-03.ppt](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E6%A8%A1%E5%BC%8F%E8%AF%86%E5%88%AB/Q-learning-03.ppt)
 - 另有 30 个文件，见 data/collection_files.csv
 
+**模式识别与机器学习 / zhuth/FDUCS**
+- [PatternRecognition_Project/presen.pdf](https://github.com/zhuth/FDUCS/blob/master/PatternRecognition_Project/presen.pdf)
+
+**殖民帝国史 / kanzaler123/fdu-course-resources**
+- [殖民帝国史/参考资料/2019-12-02_JimEndersby-KewGardens-T.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%AE%96%E6%B0%91%E5%B8%9D%E5%9B%BD%E5%8F%B2/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/2019-12-02_JimEndersby-KewGardens-T.pdf)
+- [殖民帝国史/参考资料/nesbitt_cornish_2016.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%AE%96%E6%B0%91%E5%B8%9D%E5%9B%BD%E5%8F%B2/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/nesbitt_cornish_2016.pdf)
+- [殖民帝国史/参考资料/week 1-9.11.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%AE%96%E6%B0%91%E5%B8%9D%E5%9B%BD%E5%8F%B2/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/week%201-9.11.pdf)
+- [殖民帝国史/参考资料/week 10-11.13.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%AE%96%E6%B0%91%E5%B8%9D%E5%9B%BD%E5%8F%B2/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/week%2010-11.13.pdf)
+- [殖民帝国史/参考资料/week 2-9.18.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%AE%96%E6%B0%91%E5%B8%9D%E5%9B%BD%E5%8F%B2/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/week%202-9.18.pdf)
+- [殖民帝国史/参考资料/week 3-9.25.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%AE%96%E6%B0%91%E5%B8%9D%E5%9B%BD%E5%8F%B2/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/week%203-9.25.pdf)
+- [殖民帝国史/参考资料/week 5-10.9.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%AE%96%E6%B0%91%E5%B8%9D%E5%9B%BD%E5%8F%B2/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/week%205-10.9.pdf)
+- [殖民帝国史/参考资料/week 6-10.16.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%AE%96%E6%B0%91%E5%B8%9D%E5%9B%BD%E5%8F%B2/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/week%206-10.16.pdf)
+- [殖民帝国史/参考资料/week 7-10.23.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%AE%96%E6%B0%91%E5%B8%9D%E5%9B%BD%E5%8F%B2/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/week%207-10.23.pdf)
+- [殖民帝国史/参考资料/week 8-10.30.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%AE%96%E6%B0%91%E5%B8%9D%E5%9B%BD%E5%8F%B2/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/week%208-10.30.pdf)
+- [殖民帝国史/参考资料/week 9-11.6.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%AE%96%E6%B0%91%E5%B8%9D%E5%9B%BD%E5%8F%B2/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/week%209-11.6.pdf)
+- [殖民帝国史/参考资料/从植物园看帝国植物治理.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%AE%96%E6%B0%91%E5%B8%9D%E5%9B%BD%E5%8F%B2/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/%E4%BB%8E%E6%A4%8D%E7%89%A9%E5%9B%AD%E7%9C%8B%E5%B8%9D%E5%9B%BD%E6%A4%8D%E7%89%A9%E6%B2%BB%E7%90%86.pdf)
+- 另有 6 个文件，见 data/collection_files.csv
+
+**法律与社会 / AniroHU/FDU_Courses_Undergraduate**
+- [法律与社会/法律与社会.docx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E6%B3%95%E5%BE%8B%E4%B8%8E%E7%A4%BE%E4%BC%9A/%E6%B3%95%E5%BE%8B%E4%B8%8E%E7%A4%BE%E4%BC%9A.docx)
+- [法律与社会/资料/复旦大学法律与社会笔记.docx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E6%B3%95%E5%BE%8B%E4%B8%8E%E7%A4%BE%E4%BC%9A/%E8%B5%84%E6%96%99/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E6%B3%95%E5%BE%8B%E4%B8%8E%E7%A4%BE%E4%BC%9A%E7%AC%94%E8%AE%B0.docx)
+- [法律与社会/资料/复旦大学潘伟杰法律与社会网课笔记.pdf](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E6%B3%95%E5%BE%8B%E4%B8%8E%E7%A4%BE%E4%BC%9A/%E8%B5%84%E6%96%99/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E6%BD%98%E4%BC%9F%E6%9D%B0%E6%B3%95%E5%BE%8B%E4%B8%8E%E7%A4%BE%E4%BC%9A%E7%BD%91%E8%AF%BE%E7%AC%94%E8%AE%B0.pdf)
+- [法律与社会/资料/法律与社会复旦笔记(1).docx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E6%B3%95%E5%BE%8B%E4%B8%8E%E7%A4%BE%E4%BC%9A/%E8%B5%84%E6%96%99/%E6%B3%95%E5%BE%8B%E4%B8%8E%E7%A4%BE%E4%BC%9A%E5%A4%8D%E6%97%A6%E7%AC%94%E8%AE%B0%281%29.docx)
+- [法律与社会/资料/法律与社会复旦笔记.docx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E6%B3%95%E5%BE%8B%E4%B8%8E%E7%A4%BE%E4%BC%9A/%E8%B5%84%E6%96%99/%E6%B3%95%E5%BE%8B%E4%B8%8E%E7%A4%BE%E4%BC%9A%E5%A4%8D%E6%97%A6%E7%AC%94%E8%AE%B0.docx)
+
+**深度学习及其应用 / FDUanonym/FDU-CST-Cracker**
+- [深度学习及其应用/1_神经网络基础.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/1_%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80.pdf)
+- [深度学习及其应用/2_深度学习应用概况.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/2_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%BA%94%E7%94%A8%E6%A6%82%E5%86%B5.pdf)
+- [深度学习及其应用/3_卷积神经网络.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/3_%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.pdf)
+- [深度学习及其应用/4_典型卷积神经网络算法（新）.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/4_%E5%85%B8%E5%9E%8B%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%AE%97%E6%B3%95%EF%BC%88%E6%96%B0%EF%BC%89.pdf)
+- [深度学习及其应用/5_循环神经网络模型（新）.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/5_%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E6%A8%A1%E5%9E%8B%EF%BC%88%E6%96%B0%EF%BC%89.pdf)
+- [深度学习及其应用/6_目标检测.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/6_%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B.pdf)
+- [深度学习及其应用/7 目标检测应用的基本过程.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/7%20%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E5%BA%94%E7%94%A8%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%BF%87%E7%A8%8B.pdf)
+- [深度学习及其应用/7_生成对抗网络基础.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/7_%E7%94%9F%E6%88%90%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80.pdf)
+- [深度学习及其应用/目标检测与识别yolo v4-5.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E4%B8%8E%E8%AF%86%E5%88%AByolo%20v4-5.pdf)
+
 **游戏设计与开发 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业选修/游戏设计基础/最新关于《复旦大学本科毕业论文》书写规范.doc](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80/%E6%9C%80%E6%96%B0%E5%85%B3%E4%BA%8E%E3%80%8A%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E3%80%8B%E4%B9%A6%E5%86%99%E8%A7%84%E8%8C%83.doc)
 - [3.专业教育/计算机科学与技术/专业选修/游戏设计基础/格式.docx](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80/%E6%A0%BC%E5%BC%8F.docx)
 
+**生物医学工程学基础 / AniroHU/FDU_Courses_Undergraduate**
+- [生物医学工程学基础/课件/3 生理信号测量.ppt](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E7%94%9F%E7%89%A9%E5%8C%BB%E5%AD%A6%E5%B7%A5%E7%A8%8B%E5%AD%A6%E5%9F%BA%E7%A1%80/%E8%AF%BE%E4%BB%B6/3%20%E7%94%9F%E7%90%86%E4%BF%A1%E5%8F%B7%E6%B5%8B%E9%87%8F.ppt)
+- [生物医学工程学基础/课件/4  生物电极传感器.pptx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E7%94%9F%E7%89%A9%E5%8C%BB%E5%AD%A6%E5%B7%A5%E7%A8%8B%E5%AD%A6%E5%9F%BA%E7%A1%80/%E8%AF%BE%E4%BB%B6/4%20%20%E7%94%9F%E7%89%A9%E7%94%B5%E6%9E%81%E4%BC%A0%E6%84%9F%E5%99%A8.pptx)
+- [生物医学工程学基础/课件/5  电阻等传感器.pptx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E7%94%9F%E7%89%A9%E5%8C%BB%E5%AD%A6%E5%B7%A5%E7%A8%8B%E5%AD%A6%E5%9F%BA%E7%A1%80/%E8%AF%BE%E4%BB%B6/5%20%20%E7%94%B5%E9%98%BB%E7%AD%89%E4%BC%A0%E6%84%9F%E5%99%A8.pptx)
+- [生物医学工程学基础/课件/6  温度传感器.pptx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E7%94%9F%E7%89%A9%E5%8C%BB%E5%AD%A6%E5%B7%A5%E7%A8%8B%E5%AD%A6%E5%9F%BA%E7%A1%80/%E8%AF%BE%E4%BB%B6/6%20%20%E6%B8%A9%E5%BA%A6%E4%BC%A0%E6%84%9F%E5%99%A8.pptx)
+- [生物医学工程学基础/课件/7 光电传感器.ppt](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E7%94%9F%E7%89%A9%E5%8C%BB%E5%AD%A6%E5%B7%A5%E7%A8%8B%E5%AD%A6%E5%9F%BA%E7%A1%80/%E8%AF%BE%E4%BB%B6/7%20%E5%85%89%E7%94%B5%E4%BC%A0%E6%84%9F%E5%99%A8.ppt)
+- [生物医学工程学基础/课件/第二章 医疗设备的电气安全.pptx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E7%94%9F%E7%89%A9%E5%8C%BB%E5%AD%A6%E5%B7%A5%E7%A8%8B%E5%AD%A6%E5%9F%BA%E7%A1%80/%E8%AF%BE%E4%BB%B6/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%8C%BB%E7%96%97%E8%AE%BE%E5%A4%87%E7%9A%84%E7%94%B5%E6%B0%94%E5%AE%89%E5%85%A8.pptx)
+
 **生物学 / victkk/FDU-Sharing**
-- [public/resources/现代生物科学导论/教学大纲/2022秋C现代生物科学导论教学大纲（暂定）.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E6%95%99%E5%AD%A6%E5%A4%A7%E7%BA%B2/2022%E7%A7%8BC%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%E6%95%99%E5%AD%A6%E5%A4%A7%E7%BA%B2%EF%BC%88%E6%9A%82%E5%AE%9A%EF%BC%89.pdf)
-- [public/resources/现代生物科学导论/教学大纲/【强推这个！结合考纲背一遍稳A】现代生命科学导论教学大纲（完成版）.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E6%95%99%E5%AD%A6%E5%A4%A7%E7%BA%B2/%E3%80%90%E5%BC%BA%E6%8E%A8%E8%BF%99%E4%B8%AA%EF%BC%81%E7%BB%93%E5%90%88%E8%80%83%E7%BA%B2%E8%83%8C%E4%B8%80%E9%81%8D%E7%A8%B3A%E3%80%91%E7%8E%B0%E4%BB%A3%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%E6%95%99%E5%AD%A6%E5%A4%A7%E7%BA%B2%EF%BC%88%E5%AE%8C%E6%88%90%E7%89%88%EF%BC%89.docx)
-- [public/resources/现代生物科学导论/教学大纲/宏观大纲.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E6%95%99%E5%AD%A6%E5%A4%A7%E7%BA%B2/%E5%AE%8F%E8%A7%82%E5%A4%A7%E7%BA%B2.pdf)
-- [public/resources/现代生物科学导论/教学大纲/现代生物科学导论大纲.doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E6%95%99%E5%AD%A6%E5%A4%A7%E7%BA%B2/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%E5%A4%A7%E7%BA%B2.doc)
-- [public/resources/现代生物科学导论/教学大纲/现代生物科学导论教学大纲--微观部分.doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E6%95%99%E5%AD%A6%E5%A4%A7%E7%BA%B2/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%E6%95%99%E5%AD%A6%E5%A4%A7%E7%BA%B2--%E5%BE%AE%E8%A7%82%E9%83%A8%E5%88%86.doc)
+- [public/resources/现代生物科学导论/复习资料、历年题/名词解释/名词解释.doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A.doc)
+- [public/resources/现代生物科学导论/复习资料、历年题/名词解释/名词解释——向阳(小总).doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A%E2%80%94%E2%80%94%E5%90%91%E9%98%B3%28%E5%B0%8F%E6%80%BB%29.doc)
+- [public/resources/现代生物科学导论/复习资料、历年题/名词解释/复旦大学现代生物科学导论名词解释.ppt](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A.ppt)
+- [public/resources/现代生物科学导论/复习资料、历年题/名词解释/复旦生命科学导论名词解释及简答题.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/%E5%A4%8D%E6%97%A6%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A%E5%8F%8A%E7%AE%80%E7%AD%94%E9%A2%98.docx)
+- [public/resources/现代生物科学导论/复习资料、历年题/名词解释/现代生物科学导论名词解释.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A.docx)
+- [public/resources/现代生物科学导论/复习资料、历年题/名词解释/（推荐名解用这个背）现代生物科学导论名词解释.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/%EF%BC%88%E6%8E%A8%E8%8D%90%E5%90%8D%E8%A7%A3%E7%94%A8%E8%BF%99%E4%B8%AA%E8%83%8C%EF%BC%89%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A.docx)
+- [public/resources/现代生物科学导论/复习资料、历年题/名词解释/（长辫子个人比较推荐名解用这个背）现代生物科学导论名词解释.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/%EF%BC%88%E9%95%BF%E8%BE%AB%E5%AD%90%E4%B8%AA%E4%BA%BA%E6%AF%94%E8%BE%83%E6%8E%A8%E8%8D%90%E5%90%8D%E8%A7%A3%E7%94%A8%E8%BF%99%E4%B8%AA%E8%83%8C%EF%BC%89%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A.docx)
+- [public/resources/现代生物科学导论/复习资料、历年题/名词解释/（高频考点）复旦生导名词解释.doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/%EF%BC%88%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9%EF%BC%89%E5%A4%8D%E6%97%A6%E7%94%9F%E5%AF%BC%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A.doc)
+- [public/resources/现代生物科学导论/复习资料、历年题/复旦生命科学导论名词解释及简答题.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E5%A4%8D%E6%97%A6%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A%E5%8F%8A%E7%AE%80%E7%AD%94%E9%A2%98.docx)
+- [public/resources/现代生物科学导论/复习资料、历年题/现代生命科学导论教学大纲（完成版）.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E7%8E%B0%E4%BB%A3%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%E6%95%99%E5%AD%A6%E5%A4%A7%E7%BA%B2%EF%BC%88%E5%AE%8C%E6%88%90%E7%89%88%EF%BC%89.docx)
+- [public/resources/现代生物科学导论/复习资料、历年题/现代生物科学导论大纲.doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%E5%A4%A7%E7%BA%B2.doc)
+- [public/resources/现代生物科学导论/复习资料、历年题/生导.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E7%94%9F%E5%AF%BC.docx)
+- 另有 19 个文件，见 data/collection_files.csv
+
+**生物统计学 / hadanice/OpenDS**
+- [生物统计学/project_presentation/vbm_sensitivity_beamer.pdf](https://github.com/hadanice/OpenDS/blob/main/%E7%94%9F%E7%89%A9%E7%BB%9F%E8%AE%A1%E5%AD%A6/project_presentation/vbm_sensitivity_beamer.pdf)
+- [生物统计学/project_presentation/vbm_sensitivity_beamer.tex](https://github.com/hadanice/OpenDS/blob/main/%E7%94%9F%E7%89%A9%E7%BB%9F%E8%AE%A1%E5%AD%A6/project_presentation/vbm_sensitivity_beamer.tex)
+- [生物统计学/笔记/index.md](https://github.com/hadanice/OpenDS/blob/main/%E7%94%9F%E7%89%A9%E7%BB%9F%E8%AE%A1%E5%AD%A6/%E7%AC%94%E8%AE%B0/index.md)
+- [生物统计学/笔记/第1章_描述统计与概率.md](https://github.com/hadanice/OpenDS/blob/main/%E7%94%9F%E7%89%A9%E7%BB%9F%E8%AE%A1%E5%AD%A6/%E7%AC%94%E8%AE%B0/%E7%AC%AC1%E7%AB%A0_%E6%8F%8F%E8%BF%B0%E7%BB%9F%E8%AE%A1%E4%B8%8E%E6%A6%82%E7%8E%87.md)
+- [生物统计学/笔记/第2章_概率分布.md](https://github.com/hadanice/OpenDS/blob/main/%E7%94%9F%E7%89%A9%E7%BB%9F%E8%AE%A1%E5%AD%A6/%E7%AC%94%E8%AE%B0/%E7%AC%AC2%E7%AB%A0_%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83.md)
+- [生物统计学/笔记/第3章_估计与单样本检验.md](https://github.com/hadanice/OpenDS/blob/main/%E7%94%9F%E7%89%A9%E7%BB%9F%E8%AE%A1%E5%AD%A6/%E7%AC%94%E8%AE%B0/%E7%AC%AC3%E7%AB%A0_%E4%BC%B0%E8%AE%A1%E4%B8%8E%E5%8D%95%E6%A0%B7%E6%9C%AC%E6%A3%80%E9%AA%8C.md)
+- [生物统计学/笔记/第4章_双样本检验.md](https://github.com/hadanice/OpenDS/blob/main/%E7%94%9F%E7%89%A9%E7%BB%9F%E8%AE%A1%E5%AD%A6/%E7%AC%94%E8%AE%B0/%E7%AC%AC4%E7%AB%A0_%E5%8F%8C%E6%A0%B7%E6%9C%AC%E6%A3%80%E9%AA%8C.md)
+- [生物统计学/笔记/第5章_多样本推断.md](https://github.com/hadanice/OpenDS/blob/main/%E7%94%9F%E7%89%A9%E7%BB%9F%E8%AE%A1%E5%AD%A6/%E7%AC%94%E8%AE%B0/%E7%AC%AC5%E7%AB%A0_%E5%A4%9A%E6%A0%B7%E6%9C%AC%E6%8E%A8%E6%96%AD.md)
+- [生物统计学/笔记/第6章_回归分析.md](https://github.com/hadanice/OpenDS/blob/main/%E7%94%9F%E7%89%A9%E7%BB%9F%E8%AE%A1%E5%AD%A6/%E7%AC%94%E8%AE%B0/%E7%AC%AC6%E7%AB%A0_%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90.md)
+- [生物统计学/笔记/第7章_人时数据.md](https://github.com/hadanice/OpenDS/blob/main/%E7%94%9F%E7%89%A9%E7%BB%9F%E8%AE%A1%E5%AD%A6/%E7%AC%94%E8%AE%B0/%E7%AC%AC7%E7%AB%A0_%E4%BA%BA%E6%97%B6%E6%95%B0%E6%8D%AE.md)
+
+**电子系统 / Zhouxunzhe/Fudan-CS-Projects**
+- [Electronic-Systems/8字实验报告/周训哲+蔡亦扬+孔恩燊 8字实验报告.docx](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Electronic-Systems/8%E5%AD%97%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/%E5%91%A8%E8%AE%AD%E5%93%B2%2B%E8%94%A1%E4%BA%A6%E6%89%AC%2B%E5%AD%94%E6%81%A9%E7%87%8A%208%E5%AD%97%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.docx)
+- [Electronic-Systems/8字实验报告/周训哲+蔡亦扬+孔恩燊 8字实验报告.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Electronic-Systems/8%E5%AD%97%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/%E5%91%A8%E8%AE%AD%E5%93%B2%2B%E8%94%A1%E4%BA%A6%E6%89%AC%2B%E5%AD%94%E6%81%A9%E7%87%8A%208%E5%AD%97%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.pdf)
+- [Electronic-Systems/Python作业-2024.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Electronic-Systems/Python%E4%BD%9C%E4%B8%9A-2024.pdf)
+- [Electronic-Systems/python编程作业/20307110315_周训哲.docx](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Electronic-Systems/python%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A/20307110315_%E5%91%A8%E8%AE%AD%E5%93%B2.docx)
+- [Electronic-Systems/python编程作业/20307110315_周训哲.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Electronic-Systems/python%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A/20307110315_%E5%91%A8%E8%AE%AD%E5%93%B2.pdf)
+- [Electronic-Systems/定时与计数实验报告/蔡亦扬+孔恩燊+周训哲 定时与计数实验报告.docx](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Electronic-Systems/%E5%AE%9A%E6%97%B6%E4%B8%8E%E8%AE%A1%E6%95%B0%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/%E8%94%A1%E4%BA%A6%E6%89%AC%2B%E5%AD%94%E6%81%A9%E7%87%8A%2B%E5%91%A8%E8%AE%AD%E5%93%B2%20%E5%AE%9A%E6%97%B6%E4%B8%8E%E8%AE%A1%E6%95%B0%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.docx)
+- [Electronic-Systems/定时与计数实验报告/蔡亦扬+孔恩燊+周训哲 定时与计数实验报告.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Electronic-Systems/%E5%AE%9A%E6%97%B6%E4%B8%8E%E8%AE%A1%E6%95%B0%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/%E8%94%A1%E4%BA%A6%E6%89%AC%2B%E5%AD%94%E6%81%A9%E7%87%8A%2B%E5%91%A8%E8%AE%AD%E5%93%B2%20%E5%AE%9A%E6%97%B6%E4%B8%8E%E8%AE%A1%E6%95%B0%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.pdf)
+- [Electronic-Systems/模数转换实验报告/蔡亦扬+孔恩燊+周训哲 模数转换实验报告.docx](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Electronic-Systems/%E6%A8%A1%E6%95%B0%E8%BD%AC%E6%8D%A2%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/%E8%94%A1%E4%BA%A6%E6%89%AC%2B%E5%AD%94%E6%81%A9%E7%87%8A%2B%E5%91%A8%E8%AE%AD%E5%93%B2%20%E6%A8%A1%E6%95%B0%E8%BD%AC%E6%8D%A2%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.docx)
+- [Electronic-Systems/模数转换实验报告/蔡亦扬+孔恩燊+周训哲 模数转换实验报告.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Electronic-Systems/%E6%A8%A1%E6%95%B0%E8%BD%AC%E6%8D%A2%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/%E8%94%A1%E4%BA%A6%E6%89%AC%2B%E5%AD%94%E6%81%A9%E7%87%8A%2B%E5%91%A8%E8%AE%AD%E5%93%B2%20%E6%A8%A1%E6%95%B0%E8%BD%AC%E6%8D%A2%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.pdf)
+- [Electronic-Systems/模板.docx](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Electronic-Systems/%E6%A8%A1%E6%9D%BF.docx)
+- [Electronic-Systems/第九组_第九次实验报告.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Electronic-Systems/%E7%AC%AC%E4%B9%9D%E7%BB%84_%E7%AC%AC%E4%B9%9D%E6%AC%A1%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.pdf)
+- [Electronic-Systems/第九组_第十次实验报告.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Electronic-Systems/%E7%AC%AC%E4%B9%9D%E7%BB%84_%E7%AC%AC%E5%8D%81%E6%AC%A1%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.pdf)
 
 **电路 / victkk/FDU-Sharing**
 - [public/resources/模数电实验/7段数字显示译码器（选：4-2优先编码器）/七段译码器.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%A8%A1%E6%95%B0%E7%94%B5%E5%AE%9E%E9%AA%8C/7%E6%AE%B5%E6%95%B0%E5%AD%97%E6%98%BE%E7%A4%BA%E8%AF%91%E7%A0%81%E5%99%A8%EF%BC%88%E9%80%89%EF%BC%9A4-2%E4%BC%98%E5%85%88%E7%BC%96%E7%A0%81%E5%99%A8%EF%BC%89/%E4%B8%83%E6%AE%B5%E8%AF%91%E7%A0%81%E5%99%A8.pdf)
@@ -1731,7 +2649,7 @@
 - [3.专业教育/计算机科学与技术/专业必修/代数结构与数理逻辑/dshu18nnn.ppt](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E4%B8%8E%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/dshu18nnn.ppt)
 - [3.专业教育/计算机科学与技术/专业必修/代数结构与数理逻辑/dshu19nnn.ppt](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E4%B8%8E%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/dshu19nnn.ppt)
 - [3.专业教育/计算机科学与技术/专业必修/代数结构与数理逻辑/dshu20nnn.ppt](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E4%B8%8E%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/dshu20nnn.ppt)
-- 另有 64 个文件，见 data/collection_files.csv
+- 另有 79 个文件，见 data/collection_files.csv
 
 **离散数学 / victkk/FDU-Sharing**
 - [public/resources/集合与图论/~$课堂练习2.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E9%9B%86%E5%90%88%E4%B8%8E%E5%9B%BE%E8%AE%BA/~%24%E8%AF%BE%E5%A0%82%E7%BB%83%E4%B9%A02.docx)
@@ -1739,6 +2657,9 @@
 - [public/resources/集合与图论/课堂练习-图论部分.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E9%9B%86%E5%90%88%E4%B8%8E%E5%9B%BE%E8%AE%BA/%E8%AF%BE%E5%A0%82%E7%BB%83%E4%B9%A0-%E5%9B%BE%E8%AE%BA%E9%83%A8%E5%88%86.pdf)
 - [public/resources/集合与图论/课堂练习1.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E9%9B%86%E5%90%88%E4%B8%8E%E5%9B%BE%E8%AE%BA/%E8%AF%BE%E5%A0%82%E7%BB%83%E4%B9%A01.pdf)
 - [public/resources/集合与图论/课堂练习2.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E9%9B%86%E5%90%88%E4%B8%8E%E5%9B%BE%E8%AE%BA/%E8%AF%BE%E5%A0%82%E7%BB%83%E4%B9%A02.docx)
+
+**科技人才英语沟通 / victkk/FDU-Sharing**
+- [public/resources/科技人才英语沟通/2025-复习-知识点总结.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%A7%91%E6%8A%80%E4%BA%BA%E6%89%8D%E8%8B%B1%E8%AF%AD%E6%B2%9F%E9%80%9A/2025-%E5%A4%8D%E4%B9%A0-%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93.pdf)
 
 **程序设计 / AniroHU/FDU_Courses_Undergraduate**
 - [程序设计/PPT/第一讲_程序设计基础.pdf](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/PPT/%E7%AC%AC%E4%B8%80%E8%AE%B2_%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80.pdf)
@@ -1755,7 +2676,35 @@
 - [程序设计/PPT/第六讲_2_指针.pdf](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/PPT/%E7%AC%AC%E5%85%AD%E8%AE%B2_2_%E6%8C%87%E9%92%88.pdf)
 - 另有 16 个文件，见 data/collection_files.csv
 
+**程序设计 / Zhouxunzhe/Fudan-CS-Projects**
+- [Programming/.idea/Python_Programming.iml](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming/.idea/Python_Programming.iml)
+- [Programming/.idea/inspectionProfiles/profiles_settings.xml](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming/.idea/inspectionProfiles/profiles_settings.xml)
+- [Programming/.idea/misc.xml](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming/.idea/misc.xml)
+- [Programming/.idea/modules.xml](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming/.idea/modules.xml)
+- [Programming/.idea/vcs.xml](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming/.idea/vcs.xml)
+- [Programming/QuantProgramming/data/bonds/sh010107.csv](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming/QuantProgramming/data/bonds/sh010107.csv)
+- [Programming/QuantProgramming/data/bonds/sh188903.csv](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming/QuantProgramming/data/bonds/sh188903.csv)
+- [Programming/QuantProgramming/data/bonds/sh188904.csv](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming/QuantProgramming/data/bonds/sh188904.csv)
+- [Programming/QuantProgramming/data/bonds/sh188906.csv](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming/QuantProgramming/data/bonds/sh188906.csv)
+- [Programming/QuantProgramming/data/bonds/sh188909.csv](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming/QuantProgramming/data/bonds/sh188909.csv)
+- [Programming/QuantProgramming/data/bonds/sh188911.csv](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming/QuantProgramming/data/bonds/sh188911.csv)
+- [Programming/QuantProgramming/data/bonds/sh188912.csv](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming/QuantProgramming/data/bonds/sh188912.csv)
+- 另有 134 个文件，见 data/collection_files.csv
+
+**程序设计 / lrcc275/FudanCources**
+- [COMP120006程序设计/上机作业讲解.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP120006%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E4%B8%8A%E6%9C%BA%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3.pdf)
+- [COMP120006程序设计/课件/第0章课件.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP120006%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E8%AF%BE%E4%BB%B6/%E7%AC%AC0%E7%AB%A0%E8%AF%BE%E4%BB%B6.pdf)
+- [COMP120006程序设计/课件/第1章课件.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP120006%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E8%AF%BE%E4%BB%B6/%E7%AC%AC1%E7%AB%A0%E8%AF%BE%E4%BB%B6.pdf)
+- [COMP120006程序设计/课件/第2章课件——基本数据类型及其运算.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP120006%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E8%AF%BE%E4%BB%B6/%E7%AC%AC2%E7%AB%A0%E8%AF%BE%E4%BB%B6%E2%80%94%E2%80%94%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%8F%8A%E5%85%B6%E8%BF%90%E7%AE%97.pdf)
+- [COMP120006程序设计/课件/第3章课件：结构化程序设计.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP120006%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E8%AF%BE%E4%BB%B6/%E7%AC%AC3%E7%AB%A0%E8%AF%BE%E4%BB%B6%EF%BC%9A%E7%BB%93%E6%9E%84%E5%8C%96%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.pdf)
+- [COMP120006程序设计/课件/第4章课件：数组.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP120006%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E8%AF%BE%E4%BB%B6/%E7%AC%AC4%E7%AB%A0%E8%AF%BE%E4%BB%B6%EF%BC%9A%E6%95%B0%E7%BB%84.pdf)
+- [COMP120006程序设计/课件/第5章课件：函数.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP120006%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E8%AF%BE%E4%BB%B6/%E7%AC%AC5%E7%AB%A0%E8%AF%BE%E4%BB%B6%EF%BC%9A%E5%87%BD%E6%95%B0.pdf)
+- [COMP120006程序设计/课件/第6章课件：指针.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP120006%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E8%AF%BE%E4%BB%B6/%E7%AC%AC6%E7%AB%A0%E8%AF%BE%E4%BB%B6%EF%BC%9A%E6%8C%87%E9%92%88.pdf)
+- [COMP120006程序设计/课件/第7章课件：结构和链表.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP120006%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E8%AF%BE%E4%BB%B6/%E7%AC%AC7%E7%AB%A0%E8%AF%BE%E4%BB%B6%EF%BC%9A%E7%BB%93%E6%9E%84%E5%92%8C%E9%93%BE%E8%A1%A8.pdf)
+- [COMP120006程序设计/课件/第8章课件：数据文件处理技术.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP120006%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E8%AF%BE%E4%BB%B6/%E7%AC%AC8%E7%AB%A0%E8%AF%BE%E4%BB%B6%EF%BC%9A%E6%95%B0%E6%8D%AE%E6%96%87%E4%BB%B6%E5%A4%84%E7%90%86%E6%8A%80%E6%9C%AF.pdf)
+
 **程序设计 / openFudan/fudan-coursera**
+- [2.基础教育/计算机科学与技术/程序设计/2015期终复习.ppt](https://github.com/openFudan/fudan-coursera/blob/master/2.%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/2015%E6%9C%9F%E7%BB%88%E5%A4%8D%E4%B9%A0.ppt)
 - [2.基础教育/计算机科学与技术/程序设计/二分快排.txt](https://github.com/openFudan/fudan-coursera/blob/master/2.%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E4%BA%8C%E5%88%86%E5%BF%AB%E6%8E%92.txt)
 - [2.基础教育/计算机科学与技术/程序设计/基本算法.ppt](https://github.com/openFudan/fudan-coursera/blob/master/2.%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E5%9F%BA%E6%9C%AC%E7%AE%97%E6%B3%95.ppt)
 - [2.基础教育/计算机科学与技术/程序设计/填空练习.doc](https://github.com/openFudan/fudan-coursera/blob/master/2.%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E5%A1%AB%E7%A9%BA%E7%BB%83%E4%B9%A0.doc)
@@ -1767,8 +2716,7 @@
 - [2.基础教育/计算机科学与技术/程序设计/第3章结构化程序开发a.ppt](https://github.com/openFudan/fudan-coursera/blob/master/2.%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E7%AC%AC3%E7%AB%A0%E7%BB%93%E6%9E%84%E5%8C%96%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91a.ppt)
 - [2.基础教育/计算机科学与技术/程序设计/第3章结构化程序开发b.ppt](https://github.com/openFudan/fudan-coursera/blob/master/2.%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E7%AC%AC3%E7%AB%A0%E7%BB%93%E6%9E%84%E5%8C%96%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91b.ppt)
 - [2.基础教育/计算机科学与技术/程序设计/第4章数组a.ppt](https://github.com/openFudan/fudan-coursera/blob/master/2.%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E7%AC%AC4%E7%AB%A0%E6%95%B0%E7%BB%84a.ppt)
-- [2.基础教育/计算机科学与技术/程序设计/第4章数组b.ppt](https://github.com/openFudan/fudan-coursera/blob/master/2.%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E7%AC%AC4%E7%AB%A0%E6%95%B0%E7%BB%84b.ppt)
-- 另有 8 个文件，见 data/collection_files.csv
+- 另有 9 个文件，见 data/collection_files.csv
 
 **程序设计 / victkk/FDU-Sharing**
 - [public/resources/python程序设计/Python-2026/3小时速成课网盘.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Python-2026/3%E5%B0%8F%E6%97%B6%E9%80%9F%E6%88%90%E8%AF%BE%E7%BD%91%E7%9B%98.docx)
@@ -1783,7 +2731,25 @@
 - [public/resources/python程序设计/Python-2026/【1】课件/mdl课件/09-文件.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Python-2026/%E3%80%901%E3%80%91%E8%AF%BE%E4%BB%B6/mdl%E8%AF%BE%E4%BB%B6/09-%E6%96%87%E4%BB%B6.pdf)
 - [public/resources/python程序设计/Python-2026/【1】课件/mdl课件/10-字典与集合.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Python-2026/%E3%80%901%E3%80%91%E8%AF%BE%E4%BB%B6/mdl%E8%AF%BE%E4%BB%B6/10-%E5%AD%97%E5%85%B8%E4%B8%8E%E9%9B%86%E5%90%88.pdf)
 - [public/resources/python程序设计/Python-2026/【1】课件/mdl课件/11-正则表达式.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Python-2026/%E3%80%901%E3%80%91%E8%AF%BE%E4%BB%B6/mdl%E8%AF%BE%E4%BB%B6/11-%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.pdf)
-- 另有 38 个文件，见 data/collection_files.csv
+- 另有 46 个文件，见 data/collection_files.csv
+
+**程序语言 / Zhouxunzhe/Fudan-CS-Projects**
+- [Programming-Languages/HW0/exp.scm](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming-Languages/HW0/exp.scm)
+- [Programming-Languages/HW0/func.scm](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming-Languages/HW0/func.scm)
+- [Programming-Languages/HW0/handout.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming-Languages/HW0/handout.pdf)
+- [Programming-Languages/HW0/helloworld.scm](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming-Languages/HW0/helloworld.scm)
+- [Programming-Languages/HW0/primes.scm](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming-Languages/HW0/primes.scm)
+- [Programming-Languages/HW1/deriv.scm](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming-Languages/HW1/deriv.scm)
+- [Programming-Languages/HW1/handout.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming-Languages/HW1/handout.pdf)
+- [Programming-Languages/HW1/highorder.scm](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming-Languages/HW1/highorder.scm)
+- [Programming-Languages/HW1/test.scm](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming-Languages/HW1/test.scm)
+- [Programming-Languages/HW2/handout.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming-Languages/HW2/handout.pdf)
+- [Programming-Languages/HW2/memo.scm](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming-Languages/HW2/memo.scm)
+- [Programming-Languages/HW2/test.scm](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming-Languages/HW2/test.scm)
+- 另有 10 个文件，见 data/collection_files.csv
+
+**笛卡尔《谈谈方法》导读 / Su-Zi-Zhan/FDU-SDS-Lecture-Notes**
+- [PHIL119002.01-笛卡尔《谈谈方法》导读/笛卡尔的分析与综合方法的完善空间.docx](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/PHIL119002.01-%E7%AC%9B%E5%8D%A1%E5%B0%94%E3%80%8A%E8%B0%88%E8%B0%88%E6%96%B9%E6%B3%95%E3%80%8B%E5%AF%BC%E8%AF%BB/%E7%AC%9B%E5%8D%A1%E5%B0%94%E7%9A%84%E5%88%86%E6%9E%90%E4%B8%8E%E7%BB%BC%E5%90%88%E6%96%B9%E6%B3%95%E7%9A%84%E5%AE%8C%E5%96%84%E7%A9%BA%E9%97%B4.docx)
 
 **算法设计与分析 / BeneneeYu/Course-Project**
 - [Navigation-System-By-Shortest-Path-Algorithm/.idea/misc.xml](https://github.com/BeneneeYu/Course-Project/blob/master/Navigation-System-By-Shortest-Path-Algorithm/.idea/misc.xml)
@@ -1800,6 +2766,21 @@
 - [Navigation-System-By-Shortest-Path-Algorithm/out/production/DataStructureProject2/Graphm.class](https://github.com/BeneneeYu/Course-Project/blob/master/Navigation-System-By-Shortest-Path-Algorithm/out/production/DataStructureProject2/Graphm.class)
 - 另有 6 个文件，见 data/collection_files.csv
 
+**算法设计与分析 / lrcc275/FudanCources**
+- [COMP130011算法设计与分析/课件/lecture1.pptx](https://github.com/lrcc275/FudanCources/blob/main/COMP130011%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/%E8%AF%BE%E4%BB%B6/lecture1.pptx)
+- [COMP130011算法设计与分析/课件/lecture10-network flow.pptx](https://github.com/lrcc275/FudanCources/blob/main/COMP130011%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/%E8%AF%BE%E4%BB%B6/lecture10-network%20flow.pptx)
+- [COMP130011算法设计与分析/课件/lecture11-LP.pptx](https://github.com/lrcc275/FudanCources/blob/main/COMP130011%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/%E8%AF%BE%E4%BB%B6/lecture11-LP.pptx)
+- [COMP130011算法设计与分析/课件/lecture12-NPC.pptx](https://github.com/lrcc275/FudanCources/blob/main/COMP130011%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/%E8%AF%BE%E4%BB%B6/lecture12-NPC.pptx)
+- [COMP130011算法设计与分析/课件/lecture13-approximation.pptx](https://github.com/lrcc275/FudanCources/blob/main/COMP130011%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/%E8%AF%BE%E4%BB%B6/lecture13-approximation.pptx)
+- [COMP130011算法设计与分析/课件/lecture14-FFT.pptx](https://github.com/lrcc275/FudanCources/blob/main/COMP130011%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/%E8%AF%BE%E4%BB%B6/lecture14-FFT.pptx)
+- [COMP130011算法设计与分析/课件/lecture2.pptx](https://github.com/lrcc275/FudanCources/blob/main/COMP130011%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/%E8%AF%BE%E4%BB%B6/lecture2.pptx)
+- [COMP130011算法设计与分析/课件/lecture3-sp24.pptx](https://github.com/lrcc275/FudanCources/blob/main/COMP130011%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/%E8%AF%BE%E4%BB%B6/lecture3-sp24.pptx)
+- [COMP130011算法设计与分析/课件/lecture4-hashing.pptx](https://github.com/lrcc275/FudanCources/blob/main/COMP130011%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/%E8%AF%BE%E4%BB%B6/lecture4-hashing.pptx)
+- [COMP130011算法设计与分析/课件/lecture5-amortized analysis.pptx](https://github.com/lrcc275/FudanCources/blob/main/COMP130011%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/%E8%AF%BE%E4%BB%B6/lecture5-amortized%20analysis.pptx)
+- [COMP130011算法设计与分析/课件/lecture6-dp.pptx](https://github.com/lrcc275/FudanCources/blob/main/COMP130011%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/%E8%AF%BE%E4%BB%B6/lecture6-dp.pptx)
+- [COMP130011算法设计与分析/课件/lecture7-greedy.pptx](https://github.com/lrcc275/FudanCources/blob/main/COMP130011%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/%E8%AF%BE%E4%BB%B6/lecture7-greedy.pptx)
+- 另有 3 个文件，见 data/collection_files.csv
+
 **算法设计与分析 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/毕业论文/论文写作样例/dltc with gensim lda/paper/6.Naive Bayes Algorithm with Seed Words/Naive Bayes Algorithm with Seed Words.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87/%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C%E6%A0%B7%E4%BE%8B/dltc%20with%20gensim%20lda/paper/6.Naive%20Bayes%20Algorithm%20with%20Seed%20Words/Naive%20Bayes%20Algorithm%20with%20Seed%20Words.pdf)
 - [3.专业教育/计算机科学与技术/专业必修/毕业论文/论文写作样例/dltc with gensim lda/paper/6.Naive Bayes Algorithm with Seed Words/Seed-Guided-Topic-Model-master.zip](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87/%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C%E6%A0%B7%E4%BE%8B/dltc%20with%20gensim%20lda/paper/6.Naive%20Bayes%20Algorithm%20with%20Seed%20Words/Seed-Guided-Topic-Model-master.zip)
@@ -1813,7 +2794,7 @@
 - [3.专业教育/计算机科学与技术/专业必修/算法导论/alg18/Path Finding I - Solving Linear Programs.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/alg18/Path%20Finding%20I%20-%20Solving%20Linear%20Programs.pdf)
 - [3.专业教育/计算机科学与技术/专业必修/算法导论/alg18/Path Finding II.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/alg18/Path%20Finding%20II.pdf)
 - [3.专业教育/计算机科学与技术/专业必修/算法导论/alg18/The Multiplicative Weights Update Method - a Meta-Algorithm and Applications.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/alg18/The%20Multiplicative%20Weights%20Update%20Method%20-%20a%20Meta-Algorithm%20and%20Applications.pdf)
-- 另有 80 个文件，见 data/collection_files.csv
+- 另有 81 个文件，见 data/collection_files.csv
 
 **算法设计与分析 / victkk/FDU-Sharing**
 - [public/resources/算法设计与分析/2024-2025 算法设计与分析（回忆版）.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/2024-2025%20%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90%EF%BC%88%E5%9B%9E%E5%BF%86%E7%89%88%EF%BC%89.pdf)
@@ -1822,6 +2803,18 @@
 - [public/resources/算法设计与分析/22春.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/22%E6%98%A5.pdf)
 - [public/resources/算法设计与分析/24春.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/24%E6%98%A5.pdf)
 - [public/resources/算法设计与分析/CSAlgorithm2020.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/CSAlgorithm2020.pdf)
+
+**系统程序设计 / ChenTao98/FudanUniversity**
+- [系统程序设计/lab1/lab1文档.pdf](https://github.com/ChenTao98/FudanUniversity/blob/master/%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/lab1/lab1%E6%96%87%E6%A1%A3.pdf)
+- [系统程序设计/lab1/shell](https://github.com/ChenTao98/FudanUniversity/blob/master/%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/lab1/shell)
+- [系统程序设计/lab2/1.txt](https://github.com/ChenTao98/FudanUniversity/blob/master/%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/lab2/1.txt)
+- [系统程序设计/lab2/Makefile](https://github.com/ChenTao98/FudanUniversity/blob/master/%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/lab2/Makefile)
+- [系统程序设计/lab2/lab2文档.pdf](https://github.com/ChenTao98/FudanUniversity/blob/master/%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/lab2/lab2%E6%96%87%E6%A1%A3.pdf)
+- [系统程序设计/lab3/Makefile](https://github.com/ChenTao98/FudanUniversity/blob/master/%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/lab3/Makefile)
+- [系统程序设计/lab3/lab3文档.docx](https://github.com/ChenTao98/FudanUniversity/blob/master/%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/lab3/lab3%E6%96%87%E6%A1%A3.docx)
+- [系统程序设计/lab3/msg.txt](https://github.com/ChenTao98/FudanUniversity/blob/master/%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/lab3/msg.txt)
+- [系统程序设计/lab3/sem.txt](https://github.com/ChenTao98/FudanUniversity/blob/master/%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/lab3/sem.txt)
+- [系统程序设计/lab3/share.txt](https://github.com/ChenTao98/FudanUniversity/blob/master/%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/lab3/share.txt)
 
 **线性代数 / kanzaler123/fdu-course-resources**
 - [线性代数/习题/第26+27讲 矩阵的秩.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E4%B9%A0%E9%A2%98/%E7%AC%AC26%2B27%E8%AE%B2%20%E7%9F%A9%E9%98%B5%E7%9A%84%E7%A7%A9.pdf)
@@ -1832,6 +2825,21 @@
 - [线性代数/参考资料/线性代数-第五版-学习参考 (赵数嫄) (z-library.sk, 1lib.sk, z-lib.sk).pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0-%E7%AC%AC%E4%BA%94%E7%89%88-%E5%AD%A6%E4%B9%A0%E5%8F%82%E8%80%83%20%28%E8%B5%B5%E6%95%B0%E5%AB%84%29%20%28z-library.sk%2C%201lib.sk%2C%20z-lib.sk%29.pdf)
 - [线性代数/参考资料/经济应用数学基础（二）-线性代数（第五版） (赵树嫄) (z-library.sk, 1lib.sk, z-lib.sk).pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/%E7%BB%8F%E6%B5%8E%E5%BA%94%E7%94%A8%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%EF%BC%88%E4%BA%8C%EF%BC%89-%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%AC%AC%E4%BA%94%E7%89%88%EF%BC%89%20%28%E8%B5%B5%E6%A0%91%E5%AB%84%29%20%28z-library.sk%2C%201lib.sk%2C%20z-lib.sk%29.pdf)
 
+**线性代数 / openFudan/fudan-coursera**
+- [2.基础教育/计算机科学与技术/线形代数/第一章习题课李岳涵.pdf](https://github.com/openFudan/fudan-coursera/blob/master/2.%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E7%BA%BF%E5%BD%A2%E4%BB%A3%E6%95%B0/%E7%AC%AC%E4%B8%80%E7%AB%A0%E4%B9%A0%E9%A2%98%E8%AF%BE%E6%9D%8E%E5%B2%B3%E6%B6%B5.pdf)
+- [2.基础教育/计算机科学与技术/线形代数/第三章习题课李岳涵.pdf](https://github.com/openFudan/fudan-coursera/blob/master/2.%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E7%BA%BF%E5%BD%A2%E4%BB%A3%E6%95%B0/%E7%AC%AC%E4%B8%89%E7%AB%A0%E4%B9%A0%E9%A2%98%E8%AF%BE%E6%9D%8E%E5%B2%B3%E6%B6%B5.pdf)
+- [2.基础教育/计算机科学与技术/线形代数/第二章习题课李岳涵.pdf](https://github.com/openFudan/fudan-coursera/blob/master/2.%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E7%BA%BF%E5%BD%A2%E4%BB%A3%E6%95%B0/%E7%AC%AC%E4%BA%8C%E7%AB%A0%E4%B9%A0%E9%A2%98%E8%AF%BE%E6%9D%8E%E5%B2%B3%E6%B6%B5.pdf)
+- [2.基础教育/计算机科学与技术/线形代数/第五章习题课-李岳涵.pdf](https://github.com/openFudan/fudan-coursera/blob/master/2.%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E7%BA%BF%E5%BD%A2%E4%BB%A3%E6%95%B0/%E7%AC%AC%E4%BA%94%E7%AB%A0%E4%B9%A0%E9%A2%98%E8%AF%BE-%E6%9D%8E%E5%B2%B3%E6%B6%B5.pdf)
+- [2.基础教育/计算机科学与技术/线形代数/第四章习题20.pdf](https://github.com/openFudan/fudan-coursera/blob/master/2.%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E7%BA%BF%E5%BD%A2%E4%BB%A3%E6%95%B0/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E4%B9%A0%E9%A2%9820.pdf)
+- [2.基础教育/计算机科学与技术/线形代数/第四章习题课李岳涵.pdf](https://github.com/openFudan/fudan-coursera/blob/master/2.%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E7%BA%BF%E5%BD%A2%E4%BB%A3%E6%95%B0/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E4%B9%A0%E9%A2%98%E8%AF%BE%E6%9D%8E%E5%B2%B3%E6%B6%B5.pdf)
+- [2.基础教育/计算机科学与技术/线形代数/第四章线代答疑.pdf](https://github.com/openFudan/fudan-coursera/blob/master/2.%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E7%BA%BF%E5%BD%A2%E4%BB%A3%E6%95%B0/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E7%BA%BF%E4%BB%A3%E7%AD%94%E7%96%91.pdf)
+- [2.基础教育/计算机科学与技术/线形代数/线性代数1-1.pdf](https://github.com/openFudan/fudan-coursera/blob/master/2.%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E7%BA%BF%E5%BD%A2%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B01-1.pdf)
+- [2.基础教育/计算机科学与技术/线形代数/线性代数1-2.pdf](https://github.com/openFudan/fudan-coursera/blob/master/2.%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E7%BA%BF%E5%BD%A2%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B01-2.pdf)
+- [2.基础教育/计算机科学与技术/线形代数/线性代数1-3.pdf](https://github.com/openFudan/fudan-coursera/blob/master/2.%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E7%BA%BF%E5%BD%A2%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B01-3.pdf)
+- [2.基础教育/计算机科学与技术/线形代数/线性代数1-4.pdf](https://github.com/openFudan/fudan-coursera/blob/master/2.%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E7%BA%BF%E5%BD%A2%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B01-4.pdf)
+- [2.基础教育/计算机科学与技术/线形代数/线性代数2-1.pdf](https://github.com/openFudan/fudan-coursera/blob/master/2.%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E7%BA%BF%E5%BD%A2%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B02-1.pdf)
+- 另有 20 个文件，见 data/collection_files.csv
+
 **线性代数 / victkk/FDU-Sharing**
 - [public/resources/线性代数/21级线性代数半期考试.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/21%E7%BA%A7%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%8D%8A%E6%9C%9F%E8%80%83%E8%AF%95.pdf)
 - [public/resources/线性代数/22 1-4题.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/22%201-4%E9%A2%98.pdf)
@@ -1840,6 +2848,21 @@
 - [public/resources/线性代数/Linear_Algebra_Review-02.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Linear_Algebra_Review-02.pdf)
 - [public/resources/线性代数/Linear_Algebra_Review-03.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Linear_Algebra_Review-03.pdf)
 - [public/resources/线性代数/Strang_Linear.Algebra.and.Its.Applications.4ed.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Strang_Linear.Algebra.and.Its.Applications.4ed.pdf)
+
+**经济史 / kanzaler123/fdu-course-resources**
+- [经济史/参考资料/1.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E7%BB%8F%E6%B5%8E%E5%8F%B2/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/1.pdf)
+- [经济史/参考资料/2010-the-colonial-origins-of-comparative-development-an-empirical-investigation.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E7%BB%8F%E6%B5%8E%E5%8F%B2/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/2010-the-colonial-origins-of-comparative-development-an-empirical-investigation.pdf)
+- [经济史/参考资料/Canal_AER_Cao_and_Chen.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E7%BB%8F%E6%B5%8E%E5%8F%B2/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/Canal_AER_Cao_and_Chen.pdf)
+- [经济史/参考资料/ChaneyHornbeck2015.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E7%BB%8F%E6%B5%8E%E5%8F%B2/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/ChaneyHornbeck2015.pdf)
+- [经济史/参考资料/Chasing_or_cheating.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E7%BB%8F%E6%B5%8E%E5%8F%B2/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/Chasing_or_cheating.pdf)
+- [经济史/参考资料/The Consequences of Radical Reform - The French Re_0.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E7%BB%8F%E6%B5%8E%E5%8F%B2/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/The%20Consequences%20of%20Radical%20Reform%20-%20The%20French%20Re_0.pdf)
+- [经济史/参考资料/cs论文.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E7%BB%8F%E6%B5%8E%E5%8F%B2/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/cs%E8%AE%BA%E6%96%87.pdf)
+- [经济史/参考资料/dp2886.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E7%BB%8F%E6%B5%8E%E5%8F%B2/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/dp2886.pdf)
+- [经济史/参考资料/nihms315509.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E7%BB%8F%E6%B5%8E%E5%8F%B2/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/nihms315509.pdf)
+- [经济史/参考资料/risky business.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E7%BB%8F%E6%B5%8E%E5%8F%B2/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/risky%20business.pdf)
+- [经济史/参考资料/s10887-016-9125-8.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E7%BB%8F%E6%B5%8E%E5%8F%B2/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/s10887-016-9125-8.pdf)
+- [经济史/参考资料/任命制下的环境治理_web.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E7%BB%8F%E6%B5%8E%E5%8F%B2/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/%E4%BB%BB%E5%91%BD%E5%88%B6%E4%B8%8B%E7%9A%84%E7%8E%AF%E5%A2%83%E6%B2%BB%E7%90%86_web.pdf)
+- 另有 32 个文件，见 data/collection_files.csv
 
 **经济学 / kanzaler123/fdu-course-resources**
 - [国际经济学/习题/李嘉图模型习题.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E5%9B%BD%E9%99%85%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E4%B9%A0%E9%A2%98/%E6%9D%8E%E5%98%89%E5%9B%BE%E6%A8%A1%E5%9E%8B%E4%B9%A0%E9%A2%98.pdf)
@@ -1854,7 +2877,7 @@
 - [国际经济学/参考资料/IT-12 国际收支（下）开放经济下的宏观经济政策.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E5%9B%BD%E9%99%85%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/IT-12%20%E5%9B%BD%E9%99%85%E6%94%B6%E6%94%AF%EF%BC%88%E4%B8%8B%EF%BC%89%E5%BC%80%E6%94%BE%E7%BB%8F%E6%B5%8E%E4%B8%8B%E7%9A%84%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96.pdf)
 - [国际经济学/参考资料/IT-2 李嘉图模型（revised）.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E5%9B%BD%E9%99%85%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/IT-2%20%E6%9D%8E%E5%98%89%E5%9B%BE%E6%A8%A1%E5%9E%8B%EF%BC%88revised%EF%BC%89.pdf)
 - [国际经济学/参考资料/IT-3-1 特定要素模型（revised）.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E5%9B%BD%E9%99%85%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/IT-3-1%20%E7%89%B9%E5%AE%9A%E8%A6%81%E7%B4%A0%E6%A8%A1%E5%9E%8B%EF%BC%88revised%EF%BC%89.pdf)
-- 另有 61 个文件，见 data/collection_files.csv
+- 另有 64 个文件，见 data/collection_files.csv
 
 **经济学 / victkk/FDU-Sharing**
 - [public/resources/外国经济思潮/25秋外国经济思潮/6.2供给学派与供给侧改革.pptx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%A4%96%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%80%9D%E6%BD%AE/25%E7%A7%8B%E5%A4%96%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%80%9D%E6%BD%AE/6.2%E4%BE%9B%E7%BB%99%E5%AD%A6%E6%B4%BE%E4%B8%8E%E4%BE%9B%E7%BB%99%E4%BE%A7%E6%94%B9%E9%9D%A9.pptx)
@@ -1868,8 +2891,11 @@
 - [public/resources/外国经济思潮/25秋外国经济思潮/斯密论中国.ppt](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%A4%96%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%80%9D%E6%BD%AE/25%E7%A7%8B%E5%A4%96%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%80%9D%E6%BD%AE/%E6%96%AF%E5%AF%86%E8%AE%BA%E4%B8%AD%E5%9B%BD.ppt)
 - [public/resources/外国经济思潮/25秋外国经济思潮/第五讲.ppt](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%A4%96%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%80%9D%E6%BD%AE/25%E7%A7%8B%E5%A4%96%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%80%9D%E6%BD%AE/%E7%AC%AC%E4%BA%94%E8%AE%B2.ppt)
 - [public/resources/外国经济思潮/25秋外国经济思潮/货币分析思潮.ppt](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%A4%96%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%80%9D%E6%BD%AE/25%E7%A7%8B%E5%A4%96%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%80%9D%E6%BD%AE/%E8%B4%A7%E5%B8%81%E5%88%86%E6%9E%90%E6%80%9D%E6%BD%AE.ppt)
-- [public/resources/微观经济学/微经名词解释2.0版.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E5%BE%AE%E7%BB%8F%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A2.0%E7%89%88.docx)
-- 另有 12 个文件，见 data/collection_files.csv
+- [public/resources/微观经济学/《曼昆—微观经济学》_重点总结.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E3%80%8A%E6%9B%BC%E6%98%86%E2%80%94%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E3%80%8B_%E9%87%8D%E7%82%B9%E6%80%BB%E7%BB%93.pdf)
+- 另有 38 个文件，见 data/collection_files.csv
+
+**统计学习概论 / ForeverHaibara/Fudan-Courses**
+- [统计学习概论/统计学习概论.md](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%AE%BA/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%AE%BA.md)
 
 **统计计算 / ForeverHaibara/Fudan-Courses**
 - [统计计算/统计计算.md](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E7%BB%9F%E8%AE%A1%E8%AE%A1%E7%AE%97/%E7%BB%9F%E8%AE%A1%E8%AE%A1%E7%AE%97.md)
@@ -1883,10 +2909,55 @@
 - [统计计算/Lecture 5 - MCMC.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E8%AE%A1%E7%AE%97/Lecture%205%20-%20MCMC.pdf)
 - [统计计算/Lecture X - EM Algorithm.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E8%AE%A1%E7%AE%97/Lecture%20X%20-%20EM%20Algorithm.pdf)
 
+**编程方法与技术 / clb2001/FDU-COMP**
+- [编程方法与技术/java/Computer Programming Methods and Techniques.iml](https://github.com/clb2001/FDU-COMP/blob/main/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/java/Computer%20Programming%20Methods%20and%20Techniques.iml)
+- [编程方法与技术/java/DEMO/reference4/Point/config.properties](https://github.com/clb2001/FDU-COMP/blob/main/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/java/DEMO/reference4/Point/config.properties)
+- [编程方法与技术/java/Homework/Homework.iml](https://github.com/clb2001/FDU-COMP/blob/main/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/java/Homework/Homework.iml)
+- [编程方法与技术/java/Homework/Homework4/.vscode/settings.json](https://github.com/clb2001/FDU-COMP/blob/main/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/java/Homework/Homework4/.vscode/settings.json)
+- [编程方法与技术/java/Homework/Homework4/Homework4.iml](https://github.com/clb2001/FDU-COMP/blob/main/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/java/Homework/Homework4/Homework4.iml)
+- [编程方法与技术/java/Homework/Homework4/MANIFEST.MF](https://github.com/clb2001/FDU-COMP/blob/main/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/java/Homework/Homework4/MANIFEST.MF)
+- [编程方法与技术/java/Homework/Homework4/bin/edu/fudan/test.class](https://github.com/clb2001/FDU-COMP/blob/main/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/java/Homework/Homework4/bin/edu/fudan/test.class)
+- [编程方法与技术/java/Homework/Homework4/bin/edu/jw/sort.class](https://github.com/clb2001/FDU-COMP/blob/main/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/java/Homework/Homework4/bin/edu/jw/sort.class)
+- [编程方法与技术/java/Homework/Homework4/bin/edu/wjc/sort.class](https://github.com/clb2001/FDU-COMP/blob/main/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/java/Homework/Homework4/bin/edu/wjc/sort.class)
+- [编程方法与技术/java/Homework/Homework4/jw.jar](https://github.com/clb2001/FDU-COMP/blob/main/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/java/Homework/Homework4/jw.jar)
+- [编程方法与技术/java/Homework/Homework4/sort.conf](https://github.com/clb2001/FDU-COMP/blob/main/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/java/Homework/Homework4/sort.conf)
+- [编程方法与技术/java/Homework/Homework4/sort.jar](https://github.com/clb2001/FDU-COMP/blob/main/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/java/Homework/Homework4/sort.jar)
+- 另有 80 个文件，见 data/collection_files.csv
+
+**编程方法与技术 / openFudan/fudan-coursera**
+- [3.专业教育/计算机科学与技术/专业选修/编程方法与技术/Prog-01.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/Prog-01.pdf)
+- [3.专业教育/计算机科学与技术/专业选修/编程方法与技术/Prog-02.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/Prog-02.pdf)
+- [3.专业教育/计算机科学与技术/专业选修/编程方法与技术/Prog-03.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/Prog-03.pdf)
+- [3.专业教育/计算机科学与技术/专业选修/编程方法与技术/Prog-04.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/Prog-04.pdf)
+- [3.专业教育/计算机科学与技术/专业选修/编程方法与技术/Prog-05.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/Prog-05.pdf)
+- [3.专业教育/计算机科学与技术/专业选修/编程方法与技术/Prog-06.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/Prog-06.pdf)
+- [3.专业教育/计算机科学与技术/专业选修/编程方法与技术/Prog-07.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/Prog-07.pdf)
+- [3.专业教育/计算机科学与技术/专业选修/编程方法与技术/Prog-08.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/Prog-08.pdf)
+- [3.专业教育/计算机科学与技术/专业选修/编程方法与技术/Prog-09.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/Prog-09.pdf)
+- [3.专业教育/计算机科学与技术/专业选修/编程方法与技术/Prog-0A(1).pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/Prog-0A%281%29.pdf)
+- [3.专业教育/计算机科学与技术/专业选修/编程方法与技术/Prog-0B.2.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/Prog-0B.2.pdf)
+- [3.专业教育/计算机科学与技术/专业选修/编程方法与技术/Prog-0B.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/Prog-0B.pdf)
+- 另有 9 个文件，见 data/collection_files.csv
+
 **编译原理 / BeneneeYu/Course-Project**
 - [Dice-Game/DiceGame3/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe](https://github.com/BeneneeYu/Course-Project/blob/master/Dice-Game/DiceGame3/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe)
 - [Dice-Game/DiceGame3/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe](https://github.com/BeneneeYu/Course-Project/blob/master/Dice-Game/DiceGame3/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe)
 - [Simple-Compiler/lab5实验报告.md](https://github.com/BeneneeYu/Course-Project/blob/master/Simple-Compiler/lab5%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.md)
+
+**编译原理 / Zhouxunzhe/Fudan-CS-Projects**
+- [Compiler/project1/.vscode/settings.json](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Compiler/project1/.vscode/settings.json)
+- [Compiler/project1/PCAT语言参考指南.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Compiler/project1/PCAT%E8%AF%AD%E8%A8%80%E5%8F%82%E8%80%83%E6%8C%87%E5%8D%97.pdf)
+- [Compiler/project1/Project1说明.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Compiler/project1/Project1%E8%AF%B4%E6%98%8E.pdf)
+- [Compiler/project1/flex_demo/.vscode/c_cpp_properties.json](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Compiler/project1/flex_demo/.vscode/c_cpp_properties.json)
+- [Compiler/project1/flex_demo/.vscode/launch.json](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Compiler/project1/flex_demo/.vscode/launch.json)
+- [Compiler/project1/flex_demo/.vscode/settings.json](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Compiler/project1/flex_demo/.vscode/settings.json)
+- [Compiler/project1/flex_demo/Makefile](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Compiler/project1/flex_demo/Makefile)
+- [Compiler/project1/flex_demo/lexer](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Compiler/project1/flex_demo/lexer)
+- [Compiler/project1/flex_demo/lexer.lex](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Compiler/project1/flex_demo/lexer.lex)
+- [Compiler/project1/flex_demo/lexer.o](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Compiler/project1/flex_demo/lexer.o)
+- [Compiler/project1/results/case_1.txt](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Compiler/project1/results/case_1.txt)
+- [Compiler/project1/results/case_10.txt](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Compiler/project1/results/case_10.txt)
+- 另有 71 个文件，见 data/collection_files.csv
 
 **编译原理 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/编译原理/2018 编译 Project 说明.docx](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/2018%20%E7%BC%96%E8%AF%91%20Project%20%E8%AF%B4%E6%98%8E.docx)
@@ -1903,8 +2974,87 @@
 - [3.专业教育/计算机科学与技术/专业必修/编译原理/编译原理180203_词法分析.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86180203_%E8%AF%8D%E6%B3%95%E5%88%86%E6%9E%90.pdf)
 - 另有 8 个文件，见 data/collection_files.csv
 
+**脑科学与类脑系统 / Snivallus/FDU-Course-Notes-2024-2025**
+- [脑科学与类脑系统/FDU 脑科学 01. 基础知识.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E8%84%91%E7%A7%91%E5%AD%A6%E4%B8%8E%E7%B1%BB%E8%84%91%E7%B3%BB%E7%BB%9F/FDU%20%E8%84%91%E7%A7%91%E5%AD%A6%2001.%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.pdf)
+- [脑科学与类脑系统/FDU 脑科学 02. 动作电位的建模.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E8%84%91%E7%A7%91%E5%AD%A6%E4%B8%8E%E7%B1%BB%E8%84%91%E7%B3%BB%E7%BB%9F/FDU%20%E8%84%91%E7%A7%91%E5%AD%A6%2002.%20%E5%8A%A8%E4%BD%9C%E7%94%B5%E4%BD%8D%E7%9A%84%E5%BB%BA%E6%A8%A1.pdf)
+- [脑科学与类脑系统/FDU 脑科学 03. 神经信息编码.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E8%84%91%E7%A7%91%E5%AD%A6%E4%B8%8E%E7%B1%BB%E8%84%91%E7%B3%BB%E7%BB%9F/FDU%20%E8%84%91%E7%A7%91%E5%AD%A6%2003.%20%E7%A5%9E%E7%BB%8F%E4%BF%A1%E6%81%AF%E7%BC%96%E7%A0%81.pdf)
+- [脑科学与类脑系统/FDU 脑科学 04. 突触传递和计算模型.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E8%84%91%E7%A7%91%E5%AD%A6%E4%B8%8E%E7%B1%BB%E8%84%91%E7%B3%BB%E7%BB%9F/FDU%20%E8%84%91%E7%A7%91%E5%AD%A6%2004.%20%E7%AA%81%E8%A7%A6%E4%BC%A0%E9%80%92%E5%92%8C%E8%AE%A1%E7%AE%97%E6%A8%A1%E5%9E%8B.pdf)
+- [脑科学与类脑系统/FDU 脑科学 05. 脑网络.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E8%84%91%E7%A7%91%E5%AD%A6%E4%B8%8E%E7%B1%BB%E8%84%91%E7%B3%BB%E7%BB%9F/FDU%20%E8%84%91%E7%A7%91%E5%AD%A6%2005.%20%E8%84%91%E7%BD%91%E7%BB%9C.pdf)
+- [脑科学与类脑系统/FDU 脑科学 06. 信息论.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E8%84%91%E7%A7%91%E5%AD%A6%E4%B8%8E%E7%B1%BB%E8%84%91%E7%B3%BB%E7%BB%9F/FDU%20%E8%84%91%E7%A7%91%E5%AD%A6%2006.%20%E4%BF%A1%E6%81%AF%E8%AE%BA.pdf)
+- [脑科学与类脑系统/FDU 脑科学 07. 躯体控制.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E8%84%91%E7%A7%91%E5%AD%A6%E4%B8%8E%E7%B1%BB%E8%84%91%E7%B3%BB%E7%BB%9F/FDU%20%E8%84%91%E7%A7%91%E5%AD%A6%2007.%20%E8%BA%AF%E4%BD%93%E6%8E%A7%E5%88%B6.pdf)
+- [脑科学与类脑系统/FDU 脑科学 08. 脑的高级功能.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E8%84%91%E7%A7%91%E5%AD%A6%E4%B8%8E%E7%B1%BB%E8%84%91%E7%B3%BB%E7%BB%9F/FDU%20%E8%84%91%E7%A7%91%E5%AD%A6%2008.%20%E8%84%91%E7%9A%84%E9%AB%98%E7%BA%A7%E5%8A%9F%E8%83%BD.pdf)
+- [脑科学与类脑系统/FDU 脑科学 09. 感觉.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E8%84%91%E7%A7%91%E5%AD%A6%E4%B8%8E%E7%B1%BB%E8%84%91%E7%B3%BB%E7%BB%9F/FDU%20%E8%84%91%E7%A7%91%E5%AD%A6%2009.%20%E6%84%9F%E8%A7%89.pdf)
+- [脑科学与类脑系统/FDU 脑科学 10. 知觉.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E8%84%91%E7%A7%91%E5%AD%A6%E4%B8%8E%E7%B1%BB%E8%84%91%E7%B3%BB%E7%BB%9F/FDU%20%E8%84%91%E7%A7%91%E5%AD%A6%2010.%20%E7%9F%A5%E8%A7%89.pdf)
+- [脑科学与类脑系统/FDU 脑科学 11. 动机和情绪.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E8%84%91%E7%A7%91%E5%AD%A6%E4%B8%8E%E7%B1%BB%E8%84%91%E7%B3%BB%E7%BB%9F/FDU%20%E8%84%91%E7%A7%91%E5%AD%A6%2011.%20%E5%8A%A8%E6%9C%BA%E5%92%8C%E6%83%85%E7%BB%AA.pdf)
+- [脑科学与类脑系统/FDU 脑科学 12. 学习和记忆.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E8%84%91%E7%A7%91%E5%AD%A6%E4%B8%8E%E7%B1%BB%E8%84%91%E7%B3%BB%E7%BB%9F/FDU%20%E8%84%91%E7%A7%91%E5%AD%A6%2012.%20%E5%AD%A6%E4%B9%A0%E5%92%8C%E8%AE%B0%E5%BF%86.pdf)
+- 另有 16 个文件，见 data/collection_files.csv
+
+**腾飞先导课 / victkk/FDU-Sharing**
+- [public/resources/腾飞先导课/2019级技术科学大类入学-先导课程考试-2019-09-03.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E8%85%BE%E9%A3%9E%E5%85%88%E5%AF%BC%E8%AF%BE/2019%E7%BA%A7%E6%8A%80%E6%9C%AF%E7%A7%91%E5%AD%A6%E5%A4%A7%E7%B1%BB%E5%85%A5%E5%AD%A6-%E5%85%88%E5%AF%BC%E8%AF%BE%E7%A8%8B%E8%80%83%E8%AF%95-2019-09-03.pdf)
+- [public/resources/腾飞先导课/2021级技术科学大类入学-先导课程考试-2021-09-09.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E8%85%BE%E9%A3%9E%E5%85%88%E5%AF%BC%E8%AF%BE/2021%E7%BA%A7%E6%8A%80%E6%9C%AF%E7%A7%91%E5%AD%A6%E5%A4%A7%E7%B1%BB%E5%85%A5%E5%AD%A6-%E5%85%88%E5%AF%BC%E8%AF%BE%E7%A8%8B%E8%80%83%E8%AF%95-2021-09-09.pdf)
+
+**自然语言处理与大语言模型 / hadanice/OpenDS**
+- [自然语言处理与大语言模型/笔记/01-文本预处理与分词.md](https://github.com/hadanice/OpenDS/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/%E7%AC%94%E8%AE%B0/01-%E6%96%87%E6%9C%AC%E9%A2%84%E5%A4%84%E7%90%86%E4%B8%8E%E5%88%86%E8%AF%8D.md)
+- [自然语言处理与大语言模型/笔记/02-N-gram语言模型.md](https://github.com/hadanice/OpenDS/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/%E7%AC%94%E8%AE%B0/02-N-gram%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md)
+- [自然语言处理与大语言模型/笔记/03-文本分类与词向量.md](https://github.com/hadanice/OpenDS/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/%E7%AC%94%E8%AE%B0/03-%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB%E4%B8%8E%E8%AF%8D%E5%90%91%E9%87%8F.md)
+- [自然语言处理与大语言模型/笔记/04-神经语言模型与序列建模.md](https://github.com/hadanice/OpenDS/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/%E7%AC%94%E8%AE%B0/04-%E7%A5%9E%E7%BB%8F%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E4%B8%8E%E5%BA%8F%E5%88%97%E5%BB%BA%E6%A8%A1.md)
+- [自然语言处理与大语言模型/笔记/05-注意力与Transformer.md](https://github.com/hadanice/OpenDS/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/%E7%AC%94%E8%AE%B0/05-%E6%B3%A8%E6%84%8F%E5%8A%9B%E4%B8%8ETransformer.md)
+- [自然语言处理与大语言模型/笔记/06-预训练LLM与生成.md](https://github.com/hadanice/OpenDS/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/%E7%AC%94%E8%AE%B0/06-%E9%A2%84%E8%AE%AD%E7%BB%83LLM%E4%B8%8E%E7%94%9F%E6%88%90.md)
+- [自然语言处理与大语言模型/笔记/07-BERT与评测基准.md](https://github.com/hadanice/OpenDS/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/%E7%AC%94%E8%AE%B0/07-BERT%E4%B8%8E%E8%AF%84%E6%B5%8B%E5%9F%BA%E5%87%86.md)
+- [自然语言处理与大语言模型/笔记/08-SFT奖励模型与PPO.md](https://github.com/hadanice/OpenDS/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/%E7%AC%94%E8%AE%B0/08-SFT%E5%A5%96%E5%8A%B1%E6%A8%A1%E5%9E%8B%E4%B8%8EPPO.md)
+- [自然语言处理与大语言模型/笔记/09-GRPO与推理强化学习.md](https://github.com/hadanice/OpenDS/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/%E7%AC%94%E8%AE%B0/09-GRPO%E4%B8%8E%E6%8E%A8%E7%90%86%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md)
+- [自然语言处理与大语言模型/笔记/10-RAG检索增强生成.md](https://github.com/hadanice/OpenDS/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/%E7%AC%94%E8%AE%B0/10-RAG%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA%E7%94%9F%E6%88%90.md)
+- [自然语言处理与大语言模型/笔记/11-扩散语言模型.md](https://github.com/hadanice/OpenDS/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/%E7%AC%94%E8%AE%B0/11-%E6%89%A9%E6%95%A3%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md)
+- [自然语言处理与大语言模型/笔记/12-大语言模型智能体.md](https://github.com/hadanice/OpenDS/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/%E7%AC%94%E8%AE%B0/12-%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%99%BA%E8%83%BD%E4%BD%93.md)
+- 另有 1 个文件，见 data/collection_files.csv
+
+**自然语言处理与大语言模型 / michaellu2007/fdu-note-summarized**
+- [LLM与NLP/assets/interactive/attention-demo.json](https://github.com/michaellu2007/fdu-note-summarized/blob/main/LLM%E4%B8%8ENLP/assets/interactive/attention-demo.json)
+- [LLM与NLP/assets/interactive/attention-roles.json](https://github.com/michaellu2007/fdu-note-summarized/blob/main/LLM%E4%B8%8ENLP/assets/interactive/attention-roles.json)
+- [LLM与NLP/assets/interactive/context-intuition.json](https://github.com/michaellu2007/fdu-note-summarized/blob/main/LLM%E4%B8%8ENLP/assets/interactive/context-intuition.json)
+- [LLM与NLP/assets/interactive/ffn-tokenwise.json](https://github.com/michaellu2007/fdu-note-summarized/blob/main/LLM%E4%B8%8ENLP/assets/interactive/ffn-tokenwise.json)
+- [LLM与NLP/assets/interactive/mha-architecture.json](https://github.com/michaellu2007/fdu-note-summarized/blob/main/LLM%E4%B8%8ENLP/assets/interactive/mha-architecture.json)
+- [LLM与NLP/assets/interactive/mha-parallel-heads.json](https://github.com/michaellu2007/fdu-note-summarized/blob/main/LLM%E4%B8%8ENLP/assets/interactive/mha-parallel-heads.json)
+- [LLM与NLP/assets/interactive/mha-single-head.json](https://github.com/michaellu2007/fdu-note-summarized/blob/main/LLM%E4%B8%8ENLP/assets/interactive/mha-single-head.json)
+- [LLM与NLP/assets/interactive/multihead-intuition.json](https://github.com/michaellu2007/fdu-note-summarized/blob/main/LLM%E4%B8%8ENLP/assets/interactive/multihead-intuition.json)
+- [LLM与NLP/assets/interactive/norm-comparison.json](https://github.com/michaellu2007/fdu-note-summarized/blob/main/LLM%E4%B8%8ENLP/assets/interactive/norm-comparison.json)
+- [LLM与NLP/assets/interactive/position-demo.json](https://github.com/michaellu2007/fdu-note-summarized/blob/main/LLM%E4%B8%8ENLP/assets/interactive/position-demo.json)
+- [LLM与NLP/assets/interactive/position-frequencies.json](https://github.com/michaellu2007/fdu-note-summarized/blob/main/LLM%E4%B8%8ENLP/assets/interactive/position-frequencies.json)
+- [LLM与NLP/assets/interactive/position-inputs.json](https://github.com/michaellu2007/fdu-note-summarized/blob/main/LLM%E4%B8%8ENLP/assets/interactive/position-inputs.json)
+- 另有 22 个文件，见 data/collection_files.csv
+
 **自然语言处理导论 / ForeverHaibara/Fudan-Courses**
 - [自然语言处理/自然语言处理.md](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.md)
+
+**自然语言处理导论 / clb2001/FDU-COMP**
+- [自然语言处理/Assignment-01/enwiki-test.json](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Assignment-01/enwiki-test.json)
+- [自然语言处理/Assignment-01/enwiki-train.json](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Assignment-01/enwiki-train.json)
+- [自然语言处理/Assignment-01/testText.txt](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Assignment-01/testText.txt)
+- [自然语言处理/Assignment-01/trainText.txt](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Assignment-01/trainText.txt)
+- [自然语言处理/Assignment-02/enwiki-test.json](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Assignment-02/enwiki-test.json)
+- [自然语言处理/Assignment-02/enwiki-train.json](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Assignment-02/enwiki-train.json)
+- [自然语言处理/Assignment-02/test.model](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Assignment-02/test.model)
+- [自然语言处理/Assignment-02/train.model](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Assignment-02/train.model)
+- [自然语言处理/Assignment-02/train.model.syn1neg.npy](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Assignment-02/train.model.syn1neg.npy)
+- [自然语言处理/Assignment-02/train.model.wv.vectors.npy](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Assignment-02/train.model.wv.vectors.npy)
+- [自然语言处理/Assignment-03/brown-tag.txt](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Assignment-03/brown-tag.txt)
+- [自然语言处理/Assignment-03/brown-test.txt](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Assignment-03/brown-test.txt)
+- 另有 98 个文件，见 data/collection_files.csv
+
+**自然语言处理导论 / lrcc275/FudanCources**
+- [COMP130141自然语言处理/LLM-TAP.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130141%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/LLM-TAP.pdf)
+- [COMP130141自然语言处理/PJ/pj1_实验要求.pptx](https://github.com/lrcc275/FudanCources/blob/main/COMP130141%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/PJ/pj1_%E5%AE%9E%E9%AA%8C%E8%A6%81%E6%B1%82.pptx)
+- [COMP130141自然语言处理/PJ/pj2_report.docx](https://github.com/lrcc275/FudanCources/blob/main/COMP130141%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/PJ/pj2_report.docx)
+- [COMP130141自然语言处理/PJ/pj2_实验要求.pptx](https://github.com/lrcc275/FudanCources/blob/main/COMP130141%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/PJ/pj2_%E5%AE%9E%E9%AA%8C%E8%A6%81%E6%B1%82.pptx)
+- [COMP130141自然语言处理/PJ/pj3_report.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130141%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/PJ/pj3_report.pdf)
+- [COMP130141自然语言处理/PJ/pj3_实验要求.pptx](https://github.com/lrcc275/FudanCources/blob/main/COMP130141%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/PJ/pj3_%E5%AE%9E%E9%AA%8C%E8%A6%81%E6%B1%82.pptx)
+- [COMP130141自然语言处理/自然语言处理导论.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130141%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E5%AF%BC%E8%AE%BA.pdf)
+- [COMP130141自然语言处理/课件/cs224n-2023-lecture01-wordvecs1-updated-1.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130141%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/%E8%AF%BE%E4%BB%B6/cs224n-2023-lecture01-wordvecs1-updated-1.pdf)
+- [COMP130141自然语言处理/课件/cs224n-2023-lecture02-wordvecs2-updated.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130141%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/%E8%AF%BE%E4%BB%B6/cs224n-2023-lecture02-wordvecs2-updated.pdf)
+- [COMP130141自然语言处理/课件/cs224n-2023-lecture05-updated.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130141%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/%E8%AF%BE%E4%BB%B6/cs224n-2023-lecture05-updated.pdf)
+- [COMP130141自然语言处理/课件/cs224n-2023-lecture06-fancy-rnn.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130141%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/%E8%AF%BE%E4%BB%B6/cs224n-2023-lecture06-fancy-rnn.pdf)
+- [COMP130141自然语言处理/课件/cs224n-2023-lecture08-transformers.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130141%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/%E8%AF%BE%E4%BB%B6/cs224n-2023-lecture08-transformers.pdf)
+- 另有 2 个文件，见 data/collection_files.csv
 
 **计算机体系结构 / Snivallus/FDU-Course-Notes-2024-2025**
 - [计算机组成与体系结构/FDU 计算机组成与体系结构 0. An Introduction.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/FDU%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84%200.%20An%20Introduction.pdf)
@@ -1940,6 +3090,93 @@
 - [public/resources/计算机组成与体系结构/2025-2026 计算机组成与系统结构（回忆版）.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/2025-2026%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%EF%BC%88%E5%9B%9E%E5%BF%86%E7%89%88%EF%BC%89.pdf)
 - [public/resources/计算机组成与体系结构/wxp流水线部分ppt抄的教材.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/wxp%E6%B5%81%E6%B0%B4%E7%BA%BF%E9%83%A8%E5%88%86ppt%E6%8A%84%E7%9A%84%E6%95%99%E6%9D%90.pdf)
 
+**计算机体系结构 / zhuth/FDUCS**
+- [ComputerArchitectureExperiments/16bitCPU/asm/CFG.cfg](https://github.com/zhuth/FDUCS/blob/master/ComputerArchitectureExperiments/16bitCPU/asm/CFG.cfg)
+- [ComputerArchitectureExperiments/16bitCPU/asm/cpu16.def](https://github.com/zhuth/FDUCS/blob/master/ComputerArchitectureExperiments/16bitCPU/asm/cpu16.def)
+- [ComputerArchitectureExperiments/16bitCPU/asm/print1.lst](https://github.com/zhuth/FDUCS/blob/master/ComputerArchitectureExperiments/16bitCPU/asm/print1.lst)
+- [ComputerArchitectureExperiments/16bitCPU/asm/print1.s19](https://github.com/zhuth/FDUCS/blob/master/ComputerArchitectureExperiments/16bitCPU/asm/print1.s19)
+- [ComputerArchitectureExperiments/16bitCPU/cpu16/alu1.ucf](https://github.com/zhuth/FDUCS/blob/master/ComputerArchitectureExperiments/16bitCPU/cpu16/alu1.ucf)
+- [ComputerArchitectureExperiments/16bitCPU/cpu16/cpu16.vhd](https://github.com/zhuth/FDUCS/blob/master/ComputerArchitectureExperiments/16bitCPU/cpu16/cpu16.vhd)
+- [ComputerArchitectureExperiments/16bitCPU/docs/alu.vss](https://github.com/zhuth/FDUCS/blob/master/ComputerArchitectureExperiments/16bitCPU/docs/alu.vss)
+- [ComputerArchitectureExperiments/16bitCPU/docs/diagram.vsd](https://github.com/zhuth/FDUCS/blob/master/ComputerArchitectureExperiments/16bitCPU/docs/diagram.vsd)
+- [ComputerArchitectureExperiments/16bitCPU/~$报告-16位.doc](https://github.com/zhuth/FDUCS/blob/master/ComputerArchitectureExperiments/16bitCPU/~%24%E6%8A%A5%E5%91%8A-16%E4%BD%8D.doc)
+- [ComputerArchitectureExperiments/16bitCPU/设计报告-16位.doc](https://github.com/zhuth/FDUCS/blob/master/ComputerArchitectureExperiments/16bitCPU/%E8%AE%BE%E8%AE%A1%E6%8A%A5%E5%91%8A-16%E4%BD%8D.doc)
+- [ComputerArchitectureExperiments/8bitCPU/asm/cpu8asm.def](https://github.com/zhuth/FDUCS/blob/master/ComputerArchitectureExperiments/8bitCPU/asm/cpu8asm.def)
+- [ComputerArchitectureExperiments/8bitCPU/asm/cpu8print-2.lst](https://github.com/zhuth/FDUCS/blob/master/ComputerArchitectureExperiments/8bitCPU/asm/cpu8print-2.lst)
+- 另有 28 个文件，见 data/collection_files.csv
+
+**计算机原理 / ForeverHaibara/Fudan-Courses**
+- [计算机原理/计算机原理.md](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86.md)
+
+**计算机原理 / hadanice/OpenDS**
+- [计算机原理/attacklab/attacklab.pdf](https://github.com/hadanice/OpenDS/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/attacklab/attacklab.pdf)
+- [计算机原理/attacklab/target12.tar](https://github.com/hadanice/OpenDS/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/attacklab/target12.tar)
+- [计算机原理/attacklab/target12/README.txt](https://github.com/hadanice/OpenDS/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/attacklab/target12/README.txt)
+- [计算机原理/attacklab/target12/cookie.txt](https://github.com/hadanice/OpenDS/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/attacklab/target12/cookie.txt)
+- [计算机原理/attacklab/target12/ctarget](https://github.com/hadanice/OpenDS/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/attacklab/target12/ctarget)
+- [计算机原理/attacklab/target12/hex2raw](https://github.com/hadanice/OpenDS/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/attacklab/target12/hex2raw)
+- [计算机原理/attacklab/target12/rtarget](https://github.com/hadanice/OpenDS/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/attacklab/target12/rtarget)
+- [计算机原理/bomblab/bomb](https://github.com/hadanice/OpenDS/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/bomblab/bomb)
+- [计算机原理/bomblab/bomb.i64](https://github.com/hadanice/OpenDS/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/bomblab/bomb.i64)
+- [计算机原理/bomblab/bomb74/README](https://github.com/hadanice/OpenDS/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/bomblab/bomb74/README)
+- [计算机原理/bomblab/bomb74/bomb](https://github.com/hadanice/OpenDS/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/bomblab/bomb74/bomb)
+- [计算机原理/bomblab/bomb74/bomb.i64](https://github.com/hadanice/OpenDS/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/bomblab/bomb74/bomb.i64)
+- 另有 42 个文件，见 data/collection_files.csv
+
+**计算机可视化 / lrcc275/FudanCources**
+- [COMP130174计算机可视化/AtlasGrotesk-Medium.otf](https://github.com/lrcc275/FudanCources/blob/main/COMP130174%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AF%E8%A7%86%E5%8C%96/AtlasGrotesk-Medium.otf)
+- [COMP130174计算机可视化/AtlasGrotesk-Regular.otf](https://github.com/lrcc275/FudanCources/blob/main/COMP130174%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AF%E8%A7%86%E5%8C%96/AtlasGrotesk-Regular.otf)
+- [COMP130174计算机可视化/DecimaMonoPro.otf](https://github.com/lrcc275/FudanCources/blob/main/COMP130174%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AF%E8%A7%86%E5%8C%96/DecimaMonoPro.otf)
+- [COMP130174计算机可视化/copper.csv](https://github.com/lrcc275/FudanCources/blob/main/COMP130174%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AF%E8%A7%86%E5%8C%96/copper.csv)
+- [COMP130174计算机可视化/diamonds.csv](https://github.com/lrcc275/FudanCources/blob/main/COMP130174%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AF%E8%A7%86%E5%8C%96/diamonds.csv)
+- [COMP130174计算机可视化/trade.csv](https://github.com/lrcc275/FudanCources/blob/main/COMP130174%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AF%E8%A7%86%E5%8C%96/trade.csv)
+- [COMP130174计算机可视化/we.csv](https://github.com/lrcc275/FudanCources/blob/main/COMP130174%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AF%E8%A7%86%E5%8C%96/we.csv)
+- [COMP130174计算机可视化/xkcd-Regular.otf](https://github.com/lrcc275/FudanCources/blob/main/COMP130174%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AF%E8%A7%86%E5%8C%96/xkcd-Regular.otf)
+
+**计算机图形学 / ChenTao98/FudanUniversity**
+- [计算机图形学/pj1/pj1文档.pdf](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/pj1/pj1%E6%96%87%E6%A1%A3.pdf)
+- [计算机图形学/pj2/pj2文档.pdf](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/pj2/pj2%E6%96%87%E6%A1%A3.pdf)
+- [计算机图形学/pj3/model/bird.obj](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/pj3/model/bird.obj)
+- [计算机图形学/pj3/model/bunny.obj](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/pj3/model/bunny.obj)
+- [计算机图形学/pj3/model/default.obj](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/pj3/model/default.obj)
+- [计算机图形学/pj3/model/floor.obj](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/pj3/model/floor.obj)
+- [计算机图形学/pj3/model/gumby.obj](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/pj3/model/gumby.obj)
+- [计算机图形学/pj3/model/heart.obj](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/pj3/model/heart.obj)
+- [计算机图形学/pj3/model/moon.obj](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/pj3/model/moon.obj)
+- [计算机图形学/pj3/model/mushroom.obj](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/pj3/model/mushroom.obj)
+- [计算机图形学/pj3/model/newstar.obj](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/pj3/model/newstar.obj)
+- [计算机图形学/pj3/pj3文档.pdf](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/pj3/pj3%E6%96%87%E6%A1%A3.pdf)
+
+**计算机图形学 / Zhouxunzhe/Fudan-CS-Projects**
+- [Computer-Graphics/20307110315-周训哲.docx](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Graphics/20307110315-%E5%91%A8%E8%AE%AD%E5%93%B2.docx)
+- [Computer-Graphics/周训哲Project1/.idea/inspectionProfiles/profiles_settings.xml](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Graphics/%E5%91%A8%E8%AE%AD%E5%93%B2Project1/.idea/inspectionProfiles/profiles_settings.xml)
+- [Computer-Graphics/周训哲Project1/.idea/misc.xml](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Graphics/%E5%91%A8%E8%AE%AD%E5%93%B2Project1/.idea/misc.xml)
+- [Computer-Graphics/周训哲Project1/.idea/modules.xml](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Graphics/%E5%91%A8%E8%AE%AD%E5%93%B2Project1/.idea/modules.xml)
+- [Computer-Graphics/周训哲Project1/.idea/周训哲Project1.iml](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Graphics/%E5%91%A8%E8%AE%AD%E5%93%B2Project1/.idea/%E5%91%A8%E8%AE%AD%E5%93%B2Project1.iml)
+- [Computer-Graphics/周训哲Project1/music.wav](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Graphics/%E5%91%A8%E8%AE%AD%E5%93%B2Project1/music.wav)
+- [Computer-Graphics/周训哲Project1/music/.idea/inspectionProfiles/profiles_settings.xml](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Graphics/%E5%91%A8%E8%AE%AD%E5%93%B2Project1/music/.idea/inspectionProfiles/profiles_settings.xml)
+- [Computer-Graphics/周训哲Project1/music/.idea/misc.xml](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Graphics/%E5%91%A8%E8%AE%AD%E5%93%B2Project1/music/.idea/misc.xml)
+- [Computer-Graphics/周训哲Project1/music/.idea/modules.xml](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Graphics/%E5%91%A8%E8%AE%AD%E5%93%B2Project1/music/.idea/modules.xml)
+- [Computer-Graphics/周训哲Project1/music/.idea/music.iml](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Graphics/%E5%91%A8%E8%AE%AD%E5%93%B2Project1/music/.idea/music.iml)
+- [Computer-Graphics/周训哲Project1/music/music.wav](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Graphics/%E5%91%A8%E8%AE%AD%E5%93%B2Project1/music/music.wav)
+- [Computer-Graphics/周训哲Project1/~$pj1说明.docx](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Graphics/%E5%91%A8%E8%AE%AD%E5%93%B2Project1/~%24pj1%E8%AF%B4%E6%98%8E.docx)
+- 另有 32 个文件，见 data/collection_files.csv
+
+**计算机图形学 / lrcc275/FudanCources**
+- [COMP130018计算机图形学/Project1/Project1报告.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/Project1%E6%8A%A5%E5%91%8A.pdf)
+- [COMP130018计算机图形学/Project1/Project1说明.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/Project1%E8%AF%B4%E6%98%8E.pdf)
+- [COMP130018计算机图形学/Project1/starter1/.vscode/settings.json](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/.vscode/settings.json)
+- [COMP130018计算机图形学/Project1/starter1/CMakeLists.txt](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/CMakeLists.txt)
+- [COMP130018计算机图形学/Project1/starter1/glfw/.appveyor.yml](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glfw/.appveyor.yml)
+- [COMP130018计算机图形学/Project1/starter1/glfw/.travis.yml](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glfw/.travis.yml)
+- [COMP130018计算机图形学/Project1/starter1/glfw/CMake/MacOSXBundleInfo.plist.in](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glfw/CMake/MacOSXBundleInfo.plist.in)
+- [COMP130018计算机图形学/Project1/starter1/glfw/CMake/amd64-mingw32msvc.cmake](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glfw/CMake/amd64-mingw32msvc.cmake)
+- [COMP130018计算机图形学/Project1/starter1/glfw/CMake/i586-mingw32msvc.cmake](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glfw/CMake/i586-mingw32msvc.cmake)
+- [COMP130018计算机图形学/Project1/starter1/glfw/CMake/i686-pc-mingw32.cmake](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glfw/CMake/i686-pc-mingw32.cmake)
+- [COMP130018计算机图形学/Project1/starter1/glfw/CMake/i686-w64-mingw32.cmake](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glfw/CMake/i686-w64-mingw32.cmake)
+- [COMP130018计算机图形学/Project1/starter1/glfw/CMake/modules/FindMir.cmake](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glfw/CMake/modules/FindMir.cmake)
+- 另有 169 个文件，见 data/collection_files.csv
+
 **计算机图形学 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/计算机图形学/Project/Project1/文档1.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project/Project1/%E6%96%87%E6%A1%A31.pdf)
 - [3.专业教育/计算机科学与技术/专业必修/计算机图形学/Project/Project2/文档2.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project/Project2/%E6%96%87%E6%A1%A32.pdf)
@@ -1955,11 +3192,59 @@
 - [3.专业教育/计算机科学与技术/专业必修/计算机图形学/报告/基于细分粒子的刚体破裂动画.pptx](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/%E6%8A%A5%E5%91%8A/%E5%9F%BA%E4%BA%8E%E7%BB%86%E5%88%86%E7%B2%92%E5%AD%90%E7%9A%84%E5%88%9A%E4%BD%93%E7%A0%B4%E8%A3%82%E5%8A%A8%E7%94%BB.pptx)
 - 另有 11 个文件，见 data/collection_files.csv
 
+**计算机系统基础 / ChenTao98/FudanUniversity**
+- [ICS/ics-labs/bomblab/bomb-handout.tar](https://github.com/ChenTao98/FudanUniversity/blob/master/ICS/ics-labs/bomblab/bomb-handout.tar)
+- [ICS/ics-labs/bomblab/bomblab-16302010026.pdf](https://github.com/ChenTao98/FudanUniversity/blob/master/ICS/ics-labs/bomblab/bomblab-16302010026.pdf)
+- [ICS/ics-labs/bomblab/bomblab.pdf](https://github.com/ChenTao98/FudanUniversity/blob/master/ICS/ics-labs/bomblab/bomblab.pdf)
+- [ICS/ics-labs/bomblab/解决 文档.docx](https://github.com/ChenTao98/FudanUniversity/blob/master/ICS/ics-labs/bomblab/%E8%A7%A3%E5%86%B3%20%E6%96%87%E6%A1%A3.docx)
+- [ICS/ics-labs/datalab/datalab-16302010026.pdf](https://github.com/ChenTao98/FudanUniversity/blob/master/ICS/ics-labs/datalab/datalab-16302010026.pdf)
+- [ICS/ics-labs/datalab/datalab-handout.tar](https://github.com/ChenTao98/FudanUniversity/blob/master/ICS/ics-labs/datalab/datalab-handout.tar)
+- [ICS/ics-labs/datalab/datalab-handout/Driverhdrs.pm](https://github.com/ChenTao98/FudanUniversity/blob/master/ICS/ics-labs/datalab/datalab-handout/Driverhdrs.pm)
+- [ICS/ics-labs/datalab/datalab-handout/Driverlib.pm](https://github.com/ChenTao98/FudanUniversity/blob/master/ICS/ics-labs/datalab/datalab-handout/Driverlib.pm)
+- [ICS/ics-labs/datalab/datalab-handout/Makefile](https://github.com/ChenTao98/FudanUniversity/blob/master/ICS/ics-labs/datalab/datalab-handout/Makefile)
+- [ICS/ics-labs/datalab/datalab-handout/README](https://github.com/ChenTao98/FudanUniversity/blob/master/ICS/ics-labs/datalab/datalab-handout/README)
+- [ICS/ics-labs/datalab/datalab-handout/dlc](https://github.com/ChenTao98/FudanUniversity/blob/master/ICS/ics-labs/datalab/datalab-handout/dlc)
+- [ICS/ics-labs/datalab/datalab-handout/driver.pl](https://github.com/ChenTao98/FudanUniversity/blob/master/ICS/ics-labs/datalab/datalab-handout/driver.pl)
+- 另有 58 个文件，见 data/collection_files.csv
+
+**计算机系统基础 / Zhouxunzhe/Fudan-CS-Projects**
+- [Computer-System/FPGA/FPGA.cache/ip/2019.2/2b6545c350e5fd3d/2b6545c350e5fd3d.xci](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-System/FPGA/FPGA.cache/ip/2019.2/2b6545c350e5fd3d/2b6545c350e5fd3d.xci)
+- [Computer-System/FPGA/FPGA.cache/ip/2019.2/2b6545c350e5fd3d/Jay.dcp](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-System/FPGA/FPGA.cache/ip/2019.2/2b6545c350e5fd3d/Jay.dcp)
+- [Computer-System/FPGA/FPGA.cache/ip/2019.2/2b6545c350e5fd3d/Jay_sim_netlist.vhdl](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-System/FPGA/FPGA.cache/ip/2019.2/2b6545c350e5fd3d/Jay_sim_netlist.vhdl)
+- [Computer-System/FPGA/FPGA.cache/ip/2019.2/2b6545c350e5fd3d/Jay_stub.vhdl](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-System/FPGA/FPGA.cache/ip/2019.2/2b6545c350e5fd3d/Jay_stub.vhdl)
+- [Computer-System/FPGA/FPGA.cache/ip/2019.2/5c085e9b87681dbf/5c085e9b87681dbf.xci](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-System/FPGA/FPGA.cache/ip/2019.2/5c085e9b87681dbf/5c085e9b87681dbf.xci)
+- [Computer-System/FPGA/FPGA.cache/ip/2019.2/5c085e9b87681dbf/SuperMario.dcp](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-System/FPGA/FPGA.cache/ip/2019.2/5c085e9b87681dbf/SuperMario.dcp)
+- [Computer-System/FPGA/FPGA.cache/ip/2019.2/5c085e9b87681dbf/SuperMario_sim_netlist.vhdl](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-System/FPGA/FPGA.cache/ip/2019.2/5c085e9b87681dbf/SuperMario_sim_netlist.vhdl)
+- [Computer-System/FPGA/FPGA.cache/ip/2019.2/5c085e9b87681dbf/SuperMario_stub.vhdl](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-System/FPGA/FPGA.cache/ip/2019.2/5c085e9b87681dbf/SuperMario_stub.vhdl)
+- [Computer-System/FPGA/FPGA.cache/wt/gui_handlers.wdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-System/FPGA/FPGA.cache/wt/gui_handlers.wdf)
+- [Computer-System/FPGA/FPGA.cache/wt/java_command_handlers.wdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-System/FPGA/FPGA.cache/wt/java_command_handlers.wdf)
+- [Computer-System/FPGA/FPGA.cache/wt/project.wpc](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-System/FPGA/FPGA.cache/wt/project.wpc)
+- [Computer-System/FPGA/FPGA.cache/wt/synthesis.wdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-System/FPGA/FPGA.cache/wt/synthesis.wdf)
+- 另有 1017 个文件，见 data/collection_files.csv
+
+**计算机系统基础 / clb2001/FDU-COMP**
+- [计算机系统基础/ICS2023-mid.pdf](https://github.com/clb2001/FDU-COMP/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/ICS2023-mid.pdf)
+
 **计算机系统基础 / kanzaler123/fdu-course-resources**
 - [计算机系统基础/参考资料/Computer Systems A Programmers Perspective (Randal E. Bryant David R. OHallaron [Bryant etc.) (Z-Library).pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/Computer%20Systems%20A%20Programmers%20Perspective%20%28Randal%20E.%20Bryant%20David%20R.%20OHallaron%20%5BBryant%20etc.%29%20%28Z-Library%29.pdf)
 - [计算机系统基础/参考资料/ICS-下.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/ICS-%E4%B8%8B.pdf)
 - [计算机系统基础/参考资料/ICS-中.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/ICS-%E4%B8%AD.pdf)
 - [计算机系统基础/参考资料/Lab4_ Cachelab _ ICS-25Fall-FDU.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/Lab4_%20Cachelab%20_%20ICS-25Fall-FDU.pdf)
+
+**计算机系统基础 / lrcc275/FudanCources**
+- [COMP130201计算机系统基础/ICS课程报告.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130201%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/ICS%E8%AF%BE%E7%A8%8B%E6%8A%A5%E5%91%8A.pdf)
+- [COMP130201计算机系统基础/bomb](https://github.com/lrcc275/FudanCources/blob/main/COMP130201%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/bomb)
+- [COMP130201计算机系统基础/lab1-datalab/Driverhdrs.pm](https://github.com/lrcc275/FudanCources/blob/main/COMP130201%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/lab1-datalab/Driverhdrs.pm)
+- [COMP130201计算机系统基础/lab1-datalab/Driverlib.pm](https://github.com/lrcc275/FudanCources/blob/main/COMP130201%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/lab1-datalab/Driverlib.pm)
+- [COMP130201计算机系统基础/lab1-datalab/Makefile](https://github.com/lrcc275/FudanCources/blob/main/COMP130201%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/lab1-datalab/Makefile)
+- [COMP130201计算机系统基础/lab1-datalab/README](https://github.com/lrcc275/FudanCources/blob/main/COMP130201%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/lab1-datalab/README)
+- [COMP130201计算机系统基础/lab1-datalab/btest](https://github.com/lrcc275/FudanCources/blob/main/COMP130201%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/lab1-datalab/btest)
+- [COMP130201计算机系统基础/lab1-datalab/dlc](https://github.com/lrcc275/FudanCources/blob/main/COMP130201%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/lab1-datalab/dlc)
+- [COMP130201计算机系统基础/lab1-datalab/driver.pl](https://github.com/lrcc275/FudanCources/blob/main/COMP130201%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/lab1-datalab/driver.pl)
+- [COMP130201计算机系统基础/lab1-datalab/fshow](https://github.com/lrcc275/FudanCources/blob/main/COMP130201%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/lab1-datalab/fshow)
+- [COMP130201计算机系统基础/lab1-datalab/ishow](https://github.com/lrcc275/FudanCources/blob/main/COMP130201%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/lab1-datalab/ishow)
+- [COMP130201计算机系统基础/lab3/.vscode/settings.json](https://github.com/lrcc275/FudanCources/blob/main/COMP130201%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/lab3/.vscode/settings.json)
+- 另有 19 个文件，见 data/collection_files.csv
 
 **计算机系统基础 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/计算机系统基础/A1+第一章计算机系统概论-2.ppt](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/A1%2B%E7%AC%AC%E4%B8%80%E7%AB%A0%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA-2.ppt)
@@ -1976,10 +3261,68 @@
 - [3.专业教育/计算机科学与技术/专业必修/计算机系统基础/PA/386intel.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/PA/386intel.pdf)
 - 另有 2 个文件，见 data/collection_files.csv
 
+**计算机系统工程 / ChenTao98/FudanUniversity**
+- [计算机系统工程/lab1/SimpleDistributedFileSystem/.idea/compiler.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B/lab1/SimpleDistributedFileSystem/.idea/compiler.xml)
+- [计算机系统工程/lab1/SimpleDistributedFileSystem/.idea/deployment.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B/lab1/SimpleDistributedFileSystem/.idea/deployment.xml)
+- [计算机系统工程/lab1/SimpleDistributedFileSystem/.idea/encodings.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B/lab1/SimpleDistributedFileSystem/.idea/encodings.xml)
+- [计算机系统工程/lab1/SimpleDistributedFileSystem/.idea/libraries/Maven__junit_junit_4_12.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B/lab1/SimpleDistributedFileSystem/.idea/libraries/Maven__junit_junit_4_12.xml)
+- [计算机系统工程/lab1/SimpleDistributedFileSystem/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B/lab1/SimpleDistributedFileSystem/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml)
+- [计算机系统工程/lab1/SimpleDistributedFileSystem/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B/lab1/SimpleDistributedFileSystem/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml)
+- [计算机系统工程/lab1/SimpleDistributedFileSystem/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_3_1.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B/lab1/SimpleDistributedFileSystem/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_3_1.xml)
+- [计算机系统工程/lab1/SimpleDistributedFileSystem/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_3_1.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B/lab1/SimpleDistributedFileSystem/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_3_1.xml)
+- [计算机系统工程/lab1/SimpleDistributedFileSystem/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B/lab1/SimpleDistributedFileSystem/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml)
+- [计算机系统工程/lab1/SimpleDistributedFileSystem/.idea/misc.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B/lab1/SimpleDistributedFileSystem/.idea/misc.xml)
+- [计算机系统工程/lab1/SimpleDistributedFileSystem/.idea/modules.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B/lab1/SimpleDistributedFileSystem/.idea/modules.xml)
+- [计算机系统工程/lab1/SimpleDistributedFileSystem/.idea/uiDesigner.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B/lab1/SimpleDistributedFileSystem/.idea/uiDesigner.xml)
+- 另有 8 个文件，见 data/collection_files.csv
+
 **计算机组成原理 / NinaZ65/notes-for-courses**
 - [计组/PPT06 指令流水线.md](https://github.com/NinaZ65/notes-for-courses/blob/main/%E8%AE%A1%E7%BB%84/PPT06%20%E6%8C%87%E4%BB%A4%E6%B5%81%E6%B0%B4%E7%BA%BF.md)
 - [计组/PPT07 存储器分层体系结构.md](https://github.com/NinaZ65/notes-for-courses/blob/main/%E8%AE%A1%E7%BB%84/PPT07%20%E5%AD%98%E5%82%A8%E5%99%A8%E5%88%86%E5%B1%82%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84.md)
 - [计组/考试范围](https://github.com/NinaZ65/notes-for-courses/blob/main/%E8%AE%A1%E7%BB%84/%E8%80%83%E8%AF%95%E8%8C%83%E5%9B%B4)
+
+**计算机网络 / ChenTao98/FudanUniversity**
+- [计算机网络/project1/Project 1.pdf](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/project1/Project%201.pdf)
+- [计算机网络/project1/startcode/.idea/codeStyles/Project.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/project1/startcode/.idea/codeStyles/Project.xml)
+- [计算机网络/project1/startcode/.idea/misc.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/project1/startcode/.idea/misc.xml)
+- [计算机网络/project1/startcode/.idea/modules.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/project1/startcode/.idea/modules.xml)
+- [计算机网络/project1/startcode/.idea/workspace.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/project1/startcode/.idea/workspace.xml)
+- [计算机网络/project1/startcode/Makefile](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/project1/startcode/Makefile)
+- [计算机网络/project1/startcode/debugparse.pl](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/project1/startcode/debugparse.pl)
+- [计算机网络/project1/startcode/hupsim.pl](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/project1/startcode/hupsim.pl)
+- [计算机网络/project1/startcode/nodes.map](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/project1/startcode/nodes.map)
+- [计算机网络/project1/startcode/peer](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/project1/startcode/peer)
+- [计算机网络/project1/startcode/topo.map](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/project1/startcode/topo.map)
+- [计算机网络/project2/design.pdf](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/project2/design.pdf)
+- 另有 9 个文件，见 data/collection_files.csv
+
+**计算机网络 / Zhouxunzhe/Fudan-CS-Projects**
+- [Computer-Network/lab1/周训哲_20307110315.docx](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Network/lab1/%E5%91%A8%E8%AE%AD%E5%93%B2_20307110315.docx)
+- [Computer-Network/lab2/DNS协议.pptx](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Network/lab2/DNS%E5%8D%8F%E8%AE%AE.pptx)
+- [Computer-Network/lab2/bilibili.pcapng](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Network/lab2/bilibili.pcapng)
+- [Computer-Network/lab2/fudan-ali.pcapng](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Network/lab2/fudan-ali.pcapng)
+- [Computer-Network/lab2/fudan-ns.pcapng](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Network/lab2/fudan-ns.pcapng)
+- [Computer-Network/lab2/fudan.pcapng](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Network/lab2/fudan.pcapng)
+- [Computer-Network/lab2/周训哲_20307110315.docx](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Network/lab2/%E5%91%A8%E8%AE%AD%E5%93%B2_20307110315.docx)
+- [Computer-Network/lab2/实验2作业.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Network/lab2/%E5%AE%9E%E9%AA%8C2%E4%BD%9C%E4%B8%9A.pdf)
+- [Computer-Network/lab3/SOCKET编程实现SMTP客户端.pptx](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Network/lab3/SOCKET%E7%BC%96%E7%A8%8B%E5%AE%9E%E7%8E%B0SMTP%E5%AE%A2%E6%88%B7%E7%AB%AF.pptx)
+- [Computer-Network/lab3/key/ca.crt](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Network/lab3/key/ca.crt)
+- [Computer-Network/lab3/key/ca.csr](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Network/lab3/key/ca.csr)
+- [Computer-Network/lab3/key/ca.key](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Network/lab3/key/ca.key)
+- 另有 48 个文件，见 data/collection_files.csv
+
+**计算机网络 / clb2001/FDU-COMP**
+- [计算机网络与安全/PJ/project/.idea/inspectionProfiles/profiles_settings.xml](https://github.com/clb2001/FDU-COMP/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%AE%89%E5%85%A8/PJ/project/.idea/inspectionProfiles/profiles_settings.xml)
+- [计算机网络与安全/PJ/project/.idea/misc.xml](https://github.com/clb2001/FDU-COMP/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%AE%89%E5%85%A8/PJ/project/.idea/misc.xml)
+- [计算机网络与安全/PJ/project/.idea/modules.xml](https://github.com/clb2001/FDU-COMP/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%AE%89%E5%85%A8/PJ/project/.idea/modules.xml)
+- [计算机网络与安全/PJ/project/.idea/project.iml](https://github.com/clb2001/FDU-COMP/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%AE%89%E5%85%A8/PJ/project/.idea/project.iml)
+- [计算机网络与安全/PJ/project/.idea/vcs.xml](https://github.com/clb2001/FDU-COMP/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%AE%89%E5%85%A8/PJ/project/.idea/vcs.xml)
+- [计算机网络与安全/PJ/project/log/client/_808_log.txt](https://github.com/clb2001/FDU-COMP/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%AE%89%E5%85%A8/PJ/project/log/client/_808_log.txt)
+- [计算机网络与安全/PJ/project/log/server/172.22.96.1_809_log.txt](https://github.com/clb2001/FDU-COMP/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%AE%89%E5%85%A8/PJ/project/log/server/172.22.96.1_809_log.txt)
+- [计算机网络与安全/PJ/project/计算机网络与安全PJ实验报告.pdf](https://github.com/clb2001/FDU-COMP/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%AE%89%E5%85%A8/PJ/project/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%AE%89%E5%85%A8PJ%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.pdf)
+- [计算机网络与安全/PJ/计算机网络与安全PJ实验报告.docx](https://github.com/clb2001/FDU-COMP/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%AE%89%E5%85%A8/PJ/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%AE%89%E5%85%A8PJ%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.docx)
+- [计算机网络与安全/lab8/alice.txt](https://github.com/clb2001/FDU-COMP/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%AE%89%E5%85%A8/lab8/alice.txt)
+- [计算机网络与安全/lab8/res.pdf](https://github.com/clb2001/FDU-COMP/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%AE%89%E5%85%A8/lab8/res.pdf)
 
 **计算机网络 / flyingc2004/fdu-cs-grade3**
 - [Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/Programming_Assignments/ICMPping.pdf](https://github.com/flyingc2004/fdu-cs-grade3/blob/computer-network/Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/Programming_Assignments/ICMPping.pdf)
@@ -1994,7 +3337,22 @@
 - [Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/Programming_Assignments/lab1-webserver/lab1_WebServer.pdf](https://github.com/flyingc2004/fdu-cs-grade3/blob/computer-network/Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/Programming_Assignments/lab1-webserver/lab1_WebServer.pdf)
 - [Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/Programming_Assignments/lab2-udp/lab2_UDPPinger.pdf](https://github.com/flyingc2004/fdu-cs-grade3/blob/computer-network/Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/Programming_Assignments/lab2-udp/lab2_UDPPinger.pdf)
 - [Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/Programming_Assignments/lab3-smtp/lab3_SMTP.pdf](https://github.com/flyingc2004/fdu-cs-grade3/blob/computer-network/Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/Programming_Assignments/lab3-smtp/lab3_SMTP.pdf)
-- 另有 31 个文件，见 data/collection_files.csv
+- 另有 68 个文件，见 data/collection_files.csv
+
+**计算机网络 / lrcc275/FudanCources**
+- [COMP130136计算机网络/实验/00-计算机网络.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130136%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%AE%9E%E9%AA%8C/00-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.pdf)
+- [COMP130136计算机网络/实验/01-概述.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130136%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%AE%9E%E9%AA%8C/01-%E6%A6%82%E8%BF%B0.pdf)
+- [COMP130136计算机网络/实验/02-网络应用.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130136%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%AE%9E%E9%AA%8C/02-%E7%BD%91%E7%BB%9C%E5%BA%94%E7%94%A8.pdf)
+- [COMP130136计算机网络/实验/02-网络应用1.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130136%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%AE%9E%E9%AA%8C/02-%E7%BD%91%E7%BB%9C%E5%BA%94%E7%94%A81.pdf)
+- [COMP130136计算机网络/实验/03-网络应用2.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130136%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%AE%9E%E9%AA%8C/03-%E7%BD%91%E7%BB%9C%E5%BA%94%E7%94%A82.pdf)
+- [COMP130136计算机网络/实验/04-可靠数据传输.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130136%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%AE%9E%E9%AA%8C/04-%E5%8F%AF%E9%9D%A0%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93.pdf)
+- [COMP130136计算机网络/实验/05-TCP数据传输和连接管理.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130136%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%AE%9E%E9%AA%8C/05-TCP%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93%E5%92%8C%E8%BF%9E%E6%8E%A5%E7%AE%A1%E7%90%86.pdf)
+- [COMP130136计算机网络/实验/06-TCP拥塞控制.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130136%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%AE%9E%E9%AA%8C/06-TCP%E6%8B%A5%E5%A1%9E%E6%8E%A7%E5%88%B6.pdf)
+- [COMP130136计算机网络/实验/07-网络互连.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130136%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%AE%9E%E9%AA%8C/07-%E7%BD%91%E7%BB%9C%E4%BA%92%E8%BF%9E.pdf)
+- [COMP130136计算机网络/实验/07-网络互连.pptx](https://github.com/lrcc275/FudanCources/blob/main/COMP130136%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%AE%9E%E9%AA%8C/07-%E7%BD%91%E7%BB%9C%E4%BA%92%E8%BF%9E.pptx)
+- [COMP130136计算机网络/实验/08-路由协议.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130136%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%AE%9E%E9%AA%8C/08-%E8%B7%AF%E7%94%B1%E5%8D%8F%E8%AE%AE.pdf)
+- [COMP130136计算机网络/实验/09-差错检测.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130136%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%AE%9E%E9%AA%8C/09-%E5%B7%AE%E9%94%99%E6%A3%80%E6%B5%8B.pdf)
+- 另有 20 个文件，见 data/collection_files.csv
 
 **计算机网络 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/计算机网络/0+计算机网络.pptx](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/0%2B%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.pptx)
@@ -2009,7 +3367,7 @@
 - [3.专业教育/计算机科学与技术/专业必修/计算机网络/作业/hw1.docx](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E4%BD%9C%E4%B8%9A/hw1.docx)
 - [3.专业教育/计算机科学与技术/专业必修/计算机网络/作业/hw1sol.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E4%BD%9C%E4%B8%9A/hw1sol.pdf)
 - [3.专业教育/计算机科学与技术/专业必修/计算机网络/作业/hw2.docx](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E4%BD%9C%E4%B8%9A/hw2.docx)
-- 另有 24 个文件，见 data/collection_files.csv
+- 另有 25 个文件，见 data/collection_files.csv
 
 **计算机视觉 / ForeverHaibara/Fudan-Courses**
 - [计算机视觉/计算机视觉.md](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89.md)
@@ -2037,7 +3395,56 @@
 - [计算理论/assets/katex/fonts/KaTeX_Math-BoldItalic.woff2](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA/assets/katex/fonts/KaTeX_Math-BoldItalic.woff2)
 - [计算理论/assets/katex/fonts/KaTeX_Math-Italic.woff2](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA/assets/katex/fonts/KaTeX_Math-Italic.woff2)
 - [计算理论/assets/katex/fonts/KaTeX_SansSerif-Bold.woff2](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA/assets/katex/fonts/KaTeX_SansSerif-Bold.woff2)
-- 另有 8 个文件，见 data/collection_files.csv
+- 另有 24 个文件，见 data/collection_files.csv
+
+**设计模式 / Zhouxunzhe/Fudan-CS-Projects**
+- [Design-Pattern/lab1/bookmarks/cloud.bmk](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Design-Pattern/lab1/bookmarks/cloud.bmk)
+- [Design-Pattern/lab1/bookmarks/cloud1.bmk](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Design-Pattern/lab1/bookmarks/cloud1.bmk)
+- [Design-Pattern/lab1/bookmarks/cloud2.bmk](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Design-Pattern/lab1/bookmarks/cloud2.bmk)
+- [Design-Pattern/lab1/bookmarks/test/test.bmk](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Design-Pattern/lab1/bookmarks/test/test.bmk)
+- [Design-Pattern/lab1/lab1.md](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Design-Pattern/lab1/lab1.md)
+- [Design-Pattern/lab2/phrase1/whiteboard_exported_image.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Design-Pattern/lab2/phrase1/whiteboard_exported_image.pdf)
+- [Design-Pattern/lab2/phrase1/微团购系统功能分析.docx](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Design-Pattern/lab2/phrase1/%E5%BE%AE%E5%9B%A2%E8%B4%AD%E7%B3%BB%E7%BB%9F%E5%8A%9F%E8%83%BD%E5%88%86%E6%9E%90.docx)
+- [Design-Pattern/lab2/phrase1/微团购领域模型.md](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Design-Pattern/lab2/phrase1/%E5%BE%AE%E5%9B%A2%E8%B4%AD%E9%A2%86%E5%9F%9F%E6%A8%A1%E5%9E%8B.md)
+- [Design-Pattern/lab2/phrase1/微服务架构设计方案.docx](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Design-Pattern/lab2/phrase1/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%A1%88.docx)
+- [Design-Pattern/lab2/phrase1/放心购微团购系统.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Design-Pattern/lab2/phrase1/%E6%94%BE%E5%BF%83%E8%B4%AD%E5%BE%AE%E5%9B%A2%E8%B4%AD%E7%B3%BB%E7%BB%9F.pdf)
+- [Design-Pattern/lab2/phrase2/phase2.md](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Design-Pattern/lab2/phrase2/phase2.md)
+- [Design-Pattern/lab2/phrase2/phase2.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Design-Pattern/lab2/phrase2/phase2.pdf)
+- 另有 1 个文件，见 data/collection_files.csv
+
+**贝叶斯统计 / cxxixi/FDU_DS**
+- [贝叶斯统计/Bayesian Statistics and Marketing.pdf](https://github.com/cxxixi/FDU_DS/blob/master/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%BB%9F%E8%AE%A1/Bayesian%20Statistics%20and%20Marketing.pdf)
+- [贝叶斯统计/Lecture1_Intro.pdf](https://github.com/cxxixi/FDU_DS/blob/master/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%BB%9F%E8%AE%A1/Lecture1_Intro.pdf)
+- [贝叶斯统计/Lecture2_Gibbs.pdf](https://github.com/cxxixi/FDU_DS/blob/master/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%BB%9F%E8%AE%A1/Lecture2_Gibbs.pdf)
+- [贝叶斯统计/Lecture3_MH.pdf](https://github.com/cxxixi/FDU_DS/blob/master/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%BB%9F%E8%AE%A1/Lecture3_MH.pdf)
+- [贝叶斯统计/Lecture4_HB.pdf](https://github.com/cxxixi/FDU_DS/blob/master/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%BB%9F%E8%AE%A1/Lecture4_HB.pdf)
+
+**软件工程 / Zhouxunzhe/Fudan-CS-Projects**
+- [Software-Engineering/docs/back.md](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Software-Engineering/docs/back.md)
+- [Software-Engineering/docs/front.md](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Software-Engineering/docs/front.md)
+- [Software-Engineering/docs/report/lab规范.md](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Software-Engineering/docs/report/lab%E8%A7%84%E8%8C%83.md)
+- [Software-Engineering/docs/report/周训哲.md](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Software-Engineering/docs/report/%E5%91%A8%E8%AE%AD%E5%93%B2.md)
+- [Software-Engineering/docs/report/实验报告.md](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Software-Engineering/docs/report/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.md)
+- [Software-Engineering/docs/report/张智雄.md](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Software-Engineering/docs/report/%E5%BC%A0%E6%99%BA%E9%9B%84.md)
+- [Software-Engineering/docs/report/柏露.md](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Software-Engineering/docs/report/%E6%9F%8F%E9%9C%B2.md)
+- [Software-Engineering/docs/report/第4小组-Lab2实验报告.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Software-Engineering/docs/report/%E7%AC%AC4%E5%B0%8F%E7%BB%84-Lab2%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.pdf)
+- [Software-Engineering/docs/report/第4小组-Lab3实验报告.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Software-Engineering/docs/report/%E7%AC%AC4%E5%B0%8F%E7%BB%84-Lab3%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.pdf)
+- [Software-Engineering/docs/report/第4小组-Lab4实验报告.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Software-Engineering/docs/report/%E7%AC%AC4%E5%B0%8F%E7%BB%84-Lab4%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.pdf)
+- [Software-Engineering/docs/report/陈实立.md](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Software-Engineering/docs/report/%E9%99%88%E5%AE%9E%E7%AB%8B.md)
+- [Software-Engineering/frontend/.eslintrc.cjs](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Software-Engineering/frontend/.eslintrc.cjs)
+- 另有 17 个文件，见 data/collection_files.csv
+
+**软件工程 / lrcc275/FudanCources**
+- [COMP130015软件工程/课件/软件工程01-软件工程概述-1.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130015%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E8%AF%BE%E4%BB%B6/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B01-%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E6%A6%82%E8%BF%B0-1.pdf)
+- [COMP130015软件工程/课件/软件工程02-软件过程-1.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130015%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E8%AF%BE%E4%BB%B6/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B02-%E8%BD%AF%E4%BB%B6%E8%BF%87%E7%A8%8B-1.pdf)
+- [COMP130015软件工程/课件/软件工程03-版本与开发任务管理-1.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130015%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E8%AF%BE%E4%BB%B6/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B03-%E7%89%88%E6%9C%AC%E4%B8%8E%E5%BC%80%E5%8F%91%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86-1.pdf)
+- [COMP130015软件工程/课件/软件工程04-高质量编码-1.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130015%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E8%AF%BE%E4%BB%B6/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B04-%E9%AB%98%E8%B4%A8%E9%87%8F%E7%BC%96%E7%A0%81-1.pdf)
+- [COMP130015软件工程/课件/软件工程05-软件设计-2.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130015%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E8%AF%BE%E4%BB%B6/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B05-%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1-2.pdf)
+- [COMP130015软件工程/课件/软件工程06-软件复用.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130015%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E8%AF%BE%E4%BB%B6/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B06-%E8%BD%AF%E4%BB%B6%E5%A4%8D%E7%94%A8.pdf)
+- [COMP130015软件工程/课件/软件工程07-软件体系结构-1.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130015%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E8%AF%BE%E4%BB%B6/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B07-%E8%BD%AF%E4%BB%B6%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84-1.pdf)
+- [COMP130015软件工程/课件/软件工程08-软件需求.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130015%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E8%AF%BE%E4%BB%B6/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B08-%E8%BD%AF%E4%BB%B6%E9%9C%80%E6%B1%82.pdf)
+- [COMP130015软件工程/课件/软件工程09-软件测试.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130015%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E8%AF%BE%E4%BB%B6/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B09-%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95.pdf)
+- [COMP130015软件工程/课件/软件工程10-软件集成与发布.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130015%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E8%AF%BE%E4%BB%B6/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B10-%E8%BD%AF%E4%BB%B6%E9%9B%86%E6%88%90%E4%B8%8E%E5%8F%91%E5%B8%83.pdf)
 
 **软件工程 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/软件工程/The unified modeling language user guide.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/The%20unified%20modeling%20language%20user%20guide.pdf)
@@ -2053,6 +3460,11 @@
 - [3.专业教育/计算机科学与技术/专业必修/软件工程/少数派模拟器/预约挂号业务管理信息系统详细设计说明书1－1.0.doc](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E5%B0%91%E6%95%B0%E6%B4%BE%E6%A8%A1%E6%8B%9F%E5%99%A8/%E9%A2%84%E7%BA%A6%E6%8C%82%E5%8F%B7%E4%B8%9A%E5%8A%A1%E7%AE%A1%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E8%AF%A6%E7%BB%86%E8%AE%BE%E8%AE%A1%E8%AF%B4%E6%98%8E%E4%B9%A61%EF%BC%8D1.0.doc)
 - [3.专业教育/计算机科学与技术/专业必修/软件工程/统一软件开发过程.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E7%BB%9F%E4%B8%80%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B.pdf)
 - 另有 13 个文件，见 data/collection_files.csv
+
+**软件过程管理 / FDUanonym/FDU-CST-Cracker**
+- [SOFT620011 软件过程管理/L0 课程介绍.pptx](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/SOFT620011%20%E8%BD%AF%E4%BB%B6%E8%BF%87%E7%A8%8B%E7%AE%A1%E7%90%86/L0%20%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D.pptx)
+- [SOFT620011 软件过程管理/L1 概述.pptx](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/SOFT620011%20%E8%BD%AF%E4%BB%B6%E8%BF%87%E7%A8%8B%E7%AE%A1%E7%90%86/L1%20%E6%A6%82%E8%BF%B0.pptx)
+- [SOFT620011 软件过程管理/软件过程管理大纲.pdf](https://github.com/FDUanonym/FDU-CST-Cracker/blob/main/SOFT620011%20%E8%BD%AF%E4%BB%B6%E8%BF%87%E7%A8%8B%E7%AE%A1%E7%90%86/%E8%BD%AF%E4%BB%B6%E8%BF%87%E7%A8%8B%E7%AE%A1%E7%90%86%E5%A4%A7%E7%BA%B2.pdf)
 
 **随机过程 / ForeverHaibara/Fudan-Courses**
 - [随机过程导论/随机过程导论.md](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E5%AF%BC%E8%AE%BA/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E5%AF%BC%E8%AE%BA.md)
@@ -2076,6 +3488,51 @@
 - [STAT50017.01-随机过程导论/Lecture 1.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/STAT50017.01-%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E5%AF%BC%E8%AE%BA/Lecture%201.pdf)
 - [STAT50017.01-随机过程导论/Lecture 3.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/STAT50017.01-%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E5%AF%BC%E8%AE%BA/Lecture%203.pdf)
 
+**面向对象程序设计 / ChenTao98/FudanUniversity**
+- [OOP/oop-labs/BigNum-lab/lab4/.idea/codeStyles/Project.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/OOP/oop-labs/BigNum-lab/lab4/.idea/codeStyles/Project.xml)
+- [OOP/oop-labs/BigNum-lab/lab4/.idea/lab4.iml](https://github.com/ChenTao98/FudanUniversity/blob/master/OOP/oop-labs/BigNum-lab/lab4/.idea/lab4.iml)
+- [OOP/oop-labs/BigNum-lab/lab4/.idea/misc.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/OOP/oop-labs/BigNum-lab/lab4/.idea/misc.xml)
+- [OOP/oop-labs/BigNum-lab/lab4/.idea/modules.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/OOP/oop-labs/BigNum-lab/lab4/.idea/modules.xml)
+- [OOP/oop-labs/BigNum-lab/lab4/.idea/workspace.xml](https://github.com/ChenTao98/FudanUniversity/blob/master/OOP/oop-labs/BigNum-lab/lab4/.idea/workspace.xml)
+- [OOP/oop-labs/BigNum-lab/lab4/CMakeLists.txt](https://github.com/ChenTao98/FudanUniversity/blob/master/OOP/oop-labs/BigNum-lab/lab4/CMakeLists.txt)
+- [OOP/oop-labs/BigNum-lab/lab4/Lab4.pdf](https://github.com/ChenTao98/FudanUniversity/blob/master/OOP/oop-labs/BigNum-lab/lab4/Lab4.pdf)
+- [OOP/oop-labs/BigNum-lab/lab4/cmake-build-debug/CMakeCache.txt](https://github.com/ChenTao98/FudanUniversity/blob/master/OOP/oop-labs/BigNum-lab/lab4/cmake-build-debug/CMakeCache.txt)
+- [OOP/oop-labs/BigNum-lab/lab4/cmake-build-debug/CMakeFiles/3.10.3/CMakeCCompiler.cmake](https://github.com/ChenTao98/FudanUniversity/blob/master/OOP/oop-labs/BigNum-lab/lab4/cmake-build-debug/CMakeFiles/3.10.3/CMakeCCompiler.cmake)
+- [OOP/oop-labs/BigNum-lab/lab4/cmake-build-debug/CMakeFiles/3.10.3/CMakeCXXCompiler.cmake](https://github.com/ChenTao98/FudanUniversity/blob/master/OOP/oop-labs/BigNum-lab/lab4/cmake-build-debug/CMakeFiles/3.10.3/CMakeCXXCompiler.cmake)
+- [OOP/oop-labs/BigNum-lab/lab4/cmake-build-debug/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_C.bin](https://github.com/ChenTao98/FudanUniversity/blob/master/OOP/oop-labs/BigNum-lab/lab4/cmake-build-debug/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_C.bin)
+- [OOP/oop-labs/BigNum-lab/lab4/cmake-build-debug/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_CXX.bin](https://github.com/ChenTao98/FudanUniversity/blob/master/OOP/oop-labs/BigNum-lab/lab4/cmake-build-debug/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_CXX.bin)
+- 另有 133 个文件，见 data/collection_files.csv
+
+**面向对象程序设计 / Zhouxunzhe/Fudan-CS-Projects**
+- [Object-Oriented-Programming/Game2048/Game2048.exe](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Object-Oriented-Programming/Game2048/Game2048.exe)
+- [Object-Oriented-Programming/Game2048/Game2048.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Object-Oriented-Programming/Game2048/Game2048.pdf)
+- [Object-Oriented-Programming/Game2048/game2048.csv](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Object-Oriented-Programming/Game2048/game2048.csv)
+- [Object-Oriented-Programming/HW2/HW2_2_20307110315/HW2_2_20307110315.rar](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Object-Oriented-Programming/HW2/HW2_2_20307110315/HW2_2_20307110315.rar)
+- [Object-Oriented-Programming/HW3/HW3_1_20307110315/HW3_1_20307110315.rar](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Object-Oriented-Programming/HW3/HW3_1_20307110315/HW3_1_20307110315.rar)
+- [Object-Oriented-Programming/HW3/HW3_2_20307110315/HW3_2_20307110315.rar](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Object-Oriented-Programming/HW3/HW3_2_20307110315/HW3_2_20307110315.rar)
+- [Object-Oriented-Programming/HW3/HW3_3_20307110315/HW3_3_20307110315.rar](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Object-Oriented-Programming/HW3/HW3_3_20307110315/HW3_3_20307110315.rar)
+- [Object-Oriented-Programming/HW4/HW4_1_20307110315/HW4_1_20307110315.rar](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Object-Oriented-Programming/HW4/HW4_1_20307110315/HW4_1_20307110315.rar)
+- [Object-Oriented-Programming/HW4/HW4_2_20307110315/HW4_2_20307110315.rar](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Object-Oriented-Programming/HW4/HW4_2_20307110315/HW4_2_20307110315.rar)
+- [Object-Oriented-Programming/HW5/HW5_1_20307110315/HW5_1_20307110315.rar](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Object-Oriented-Programming/HW5/HW5_1_20307110315/HW5_1_20307110315.rar)
+- [Object-Oriented-Programming/HW5/HW5_1_20307110315/grades](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Object-Oriented-Programming/HW5/HW5_1_20307110315/grades)
+- [Object-Oriented-Programming/HW5/HW5_2_20307110315/HW5_2_20307110315.rar](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Object-Oriented-Programming/HW5/HW5_2_20307110315/HW5_2_20307110315.rar)
+- 另有 17 个文件，见 data/collection_files.csv
+
+**面向对象程序设计 / lrcc275/FudanCources**
+- [COMP130135面向对象程序设计/Game2048/2048/Game2048.exe](https://github.com/lrcc275/FudanCources/blob/main/COMP130135%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Game2048/2048/Game2048.exe)
+- [COMP130135面向对象程序设计/Game2048/2048/Game2048.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130135%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Game2048/2048/Game2048.pdf)
+- [COMP130135面向对象程序设计/Game2048/2048/game2048.csv](https://github.com/lrcc275/FudanCources/blob/main/COMP130135%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Game2048/2048/game2048.csv)
+- [COMP130135面向对象程序设计/Game2048/21307130148_陈锐林.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130135%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Game2048/21307130148_%E9%99%88%E9%94%90%E6%9E%97.pdf)
+- [COMP130135面向对象程序设计/Game2048/pj.zip](https://github.com/lrcc275/FudanCources/blob/main/COMP130135%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Game2048/pj.zip)
+- [COMP130135面向对象程序设计/Game2048/大题部分.docx](https://github.com/lrcc275/FudanCources/blob/main/COMP130135%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Game2048/%E5%A4%A7%E9%A2%98%E9%83%A8%E5%88%86.docx)
+- [COMP130135面向对象程序设计/Game2048/小题部分.docx](https://github.com/lrcc275/FudanCources/blob/main/COMP130135%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Game2048/%E5%B0%8F%E9%A2%98%E9%83%A8%E5%88%86.docx)
+- [COMP130135面向对象程序设计/Game2048/数分21307130148_陈锐林.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130135%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Game2048/%E6%95%B0%E5%88%8621307130148_%E9%99%88%E9%94%90%E6%9E%97.pdf)
+- [COMP130135面向对象程序设计/Game2048/模拟卷.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130135%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Game2048/%E6%A8%A1%E6%8B%9F%E5%8D%B7.pdf)
+- [COMP130135面向对象程序设计/OOP_2022_A.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130135%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/OOP_2022_A.pdf)
+- [COMP130135面向对象程序设计/作业/HW1/HW1_冉津豪.pptx](https://github.com/lrcc275/FudanCources/blob/main/COMP130135%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E4%BD%9C%E4%B8%9A/HW1/HW1_%E5%86%89%E6%B4%A5%E8%B1%AA.pptx)
+- [COMP130135面向对象程序设计/作业/HW2/HW2测试数据.txt](https://github.com/lrcc275/FudanCources/blob/main/COMP130135%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E4%BD%9C%E4%B8%9A/HW2/HW2%E6%B5%8B%E8%AF%95%E6%95%B0%E6%8D%AE.txt)
+- 另有 27 个文件，见 data/collection_files.csv
+
 **面向对象程序设计 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/面向对象程序设计/面向对象程序设计2016.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A12016.pdf)
 - [3.专业教育/计算机科学与技术/专业必修/面向对象程序设计/面向对象程序设计201601-标准库1.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1201601-%E6%A0%87%E5%87%86%E5%BA%931.pdf)
@@ -2087,6 +3544,11 @@
 - [3.专业教育/计算机科学与技术/专业必修/面向对象程序设计/面向对象程序设计201605-定义抽象数据类型：模板类.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1201605-%E5%AE%9A%E4%B9%89%E6%8A%BD%E8%B1%A1%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%EF%BC%9A%E6%A8%A1%E6%9D%BF%E7%B1%BB.pdf)
 - [3.专业教育/计算机科学与技术/专业必修/面向对象程序设计/面向对象程序设计201606-操作符重载.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1201606-%E6%93%8D%E4%BD%9C%E7%AC%A6%E9%87%8D%E8%BD%BD.pdf)
 - [3.专业教育/计算机科学与技术/专业必修/面向对象程序设计/面向对象程序设计201607-继承和动态绑定.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1201607-%E7%BB%A7%E6%89%BF%E5%92%8C%E5%8A%A8%E6%80%81%E7%BB%91%E5%AE%9A.pdf)
+
+**领域数据科学 / Zhouxunzhe/Fudan-CS-Projects**
+- [Domain-Data-Science/quant.txt](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Domain-Data-Science/quant.txt)
+- [Domain-Data-Science/中期报告.md](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Domain-Data-Science/%E4%B8%AD%E6%9C%9F%E6%8A%A5%E5%91%8A.md)
+- [Domain-Data-Science/开题报告.md](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Domain-Data-Science/%E5%BC%80%E9%A2%98%E6%8A%A5%E5%91%8A.md)
 
 **高等代数 / AniroHU/FDU_Courses_Undergraduate**
 - [高等线性代数/Advanced-Linear-Algebra-main/Homework & Answers/homework-20220905/Answer-0905.pdf](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Advanced-Linear-Algebra-main/Homework%20%26%20Answers/homework-20220905/Answer-0905.pdf)
@@ -2137,12 +3599,34 @@
 - 另有 27 个文件，见 data/collection_files.csv
 
 **高等代数 / Su-Zi-Zhan/FDU-SDS-Lecture-Notes**
-- [MATH10003.01-高等线性代数/homework/homework-1111.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/homework/homework-1111.pdf)
-- [MATH10003.01-高等线性代数/homework/homework-1118.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/homework/homework-1118.pdf)
-- [MATH10003.01-高等线性代数/homework/homework-1125.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/homework/homework-1125.pdf)
-- [MATH10003.01-高等线性代数/homework/homework-1202.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/homework/homework-1202.pdf)
-- [MATH10003.01-高等线性代数/homework/homework-1209.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/homework/homework-1209.pdf)
-- [MATH10003.01-高等线性代数/homework/homework-1216.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/homework/homework-1216.pdf)
+- [MATH10003.01-高等线性代数/Notes/Lecture 1.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Notes/Lecture%201.pdf)
+- [MATH10003.01-高等线性代数/Notes/Lecture 10.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Notes/Lecture%2010.pdf)
+- [MATH10003.01-高等线性代数/Notes/Lecture 11.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Notes/Lecture%2011.pdf)
+- [MATH10003.01-高等线性代数/Notes/Lecture 12.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Notes/Lecture%2012.pdf)
+- [MATH10003.01-高等线性代数/Notes/Lecture 13.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Notes/Lecture%2013.pdf)
+- [MATH10003.01-高等线性代数/Notes/Lecture 14.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Notes/Lecture%2014.pdf)
+- [MATH10003.01-高等线性代数/Notes/Lecture 2.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Notes/Lecture%202.pdf)
+- [MATH10003.01-高等线性代数/Notes/Lecture 3.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Notes/Lecture%203.pdf)
+- [MATH10003.01-高等线性代数/Notes/Lecture 4.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Notes/Lecture%204.pdf)
+- [MATH10003.01-高等线性代数/Notes/Lecture 5.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Notes/Lecture%205.pdf)
+- [MATH10003.01-高等线性代数/Notes/Lecture 6.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Notes/Lecture%206.pdf)
+- [MATH10003.01-高等线性代数/Notes/Lecture 7.pdf](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes/blob/main/MATH10003.01-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Notes/Lecture%207.pdf)
+- 另有 8 个文件，见 data/collection_files.csv
+
+**高等代数 / hadanice/OpenDS**
+- [高等线性代数/LineAlge笔记.pdf](https://github.com/hadanice/OpenDS/blob/main/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/LineAlge%E7%AC%94%E8%AE%B0.pdf)
+- [高等线性代数/笔记/01-复数与复分析.md](https://github.com/hadanice/OpenDS/blob/main/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%AC%94%E8%AE%B0/01-%E5%A4%8D%E6%95%B0%E4%B8%8E%E5%A4%8D%E5%88%86%E6%9E%90.md)
+- [高等线性代数/笔记/02-矩阵运算与矩阵微积分.md](https://github.com/hadanice/OpenDS/blob/main/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%AC%94%E8%AE%B0/02-%E7%9F%A9%E9%98%B5%E8%BF%90%E7%AE%97%E4%B8%8E%E7%9F%A9%E9%98%B5%E5%BE%AE%E7%A7%AF%E5%88%86.md)
+- [高等线性代数/笔记/03-向量范数与矩阵范数.md](https://github.com/hadanice/OpenDS/blob/main/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%AC%94%E8%AE%B0/03-%E5%90%91%E9%87%8F%E8%8C%83%E6%95%B0%E4%B8%8E%E7%9F%A9%E9%98%B5%E8%8C%83%E6%95%B0.md)
+- [高等线性代数/笔记/04-向量空间与线性映射.md](https://github.com/hadanice/OpenDS/blob/main/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%AC%94%E8%AE%B0/04-%E5%90%91%E9%87%8F%E7%A9%BA%E9%97%B4%E4%B8%8E%E7%BA%BF%E6%80%A7%E6%98%A0%E5%B0%84.md)
+- [高等线性代数/笔记/05-二次型与正定矩阵.md](https://github.com/hadanice/OpenDS/blob/main/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%AC%94%E8%AE%B0/05-%E4%BA%8C%E6%AC%A1%E5%9E%8B%E4%B8%8E%E6%AD%A3%E5%AE%9A%E7%9F%A9%E9%98%B5.md)
+- [高等线性代数/笔记/06-特征值与Jordan标准形.md](https://github.com/hadanice/OpenDS/blob/main/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%AC%94%E8%AE%B0/06-%E7%89%B9%E5%BE%81%E5%80%BC%E4%B8%8EJordan%E6%A0%87%E5%87%86%E5%BD%A2.md)
+- [高等线性代数/笔记/07-内积空间与QR分解.md](https://github.com/hadanice/OpenDS/blob/main/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%AC%94%E8%AE%B0/07-%E5%86%85%E7%A7%AF%E7%A9%BA%E9%97%B4%E4%B8%8EQR%E5%88%86%E8%A7%A3.md)
+- [高等线性代数/笔记/08-奇异值分解与广义逆.md](https://github.com/hadanice/OpenDS/blob/main/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%AC%94%E8%AE%B0/08-%E5%A5%87%E5%BC%82%E5%80%BC%E5%88%86%E8%A7%A3%E4%B8%8E%E5%B9%BF%E4%B9%89%E9%80%86.md)
+- [高等线性代数/笔记/09-变分原理与矩阵扰动.md](https://github.com/hadanice/OpenDS/blob/main/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%AC%94%E8%AE%B0/09-%E5%8F%98%E5%88%86%E5%8E%9F%E7%90%86%E4%B8%8E%E7%9F%A9%E9%98%B5%E6%89%B0%E5%8A%A8.md)
+- [高等线性代数/笔记/10-仿射几何与行列式.md](https://github.com/hadanice/OpenDS/blob/main/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%AC%94%E8%AE%B0/10-%E4%BB%BF%E5%B0%84%E5%87%A0%E4%BD%95%E4%B8%8E%E8%A1%8C%E5%88%97%E5%BC%8F.md)
+- [高等线性代数/笔记/11-矩阵函数.md](https://github.com/hadanice/OpenDS/blob/main/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%AC%94%E8%AE%B0/11-%E7%9F%A9%E9%98%B5%E5%87%BD%E6%95%B0.md)
+- 另有 3 个文件，见 data/collection_files.csv
 
 **高等代数 / victkk/FDU-Sharing**
 - [public/resources/高等线性代数/高等线性代数.zip](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0.zip)
@@ -2151,6 +3635,8 @@
 - [高等微积分/陈纪修 数学分析习题全解指南  下.pdf](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E9%AB%98%E7%AD%89%E5%BE%AE%E7%A7%AF%E5%88%86/%E9%99%88%E7%BA%AA%E4%BF%AE%20%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%E4%B9%A0%E9%A2%98%E5%85%A8%E8%A7%A3%E6%8C%87%E5%8D%97%20%20%E4%B8%8B.pdf)
 
 **高等数学 / kanzaler123/fdu-course-resources**
+- [高等数学/习题/10.13习题课 2.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E4%B9%A0%E9%A2%98/10.13%E4%B9%A0%E9%A2%98%E8%AF%BE%202.pdf)
+- [高等数学/习题/10.13习题课.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E4%B9%A0%E9%A2%98/10.13%E4%B9%A0%E9%A2%98%E8%AF%BE.pdf)
 - [高等数学/习题/11.24.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E4%B9%A0%E9%A2%98/11.24.pdf)
 - [高等数学/习题/高数A习题课讲义(Ver_Dec_15th).pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E4%B9%A0%E9%A2%98/%E9%AB%98%E6%95%B0A%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89%28Ver_Dec_15th%29.pdf)
 - [高等数学/习题/高数A习题课讲义(Ver_Nov_16th).pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E4%B9%A0%E9%A2%98/%E9%AB%98%E6%95%B0A%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89%28Ver_Nov_16th%29.pdf)
@@ -2161,9 +3647,7 @@
 - [高等数学/习题/高数A国庆作业.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E4%B9%A0%E9%A2%98/%E9%AB%98%E6%95%B0A%E5%9B%BD%E5%BA%86%E4%BD%9C%E4%B8%9A.pdf)
 - [高等数学/参考资料/只支持选中一个链接时生效 (2).pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/%E5%8F%AA%E6%94%AF%E6%8C%81%E9%80%89%E4%B8%AD%E4%B8%80%E4%B8%AA%E9%93%BE%E6%8E%A5%E6%97%B6%E7%94%9F%E6%95%88%20%282%29.pdf)
 - [高等数学/参考资料/只支持选中一个链接时生效.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/%E5%8F%AA%E6%94%AF%E6%8C%81%E9%80%89%E4%B8%AD%E4%B8%80%E4%B8%AA%E9%93%BE%E6%8E%A5%E6%97%B6%E7%94%9F%E6%95%88.pdf)
-- [高等数学/参考资料/基本积分表.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/%E5%9F%BA%E6%9C%AC%E7%A7%AF%E5%88%86%E8%A1%A8.pdf)
-- [高等数学/参考资料/自测题（一元函数积分学）.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/%E8%87%AA%E6%B5%8B%E9%A2%98%EF%BC%88%E4%B8%80%E5%85%83%E5%87%BD%E6%95%B0%E7%A7%AF%E5%88%86%E5%AD%A6%EF%BC%89.pdf)
-- 另有 1 个文件，见 data/collection_files.csv
+- 另有 3 个文件，见 data/collection_files.csv
 
 **高等数学 / victkk/FDU-Sharing**
 - [public/resources/高等数学B（下）/高等数学B（下）/高数/week14_L2.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6B%EF%BC%88%E4%B8%8B%EF%BC%89/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6B%EF%BC%88%E4%B8%8B%EF%BC%89/%E9%AB%98%E6%95%B0/week14_L2.pdf)
@@ -2173,6 +3657,8 @@
 - [public/resources/高等数学B（下）/高等数学B（下）/高数/week16_L1.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6B%EF%BC%88%E4%B8%8B%EF%BC%89/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6B%EF%BC%88%E4%B8%8B%EF%BC%89/%E9%AB%98%E6%95%B0/week16_L1.pdf)
 - [public/resources/高等数学B（下）/高等数学B（下）/高数/基本积分表.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6B%EF%BC%88%E4%B8%8B%EF%BC%89/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6B%EF%BC%88%E4%B8%8B%EF%BC%89/%E9%AB%98%E6%95%B0/%E5%9F%BA%E6%9C%AC%E7%A7%AF%E5%88%86%E8%A1%A8.pdf)
 - [public/resources/高等数学B（下）/高等数学B（下）/高数B（下）错题整理.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6B%EF%BC%88%E4%B8%8B%EF%BC%89/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6B%EF%BC%88%E4%B8%8B%EF%BC%89/%E9%AB%98%E6%95%B0B%EF%BC%88%E4%B8%8B%EF%BC%89%E9%94%99%E9%A2%98%E6%95%B4%E7%90%86.pdf)
+- [public/resources/高等数学B（下）/高等数学B（下）/高数下笔记.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6B%EF%BC%88%E4%B8%8B%EF%BC%89/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6B%EF%BC%88%E4%B8%8B%EF%BC%89/%E9%AB%98%E6%95%B0%E4%B8%8B%E7%AC%94%E8%AE%B0.pdf)
+- [public/resources/高等数学B（下）/高等数学B（下）/高数复习.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6B%EF%BC%88%E4%B8%8B%EF%BC%89/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6B%EF%BC%88%E4%B8%8B%EF%BC%89/%E9%AB%98%E6%95%B0%E5%A4%8D%E4%B9%A0.pdf)
 
 **高级 Web 技术 / BeneneeYu/Course-Project**
 - [AdvancedWeb-backend/.idea/$CACHE_FILE$](https://github.com/BeneneeYu/Course-Project/blob/master/AdvancedWeb-backend/.idea/%24CACHE_FILE%24)
@@ -2189,60 +3675,180 @@
 - [AdvancedWeb-backend/.idea/libraries/Maven__com_alibaba_druid_1_2_5.xml](https://github.com/BeneneeYu/Course-Project/blob/master/AdvancedWeb-backend/.idea/libraries/Maven__com_alibaba_druid_1_2_5.xml)
 - 另有 99 个文件，见 data/collection_files.csv
 
+**高维数据建模 / cxxixi/FDU_DS**
+- [高维数据建模/FudanCh1.pdf](https://github.com/cxxixi/FDU_DS/blob/master/%E9%AB%98%E7%BB%B4%E6%95%B0%E6%8D%AE%E5%BB%BA%E6%A8%A1/FudanCh1.pdf)
+- [高维数据建模/FudanCh2.pdf](https://github.com/cxxixi/FDU_DS/blob/master/%E9%AB%98%E7%BB%B4%E6%95%B0%E6%8D%AE%E5%BB%BA%E6%A8%A1/FudanCh2.pdf)
+- [高维数据建模/FudanCh3.pdf](https://github.com/cxxixi/FDU_DS/blob/master/%E9%AB%98%E7%BB%B4%E6%95%B0%E6%8D%AE%E5%BB%BA%E6%A8%A1/FudanCh3.pdf)
+- [高维数据建模/ISLR Seventh Printing.pdf](https://github.com/cxxixi/FDU_DS/blob/master/%E9%AB%98%E7%BB%B4%E6%95%B0%E6%8D%AE%E5%BB%BA%E6%A8%A1/ISLR%20Seventh%20Printing.pdf)
+- [高维数据建模/RUC2017June.pdf](https://github.com/cxxixi/FDU_DS/blob/master/%E9%AB%98%E7%BB%B4%E6%95%B0%E6%8D%AE%E5%BB%BA%E6%A8%A1/RUC2017June.pdf)
+
 </details>
 
-## 代码仓（857 个文件 / 857 个链接）
+## 代码仓库（4141 个文件）
 
 | 课程 | 合集 | 文件数 | 文件链接 |
-| --- | --- | ---: | ---: |
-| [人工智能](courses/人工智能.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 1 | 1 |
-| [人工智能](courses/人工智能.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 7 | 7 |
-| [人工智能](courses/人工智能.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 17 | 17 |
-| [优化方法](courses/优化方法.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 10 | 10 |
-| [回归分析](courses/回归分析.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 24 | 24 |
-| [回归分析](courses/回归分析.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 4 | 4 |
-| [因果推断](courses/因果推断.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 7 | 7 |
-| [图像处理与可视化](courses/图像处理与可视化.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 12 | 12 |
-| [大数据技术](courses/大数据技术.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 2 | 2 |
-| [密码学](courses/密码学.md) | [flyingc2004/fdu-cs-grade3](https://github.com/flyingc2004/fdu-cs-grade3) | 3 | 3 |
-| [数值算法](courses/数值算法.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 21 | 21 |
-| [数值算法](courses/数值算法.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 94 | 94 |
-| [数值算法](courses/数值算法.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 39 | 39 |
-| [数值算法](courses/数值算法.md) | [michaellu2007/fdu-note-summarized](https://github.com/michaellu2007/fdu-note-summarized) | 3 | 3 |
-| [数字逻辑与部件设计](courses/数字逻辑与部件设计.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 123 | 123 |
-| [数据可视化](courses/数据可视化.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 19 | 19 |
-| [数据库系统引论](courses/数据库系统引论.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 6 | 6 |
-| [数据结构](courses/数据结构.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 4 | 4 |
-| [数据结构](courses/数据结构.md) | [Monthlyaway/FDU-cpp-projects](https://github.com/Monthlyaway/FDU-cpp-projects) | 24 | 24 |
-| [数据结构](courses/数据结构.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 1 | 1 |
-| [数据结构](courses/数据结构.md) | [michaellu2007/fdu-note-summarized](https://github.com/michaellu2007/fdu-note-summarized) | 5 | 5 |
-| [数据结构](courses/数据结构.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 40 | 40 |
-| [机器人学](courses/机器人学.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 1 | 1 |
-| [机器学习](courses/机器学习.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 15 | 15 |
-| [机器学习](courses/机器学习.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 3 | 3 |
-| [概率论](courses/概率论.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 2 | 2 |
-| [概率论](courses/概率论.md) | [michaellu2007/fdu-note-summarized](https://github.com/michaellu2007/fdu-note-summarized) | 3 | 3 |
-| [模式识别与机器学习](courses/模式识别与机器学习.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 4 | 4 |
-| [社会网络挖掘](courses/社会网络挖掘.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 6 | 6 |
-| [算法设计与分析](courses/算法设计与分析.md) | [BeneneeYu/Course-Project](https://github.com/BeneneeYu/Course-Project) | 8 | 8 |
-| [统计计算](courses/统计计算.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 5 | 5 |
-| [编译原理](courses/编译原理.md) | [BeneneeYu/Course-Project](https://github.com/BeneneeYu/Course-Project) | 3 | 3 |
-| [编译原理](courses/编译原理.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 29 | 29 |
-| [自然语言处理导论](courses/自然语言处理导论.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 2 | 2 |
-| [计算机体系结构](courses/计算机体系结构.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 117 | 117 |
-| [计算机体系结构](courses/计算机体系结构.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 25 | 25 |
-| [计算机图形学](courses/计算机图形学.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 3 | 3 |
-| [计算机系统基础](courses/计算机系统基础.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 1 | 1 |
-| [计算机网络](courses/计算机网络.md) | [flyingc2004/fdu-cs-grade3](https://github.com/flyingc2004/fdu-cs-grade3) | 14 | 14 |
-| [计算机网络](courses/计算机网络.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 41 | 41 |
-| [计算理论基础](courses/计算理论基础.md) | [michaellu2007/fdu-note-summarized](https://github.com/michaellu2007/fdu-note-summarized) | 3 | 3 |
-| [软件工程](courses/软件工程.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 37 | 37 |
-| [随机过程](courses/随机过程.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 7 | 7 |
-| [高等代数](courses/高等代数.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 8 | 8 |
-| [高等代数](courses/高等代数.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 26 | 26 |
-| [高级 Web 技术](courses/高级-Web-技术.md) | [BeneneeYu/Course-Project](https://github.com/BeneneeYu/Course-Project) | 28 | 28 |
+| --- | --- | ---: | --- |
+| [Java](courses/Java.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 38 | 展开见下 |
+| [Java](courses/Java.md) | [ChenTao98/FudanUniversity](https://github.com/ChenTao98/FudanUniversity) | 82 | 展开见下 |
+| [Java](courses/Java.md) | [rapidhere/fdu-pjs](https://github.com/rapidhere/fdu-pjs) | 67 | 展开见下 |
+| [Web 开发](courses/Web-开发.md) | [rapidhere/fdu-pjs](https://github.com/rapidhere/fdu-pjs) | 18 | 展开见下 |
+| [人工智能](courses/人工智能.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 1 | 展开见下 |
+| [人工智能](courses/人工智能.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 7 | 展开见下 |
+| [人工智能](courses/人工智能.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 64 | 展开见下 |
+| [人工智能](courses/人工智能.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 5 | 展开见下 |
+| [人工智能](courses/人工智能.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 17 | 展开见下 |
+| [优化方法](courses/优化方法.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 10 | 展开见下 |
+| [回归分析](courses/回归分析.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 24 | 展开见下 |
+| [回归分析](courses/回归分析.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 4 | 展开见下 |
+| [因果推断](courses/因果推断.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 7 | 展开见下 |
+| [图像处理与可视化](courses/图像处理与可视化.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 12 | 展开见下 |
+| [多媒体技术基础](courses/多媒体技术基础.md) | [ChenTao98/FudanUniversity](https://github.com/ChenTao98/FudanUniversity) | 16 | 展开见下 |
+| [大数据技术](courses/大数据技术.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 2 | 展开见下 |
+| [密码学](courses/密码学.md) | [flyingc2004/fdu-cs-grade3](https://github.com/flyingc2004/fdu-cs-grade3) | 3 | 展开见下 |
+| [并行分布计算](courses/并行分布计算.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 7 | 展开见下 |
+| [并行分布计算](courses/并行分布计算.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 4 | 展开见下 |
+| [操作系统](courses/操作系统.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 687 | 展开见下 |
+| [数值算法](courses/数值算法.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 21 | 展开见下 |
+| [数值算法](courses/数值算法.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 94 | 展开见下 |
+| [数值算法](courses/数值算法.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 39 | 展开见下 |
+| [数值算法](courses/数值算法.md) | [michaellu2007/fdu-note-summarized](https://github.com/michaellu2007/fdu-note-summarized) | 3 | 展开见下 |
+| [数字图像处理](courses/数字图像处理.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 6 | 展开见下 |
+| [数字逻辑与部件设计](courses/数字逻辑与部件设计.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 123 | 展开见下 |
+| [数据可视化](courses/数据可视化.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 19 | 展开见下 |
+| [数据库系统引论](courses/数据库系统引论.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 4 | 展开见下 |
+| [数据库系统引论](courses/数据库系统引论.md) | [ChenTao98/FudanUniversity](https://github.com/ChenTao98/FudanUniversity) | 54 | 展开见下 |
+| [数据库系统引论](courses/数据库系统引论.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 68 | 展开见下 |
+| [数据库系统引论](courses/数据库系统引论.md) | [clb2001/FDU-COMP](https://github.com/clb2001/FDU-COMP) | 32 | 展开见下 |
+| [数据库系统引论](courses/数据库系统引论.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 6 | 展开见下 |
+| [数据挖掘技术](courses/数据挖掘技术.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 26 | 展开见下 |
+| [数据结构](courses/数据结构.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 4 | 展开见下 |
+| [数据结构](courses/数据结构.md) | [Monthlyaway/FDU-cpp-projects](https://github.com/Monthlyaway/FDU-cpp-projects) | 24 | 展开见下 |
+| [数据结构](courses/数据结构.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 6 | 展开见下 |
+| [数据结构](courses/数据结构.md) | [clb2001/FDU-COMP](https://github.com/clb2001/FDU-COMP) | 160 | 展开见下 |
+| [数据结构](courses/数据结构.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 1 | 展开见下 |
+| [数据结构](courses/数据结构.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 3 | 展开见下 |
+| [数据结构](courses/数据结构.md) | [michaellu2007/fdu-note-summarized](https://github.com/michaellu2007/fdu-note-summarized) | 5 | 展开见下 |
+| [数据结构](courses/数据结构.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 40 | 展开见下 |
+| [数据结构](courses/数据结构.md) | [rapidhere/fdu-pjs](https://github.com/rapidhere/fdu-pjs) | 213 | 展开见下 |
+| [数理统计](courses/数理统计.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 9 | 展开见下 |
+| [时间序列与空间统计](courses/时间序列与空间统计.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 10 | 展开见下 |
+| [智能移动平台开发](courses/智能移动平台开发.md) | [ChenTao98/FudanUniversity](https://github.com/ChenTao98/FudanUniversity) | 19 | 展开见下 |
+| [机器人学](courses/机器人学.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 1 | 展开见下 |
+| [机器学习](courses/机器学习.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 15 | 展开见下 |
+| [机器学习](courses/机器学习.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 3 | 展开见下 |
+| [机器学习](courses/机器学习.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 25 | 展开见下 |
+| [概率论](courses/概率论.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 2 | 展开见下 |
+| [概率论](courses/概率论.md) | [michaellu2007/fdu-note-summarized](https://github.com/michaellu2007/fdu-note-summarized) | 3 | 展开见下 |
+| [模式识别与机器学习](courses/模式识别与机器学习.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 4 | 展开见下 |
+| [电子系统](courses/电子系统.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 11 | 展开见下 |
+| [社会网络挖掘](courses/社会网络挖掘.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 6 | 展开见下 |
+| [程序设计](courses/程序设计.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 68 | 展开见下 |
+| [算法设计与分析](courses/算法设计与分析.md) | [BeneneeYu/Course-Project](https://github.com/BeneneeYu/Course-Project) | 8 | 展开见下 |
+| [系统程序设计](courses/系统程序设计.md) | [ChenTao98/FudanUniversity](https://github.com/ChenTao98/FudanUniversity) | 7 | 展开见下 |
+| [统计学习概论](courses/统计学习概论.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 10 | 展开见下 |
+| [统计计算](courses/统计计算.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 5 | 展开见下 |
+| [编程方法与技术](courses/编程方法与技术.md) | [clb2001/FDU-COMP](https://github.com/clb2001/FDU-COMP) | 155 | 展开见下 |
+| [编译原理](courses/编译原理.md) | [BeneneeYu/Course-Project](https://github.com/BeneneeYu/Course-Project) | 3 | 展开见下 |
+| [编译原理](courses/编译原理.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 12 | 展开见下 |
+| [编译原理](courses/编译原理.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 29 | 展开见下 |
+| [自然语言处理与大语言模型](courses/自然语言处理与大语言模型.md) | [michaellu2007/fdu-note-summarized](https://github.com/michaellu2007/fdu-note-summarized) | 9 | 展开见下 |
+| [自然语言处理导论](courses/自然语言处理导论.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 2 | 展开见下 |
+| [自然语言处理导论](courses/自然语言处理导论.md) | [clb2001/FDU-COMP](https://github.com/clb2001/FDU-COMP) | 28 | 展开见下 |
+| [自然语言处理导论](courses/自然语言处理导论.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 4 | 展开见下 |
+| [计算机体系结构](courses/计算机体系结构.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 117 | 展开见下 |
+| [计算机体系结构](courses/计算机体系结构.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 25 | 展开见下 |
+| [计算机体系结构](courses/计算机体系结构.md) | [zhuth/FDUCS](https://github.com/zhuth/FDUCS) | 11 | 展开见下 |
+| [计算机原理](courses/计算机原理.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 14 | 展开见下 |
+| [计算机可视化](courses/计算机可视化.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 14 | 展开见下 |
+| [计算机图形学](courses/计算机图形学.md) | [ChenTao98/FudanUniversity](https://github.com/ChenTao98/FudanUniversity) | 20 | 展开见下 |
+| [计算机图形学](courses/计算机图形学.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 40 | 展开见下 |
+| [计算机图形学](courses/计算机图形学.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 441 | 展开见下 |
+| [计算机图形学](courses/计算机图形学.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 3 | 展开见下 |
+| [计算机系统基础](courses/计算机系统基础.md) | [ChenTao98/FudanUniversity](https://github.com/ChenTao98/FudanUniversity) | 36 | 展开见下 |
+| [计算机系统基础](courses/计算机系统基础.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 228 | 展开见下 |
+| [计算机系统基础](courses/计算机系统基础.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 26 | 展开见下 |
+| [计算机系统基础](courses/计算机系统基础.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 1 | 展开见下 |
+| [计算机系统工程](courses/计算机系统工程.md) | [ChenTao98/FudanUniversity](https://github.com/ChenTao98/FudanUniversity) | 40 | 展开见下 |
+| [计算机网络](courses/计算机网络.md) | [ChenTao98/FudanUniversity](https://github.com/ChenTao98/FudanUniversity) | 54 | 展开见下 |
+| [计算机网络](courses/计算机网络.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 32 | 展开见下 |
+| [计算机网络](courses/计算机网络.md) | [clb2001/FDU-COMP](https://github.com/clb2001/FDU-COMP) | 32 | 展开见下 |
+| [计算机网络](courses/计算机网络.md) | [flyingc2004/fdu-cs-grade3](https://github.com/flyingc2004/fdu-cs-grade3) | 14 | 展开见下 |
+| [计算机网络](courses/计算机网络.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 16 | 展开见下 |
+| [计算机网络](courses/计算机网络.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 41 | 展开见下 |
+| [计算理论基础](courses/计算理论基础.md) | [michaellu2007/fdu-note-summarized](https://github.com/michaellu2007/fdu-note-summarized) | 3 | 展开见下 |
+| [设计模式](courses/设计模式.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 22 | 展开见下 |
+| [软件工程](courses/软件工程.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 171 | 展开见下 |
+| [软件工程](courses/软件工程.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 37 | 展开见下 |
+| [随机过程](courses/随机过程.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 7 | 展开见下 |
+| [面向对象程序设计](courses/面向对象程序设计.md) | [ChenTao98/FudanUniversity](https://github.com/ChenTao98/FudanUniversity) | 35 | 展开见下 |
+| [面向对象程序设计](courses/面向对象程序设计.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 109 | 展开见下 |
+| [面向对象程序设计](courses/面向对象程序设计.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 1 | 展开见下 |
+| [领域数据科学](courses/领域数据科学.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 15 | 展开见下 |
+| [高等代数](courses/高等代数.md) | [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 8 | 展开见下 |
+| [高等代数](courses/高等代数.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 26 | 展开见下 |
+| [高级 Web 技术](courses/高级-Web-技术.md) | [BeneneeYu/Course-Project](https://github.com/BeneneeYu/Course-Project) | 28 | 展开见下 |
 
-<details><summary>展开代码仓文件链接</summary>
+<details><summary>展开代码仓库文件链接</summary>
+
+**Java / AniroHU/FDU_Courses_Undergraduate**
+- [Java/Labs&Assignments/Assignment1/Date.java](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment1/Date.java)
+- [Java/Labs&Assignments/Assignment1/Entity.java](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment1/Entity.java)
+- [Java/Labs&Assignments/Assignment1/GuessMaster.java](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment1/GuessMaster.java)
+- [Java/Labs&Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/src/package1/Country.java](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/src/package1/Country.java)
+- [Java/Labs&Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/src/package1/Date.java](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/src/package1/Date.java)
+- [Java/Labs&Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/src/package1/Entity.java](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/src/package1/Entity.java)
+- [Java/Labs&Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/src/package1/GuessMaster.java](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/src/package1/GuessMaster.java)
+- [Java/Labs&Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/src/package1/Person.java](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/src/package1/Person.java)
+- [Java/Labs&Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/src/package1/Politician.java](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/src/package1/Politician.java)
+- [Java/Labs&Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/src/package1/Singer.java](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment2/ELEC279-A2-20510551/Assignment2/src/package1/Singer.java)
+- [Java/Labs&Assignments/Assignment2/src/package1/Country.java](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment2/src/package1/Country.java)
+- [Java/Labs&Assignments/Assignment2/src/package1/Date.java](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Java/Labs%26Assignments/Assignment2/src/package1/Date.java)
+- 另有 26 个文件，见 data/collection_files.csv
+
+**Java / ChenTao98/FudanUniversity**
+- [JavaProjects/Huffman压缩/src/Compress.java](https://github.com/ChenTao98/FudanUniversity/blob/master/JavaProjects/Huffman%E5%8E%8B%E7%BC%A9/src/Compress.java)
+- [JavaProjects/Huffman压缩/src/DNode.java](https://github.com/ChenTao98/FudanUniversity/blob/master/JavaProjects/Huffman%E5%8E%8B%E7%BC%A9/src/DNode.java)
+- [JavaProjects/Huffman压缩/src/Decompress.java](https://github.com/ChenTao98/FudanUniversity/blob/master/JavaProjects/Huffman%E5%8E%8B%E7%BC%A9/src/Decompress.java)
+- [JavaProjects/Huffman压缩/src/HuffmanTree.java](https://github.com/ChenTao98/FudanUniversity/blob/master/JavaProjects/Huffman%E5%8E%8B%E7%BC%A9/src/HuffmanTree.java)
+- [JavaProjects/Huffman压缩/src/Main.java](https://github.com/ChenTao98/FudanUniversity/blob/master/JavaProjects/Huffman%E5%8E%8B%E7%BC%A9/src/Main.java)
+- [JavaProjects/Huffman压缩/src/Node.java](https://github.com/ChenTao98/FudanUniversity/blob/master/JavaProjects/Huffman%E5%8E%8B%E7%BC%A9/src/Node.java)
+- [JavaProjects/java版五子棋/Pj2/src/Game/AboutGobang.java](https://github.com/ChenTao98/FudanUniversity/blob/master/JavaProjects/java%E7%89%88%E4%BA%94%E5%AD%90%E6%A3%8B/Pj2/src/Game/AboutGobang.java)
+- [JavaProjects/java版五子棋/Pj2/src/Game/Chessboard.java](https://github.com/ChenTao98/FudanUniversity/blob/master/JavaProjects/java%E7%89%88%E4%BA%94%E5%AD%90%E6%A3%8B/Pj2/src/Game/Chessboard.java)
+- [JavaProjects/java版五子棋/Pj2/src/Game/GameMedia.java](https://github.com/ChenTao98/FudanUniversity/blob/master/JavaProjects/java%E7%89%88%E4%BA%94%E5%AD%90%E6%A3%8B/Pj2/src/Game/GameMedia.java)
+- [JavaProjects/java版五子棋/Pj2/src/Game/GameMenu.java](https://github.com/ChenTao98/FudanUniversity/blob/master/JavaProjects/java%E7%89%88%E4%BA%94%E5%AD%90%E6%A3%8B/Pj2/src/Game/GameMenu.java)
+- [JavaProjects/java版五子棋/Pj2/src/Game/GameStage.java](https://github.com/ChenTao98/FudanUniversity/blob/master/JavaProjects/java%E7%89%88%E4%BA%94%E5%AD%90%E6%A3%8B/Pj2/src/Game/GameStage.java)
+- [JavaProjects/java版五子棋/Pj2/src/Game/GameStyle.java](https://github.com/ChenTao98/FudanUniversity/blob/master/JavaProjects/java%E7%89%88%E4%BA%94%E5%AD%90%E6%A3%8B/Pj2/src/Game/GameStyle.java)
+- 另有 70 个文件，见 data/collection_files.csv
+
+**Java / rapidhere/fdu-pjs**
+- [java-lang/Project1/BoxMover/doc/Developer.html](https://github.com/rapidhere/fdu-pjs/blob/master/java-lang/Project1/BoxMover/doc/Developer.html)
+- [java-lang/Project1/BoxMover/doc/docs.css](https://github.com/rapidhere/fdu-pjs/blob/master/java-lang/Project1/BoxMover/doc/docs.css)
+- [java-lang/Project1/BoxMover/doc/highlight/highlight.min.js](https://github.com/rapidhere/fdu-pjs/blob/master/java-lang/Project1/BoxMover/doc/highlight/highlight.min.js)
+- [java-lang/Project1/BoxMover/doc/highlight/style.css](https://github.com/rapidhere/fdu-pjs/blob/master/java-lang/Project1/BoxMover/doc/highlight/style.css)
+- [java-lang/Project1/BoxMover/doc/jquery.min.js](https://github.com/rapidhere/fdu-pjs/blob/master/java-lang/Project1/BoxMover/doc/jquery.min.js)
+- [java-lang/Project1/BoxMover/src/BoxMover.java](https://github.com/rapidhere/fdu-pjs/blob/master/java-lang/Project1/BoxMover/src/BoxMover.java)
+- [java-lang/Project1/BoxMover/src/bin/App.java](https://github.com/rapidhere/fdu-pjs/blob/master/java-lang/Project1/BoxMover/src/bin/App.java)
+- [java-lang/Project1/BoxMover/src/bin/Env.java](https://github.com/rapidhere/fdu-pjs/blob/master/java-lang/Project1/BoxMover/src/bin/Env.java)
+- [java-lang/Project1/BoxMover/src/bin/exp/ArgumentError.java](https://github.com/rapidhere/fdu-pjs/blob/master/java-lang/Project1/BoxMover/src/bin/exp/ArgumentError.java)
+- [java-lang/Project1/BoxMover/src/bin/exp/BMException.java](https://github.com/rapidhere/fdu-pjs/blob/master/java-lang/Project1/BoxMover/src/bin/exp/BMException.java)
+- [java-lang/Project1/BoxMover/src/bin/exp/CommandNotFound.java](https://github.com/rapidhere/fdu-pjs/blob/master/java-lang/Project1/BoxMover/src/bin/exp/CommandNotFound.java)
+- [java-lang/Project1/BoxMover/src/bin/exp/LevelNotFound.java](https://github.com/rapidhere/fdu-pjs/blob/master/java-lang/Project1/BoxMover/src/bin/exp/LevelNotFound.java)
+- 另有 55 个文件，见 data/collection_files.csv
+
+**Web 开发 / rapidhere/fdu-pjs**
+- [web/Project 1/src/pages/framework.html](https://github.com/rapidhere/fdu-pjs/blob/master/web/Project%201/src/pages/framework.html)
+- [web/Project 1/src/pages/login-framework.html](https://github.com/rapidhere/fdu-pjs/blob/master/web/Project%201/src/pages/login-framework.html)
+- [web/Project 1/src/pages/login.html](https://github.com/rapidhere/fdu-pjs/blob/master/web/Project%201/src/pages/login.html)
+- [web/Project 1/src/pages/personal.html](https://github.com/rapidhere/fdu-pjs/blob/master/web/Project%201/src/pages/personal.html)
+- [web/Project 1/src/pages/question.html](https://github.com/rapidhere/fdu-pjs/blob/master/web/Project%201/src/pages/question.html)
+- [web/Project 1/src/scripts/build-pages.py](https://github.com/rapidhere/fdu-pjs/blob/master/web/Project%201/src/scripts/build-pages.py)
+- [web/Project 1/src/static/css/font-awesome.min.css](https://github.com/rapidhere/fdu-pjs/blob/master/web/Project%201/src/static/css/font-awesome.min.css)
+- [web/Project 1/src/static/css/framework.css](https://github.com/rapidhere/fdu-pjs/blob/master/web/Project%201/src/static/css/framework.css)
+- [web/Project 1/src/static/css/login-framework.css](https://github.com/rapidhere/fdu-pjs/blob/master/web/Project%201/src/static/css/login-framework.css)
+- [web/Project 1/src/static/css/pages/login.css](https://github.com/rapidhere/fdu-pjs/blob/master/web/Project%201/src/static/css/pages/login.css)
+- [web/Project 1/src/static/css/pages/personal.css](https://github.com/rapidhere/fdu-pjs/blob/master/web/Project%201/src/static/css/pages/personal.css)
+- [web/Project 1/src/static/css/pages/question.css](https://github.com/rapidhere/fdu-pjs/blob/master/web/Project%201/src/static/css/pages/question.css)
+- 另有 6 个文件，见 data/collection_files.csv
 
 **人工智能 / AniroHU/FDU_Courses_Undergraduate**
 - [人工智能前沿探索实践/Project1/baseline.py](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%89%8D%E6%B2%BF%E6%8E%A2%E7%B4%A2%E5%AE%9E%E8%B7%B5/Project1/baseline.py)
@@ -2255,6 +3861,28 @@
 - [人工智能/5 强化学习.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/5%20%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.ipynb)
 - [人工智能/6 无模型强化学习.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/6%20%E6%97%A0%E6%A8%A1%E5%9E%8B%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.ipynb)
 - [人工智能/7 贝叶斯网络.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/7%20%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%BD%91%E7%BB%9C.ipynb)
+
+**人工智能 / Zhouxunzhe/Fudan-CS-Projects**
+- [Artificial-Intelligence/pj1/pj1_part1/20307110315-周训哲/code/hanzi.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj1/pj1_part1/20307110315-%E5%91%A8%E8%AE%AD%E5%93%B2/code/hanzi.py)
+- [Artificial-Intelligence/pj1/pj1_part1/20307110315-周训哲/code/model.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj1/pj1_part1/20307110315-%E5%91%A8%E8%AE%AD%E5%93%B2/code/model.py)
+- [Artificial-Intelligence/pj1/pj1_part1/20307110315-周训哲/code/one_layer_model.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj1/pj1_part1/20307110315-%E5%91%A8%E8%AE%AD%E5%93%B2/code/one_layer_model.py)
+- [Artificial-Intelligence/pj1/pj1_part1/20307110315-周训哲/code/sin.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj1/pj1_part1/20307110315-%E5%91%A8%E8%AE%AD%E5%93%B2/code/sin.py)
+- [Artificial-Intelligence/pj1/pj1_part2/20307110315-周训哲/code/bagging.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj1/pj1_part2/20307110315-%E5%91%A8%E8%AE%AD%E5%93%B2/code/bagging.py)
+- [Artificial-Intelligence/pj1/pj1_part2/20307110315-周训哲/code/bagging_RFstacking.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj1/pj1_part2/20307110315-%E5%91%A8%E8%AE%AD%E5%93%B2/code/bagging_RFstacking.py)
+- [Artificial-Intelligence/pj1/pj1_part2/20307110315-周训哲/code/boosting.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj1/pj1_part2/20307110315-%E5%91%A8%E8%AE%AD%E5%93%B2/code/boosting.py)
+- [Artificial-Intelligence/pj1/pj1_part2/20307110315-周训哲/code/load.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj1/pj1_part2/20307110315-%E5%91%A8%E8%AE%AD%E5%93%B2/code/load.py)
+- [Artificial-Intelligence/pj1/pj1_part2/20307110315-周训哲/code/model.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj1/pj1_part2/20307110315-%E5%91%A8%E8%AE%AD%E5%93%B2/code/model.py)
+- [Artificial-Intelligence/pj1/pj1_part2/20307110315-周训哲/code/stacking.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj1/pj1_part2/20307110315-%E5%91%A8%E8%AE%AD%E5%93%B2/code/stacking.py)
+- [Artificial-Intelligence/pj1/pj1_part2/20307110315-周训哲/code/test4RF.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj1/pj1_part2/20307110315-%E5%91%A8%E8%AE%AD%E5%93%B2/code/test4RF.py)
+- [Artificial-Intelligence/pj1/pj1_part2/20307110315-周训哲/code/test4bagging.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj1/pj1_part2/20307110315-%E5%91%A8%E8%AE%AD%E5%93%B2/code/test4bagging.py)
+- 另有 52 个文件，见 data/collection_files.csv
+
+**人工智能 / lrcc275/FudanCources**
+- [COMP130031人工智能A/PJ/21307130148_陈锐林.ipynb](https://github.com/lrcc275/FudanCources/blob/main/COMP130031%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDA/PJ/21307130148_%E9%99%88%E9%94%90%E6%9E%97.ipynb)
+- [COMP130031人工智能A/PJ/21307130148_陈锐林_lab2.ipynb](https://github.com/lrcc275/FudanCources/blob/main/COMP130031%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDA/PJ/21307130148_%E9%99%88%E9%94%90%E6%9E%97_lab2.ipynb)
+- [COMP130031人工智能A/PJ/21307130148_陈锐林_lab3.ipynb](https://github.com/lrcc275/FudanCources/blob/main/COMP130031%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDA/PJ/21307130148_%E9%99%88%E9%94%90%E6%9E%97_lab3.ipynb)
+- [COMP130031人工智能A/PJ/21307130148_陈锐林_lab4_dqn.ipynb](https://github.com/lrcc275/FudanCources/blob/main/COMP130031%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDA/PJ/21307130148_%E9%99%88%E9%94%90%E6%9E%97_lab4_dqn.ipynb)
+- [COMP130031人工智能A/PJ/21307130148_陈锐林_lab4_qlearning.ipynb](https://github.com/lrcc275/FudanCources/blob/main/COMP130031%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDA/PJ/21307130148_%E9%99%88%E9%94%90%E6%9E%97_lab4_qlearning.ipynb)
 
 **人工智能 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业选修/人工智能/project/Rule-based_Expert_System-master/GUI/main_frame.py](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/project/Rule-based_Expert_System-master/GUI/main_frame.py)
@@ -2327,6 +3955,21 @@
 - [图像处理与可视化/Homework/Homework5/hw5_1.py](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96/Homework/Homework5/hw5_1.py)
 - [图像处理与可视化/Homework/Homework5/hw5_2.py](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96/Homework/Homework5/hw5_2.py)
 
+**多媒体技术基础 / ChenTao98/FudanUniversity**
+- [多媒体技术基础/project_1/inv_ulaw.m](https://github.com/ChenTao98/FudanUniversity/blob/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/project_1/inv_ulaw.m)
+- [多媒体技术基础/project_1/test.m](https://github.com/ChenTao98/FudanUniversity/blob/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/project_1/test.m)
+- [多媒体技术基础/project_1/u_pcm.m](https://github.com/ChenTao98/FudanUniversity/blob/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/project_1/u_pcm.m)
+- [多媒体技术基础/project_1/ula_pcm.m](https://github.com/ChenTao98/FudanUniversity/blob/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/project_1/ula_pcm.m)
+- [多媒体技术基础/project_1/ulaw.m](https://github.com/ChenTao98/FudanUniversity/blob/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/project_1/ulaw.m)
+- [多媒体技术基础/project_2/test_1.m](https://github.com/ChenTao98/FudanUniversity/blob/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/project_2/test_1.m)
+- [多媒体技术基础/project_2/test_2.m](https://github.com/ChenTao98/FudanUniversity/blob/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/project_2/test_2.m)
+- [多媒体技术基础/project_2/test_3.m](https://github.com/ChenTao98/FudanUniversity/blob/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/project_2/test_3.m)
+- [多媒体技术基础/project_2/test_4.m](https://github.com/ChenTao98/FudanUniversity/blob/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/project_2/test_4.m)
+- [多媒体技术基础/project_3/cio.c](https://github.com/ChenTao98/FudanUniversity/blob/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/project_3/cio.c)
+- [多媒体技术基础/project_3/cio.h](https://github.com/ChenTao98/FudanUniversity/blob/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/project_3/cio.h)
+- [多媒体技术基础/project_3/cjpeg.c](https://github.com/ChenTao98/FudanUniversity/blob/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/project_3/cjpeg.c)
+- 另有 4 个文件，见 data/collection_files.csv
+
 **大数据技术 / ForeverHaibara/Fudan-Courses**
 - [医疗大数据统计学/01 Time-to-event Data Analysis.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E5%8C%BB%E7%96%97%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%BB%9F%E8%AE%A1%E5%AD%A6/01%20Time-to-event%20Data%20Analysis.ipynb)
 - [医疗大数据统计学/02 Parametric Regression Models.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E5%8C%BB%E7%96%97%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%BB%9F%E8%AE%A1%E5%AD%A6/02%20Parametric%20Regression%20Models.ipynb)
@@ -2335,6 +3978,36 @@
 - [socket编程/network-pj-chatroom-master/common/cryptography/__init__.py](https://github.com/flyingc2004/fdu-cs-grade3/blob/computer-network/socket%E7%BC%96%E7%A8%8B/network-pj-chatroom-master/common/cryptography/__init__.py)
 - [socket编程/network-pj-chatroom-master/common/cryptography/crypt.py](https://github.com/flyingc2004/fdu-cs-grade3/blob/computer-network/socket%E7%BC%96%E7%A8%8B/network-pj-chatroom-master/common/cryptography/crypt.py)
 - [socket编程/network-pj-chatroom-master/common/cryptography/prime.py](https://github.com/flyingc2004/fdu-cs-grade3/blob/computer-network/socket%E7%BC%96%E7%A8%8B/network-pj-chatroom-master/common/cryptography/prime.py)
+
+**并行分布计算 / Zhouxunzhe/Fudan-CS-Projects**
+- [Parallel-Computing/WordCount/gen_words.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Parallel-Computing/WordCount/gen_words.py)
+- [Parallel-Computing/WordCount/mapper.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Parallel-Computing/WordCount/mapper.py)
+- [Parallel-Computing/WordCount/reducer.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Parallel-Computing/WordCount/reducer.py)
+- [Parallel-Computing/WordCount/wordcount.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Parallel-Computing/WordCount/wordcount.py)
+- [Parallel-Computing/cpp/quickSort.h](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Parallel-Computing/cpp/quickSort.h)
+- [Parallel-Computing/cpp/quicksort_main.cpp](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Parallel-Computing/cpp/quicksort_main.cpp)
+- [Parallel-Computing/cpp/wordcount_main.cpp](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Parallel-Computing/cpp/wordcount_main.cpp)
+
+**并行分布计算 / lrcc275/FudanCources**
+- [COMP130192并行分布式计算/PJ/psrs_parallel.cpp](https://github.com/lrcc275/FudanCources/blob/main/COMP130192%E5%B9%B6%E8%A1%8C%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97/PJ/psrs_parallel.cpp)
+- [COMP130192并行分布式计算/PJ/psrs_serial.cpp](https://github.com/lrcc275/FudanCources/blob/main/COMP130192%E5%B9%B6%E8%A1%8C%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97/PJ/psrs_serial.cpp)
+- [COMP130192并行分布式计算/PJ/quicksort_parallel.cpp](https://github.com/lrcc275/FudanCources/blob/main/COMP130192%E5%B9%B6%E8%A1%8C%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97/PJ/quicksort_parallel.cpp)
+- [COMP130192并行分布式计算/PJ/quicksort_serial.cpp](https://github.com/lrcc275/FudanCources/blob/main/COMP130192%E5%B9%B6%E8%A1%8C%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97/PJ/quicksort_serial.cpp)
+
+**操作系统 / Zhouxunzhe/Fudan-CS-Projects**
+- [Operating-System/OSTEP/ostep-code-master/cpu-api/p1.c](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Operating-System/OSTEP/ostep-code-master/cpu-api/p1.c)
+- [Operating-System/OSTEP/ostep-code-master/cpu-api/p2.c](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Operating-System/OSTEP/ostep-code-master/cpu-api/p2.c)
+- [Operating-System/OSTEP/ostep-code-master/cpu-api/p3.c](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Operating-System/OSTEP/ostep-code-master/cpu-api/p3.c)
+- [Operating-System/OSTEP/ostep-code-master/cpu-api/p4.c](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Operating-System/OSTEP/ostep-code-master/cpu-api/p4.c)
+- [Operating-System/OSTEP/ostep-code-master/cpu-sched-lottery/lottery.c](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Operating-System/OSTEP/ostep-code-master/cpu-sched-lottery/lottery.c)
+- [Operating-System/OSTEP/ostep-code-master/dist-intro/client.c](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Operating-System/OSTEP/ostep-code-master/dist-intro/client.c)
+- [Operating-System/OSTEP/ostep-code-master/dist-intro/server.c](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Operating-System/OSTEP/ostep-code-master/dist-intro/server.c)
+- [Operating-System/OSTEP/ostep-code-master/dist-intro/udp.c](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Operating-System/OSTEP/ostep-code-master/dist-intro/udp.c)
+- [Operating-System/OSTEP/ostep-code-master/dist-intro/udp.h](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Operating-System/OSTEP/ostep-code-master/dist-intro/udp.h)
+- [Operating-System/OSTEP/ostep-code-master/file-intro/pstack.c](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Operating-System/OSTEP/ostep-code-master/file-intro/pstack.c)
+- [Operating-System/OSTEP/ostep-code-master/include/common.h](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Operating-System/OSTEP/ostep-code-master/include/common.h)
+- [Operating-System/OSTEP/ostep-code-master/include/common_threads.h](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Operating-System/OSTEP/ostep-code-master/include/common_threads.h)
+- 另有 675 个文件，见 data/collection_files.csv
 
 **数值算法 / ForeverHaibara/Fudan-Courses**
 - [数值算法与案例分析/1 舍入误差与时间复杂度.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/1%20%E8%88%8D%E5%85%A5%E8%AF%AF%E5%B7%AE%E4%B8%8E%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6.ipynb)
@@ -2386,6 +4059,14 @@
 - [数值算法与案例分析/assets/katex/katex.min.css](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/assets/katex/katex.min.css)
 - [数值算法与案例分析/assets/katex/katex.min.js](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/assets/katex/katex.min.js)
 
+**数字图像处理 / lrcc275/FudanCources**
+- [COMP130032数字图像处理/DIP_Project/Baseline_DCP.py](https://github.com/lrcc275/FudanCources/blob/main/COMP130032%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/DIP_Project/Baseline_DCP.py)
+- [COMP130032数字图像处理/DIP_Project/ImageEnhancement_ACE.py](https://github.com/lrcc275/FudanCources/blob/main/COMP130032%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/DIP_Project/ImageEnhancement_ACE.py)
+- [COMP130032数字图像处理/DIP_Project/ImageRestoration_NonLocal.py](https://github.com/lrcc275/FudanCources/blob/main/COMP130032%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/DIP_Project/ImageRestoration_NonLocal.py)
+- [COMP130032数字图像处理/DIP_Project/eval.py](https://github.com/lrcc275/FudanCources/blob/main/COMP130032%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/DIP_Project/eval.py)
+- [COMP130032数字图像处理/DIP_Project/evaluate.py](https://github.com/lrcc275/FudanCources/blob/main/COMP130032%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/DIP_Project/evaluate.py)
+- [COMP130032数字图像处理/DIP_Project/main.py](https://github.com/lrcc275/FudanCources/blob/main/COMP130032%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/DIP_Project/main.py)
+
 **数字逻辑与部件设计 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/数字逻辑与部件设计实验/clkdiv2.v](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E4%B8%8E%E9%83%A8%E4%BB%B6%E8%AE%BE%E8%AE%A1%E5%AE%9E%E9%AA%8C/clkdiv2.v)
 - [3.专业教育/计算机科学与技术/专业必修/数字逻辑与部件设计实验/clkdiv_ex5.v](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E4%B8%8E%E9%83%A8%E4%BB%B6%E8%AE%BE%E8%AE%A1%E5%AE%9E%E9%AA%8C/clkdiv_ex5.v)
@@ -2416,6 +4097,57 @@
 - [图像处理与数据可视化/12 空间变换.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/12%20%E7%A9%BA%E9%97%B4%E5%8F%98%E6%8D%A2.ipynb)
 - 另有 7 个文件，见 data/collection_files.csv
 
+**数据库系统引论 / AniroHU/FDU_Courses_Undergraduate**
+- [Database/Slides/Translation Summary.html](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Database/Slides/Translation%20Summary.html)
+- [Database/Slides/Translation from ER to Relational - Eldercare.html](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Database/Slides/Translation%20from%20ER%20to%20Relational%20-%20Eldercare.html)
+- [Database/Slides/Translation from ER to Relational - Pets.html](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Database/Slides/Translation%20from%20ER%20to%20Relational%20-%20Pets.html)
+- [Database/Slides/University Database Script File.html](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Database/Slides/University%20Database%20Script%20File.html)
+
+**数据库系统引论 / ChenTao98/FudanUniversity**
+- [数据库/db_project/src/Main.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/db_project/src/Main.java)
+- [数据库/db_project/src/dao/BillDao.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/db_project/src/dao/BillDao.java)
+- [数据库/db_project/src/dao/CheckDao.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/db_project/src/dao/CheckDao.java)
+- [数据库/db_project/src/dao/ComplaintDao.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/db_project/src/dao/ComplaintDao.java)
+- [数据库/db_project/src/dao/HouseholdInfoDao.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/db_project/src/dao/HouseholdInfoDao.java)
+- [数据库/db_project/src/dao/ParkInfoQueryDao.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/db_project/src/dao/ParkInfoQueryDao.java)
+- [数据库/db_project/src/dao/ParkInsertDao.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/db_project/src/dao/ParkInsertDao.java)
+- [数据库/db_project/src/dao/ParkQueryDao.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/db_project/src/dao/ParkQueryDao.java)
+- [数据库/db_project/src/dao/PropertyInAndOutDao.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/db_project/src/dao/PropertyInAndOutDao.java)
+- [数据库/db_project/src/dao/PropertyProfitQueryDao.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/db_project/src/dao/PropertyProfitQueryDao.java)
+- [数据库/db_project/src/dao/RepairDao.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/db_project/src/dao/RepairDao.java)
+- [数据库/db_project/src/dao/RoomInfoInsertDao.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/db_project/src/dao/RoomInfoInsertDao.java)
+- 另有 42 个文件，见 data/collection_files.csv
+
+**数据库系统引论 / Zhouxunzhe/Fudan-CS-Projects**
+- [DataBase/MyJQL/driver/myjqlclient.cpp](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/DataBase/MyJQL/driver/myjqlclient.cpp)
+- [DataBase/MyJQL/driver/myjqlclient.h](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/DataBase/MyJQL/driver/myjqlclient.h)
+- [DataBase/MyJQL/include/b_tree.h](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/DataBase/MyJQL/include/b_tree.h)
+- [DataBase/MyJQL/include/block.h](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/DataBase/MyJQL/include/block.h)
+- [DataBase/MyJQL/include/buffer_pool.h](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/DataBase/MyJQL/include/buffer_pool.h)
+- [DataBase/MyJQL/include/file_io.h](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/DataBase/MyJQL/include/file_io.h)
+- [DataBase/MyJQL/include/hash_map.h](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/DataBase/MyJQL/include/hash_map.h)
+- [DataBase/MyJQL/include/myjql.h](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/DataBase/MyJQL/include/myjql.h)
+- [DataBase/MyJQL/include/str.h](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/DataBase/MyJQL/include/str.h)
+- [DataBase/MyJQL/include/table.h](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/DataBase/MyJQL/include/table.h)
+- [DataBase/MyJQL/main/myjqlserver.c](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/DataBase/MyJQL/main/myjqlserver.c)
+- [DataBase/MyJQL/main/myjqlshell.cpp](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/DataBase/MyJQL/main/myjqlshell.cpp)
+- 另有 56 个文件，见 data/collection_files.csv
+
+**数据库系统引论 / clb2001/FDU-COMP**
+- [数据库引论/MusicMusic/WebContent/css/bootstrap.min.css](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/MusicMusic/WebContent/css/bootstrap.min.css)
+- [数据库引论/MusicMusic/WebContent/css/header.css](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/MusicMusic/WebContent/css/header.css)
+- [数据库引论/MusicMusic/WebContent/css/normalize.css](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/MusicMusic/WebContent/css/normalize.css)
+- [数据库引论/MusicMusic/WebContent/js/bootstrap.min.js](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/MusicMusic/WebContent/js/bootstrap.min.js)
+- [数据库引论/MusicMusic/WebContent/js/jquery-2.0.3.min.js](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/MusicMusic/WebContent/js/jquery-2.0.3.min.js)
+- [数据库引论/MusicMusic/WebContent/js/util.js](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/MusicMusic/WebContent/js/util.js)
+- [数据库引论/MusicMusic/abin_music.sql](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/MusicMusic/abin_music.sql)
+- [数据库引论/MusicMusic/src/cn/xh/dao/ClientDao.java](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/MusicMusic/src/cn/xh/dao/ClientDao.java)
+- [数据库引论/MusicMusic/src/cn/xh/dao/ManagerDao.java](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/MusicMusic/src/cn/xh/dao/ManagerDao.java)
+- [数据库引论/MusicMusic/src/cn/xh/dao/OrderDao.java](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/MusicMusic/src/cn/xh/dao/OrderDao.java)
+- [数据库引论/MusicMusic/src/cn/xh/dao/impl/ClientDaoImpl.java](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/MusicMusic/src/cn/xh/dao/impl/ClientDaoImpl.java)
+- [数据库引论/MusicMusic/src/cn/xh/dao/impl/ManagerDaoImpl.java](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/MusicMusic/src/cn/xh/dao/impl/ManagerDaoImpl.java)
+- 另有 20 个文件，见 data/collection_files.csv
+
 **数据库系统引论 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/数据库引论/课件/Experiment/Exper9/StudentsBean.java](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/%E8%AF%BE%E4%BB%B6/Experiment/Exper9/StudentsBean.java)
 - [3.专业教育/计算机科学与技术/专业必修/数据库引论/课件/Experiment/Experiment 10/Experiment 10/HelloJava/HelloWorld.java](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/%E8%AF%BE%E4%BB%B6/Experiment/Experiment%2010/Experiment%2010/HelloJava/HelloWorld.java)
@@ -2423,6 +4155,21 @@
 - [3.专业教育/计算机科学与技术/专业必修/数据库引论/课件/Experiment/Experiment 10/Experiment 10/Login/Wel.java](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/%E8%AF%BE%E4%BB%B6/Experiment/Experiment%2010/Experiment%2010/Login/Wel.java)
 - [3.专业教育/计算机科学与技术/专业必修/数据库引论/课件/Experiment/Experiment 10/Experiment 10/Login/login.html](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/%E8%AF%BE%E4%BB%B6/Experiment/Experiment%2010/Experiment%2010/Login/login.html)
 - [3.专业教育/计算机科学与技术/专业必修/数据库引论/课件/Experiment/Experiment 10/Experiment 10/Login/login.java](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/%E8%AF%BE%E4%BB%B6/Experiment/Experiment%2010/Experiment%2010/Login/login.java)
+
+**数据挖掘技术 / Zhouxunzhe/Fudan-CS-Projects**
+- [Data-Mining/PROJECT/part1/FPtree.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Mining/PROJECT/part1/FPtree.py)
+- [Data-Mining/PROJECT/part1/data_handler.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Mining/PROJECT/part1/data_handler.py)
+- [Data-Mining/PROJECT/part1/get_type.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Mining/PROJECT/part1/get_type.py)
+- [Data-Mining/PROJECT/part1/main.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Mining/PROJECT/part1/main.py)
+- [Data-Mining/PROJECT/part1/see_type.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Mining/PROJECT/part1/see_type.py)
+- [Data-Mining/PROJECT/part2/Dim_reduction.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Mining/PROJECT/part2/Dim_reduction.py)
+- [Data-Mining/PROJECT/part2/another_cluster.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Mining/PROJECT/part2/another_cluster.py)
+- [Data-Mining/PROJECT/part2/cluster.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Mining/PROJECT/part2/cluster.py)
+- [Data-Mining/PROJECT/part2/get_sent_vector.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Mining/PROJECT/part2/get_sent_vector.py)
+- [Data-Mining/PROJECT/part2/visualizer.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Mining/PROJECT/part2/visualizer.py)
+- [Data-Mining/label/data/spider.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Mining/label/data/spider.py)
+- [Data-Mining/label/doc2vec-sim.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Mining/label/doc2vec-sim.py)
+- 另有 14 个文件，见 data/collection_files.csv
 
 **数据结构 / ForeverHaibara/Fudan-Courses**
 - [算法与数据结构/FFT convolution.cpp](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/FFT%20convolution.cpp)
@@ -2445,8 +4192,36 @@
 - [Data_Structure_Zhang_Yuejie/homework/ch4/5_5.cpp](https://github.com/Monthlyaway/FDU-cpp-projects/blob/master/Data_Structure_Zhang_Yuejie/homework/ch4/5_5.cpp)
 - 另有 12 个文件，见 data/collection_files.csv
 
+**数据结构 / Zhouxunzhe/Fudan-CS-Projects**
+- [Data-Structure/Human.h](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Structure/Human.h)
+- [Data-Structure/Node.h](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Structure/Node.h)
+- [Data-Structure/SandBox.h](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Structure/SandBox.h)
+- [Data-Structure/Tree.h](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Structure/Tree.h)
+- [Data-Structure/Union.h](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Structure/Union.h)
+- [Data-Structure/main.cpp](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Data-Structure/main.cpp)
+
+**数据结构 / clb2001/FDU-COMP**
+- [数据结构/DS-OOP/ch02_LinerList/CircList/CircList.h](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DS-OOP/ch02_LinerList/CircList/CircList.h)
+- [数据结构/DS-OOP/ch02_LinerList/CircList/main.cpp](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DS-OOP/ch02_LinerList/CircList/main.cpp)
+- [数据结构/DS-OOP/ch02_LinerList/DblList/DblList.h](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DS-OOP/ch02_LinerList/DblList/DblList.h)
+- [数据结构/DS-OOP/ch02_LinerList/DblList/Main.cpp](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DS-OOP/ch02_LinerList/DblList/Main.cpp)
+- [数据结构/DS-OOP/ch02_LinerList/LinerList/LinerList.h](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DS-OOP/ch02_LinerList/LinerList/LinerList.h)
+- [数据结构/DS-OOP/ch02_LinerList/LinkedList/LinkedList.h](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DS-OOP/ch02_LinerList/LinkedList/LinkedList.h)
+- [数据结构/DS-OOP/ch02_LinerList/LinkedList/main.cpp](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DS-OOP/ch02_LinerList/LinkedList/main.cpp)
+- [数据结构/DS-OOP/ch02_LinerList/SeqList/SeqList.h](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DS-OOP/ch02_LinerList/SeqList/SeqList.h)
+- [数据结构/DS-OOP/ch02_LinerList/SeqList/main.cpp](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DS-OOP/ch02_LinerList/SeqList/main.cpp)
+- [数据结构/DS-OOP/ch02_LinerList/StaticList/StaticList.h](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DS-OOP/ch02_LinerList/StaticList/StaticList.h)
+- [数据结构/DS-OOP/ch02_LinerList/StaticList/main.cpp](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DS-OOP/ch02_LinerList/StaticList/main.cpp)
+- [数据结构/DS-OOP/ch03_Stack_Queue/Queue/LinkedDeque/LinkedDeque.h](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DS-OOP/ch03_Stack_Queue/Queue/LinkedDeque/LinkedDeque.h)
+- 另有 148 个文件，见 data/collection_files.csv
+
 **数据结构 / hadanice/OpenDS**
 - [算法与数据结构/作业/书面作业1/hw1.py](https://github.com/hadanice/OpenDS/blob/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E4%BD%9C%E4%B8%9A/%E4%B9%A6%E9%9D%A2%E4%BD%9C%E4%B8%9A1/hw1.py)
+
+**数据结构 / lrcc275/FudanCources**
+- [COMP130004数据结构/DSProject/bvh_parser.cpp](https://github.com/lrcc275/FudanCources/blob/main/COMP130004%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DSProject/bvh_parser.cpp)
+- [COMP130004数据结构/DSProject/bvh_parser.h](https://github.com/lrcc275/FudanCources/blob/main/COMP130004%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DSProject/bvh_parser.h)
+- [COMP130004数据结构/DSProject/json.cpp](https://github.com/lrcc275/FudanCources/blob/main/COMP130004%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DSProject/json.cpp)
 
 **数据结构 / michaellu2007/fdu-note-summarized**
 - [数据结构/assets/katex/contrib/auto-render.min.js](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/assets/katex/contrib/auto-render.min.js)
@@ -2469,6 +4244,59 @@
 - [3.专业教育/计算机科学与技术/专业必修/数据结构(C++)/上机/实验九/q2.cpp](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%28C%2B%2B%29/%E4%B8%8A%E6%9C%BA/%E5%AE%9E%E9%AA%8C%E4%B9%9D/q2.cpp)
 - [3.专业教育/计算机科学与技术/专业必修/数据结构(C++)/上机/实验九/q2.h](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%28C%2B%2B%29/%E4%B8%8A%E6%9C%BA/%E5%AE%9E%E9%AA%8C%E4%B9%9D/q2.h)
 - 另有 28 个文件，见 data/collection_files.csv
+
+**数据结构 / rapidhere/fdu-pjs**
+- [ds/Project 1/rgz/doc/ref/allclasses-frame.html](https://github.com/rapidhere/fdu-pjs/blob/master/ds/Project%201/rgz/doc/ref/allclasses-frame.html)
+- [ds/Project 1/rgz/doc/ref/allclasses-noframe.html](https://github.com/rapidhere/fdu-pjs/blob/master/ds/Project%201/rgz/doc/ref/allclasses-noframe.html)
+- [ds/Project 1/rgz/doc/ref/constant-values.html](https://github.com/rapidhere/fdu-pjs/blob/master/ds/Project%201/rgz/doc/ref/constant-values.html)
+- [ds/Project 1/rgz/doc/ref/core/dc/BitArray.html](https://github.com/rapidhere/fdu-pjs/blob/master/ds/Project%201/rgz/doc/ref/core/dc/BitArray.html)
+- [ds/Project 1/rgz/doc/ref/core/dc/BlockDCM.html](https://github.com/rapidhere/fdu-pjs/blob/master/ds/Project%201/rgz/doc/ref/core/dc/BlockDCM.html)
+- [ds/Project 1/rgz/doc/ref/core/dc/CatchASCIIAlgorithm.html](https://github.com/rapidhere/fdu-pjs/blob/master/ds/Project%201/rgz/doc/ref/core/dc/CatchASCIIAlgorithm.html)
+- [ds/Project 1/rgz/doc/ref/core/dc/CatchAlgorithm.html](https://github.com/rapidhere/fdu-pjs/blob/master/ds/Project%201/rgz/doc/ref/core/dc/CatchAlgorithm.html)
+- [ds/Project 1/rgz/doc/ref/core/dc/CatchFixedBitsAlgorithm.html](https://github.com/rapidhere/fdu-pjs/blob/master/ds/Project%201/rgz/doc/ref/core/dc/CatchFixedBitsAlgorithm.html)
+- [ds/Project 1/rgz/doc/ref/core/dc/CatchFixedBytesAlgorithm.html](https://github.com/rapidhere/fdu-pjs/blob/master/ds/Project%201/rgz/doc/ref/core/dc/CatchFixedBytesAlgorithm.html)
+- [ds/Project 1/rgz/doc/ref/core/dc/DCASCIIFactory.html](https://github.com/rapidhere/fdu-pjs/blob/master/ds/Project%201/rgz/doc/ref/core/dc/DCASCIIFactory.html)
+- [ds/Project 1/rgz/doc/ref/core/dc/DCAlgorithm.html](https://github.com/rapidhere/fdu-pjs/blob/master/ds/Project%201/rgz/doc/ref/core/dc/DCAlgorithm.html)
+- [ds/Project 1/rgz/doc/ref/core/dc/DCFactory.html](https://github.com/rapidhere/fdu-pjs/blob/master/ds/Project%201/rgz/doc/ref/core/dc/DCFactory.html)
+- 另有 201 个文件，见 data/collection_files.csv
+
+**数理统计 / ForeverHaibara/Fudan-Courses**
+- [数理统计/1 Distributions.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/1%20Distributions.ipynb)
+- [数理统计/4 Statistics.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/4%20Statistics.ipynb)
+- [数理统计/5 Point Estimation.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/5%20Point%20Estimation.ipynb)
+- [数理统计/6 Hypothesis Testing.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/6%20Hypothesis%20Testing.ipynb)
+- [数理统计/7 Linear Regression.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/7%20Linear%20Regression.ipynb)
+- [数理统计/Honor 1 Statistics.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/Honor%201%20Statistics.ipynb)
+- [数理统计/Honor 3 Multivariate Normal.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/Honor%203%20Multivariate%20Normal.ipynb)
+- [数理统计/Honor 4 Sufficient Statistics.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/Honor%204%20Sufficient%20Statistics.ipynb)
+- [数理统计/Honor 5 Longitudual Data.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/Honor%205%20Longitudual%20Data.ipynb)
+
+**时间序列与空间统计 / ForeverHaibara/Fudan-Courses**
+- [时间序列与空间统计/1 Time Series.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E4%B8%8E%E7%A9%BA%E9%97%B4%E7%BB%9F%E8%AE%A1/1%20Time%20Series.ipynb)
+- [时间序列与空间统计/10 Spectral Analysis.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E4%B8%8E%E7%A9%BA%E9%97%B4%E7%BB%9F%E8%AE%A1/10%20Spectral%20Analysis.ipynb)
+- [时间序列与空间统计/2 Stationary Time Series.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E4%B8%8E%E7%A9%BA%E9%97%B4%E7%BB%9F%E8%AE%A1/2%20Stationary%20Time%20Series.ipynb)
+- [时间序列与空间统计/3 Time Series Regression.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E4%B8%8E%E7%A9%BA%E9%97%B4%E7%BB%9F%E8%AE%A1/3%20Time%20Series%20Regression.ipynb)
+- [时间序列与空间统计/4 Exploratory Data Analysis.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E4%B8%8E%E7%A9%BA%E9%97%B4%E7%BB%9F%E8%AE%A1/4%20Exploratory%20Data%20Analysis.ipynb)
+- [时间序列与空间统计/5 Auto Regressive Integrated Moving Average.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E4%B8%8E%E7%A9%BA%E9%97%B4%E7%BB%9F%E8%AE%A1/5%20Auto%20Regressive%20Integrated%20Moving%20Average.ipynb)
+- [时间序列与空间统计/6 Forecasting.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E4%B8%8E%E7%A9%BA%E9%97%B4%E7%BB%9F%E8%AE%A1/6%20Forecasting.ipynb)
+- [时间序列与空间统计/7 Estimation.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E4%B8%8E%E7%A9%BA%E9%97%B4%E7%BB%9F%E8%AE%A1/7%20Estimation.ipynb)
+- [时间序列与空间统计/8 Spatial Statistics.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E4%B8%8E%E7%A9%BA%E9%97%B4%E7%BB%9F%E8%AE%A1/8%20Spatial%20Statistics.ipynb)
+- [时间序列与空间统计/9 Variogram and Kriging.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E4%B8%8E%E7%A9%BA%E9%97%B4%E7%BB%9F%E8%AE%A1/9%20Variogram%20and%20Kriging.ipynb)
+
+**智能移动平台开发 / ChenTao98/FudanUniversity**
+- [智能移动平台开发/ImgCluster/app/src/main/java/com/app/zpvoh/imgcluster/Constant.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/app/src/main/java/com/app/zpvoh/imgcluster/Constant.java)
+- [智能移动平台开发/ImgCluster/app/src/main/java/com/app/zpvoh/imgcluster/PhotoItem.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/app/src/main/java/com/app/zpvoh/imgcluster/PhotoItem.java)
+- [智能移动平台开发/ImgCluster/app/src/main/java/com/app/zpvoh/imgcluster/activity/LoginActivity.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/app/src/main/java/com/app/zpvoh/imgcluster/activity/LoginActivity.java)
+- [智能移动平台开发/ImgCluster/app/src/main/java/com/app/zpvoh/imgcluster/activity/Main2Activity.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/app/src/main/java/com/app/zpvoh/imgcluster/activity/Main2Activity.java)
+- [智能移动平台开发/ImgCluster/app/src/main/java/com/app/zpvoh/imgcluster/activity/SignUpActivity.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/app/src/main/java/com/app/zpvoh/imgcluster/activity/SignUpActivity.java)
+- [智能移动平台开发/ImgCluster/app/src/main/java/com/app/zpvoh/imgcluster/entities/Comment.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/app/src/main/java/com/app/zpvoh/imgcluster/entities/Comment.java)
+- [智能移动平台开发/ImgCluster/app/src/main/java/com/app/zpvoh/imgcluster/entities/Group.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/app/src/main/java/com/app/zpvoh/imgcluster/entities/Group.java)
+- [智能移动平台开发/ImgCluster/app/src/main/java/com/app/zpvoh/imgcluster/entities/Image.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/app/src/main/java/com/app/zpvoh/imgcluster/entities/Image.java)
+- [智能移动平台开发/ImgCluster/app/src/main/java/com/app/zpvoh/imgcluster/entities/User.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/app/src/main/java/com/app/zpvoh/imgcluster/entities/User.java)
+- [智能移动平台开发/ImgCluster/app/src/main/java/com/app/zpvoh/imgcluster/fragment/BlankFragment.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/app/src/main/java/com/app/zpvoh/imgcluster/fragment/BlankFragment.java)
+- [智能移动平台开发/ImgCluster/app/src/main/java/com/app/zpvoh/imgcluster/fragment/CreateGroupFragment.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/app/src/main/java/com/app/zpvoh/imgcluster/fragment/CreateGroupFragment.java)
+- [智能移动平台开发/ImgCluster/app/src/main/java/com/app/zpvoh/imgcluster/fragment/ImageDisplayFragment.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/app/src/main/java/com/app/zpvoh/imgcluster/fragment/ImageDisplayFragment.java)
+- 另有 7 个文件，见 data/collection_files.csv
 
 **机器人学 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业选修/机器人学导论/robot move/robot/CDM v2.08.28 Certified/ftd2xx.h](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6%E5%AF%BC%E8%AE%BA/robot%20move/robot/CDM%20v2.08.28%20Certified/ftd2xx.h)
@@ -2493,6 +4321,21 @@
 - [统计机器学习/Homework/统计机器学习 05.html](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/Homework/%E7%BB%9F%E8%AE%A1%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%2005.html)
 - [统计机器学习/Homework/统计机器学习 07.html](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/Homework/%E7%BB%9F%E8%AE%A1%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%2007.html)
 
+**机器学习 / Zhouxunzhe/Fudan-CS-Projects**
+- [Machine-Learning/CNN/code/cnn-tf.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Machine-Learning/CNN/code/cnn-tf.py)
+- [Machine-Learning/CNN/code/cnn-torch.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Machine-Learning/CNN/code/cnn-torch.py)
+- [Machine-Learning/Regression/house-prices-uk-master/scripts/process.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Machine-Learning/Regression/house-prices-uk-master/scripts/process.py)
+- [Machine-Learning/Regression/house-prices-uk-master/setup.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Machine-Learning/Regression/house-prices-uk-master/setup.py)
+- [Machine-Learning/SVM&SVR/svm_code/my_svm.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Machine-Learning/SVM%26SVR/svm_code/my_svm.py)
+- [Machine-Learning/SVM&SVR/svm_code/sort_figure.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Machine-Learning/SVM%26SVR/svm_code/sort_figure.py)
+- [Machine-Learning/SVM&SVR/svm_code/svm_linear.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Machine-Learning/SVM%26SVR/svm_code/svm_linear.py)
+- [Machine-Learning/SVM&SVR/svm_code/svm_poly.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Machine-Learning/SVM%26SVR/svm_code/svm_poly.py)
+- [Machine-Learning/SVM&SVR/svm_code/svm_rbf.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Machine-Learning/SVM%26SVR/svm_code/svm_rbf.py)
+- [Machine-Learning/SVM&SVR/svm_code/svm_sigmoid.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Machine-Learning/SVM%26SVR/svm_code/svm_sigmoid.py)
+- [Machine-Learning/SVM&SVR/svr_code/linear.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Machine-Learning/SVM%26SVR/svr_code/linear.py)
+- [Machine-Learning/SVM&SVR/svr_code/linear_pca.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Machine-Learning/SVM%26SVR/svr_code/linear_pca.py)
+- 另有 13 个文件，见 data/collection_files.csv
+
 **概率论 / AniroHU/FDU_Courses_Undergraduate**
 - [概率论基础/coding resources.html](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80/coding%20resources.html)
 - [概率论基础/作业.html](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A.html)
@@ -2508,6 +4351,19 @@
 - [3.专业教育/计算机科学与技术/专业选修/模式识别/project/脉冲星检测——基于knn方法/mltask1.py](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E6%A8%A1%E5%BC%8F%E8%AF%86%E5%88%AB/project/%E8%84%89%E5%86%B2%E6%98%9F%E6%A3%80%E6%B5%8B%E2%80%94%E2%80%94%E5%9F%BA%E4%BA%8Eknn%E6%96%B9%E6%B3%95/mltask1.py)
 - [3.专业教育/计算机科学与技术/专业选修/模式识别/project/脉冲星检测——基于knn方法/mltask2.py](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E6%A8%A1%E5%BC%8F%E8%AF%86%E5%88%AB/project/%E8%84%89%E5%86%B2%E6%98%9F%E6%A3%80%E6%B5%8B%E2%80%94%E2%80%94%E5%9F%BA%E4%BA%8Eknn%E6%96%B9%E6%B3%95/mltask2.py)
 
+**电子系统 / Zhouxunzhe/Fudan-CS-Projects**
+- [Electronic-Systems/8字实验报告/code.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Electronic-Systems/8%E5%AD%97%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/code.py)
+- [Electronic-Systems/8字实验报告/mask.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Electronic-Systems/8%E5%AD%97%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/mask.py)
+- [Electronic-Systems/python编程作业/code/func.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Electronic-Systems/python%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A/code/func.py)
+- [Electronic-Systems/python编程作业/code/main_v1.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Electronic-Systems/python%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A/code/main_v1.py)
+- [Electronic-Systems/python编程作业/code/main_v2.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Electronic-Systems/python%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A/code/main_v2.py)
+- [Electronic-Systems/python编程作业/code/params.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Electronic-Systems/python%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A/code/params.py)
+- [Electronic-Systems/定时与计数实验报告/speed.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Electronic-Systems/%E5%AE%9A%E6%97%B6%E4%B8%8E%E8%AE%A1%E6%95%B0%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/speed.py)
+- [Electronic-Systems/模数转换实验报告/ADC0832.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Electronic-Systems/%E6%A8%A1%E6%95%B0%E8%BD%AC%E6%8D%A2%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/ADC0832.py)
+- [Electronic-Systems/模数转换实验报告/measure_V.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Electronic-Systems/%E6%A8%A1%E6%95%B0%E8%BD%AC%E6%8D%A2%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/measure_V.py)
+- [Electronic-Systems/模数转换实验报告/measure_plt.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Electronic-Systems/%E6%A8%A1%E6%95%B0%E8%BD%AC%E6%8D%A2%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/measure_plt.py)
+- [Electronic-Systems/模数转换实验报告/measure_sin.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Electronic-Systems/%E6%A8%A1%E6%95%B0%E8%BD%AC%E6%8D%A2%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/measure_sin.py)
+
 **社会网络挖掘 / ForeverHaibara/Fudan-Courses**
 - [社交网络挖掘/2 图论基础 上.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C%E6%8C%96%E6%8E%98/2%20%E5%9B%BE%E8%AE%BA%E5%9F%BA%E7%A1%80%20%E4%B8%8A.ipynb)
 - [社交网络挖掘/3 图论基础 下.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C%E6%8C%96%E6%8E%98/3%20%E5%9B%BE%E8%AE%BA%E5%9F%BA%E7%A1%80%20%E4%B8%8B.ipynb)
@@ -2515,6 +4371,21 @@
 - [社交网络挖掘/5 社交网络挖掘.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C%E6%8C%96%E6%8E%98/5%20%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C%E6%8C%96%E6%8E%98.ipynb)
 - [社交网络挖掘/6 社区挖掘.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C%E6%8C%96%E6%8E%98/6%20%E7%A4%BE%E5%8C%BA%E6%8C%96%E6%8E%98.ipynb)
 - [社交网络挖掘/7 社交网络信息传播.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C%E6%8C%96%E6%8E%98/7%20%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E4%BC%A0%E6%92%AD.ipynb)
+
+**程序设计 / Zhouxunzhe/Fudan-CS-Projects**
+- [Programming/QuantProgramming/src/Portfolio.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming/QuantProgramming/src/Portfolio.py)
+- [Programming/QuantProgramming/src/PositionSizing.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming/QuantProgramming/src/PositionSizing.py)
+- [Programming/QuantProgramming/src/TechnicalLib.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming/QuantProgramming/src/TechnicalLib.py)
+- [Programming/QuantProgramming/src/investment/Bond.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming/QuantProgramming/src/investment/Bond.py)
+- [Programming/QuantProgramming/src/investment/ETF.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming/QuantProgramming/src/investment/ETF.py)
+- [Programming/QuantProgramming/src/investment/Fund.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming/QuantProgramming/src/investment/Fund.py)
+- [Programming/QuantProgramming/src/investment/Future.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming/QuantProgramming/src/investment/Future.py)
+- [Programming/QuantProgramming/src/investment/Investment.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming/QuantProgramming/src/investment/Investment.py)
+- [Programming/QuantProgramming/src/investment/Option.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming/QuantProgramming/src/investment/Option.py)
+- [Programming/QuantProgramming/src/investment/Stock.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming/QuantProgramming/src/investment/Stock.py)
+- [Programming/QuantProgramming/src/investment/__init__.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming/QuantProgramming/src/investment/__init__.py)
+- [Programming/QuantProgramming/src/main.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming/QuantProgramming/src/main.py)
+- 另有 56 个文件，见 data/collection_files.csv
 
 **算法设计与分析 / BeneneeYu/Course-Project**
 - [Navigation-System-By-Shortest-Path-Algorithm/src/Edge.java](https://github.com/BeneneeYu/Course-Project/blob/master/Navigation-System-By-Shortest-Path-Algorithm/src/Edge.java)
@@ -2526,6 +4397,27 @@
 - [Navigation-System-By-Shortest-Path-Algorithm/src/Operation.java](https://github.com/BeneneeYu/Course-Project/blob/master/Navigation-System-By-Shortest-Path-Algorithm/src/Operation.java)
 - [Navigation-System-By-Shortest-Path-Algorithm/src/UI.java](https://github.com/BeneneeYu/Course-Project/blob/master/Navigation-System-By-Shortest-Path-Algorithm/src/UI.java)
 
+**系统程序设计 / ChenTao98/FudanUniversity**
+- [系统程序设计/lab1/main.c](https://github.com/ChenTao98/FudanUniversity/blob/master/%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/lab1/main.c)
+- [系统程序设计/lab2/aaa.c](https://github.com/ChenTao98/FudanUniversity/blob/master/%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/lab2/aaa.c)
+- [系统程序设计/lab2/bbb.c](https://github.com/ChenTao98/FudanUniversity/blob/master/%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/lab2/bbb.c)
+- [系统程序设计/lab2/ccc.c](https://github.com/ChenTao98/FudanUniversity/blob/master/%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/lab2/ccc.c)
+- [系统程序设计/lab2/signal_handler.c](https://github.com/ChenTao98/FudanUniversity/blob/master/%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/lab2/signal_handler.c)
+- [系统程序设计/lab3/group_chat.c](https://github.com/ChenTao98/FudanUniversity/blob/master/%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/lab3/group_chat.c)
+- [系统程序设计/lab3/p2p_chat.c](https://github.com/ChenTao98/FudanUniversity/blob/master/%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/lab3/p2p_chat.c)
+
+**统计学习概论 / ForeverHaibara/Fudan-Courses**
+- [统计学习概论/1 Statistical Learning.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%AE%BA/1%20Statistical%20Learning.ipynb)
+- [统计学习概论/10 Latent Semantic Analysis.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%AE%BA/10%20Latent%20Semantic%20Analysis.ipynb)
+- [统计学习概论/2 Linear Regression.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%AE%BA/2%20Linear%20Regression.ipynb)
+- [统计学习概论/3 Logistic Regression.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%AE%BA/3%20Logistic%20Regression.ipynb)
+- [统计学习概论/4 Classification.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%AE%BA/4%20Classification.ipynb)
+- [统计学习概论/5 Decision Tree.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%AE%BA/5%20Decision%20Tree.ipynb)
+- [统计学习概论/6 Ensemble Learning.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%AE%BA/6%20Ensemble%20Learning.ipynb)
+- [统计学习概论/7 Support Vector Machine.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%AE%BA/7%20Support%20Vector%20Machine.ipynb)
+- [统计学习概论/8 Clustering.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%AE%BA/8%20Clustering.ipynb)
+- [统计学习概论/9 Principal Component Analysis.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%AE%BA/9%20Principal%20Component%20Analysis.ipynb)
+
 **统计计算 / ForeverHaibara/Fudan-Courses**
 - [统计计算/1 Methods for Generating Random Variables.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E7%BB%9F%E8%AE%A1%E8%AE%A1%E7%AE%97/1%20Methods%20for%20Generating%20Random%20Variables.ipynb)
 - [统计计算/2 Monte Carlo Integration.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E7%BB%9F%E8%AE%A1%E8%AE%A1%E7%AE%97/2%20Monte%20Carlo%20Integration.ipynb)
@@ -2533,10 +4425,39 @@
 - [统计计算/4 Bootstrap and Jackknife.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E7%BB%9F%E8%AE%A1%E8%AE%A1%E7%AE%97/4%20Bootstrap%20and%20Jackknife.ipynb)
 - [统计计算/5 Markov Chain.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E7%BB%9F%E8%AE%A1%E8%AE%A1%E7%AE%97/5%20Markov%20Chain.ipynb)
 
+**编程方法与技术 / clb2001/FDU-COMP**
+- [编程方法与技术/java/DEMO/StaticDEMO/Animal.java](https://github.com/clb2001/FDU-COMP/blob/main/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/java/DEMO/StaticDEMO/Animal.java)
+- [编程方法与技术/java/DEMO/StaticDEMO/Client.java](https://github.com/clb2001/FDU-COMP/blob/main/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/java/DEMO/StaticDEMO/Client.java)
+- [编程方法与技术/java/DEMO/StaticDEMO/Dog.java](https://github.com/clb2001/FDU-COMP/blob/main/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/java/DEMO/StaticDEMO/Dog.java)
+- [编程方法与技术/java/DEMO/oop/Animal.java](https://github.com/clb2001/FDU-COMP/blob/main/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/java/DEMO/oop/Animal.java)
+- [编程方法与技术/java/DEMO/oop/Main.java](https://github.com/clb2001/FDU-COMP/blob/main/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/java/DEMO/oop/Main.java)
+- [编程方法与技术/java/DEMO/reference2/Hw.java](https://github.com/clb2001/FDU-COMP/blob/main/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/java/DEMO/reference2/Hw.java)
+- [编程方法与技术/java/DEMO/reference2/MyLink.java](https://github.com/clb2001/FDU-COMP/blob/main/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/java/DEMO/reference2/MyLink.java)
+- [编程方法与技术/java/DEMO/reference2/MyString.java](https://github.com/clb2001/FDU-COMP/blob/main/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/java/DEMO/reference2/MyString.java)
+- [编程方法与技术/java/DEMO/reference2/Stu.java](https://github.com/clb2001/FDU-COMP/blob/main/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/java/DEMO/reference2/Stu.java)
+- [编程方法与技术/java/DEMO/reference4/Point/Point.java](https://github.com/clb2001/FDU-COMP/blob/main/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/java/DEMO/reference4/Point/Point.java)
+- [编程方法与技术/java/DEMO/reference4/Point/TestPointByConfigureFile.java](https://github.com/clb2001/FDU-COMP/blob/main/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/java/DEMO/reference4/Point/TestPointByConfigureFile.java)
+- [编程方法与技术/java/DEMO/week9/DynamicGraph.java](https://github.com/clb2001/FDU-COMP/blob/main/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF/java/DEMO/week9/DynamicGraph.java)
+- 另有 143 个文件，见 data/collection_files.csv
+
 **编译原理 / BeneneeYu/Course-Project**
 - [Dice-Game/DiceGame3/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c](https://github.com/BeneneeYu/Course-Project/blob/master/Dice-Game/DiceGame3/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c)
 - [Dice-Game/DiceGame3/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp](https://github.com/BeneneeYu/Course-Project/blob/master/Dice-Game/DiceGame3/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp)
 - [Simple-Compiler/lab5.cpp](https://github.com/BeneneeYu/Course-Project/blob/master/Simple-Compiler/lab5.cpp)
+
+**编译原理 / Zhouxunzhe/Fudan-CS-Projects**
+- [Compiler/project1/flex_demo/lexer.c](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Compiler/project1/flex_demo/lexer.c)
+- [Compiler/project1/flex_demo/lexer.h](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Compiler/project1/flex_demo/lexer.h)
+- [Compiler/project1/flex_demo/main.cpp](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Compiler/project1/flex_demo/main.cpp)
+- [Compiler/project2/bison/ast.h](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Compiler/project2/bison/ast.h)
+- [Compiler/project2/bison/lexer.c](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Compiler/project2/bison/lexer.c)
+- [Compiler/project2/bison/main.cpp](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Compiler/project2/bison/main.cpp)
+- [Compiler/project2/bison/yacc.c](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Compiler/project2/bison/yacc.c)
+- [Compiler/project2/bison/yacc.h](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Compiler/project2/bison/yacc.h)
+- [Compiler/project2/bison_demo/demo.cpp](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Compiler/project2/bison_demo/demo.cpp)
+- [Compiler/project2/bison_demo/lex.c](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Compiler/project2/bison_demo/lex.c)
+- [Compiler/project2/bison_demo/yacc.c](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Compiler/project2/bison_demo/yacc.c)
+- [Compiler/project2/bison_demo/yacc.h](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Compiler/project2/bison_demo/yacc.h)
 
 **编译原理 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/编译原理/pj/absyn.c](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/pj/absyn.c)
@@ -2553,9 +4474,41 @@
 - [3.专业教育/计算机科学与技术/专业必修/编译原理/pj/stand.h](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/pj/stand.h)
 - 另有 17 个文件，见 data/collection_files.csv
 
+**自然语言处理与大语言模型 / michaellu2007/fdu-note-summarized**
+- [LLM与NLP/LLM-04-神经语言模型与循环注意力.html](https://github.com/michaellu2007/fdu-note-summarized/blob/main/LLM%E4%B8%8ENLP/LLM-04-%E7%A5%9E%E7%BB%8F%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E4%B8%8E%E5%BE%AA%E7%8E%AF%E6%B3%A8%E6%84%8F%E5%8A%9B.html)
+- [LLM与NLP/LLM-05-注意力与Transformer.html](https://github.com/michaellu2007/fdu-note-summarized/blob/main/LLM%E4%B8%8ENLP/LLM-05-%E6%B3%A8%E6%84%8F%E5%8A%9B%E4%B8%8ETransformer.html)
+- [LLM与NLP/LLM-06-预训练与解码实践.html](https://github.com/michaellu2007/fdu-note-summarized/blob/main/LLM%E4%B8%8ENLP/LLM-06-%E9%A2%84%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%A7%A3%E7%A0%81%E5%AE%9E%E8%B7%B5.html)
+- [LLM与NLP/LLM-07-算力预算与扩展律.html](https://github.com/michaellu2007/fdu-note-summarized/blob/main/LLM%E4%B8%8ENLP/LLM-07-%E7%AE%97%E5%8A%9B%E9%A2%84%E7%AE%97%E4%B8%8E%E6%89%A9%E5%B1%95%E5%BE%8B.html)
+- [LLM与NLP/assets/interactive/stepper.js](https://github.com/michaellu2007/fdu-note-summarized/blob/main/LLM%E4%B8%8ENLP/assets/interactive/stepper.js)
+- [LLM与NLP/assets/katex/contrib/auto-render.min.js](https://github.com/michaellu2007/fdu-note-summarized/blob/main/LLM%E4%B8%8ENLP/assets/katex/contrib/auto-render.min.js)
+- [LLM与NLP/assets/katex/katex.min.css](https://github.com/michaellu2007/fdu-note-summarized/blob/main/LLM%E4%B8%8ENLP/assets/katex/katex.min.css)
+- [LLM与NLP/assets/katex/katex.min.js](https://github.com/michaellu2007/fdu-note-summarized/blob/main/LLM%E4%B8%8ENLP/assets/katex/katex.min.js)
+- [LLM与NLP/assets/vendor/plotly/plotly.min.js](https://github.com/michaellu2007/fdu-note-summarized/blob/main/LLM%E4%B8%8ENLP/assets/vendor/plotly/plotly.min.js)
+
 **自然语言处理导论 / ForeverHaibara/Fudan-Courses**
 - [自然语言处理/02 N grams.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/02%20N%20grams.ipynb)
 - [自然语言处理/03 Naive Bayes and Sentiment Classification.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/03%20Naive%20Bayes%20and%20Sentiment%20Classification.ipynb)
+
+**自然语言处理导论 / clb2001/FDU-COMP**
+- [自然语言处理/Assignment-01/.ipynb_checkpoints/Assignment-01-19300740005-checkpoint.ipynb](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Assignment-01/.ipynb_checkpoints/Assignment-01-19300740005-checkpoint.ipynb)
+- [自然语言处理/Assignment-01/.ipynb_checkpoints/Assignment-01-YourStueentID-checkpoint.ipynb](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Assignment-01/.ipynb_checkpoints/Assignment-01-YourStueentID-checkpoint.ipynb)
+- [自然语言处理/Assignment-01/Assignment-01-19300740005.ipynb](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Assignment-01/Assignment-01-19300740005.ipynb)
+- [自然语言处理/Assignment-02/.ipynb_checkpoints/Assignment-02-19300740005-checkpoint.ipynb](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Assignment-02/.ipynb_checkpoints/Assignment-02-19300740005-checkpoint.ipynb)
+- [自然语言处理/Assignment-02/.ipynb_checkpoints/Assignment-02-YourStueentID-checkpoint.ipynb](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Assignment-02/.ipynb_checkpoints/Assignment-02-YourStueentID-checkpoint.ipynb)
+- [自然语言处理/Assignment-02/.ipynb_checkpoints/Untitled-checkpoint.ipynb](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Assignment-02/.ipynb_checkpoints/Untitled-checkpoint.ipynb)
+- [自然语言处理/Assignment-02/Assignment-02-19300740005.ipynb](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Assignment-02/Assignment-02-19300740005.ipynb)
+- [自然语言处理/Assignment-03/.ipynb_checkpoints/Assignment-03-19300740005-checkpoint.ipynb](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Assignment-03/.ipynb_checkpoints/Assignment-03-19300740005-checkpoint.ipynb)
+- [自然语言处理/Assignment-03/Assignment-03-19300740005.ipynb](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Assignment-03/Assignment-03-19300740005.ipynb)
+- [自然语言处理/Lecture-01/code/.ipynb_checkpoints/Language-Processing-and-Python-checkpoint.ipynb](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Lecture-01/code/.ipynb_checkpoints/Language-Processing-and-Python-checkpoint.ipynb)
+- [自然语言处理/Lecture-01/code/.ipynb_checkpoints/Regular-Expression-checkpoint.ipynb](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Lecture-01/code/.ipynb_checkpoints/Regular-Expression-checkpoint.ipynb)
+- [自然语言处理/Lecture-01/code/Language-Processing-and-Python.ipynb](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Lecture-01/code/Language-Processing-and-Python.ipynb)
+- 另有 16 个文件，见 data/collection_files.csv
+
+**自然语言处理导论 / lrcc275/FudanCources**
+- [COMP130141自然语言处理/PJ/pj1.ipynb](https://github.com/lrcc275/FudanCources/blob/main/COMP130141%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/PJ/pj1.ipynb)
+- [COMP130141自然语言处理/PJ/pj2-bert-base-uncased.py](https://github.com/lrcc275/FudanCources/blob/main/COMP130141%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/PJ/pj2-bert-base-uncased.py)
+- [COMP130141自然语言处理/PJ/pj2-bert-tiny.py](https://github.com/lrcc275/FudanCources/blob/main/COMP130141%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/PJ/pj2-bert-tiny.py)
+- [COMP130141自然语言处理/PJ/pj3.ipynb](https://github.com/lrcc275/FudanCources/blob/main/COMP130141%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/PJ/pj3.ipynb)
 
 **计算机体系结构 / Snivallus/FDU-Course-Notes-2024-2025**
 - [计算机组成与体系结构/Lab/Lab 1/code/Translate/Translate C into MIPS Assembly-.data初始化数组1.asm](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/Lab/Lab%201/code/Translate/Translate%20C%20into%20MIPS%20Assembly-.data%E5%88%9D%E5%A7%8B%E5%8C%96%E6%95%B0%E7%BB%841.asm)
@@ -2587,13 +4540,206 @@
 - [3.专业教育/计算机科学与技术/专业必修/计算机体系结构实验/tfile/Detect101/Detect101.srcs/sim_1/new/test2_Detect101.v](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C/tfile/Detect101/Detect101.srcs/sim_1/new/test2_Detect101.v)
 - 另有 13 个文件，见 data/collection_files.csv
 
+**计算机体系结构 / zhuth/FDUCS**
+- [ComputerArchitectureExperiments/16bitCPU/asm/print1.asm](https://github.com/zhuth/FDUCS/blob/master/ComputerArchitectureExperiments/16bitCPU/asm/print1.asm)
+- [ComputerArchitectureExperiments/8bitCPU/asm/cpu8print-2.asm](https://github.com/zhuth/FDUCS/blob/master/ComputerArchitectureExperiments/8bitCPU/asm/cpu8print-2.asm)
+- [ComputerArchitectureExperiments/8bitCPU/asm/cpu8print.asm](https://github.com/zhuth/FDUCS/blob/master/ComputerArchitectureExperiments/8bitCPU/asm/cpu8print.asm)
+- [ComputerArchitectureExperiments/8bitCPU/asm/cpu8printa.asm](https://github.com/zhuth/FDUCS/blob/master/ComputerArchitectureExperiments/8bitCPU/asm/cpu8printa.asm)
+- [ComputerArchitectureExperiments/8bitCPU/asm/cpu8test-kb.asm](https://github.com/zhuth/FDUCS/blob/master/ComputerArchitectureExperiments/8bitCPU/asm/cpu8test-kb.asm)
+- [ComputerArchitectureExperiments/8bitCPU/asm/cpu8test-ld.asm](https://github.com/zhuth/FDUCS/blob/master/ComputerArchitectureExperiments/8bitCPU/asm/cpu8test-ld.asm)
+- [ComputerArchitectureExperiments/8bitCPU/asm/cpu8test-prt.asm](https://github.com/zhuth/FDUCS/blob/master/ComputerArchitectureExperiments/8bitCPU/asm/cpu8test-prt.asm)
+- [ComputerArchitectureExperiments/8bitCPU/asm/cpu8test1.asm](https://github.com/zhuth/FDUCS/blob/master/ComputerArchitectureExperiments/8bitCPU/asm/cpu8test1.asm)
+- [ComputerArchitectureExperiments/8bitCPU/asm/cpu8test2.asm](https://github.com/zhuth/FDUCS/blob/master/ComputerArchitectureExperiments/8bitCPU/asm/cpu8test2.asm)
+- [ComputerArchitectureExperiments/8bitCPU/asm/cpu8test3.asm](https://github.com/zhuth/FDUCS/blob/master/ComputerArchitectureExperiments/8bitCPU/asm/cpu8test3.asm)
+- [ComputerArchitectureExperiments/8bitCPU/docs/cs.microcommand.cs](https://github.com/zhuth/FDUCS/blob/master/ComputerArchitectureExperiments/8bitCPU/docs/cs.microcommand.cs)
+
+**计算机原理 / hadanice/OpenDS**
+- [计算机原理/attacklab/rtarget.s](https://github.com/hadanice/OpenDS/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/attacklab/rtarget.s)
+- [计算机原理/attacklab/target12/farm.c](https://github.com/hadanice/OpenDS/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/attacklab/target12/farm.c)
+- [计算机原理/bomblab/bomb74/bomb.c](https://github.com/hadanice/OpenDS/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/bomblab/bomb74/bomb.c)
+- [计算机原理/cachelab/csim.c](https://github.com/hadanice/OpenDS/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/cachelab/csim.c)
+- [计算机原理/cachelab/trans.c](https://github.com/hadanice/OpenDS/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/cachelab/trans.c)
+- [计算机原理/datalab/datalab-handout/bits.c](https://github.com/hadanice/OpenDS/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/datalab/datalab-handout/bits.c)
+- [计算机原理/datalab/datalab-handout/bits.h](https://github.com/hadanice/OpenDS/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/datalab/datalab-handout/bits.h)
+- [计算机原理/datalab/datalab-handout/btest.c](https://github.com/hadanice/OpenDS/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/datalab/datalab-handout/btest.c)
+- [计算机原理/datalab/datalab-handout/btest.h](https://github.com/hadanice/OpenDS/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/datalab/datalab-handout/btest.h)
+- [计算机原理/datalab/datalab-handout/decl.c](https://github.com/hadanice/OpenDS/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/datalab/datalab-handout/decl.c)
+- [计算机原理/datalab/datalab-handout/fshow.c](https://github.com/hadanice/OpenDS/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/datalab/datalab-handout/fshow.c)
+- [计算机原理/datalab/datalab-handout/ishow.c](https://github.com/hadanice/OpenDS/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/datalab/datalab-handout/ishow.c)
+- 另有 2 个文件，见 data/collection_files.csv
+
+**计算机可视化 / lrcc275/FudanCources**
+- [COMP130174计算机可视化/ch4_test.ipynb](https://github.com/lrcc275/FudanCources/blob/main/COMP130174%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AF%E8%A7%86%E5%8C%96/ch4_test.ipynb)
+- [COMP130174计算机可视化/hw6.ipynb](https://github.com/lrcc275/FudanCources/blob/main/COMP130174%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AF%E8%A7%86%E5%8C%96/hw6.ipynb)
+- [COMP130174计算机可视化/第一章  线段图.ipynb](https://github.com/lrcc275/FudanCources/blob/main/COMP130174%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AF%E8%A7%86%E5%8C%96/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%20%E7%BA%BF%E6%AE%B5%E5%9B%BE.ipynb)
+- [COMP130174计算机可视化/第七章 直方图.ipynb](https://github.com/lrcc275/FudanCources/blob/main/COMP130174%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AF%E8%A7%86%E5%8C%96/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E7%9B%B4%E6%96%B9%E5%9B%BE.ipynb)
+- [COMP130174计算机可视化/第三章 条形图.ipynb](https://github.com/lrcc275/FudanCources/blob/main/COMP130174%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AF%E8%A7%86%E5%8C%96/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E6%9D%A1%E5%BD%A2%E5%9B%BE.ipynb)
+- [COMP130174计算机可视化/第九章 函数图谱.ipynb](https://github.com/lrcc275/FudanCources/blob/main/COMP130174%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AF%E8%A7%86%E5%8C%96/%E7%AC%AC%E4%B9%9D%E7%AB%A0%20%E5%87%BD%E6%95%B0%E5%9B%BE%E8%B0%B1.ipynb)
+- [COMP130174计算机可视化/第二章 区域图.ipynb](https://github.com/lrcc275/FudanCources/blob/main/COMP130174%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AF%E8%A7%86%E5%8C%96/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%8C%BA%E5%9F%9F%E5%9B%BE.ipynb)
+- [COMP130174计算机可视化/第五章 散点图.ipynb](https://github.com/lrcc275/FudanCources/blob/main/COMP130174%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AF%E8%A7%86%E5%8C%96/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E6%95%A3%E7%82%B9%E5%9B%BE.ipynb)
+- [COMP130174计算机可视化/第八章 密度图.ipynb](https://github.com/lrcc275/FudanCources/blob/main/COMP130174%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AF%E8%A7%86%E5%8C%96/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E5%AF%86%E5%BA%A6%E5%9B%BE.ipynb)
+- [COMP130174计算机可视化/第六章 加权散点图.ipynb](https://github.com/lrcc275/FudanCources/blob/main/COMP130174%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AF%E8%A7%86%E5%8C%96/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E5%8A%A0%E6%9D%83%E6%95%A3%E7%82%B9%E5%9B%BE.ipynb)
+- [COMP130174计算机可视化/第十一章 线性回归图.ipynb](https://github.com/lrcc275/FudanCources/blob/main/COMP130174%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AF%E8%A7%86%E5%8C%96/%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0%20%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E5%9B%BE.ipynb)
+- [COMP130174计算机可视化/第十二章 LOWESS图.ipynb](https://github.com/lrcc275/FudanCources/blob/main/COMP130174%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AF%E8%A7%86%E5%8C%96/%E7%AC%AC%E5%8D%81%E4%BA%8C%E7%AB%A0%20LOWESS%E5%9B%BE.ipynb)
+- 另有 2 个文件，见 data/collection_files.csv
+
+**计算机图形学 / ChenTao98/FudanUniversity**
+- [计算机图形学/pj1/config.js](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/pj1/config.js)
+- [计算机图形学/pj1/scanConversion.html](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/pj1/scanConversion.html)
+- [计算机图形学/pj2/config.js](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/pj2/config.js)
+- [计算机图形学/pj2/index.html](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/pj2/index.html)
+- [计算机图形学/pj2/lib/cuon-matrix.js](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/pj2/lib/cuon-matrix.js)
+- [计算机图形学/pj2/lib/cuon-utils.js](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/pj2/lib/cuon-utils.js)
+- [计算机图形学/pj2/lib/webgl-debug.js](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/pj2/lib/webgl-debug.js)
+- [计算机图形学/pj2/lib/webgl-utils.js](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/pj2/lib/webgl-utils.js)
+- [计算机图形学/pj2/project2.js](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/pj2/project2.js)
+- [计算机图形学/pj3/config/MyVector3.js](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/pj3/config/MyVector3.js)
+- [计算机图形学/pj3/config/scene.js](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/pj3/config/scene.js)
+- [计算机图形学/pj3/index.html](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/pj3/index.html)
+- 另有 8 个文件，见 data/collection_files.csv
+
+**计算机图形学 / Zhouxunzhe/Fudan-CS-Projects**
+- [Computer-Graphics/周训哲Project1/music/my_project.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Graphics/%E5%91%A8%E8%AE%AD%E5%93%B2Project1/music/my_project.py)
+- [Computer-Graphics/周训哲Project1/my_project.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Graphics/%E5%91%A8%E8%AE%AD%E5%93%B2Project1/my_project.py)
+- [Computer-Graphics/周训哲Project2/Solar_System/core/Object3D.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Graphics/%E5%91%A8%E8%AE%AD%E5%93%B2Project2/Solar_System/core/Object3D.py)
+- [Computer-Graphics/周训哲Project2/Solar_System/core/attribute.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Graphics/%E5%91%A8%E8%AE%AD%E5%93%B2Project2/Solar_System/core/attribute.py)
+- [Computer-Graphics/周训哲Project2/Solar_System/core/base.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Graphics/%E5%91%A8%E8%AE%AD%E5%93%B2Project2/Solar_System/core/base.py)
+- [Computer-Graphics/周训哲Project2/Solar_System/core/camera.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Graphics/%E5%91%A8%E8%AE%AD%E5%93%B2Project2/Solar_System/core/camera.py)
+- [Computer-Graphics/周训哲Project2/Solar_System/core/input.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Graphics/%E5%91%A8%E8%AE%AD%E5%93%B2Project2/Solar_System/core/input.py)
+- [Computer-Graphics/周训哲Project2/Solar_System/core/matrix.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Graphics/%E5%91%A8%E8%AE%AD%E5%93%B2Project2/Solar_System/core/matrix.py)
+- [Computer-Graphics/周训哲Project2/Solar_System/core/mesh.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Graphics/%E5%91%A8%E8%AE%AD%E5%93%B2Project2/Solar_System/core/mesh.py)
+- [Computer-Graphics/周训哲Project2/Solar_System/core/openGLUtils.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Graphics/%E5%91%A8%E8%AE%AD%E5%93%B2Project2/Solar_System/core/openGLUtils.py)
+- [Computer-Graphics/周训哲Project2/Solar_System/core/renderer.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Graphics/%E5%91%A8%E8%AE%AD%E5%93%B2Project2/Solar_System/core/renderer.py)
+- [Computer-Graphics/周训哲Project2/Solar_System/core/scene.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Graphics/%E5%91%A8%E8%AE%AD%E5%93%B2Project2/Solar_System/core/scene.py)
+- 另有 28 个文件，见 data/collection_files.csv
+
+**计算机图形学 / lrcc275/FudanCources**
+- [COMP130018计算机图形学/Project1/starter1/glew/include/GL/eglew.h](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glew/include/GL/eglew.h)
+- [COMP130018计算机图形学/Project1/starter1/glew/include/GL/glew.h](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glew/include/GL/glew.h)
+- [COMP130018计算机图形学/Project1/starter1/glew/include/GL/glxew.h](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glew/include/GL/glxew.h)
+- [COMP130018计算机图形学/Project1/starter1/glew/include/GL/wglew.h](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glew/include/GL/wglew.h)
+- [COMP130018计算机图形学/Project1/starter1/glew/src/glew.c](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glew/src/glew.c)
+- [COMP130018计算机图形学/Project1/starter1/glew/src/glewinfo.c](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glew/src/glewinfo.c)
+- [COMP130018计算机图形学/Project1/starter1/glew/src/visualinfo.c](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glew/src/visualinfo.c)
+- [COMP130018计算机图形学/Project1/starter1/glfw/deps/KHR/khrplatform.h](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glfw/deps/KHR/khrplatform.h)
+- [COMP130018计算机图形学/Project1/starter1/glfw/deps/getopt.c](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glfw/deps/getopt.c)
+- [COMP130018计算机图形学/Project1/starter1/glfw/deps/getopt.h](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glfw/deps/getopt.h)
+- [COMP130018计算机图形学/Project1/starter1/glfw/deps/glad.c](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glfw/deps/glad.c)
+- [COMP130018计算机图形学/Project1/starter1/glfw/deps/glad/glad.h](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glfw/deps/glad/glad.h)
+- 另有 429 个文件，见 data/collection_files.csv
+
 **计算机图形学 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/计算机图形学/Project/Project1/src1.py](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project/Project1/src1.py)
 - [3.专业教育/计算机科学与技术/专业必修/计算机图形学/Project/Project2/src2.py](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project/Project2/src2.py)
 - [3.专业教育/计算机科学与技术/专业必修/计算机图形学/Project/Project3/src3.html](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project/Project3/src3.html)
 
+**计算机系统基础 / ChenTao98/FudanUniversity**
+- [ICS/ics-labs/datalab/datalab-handout/bits.c](https://github.com/ChenTao98/FudanUniversity/blob/master/ICS/ics-labs/datalab/datalab-handout/bits.c)
+- [ICS/ics-labs/datalab/datalab-handout/bits.h](https://github.com/ChenTao98/FudanUniversity/blob/master/ICS/ics-labs/datalab/datalab-handout/bits.h)
+- [ICS/ics-labs/datalab/datalab-handout/btest.c](https://github.com/ChenTao98/FudanUniversity/blob/master/ICS/ics-labs/datalab/datalab-handout/btest.c)
+- [ICS/ics-labs/datalab/datalab-handout/btest.h](https://github.com/ChenTao98/FudanUniversity/blob/master/ICS/ics-labs/datalab/datalab-handout/btest.h)
+- [ICS/ics-labs/datalab/datalab-handout/decl.c](https://github.com/ChenTao98/FudanUniversity/blob/master/ICS/ics-labs/datalab/datalab-handout/decl.c)
+- [ICS/ics-labs/datalab/datalab-handout/fshow.c](https://github.com/ChenTao98/FudanUniversity/blob/master/ICS/ics-labs/datalab/datalab-handout/fshow.c)
+- [ICS/ics-labs/datalab/datalab-handout/ishow.c](https://github.com/ChenTao98/FudanUniversity/blob/master/ICS/ics-labs/datalab/datalab-handout/ishow.c)
+- [ICS/ics-labs/datalab/datalab-handout/tests.c](https://github.com/ChenTao98/FudanUniversity/blob/master/ICS/ics-labs/datalab/datalab-handout/tests.c)
+- [ICS/ics-labs/datalab/lab1_solution.c](https://github.com/ChenTao98/FudanUniversity/blob/master/ICS/ics-labs/datalab/lab1_solution.c)
+- [ICS/ics-labs/malloc/16302010026.c](https://github.com/ChenTao98/FudanUniversity/blob/master/ICS/ics-labs/malloc/16302010026.c)
+- [ICS/ics-labs/malloc/88mm.c](https://github.com/ChenTao98/FudanUniversity/blob/master/ICS/ics-labs/malloc/88mm.c)
+- [ICS/ics-labs/malloc/98mm.c](https://github.com/ChenTao98/FudanUniversity/blob/master/ICS/ics-labs/malloc/98mm.c)
+- 另有 24 个文件，见 data/collection_files.csv
+
+**计算机系统基础 / Zhouxunzhe/Fudan-CS-Projects**
+- [Computer-System/FPGA/FPGA.cache/ip/2019.2/2b6545c350e5fd3d/Jay_sim_netlist.v](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-System/FPGA/FPGA.cache/ip/2019.2/2b6545c350e5fd3d/Jay_sim_netlist.v)
+- [Computer-System/FPGA/FPGA.cache/ip/2019.2/2b6545c350e5fd3d/Jay_stub.v](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-System/FPGA/FPGA.cache/ip/2019.2/2b6545c350e5fd3d/Jay_stub.v)
+- [Computer-System/FPGA/FPGA.cache/ip/2019.2/5c085e9b87681dbf/SuperMario_sim_netlist.v](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-System/FPGA/FPGA.cache/ip/2019.2/5c085e9b87681dbf/SuperMario_sim_netlist.v)
+- [Computer-System/FPGA/FPGA.cache/ip/2019.2/5c085e9b87681dbf/SuperMario_stub.v](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-System/FPGA/FPGA.cache/ip/2019.2/5c085e9b87681dbf/SuperMario_stub.v)
+- [Computer-System/FPGA/FPGA.ip_user_files/ip/Jay/Jay_stub.v](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-System/FPGA/FPGA.ip_user_files/ip/Jay/Jay_stub.v)
+- [Computer-System/FPGA/FPGA.ip_user_files/ipstatic/simulation/blk_mem_gen_v8_4.v](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-System/FPGA/FPGA.ip_user_files/ipstatic/simulation/blk_mem_gen_v8_4.v)
+- [Computer-System/FPGA/FPGA.ip_user_files/sim_scripts/Jay/activehdl/Jay.sh](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-System/FPGA/FPGA.ip_user_files/sim_scripts/Jay/activehdl/Jay.sh)
+- [Computer-System/FPGA/FPGA.ip_user_files/sim_scripts/Jay/activehdl/glbl.v](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-System/FPGA/FPGA.ip_user_files/sim_scripts/Jay/activehdl/glbl.v)
+- [Computer-System/FPGA/FPGA.ip_user_files/sim_scripts/Jay/ies/Jay.sh](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-System/FPGA/FPGA.ip_user_files/sim_scripts/Jay/ies/Jay.sh)
+- [Computer-System/FPGA/FPGA.ip_user_files/sim_scripts/Jay/ies/glbl.v](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-System/FPGA/FPGA.ip_user_files/sim_scripts/Jay/ies/glbl.v)
+- [Computer-System/FPGA/FPGA.ip_user_files/sim_scripts/Jay/modelsim/Jay.sh](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-System/FPGA/FPGA.ip_user_files/sim_scripts/Jay/modelsim/Jay.sh)
+- [Computer-System/FPGA/FPGA.ip_user_files/sim_scripts/Jay/modelsim/glbl.v](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-System/FPGA/FPGA.ip_user_files/sim_scripts/Jay/modelsim/glbl.v)
+- 另有 216 个文件，见 data/collection_files.csv
+
+**计算机系统基础 / lrcc275/FudanCources**
+- [COMP130201计算机系统基础/ICS_PJ2022/About.html](https://github.com/lrcc275/FudanCources/blob/main/COMP130201%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/ICS_PJ2022/About.html)
+- [COMP130201计算机系统基础/ICS_PJ2022/Graph.html](https://github.com/lrcc275/FudanCources/blob/main/COMP130201%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/ICS_PJ2022/Graph.html)
+- [COMP130201计算机系统基础/ICS_PJ2022/ICS.html](https://github.com/lrcc275/FudanCources/blob/main/COMP130201%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/ICS_PJ2022/ICS.html)
+- [COMP130201计算机系统基础/ICS_PJ2022/code.html](https://github.com/lrcc275/FudanCources/blob/main/COMP130201%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/ICS_PJ2022/code.html)
+- [COMP130201计算机系统基础/ICS_PJ2022/js/jquery-3.6.1.js](https://github.com/lrcc275/FudanCources/blob/main/COMP130201%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/ICS_PJ2022/js/jquery-3.6.1.js)
+- [COMP130201计算机系统基础/bomb.s](https://github.com/lrcc275/FudanCources/blob/main/COMP130201%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/bomb.s)
+- [COMP130201计算机系统基础/lab1-datalab/bits.c](https://github.com/lrcc275/FudanCources/blob/main/COMP130201%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/lab1-datalab/bits.c)
+- [COMP130201计算机系统基础/lab1-datalab/bits.h](https://github.com/lrcc275/FudanCources/blob/main/COMP130201%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/lab1-datalab/bits.h)
+- [COMP130201计算机系统基础/lab1-datalab/btest.c](https://github.com/lrcc275/FudanCources/blob/main/COMP130201%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/lab1-datalab/btest.c)
+- [COMP130201计算机系统基础/lab1-datalab/btest.h](https://github.com/lrcc275/FudanCources/blob/main/COMP130201%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/lab1-datalab/btest.h)
+- [COMP130201计算机系统基础/lab1-datalab/decl.c](https://github.com/lrcc275/FudanCources/blob/main/COMP130201%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/lab1-datalab/decl.c)
+- [COMP130201计算机系统基础/lab1-datalab/fshow.c](https://github.com/lrcc275/FudanCources/blob/main/COMP130201%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/lab1-datalab/fshow.c)
+- 另有 14 个文件，见 data/collection_files.csv
+
 **计算机系统基础 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/计算机系统基础/bits.c](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/bits.c)
+
+**计算机系统工程 / ChenTao98/FudanUniversity**
+- [计算机系统工程/lab1/SimpleDistributedFileSystem/sdfs/src/main/java/sdfs/client/ISDFSClient.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B/lab1/SimpleDistributedFileSystem/sdfs/src/main/java/sdfs/client/ISDFSClient.java)
+- [计算机系统工程/lab1/SimpleDistributedFileSystem/sdfs/src/main/java/sdfs/client/SDFSClient.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B/lab1/SimpleDistributedFileSystem/sdfs/src/main/java/sdfs/client/SDFSClient.java)
+- [计算机系统工程/lab1/SimpleDistributedFileSystem/sdfs/src/main/java/sdfs/client/SDFSFileChannel.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B/lab1/SimpleDistributedFileSystem/sdfs/src/main/java/sdfs/client/SDFSFileChannel.java)
+- [计算机系统工程/lab1/SimpleDistributedFileSystem/sdfs/src/main/java/sdfs/datanode/DataNode.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B/lab1/SimpleDistributedFileSystem/sdfs/src/main/java/sdfs/datanode/DataNode.java)
+- [计算机系统工程/lab1/SimpleDistributedFileSystem/sdfs/src/main/java/sdfs/datanode/IDataNode.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B/lab1/SimpleDistributedFileSystem/sdfs/src/main/java/sdfs/datanode/IDataNode.java)
+- [计算机系统工程/lab1/SimpleDistributedFileSystem/sdfs/src/main/java/sdfs/filetree/BlockInfo.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B/lab1/SimpleDistributedFileSystem/sdfs/src/main/java/sdfs/filetree/BlockInfo.java)
+- [计算机系统工程/lab1/SimpleDistributedFileSystem/sdfs/src/main/java/sdfs/filetree/DirNode.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B/lab1/SimpleDistributedFileSystem/sdfs/src/main/java/sdfs/filetree/DirNode.java)
+- [计算机系统工程/lab1/SimpleDistributedFileSystem/sdfs/src/main/java/sdfs/filetree/Entry.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B/lab1/SimpleDistributedFileSystem/sdfs/src/main/java/sdfs/filetree/Entry.java)
+- [计算机系统工程/lab1/SimpleDistributedFileSystem/sdfs/src/main/java/sdfs/filetree/FileNode.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B/lab1/SimpleDistributedFileSystem/sdfs/src/main/java/sdfs/filetree/FileNode.java)
+- [计算机系统工程/lab1/SimpleDistributedFileSystem/sdfs/src/main/java/sdfs/filetree/LocatedBlock.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B/lab1/SimpleDistributedFileSystem/sdfs/src/main/java/sdfs/filetree/LocatedBlock.java)
+- [计算机系统工程/lab1/SimpleDistributedFileSystem/sdfs/src/main/java/sdfs/filetree/Node.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B/lab1/SimpleDistributedFileSystem/sdfs/src/main/java/sdfs/filetree/Node.java)
+- [计算机系统工程/lab1/SimpleDistributedFileSystem/sdfs/src/main/java/sdfs/namenode/INameNode.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B/lab1/SimpleDistributedFileSystem/sdfs/src/main/java/sdfs/namenode/INameNode.java)
+- 另有 28 个文件，见 data/collection_files.csv
+
+**计算机网络 / ChenTao98/FudanUniversity**
+- [计算机网络/project1/startcode/bt_parse.c](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/project1/startcode/bt_parse.c)
+- [计算机网络/project1/startcode/bt_parse.h](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/project1/startcode/bt_parse.h)
+- [计算机网络/project1/startcode/chunk.c](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/project1/startcode/chunk.c)
+- [计算机网络/project1/startcode/chunk.h](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/project1/startcode/chunk.h)
+- [计算机网络/project1/startcode/client.c](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/project1/startcode/client.c)
+- [计算机网络/project1/startcode/debug-text.h](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/project1/startcode/debug-text.h)
+- [计算机网络/project1/startcode/debug.c](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/project1/startcode/debug.c)
+- [计算机网络/project1/startcode/debug.h](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/project1/startcode/debug.h)
+- [计算机网络/project1/startcode/input_buffer.c](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/project1/startcode/input_buffer.c)
+- [计算机网络/project1/startcode/input_buffer.h](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/project1/startcode/input_buffer.h)
+- [计算机网络/project1/startcode/make_chunks.c](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/project1/startcode/make_chunks.c)
+- [计算机网络/project1/startcode/peer.c](https://github.com/ChenTao98/FudanUniversity/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/project1/startcode/peer.c)
+- 另有 42 个文件，见 data/collection_files.csv
+
+**计算机网络 / Zhouxunzhe/Fudan-CS-Projects**
+- [Computer-Network/lab3/smtp_20307110315/smtp/main.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Network/lab3/smtp_20307110315/smtp/main.py)
+- [Computer-Network/lab3/smtp_20307110315/smtp/tls.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Network/lab3/smtp_20307110315/smtp/tls.py)
+- [Computer-Network/lab7/周训哲_20307110315_RUDP/BasicSender.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Network/lab7/%E5%91%A8%E8%AE%AD%E5%93%B2_20307110315_RUDP/BasicSender.py)
+- [Computer-Network/lab7/周训哲_20307110315_RUDP/Checksum.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Network/lab7/%E5%91%A8%E8%AE%AD%E5%93%B2_20307110315_RUDP/Checksum.py)
+- [Computer-Network/lab7/周训哲_20307110315_RUDP/InteractiveSender.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Network/lab7/%E5%91%A8%E8%AE%AD%E5%93%B2_20307110315_RUDP/InteractiveSender.py)
+- [Computer-Network/lab7/周训哲_20307110315_RUDP/Receiver.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Network/lab7/%E5%91%A8%E8%AE%AD%E5%93%B2_20307110315_RUDP/Receiver.py)
+- [Computer-Network/lab7/周训哲_20307110315_RUDP/Sender.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Network/lab7/%E5%91%A8%E8%AE%AD%E5%93%B2_20307110315_RUDP/Sender.py)
+- [Computer-Network/lab7/周训哲_20307110315_RUDP/TestHarness.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Network/lab7/%E5%91%A8%E8%AE%AD%E5%93%B2_20307110315_RUDP/TestHarness.py)
+- [Computer-Network/lab7/周训哲_20307110315_RUDP/UnreliableSender.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Network/lab7/%E5%91%A8%E8%AE%AD%E5%93%B2_20307110315_RUDP/UnreliableSender.py)
+- [Computer-Network/lab7/周训哲_20307110315_RUDP/tests/BasicTest.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Network/lab7/%E5%91%A8%E8%AE%AD%E5%93%B2_20307110315_RUDP/tests/BasicTest.py)
+- [Computer-Network/lab7/周训哲_20307110315_RUDP/tests/DropTest.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Network/lab7/%E5%91%A8%E8%AE%AD%E5%93%B2_20307110315_RUDP/tests/DropTest.py)
+- [Computer-Network/lab7/周训哲_20307110315_RUDP/tests/DupTest.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Computer-Network/lab7/%E5%91%A8%E8%AE%AD%E5%93%B2_20307110315_RUDP/tests/DupTest.py)
+- 另有 20 个文件，见 data/collection_files.csv
+
+**计算机网络 / clb2001/FDU-COMP**
+- [计算机网络与安全/PJ/project/UDT/__init__.py](https://github.com/clb2001/FDU-COMP/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%AE%89%E5%85%A8/PJ/project/UDT/__init__.py)
+- [计算机网络与安全/PJ/project/UDT/udt.py](https://github.com/clb2001/FDU-COMP/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%AE%89%E5%85%A8/PJ/project/UDT/udt.py)
+- [计算机网络与安全/PJ/project/frame/__init__.py](https://github.com/clb2001/FDU-COMP/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%AE%89%E5%85%A8/PJ/project/frame/__init__.py)
+- [计算机网络与安全/PJ/project/frame/frame.py](https://github.com/clb2001/FDU-COMP/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%AE%89%E5%85%A8/PJ/project/frame/frame.py)
+- [计算机网络与安全/PJ/project/ref/__init__.py](https://github.com/clb2001/FDU-COMP/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%AE%89%E5%85%A8/PJ/project/ref/__init__.py)
+- [计算机网络与安全/PJ/project/ref/crc16.py](https://github.com/clb2001/FDU-COMP/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%AE%89%E5%85%A8/PJ/project/ref/crc16.py)
+- [计算机网络与安全/PJ/project/ref/packet.py](https://github.com/clb2001/FDU-COMP/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%AE%89%E5%85%A8/PJ/project/ref/packet.py)
+- [计算机网络与安全/PJ/project/test/__init__.py](https://github.com/clb2001/FDU-COMP/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%AE%89%E5%85%A8/PJ/project/test/__init__.py)
+- [计算机网络与安全/PJ/project/test/client.py](https://github.com/clb2001/FDU-COMP/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%AE%89%E5%85%A8/PJ/project/test/client.py)
+- [计算机网络与安全/PJ/project/test/server.py](https://github.com/clb2001/FDU-COMP/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%AE%89%E5%85%A8/PJ/project/test/server.py)
+- [计算机网络与安全/PJ/project/timer/__init__.py](https://github.com/clb2001/FDU-COMP/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%AE%89%E5%85%A8/PJ/project/timer/__init__.py)
+- [计算机网络与安全/PJ/project/timer/timer.py](https://github.com/clb2001/FDU-COMP/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%AE%89%E5%85%A8/PJ/project/timer/timer.py)
+- 另有 20 个文件，见 data/collection_files.csv
 
 **计算机网络 / flyingc2004/fdu-cs-grade3**
 - [Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/Programming_Assignments/VideoStreamingCode/Client.py](https://github.com/flyingc2004/fdu-cs-grade3/blob/computer-network/Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/Programming_Assignments/VideoStreamingCode/Client.py)
@@ -2609,6 +4755,21 @@
 - [Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/Programming_Assignments/lab2-udp/client.py](https://github.com/flyingc2004/fdu-cs-grade3/blob/computer-network/Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/Programming_Assignments/lab2-udp/client.py)
 - [Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/Programming_Assignments/lab3-smtp/mail_client.py](https://github.com/flyingc2004/fdu-cs-grade3/blob/computer-network/Computer-Network-A-Top-Down-Approach-master/Computer-Network-A-Top-Down-Approach-master/Programming_Assignments/lab3-smtp/mail_client.py)
 - 另有 2 个文件，见 data/collection_files.csv
+
+**计算机网络 / lrcc275/FudanCources**
+- [COMP130136计算机网络/实验/email_smtp.py](https://github.com/lrcc275/FudanCources/blob/main/COMP130136%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%AE%9E%E9%AA%8C/email_smtp.py)
+- [COMP130136计算机网络/实验/实验7_陈锐林_21307130148_RUDP/BasicSender.py](https://github.com/lrcc275/FudanCources/blob/main/COMP130136%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C7_%E9%99%88%E9%94%90%E6%9E%97_21307130148_RUDP/BasicSender.py)
+- [COMP130136计算机网络/实验/实验7_陈锐林_21307130148_RUDP/Checksum.py](https://github.com/lrcc275/FudanCources/blob/main/COMP130136%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C7_%E9%99%88%E9%94%90%E6%9E%97_21307130148_RUDP/Checksum.py)
+- [COMP130136计算机网络/实验/实验7_陈锐林_21307130148_RUDP/InteractiveSender.py](https://github.com/lrcc275/FudanCources/blob/main/COMP130136%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C7_%E9%99%88%E9%94%90%E6%9E%97_21307130148_RUDP/InteractiveSender.py)
+- [COMP130136计算机网络/实验/实验7_陈锐林_21307130148_RUDP/RUDPPP.py](https://github.com/lrcc275/FudanCources/blob/main/COMP130136%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C7_%E9%99%88%E9%94%90%E6%9E%97_21307130148_RUDP/RUDPPP.py)
+- [COMP130136计算机网络/实验/实验7_陈锐林_21307130148_RUDP/Receiver.py](https://github.com/lrcc275/FudanCources/blob/main/COMP130136%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C7_%E9%99%88%E9%94%90%E6%9E%97_21307130148_RUDP/Receiver.py)
+- [COMP130136计算机网络/实验/实验7_陈锐林_21307130148_RUDP/SelectSender.py](https://github.com/lrcc275/FudanCources/blob/main/COMP130136%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C7_%E9%99%88%E9%94%90%E6%9E%97_21307130148_RUDP/SelectSender.py)
+- [COMP130136计算机网络/实验/实验7_陈锐林_21307130148_RUDP/Sender.py](https://github.com/lrcc275/FudanCources/blob/main/COMP130136%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C7_%E9%99%88%E9%94%90%E6%9E%97_21307130148_RUDP/Sender.py)
+- [COMP130136计算机网络/实验/实验7_陈锐林_21307130148_RUDP/TestHarness.py](https://github.com/lrcc275/FudanCources/blob/main/COMP130136%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C7_%E9%99%88%E9%94%90%E6%9E%97_21307130148_RUDP/TestHarness.py)
+- [COMP130136计算机网络/实验/实验7_陈锐林_21307130148_RUDP/UnreliableSender.py](https://github.com/lrcc275/FudanCources/blob/main/COMP130136%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C7_%E9%99%88%E9%94%90%E6%9E%97_21307130148_RUDP/UnreliableSender.py)
+- [COMP130136计算机网络/实验/实验7_陈锐林_21307130148_RUDP/tests/BadOrderTest.py](https://github.com/lrcc275/FudanCources/blob/main/COMP130136%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C7_%E9%99%88%E9%94%90%E6%9E%97_21307130148_RUDP/tests/BadOrderTest.py)
+- [COMP130136计算机网络/实验/实验7_陈锐林_21307130148_RUDP/tests/BasicTest.py](https://github.com/lrcc275/FudanCources/blob/main/COMP130136%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C7_%E9%99%88%E9%94%90%E6%9E%97_21307130148_RUDP/tests/BasicTest.py)
+- 另有 4 个文件，见 data/collection_files.csv
 
 **计算机网络 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/计算机网络/socket编程/network-pj-chatroom-master/client/__init__.py](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/socket%E7%BC%96%E7%A8%8B/network-pj-chatroom-master/client/__init__.py)
@@ -2629,6 +4790,36 @@
 - [计算理论/assets/katex/contrib/auto-render.min.js](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA/assets/katex/contrib/auto-render.min.js)
 - [计算理论/assets/katex/katex.min.css](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA/assets/katex/katex.min.css)
 - [计算理论/assets/katex/katex.min.js](https://github.com/michaellu2007/fdu-note-summarized/blob/main/%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA/assets/katex/katex.min.js)
+
+**设计模式 / Zhouxunzhe/Fudan-CS-Projects**
+- [Design-Pattern/lab1/CommandTest.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Design-Pattern/lab1/CommandTest.py)
+- [Design-Pattern/lab1/__init__.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Design-Pattern/lab1/__init__.py)
+- [Design-Pattern/lab1/main.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Design-Pattern/lab1/main.py)
+- [Design-Pattern/lab1/main/AddBookmarkCommand.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Design-Pattern/lab1/main/AddBookmarkCommand.py)
+- [Design-Pattern/lab1/main/AddTitleCommand.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Design-Pattern/lab1/main/AddTitleCommand.py)
+- [Design-Pattern/lab1/main/BookmarkManager.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Design-Pattern/lab1/main/BookmarkManager.py)
+- [Design-Pattern/lab1/main/Command.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Design-Pattern/lab1/main/Command.py)
+- [Design-Pattern/lab1/main/CommandHandler.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Design-Pattern/lab1/main/CommandHandler.py)
+- [Design-Pattern/lab1/main/CommandHistory.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Design-Pattern/lab1/main/CommandHistory.py)
+- [Design-Pattern/lab1/main/DeleteCommand.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Design-Pattern/lab1/main/DeleteCommand.py)
+- [Design-Pattern/lab1/main/Node.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Design-Pattern/lab1/main/Node.py)
+- [Design-Pattern/lab1/main/Plugin.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Design-Pattern/lab1/main/Plugin.py)
+- 另有 10 个文件，见 data/collection_files.csv
+
+**软件工程 / Zhouxunzhe/Fudan-CS-Projects**
+- [Software-Engineering/backend/controller/Admin.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Software-Engineering/backend/controller/Admin.py)
+- [Software-Engineering/backend/controller/Image.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Software-Engineering/backend/controller/Image.py)
+- [Software-Engineering/backend/controller/Shopper.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Software-Engineering/backend/controller/Shopper.py)
+- [Software-Engineering/backend/controller/User.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Software-Engineering/backend/controller/User.py)
+- [Software-Engineering/backend/controller/Visitor.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Software-Engineering/backend/controller/Visitor.py)
+- [Software-Engineering/backend/controller/__init__.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Software-Engineering/backend/controller/__init__.py)
+- [Software-Engineering/backend/db/__db__init__.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Software-Engineering/backend/db/__db__init__.py)
+- [Software-Engineering/backend/db/__init__.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Software-Engineering/backend/db/__init__.py)
+- [Software-Engineering/backend/db/connect.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Software-Engineering/backend/db/connect.py)
+- [Software-Engineering/backend/db/db.sql](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Software-Engineering/backend/db/db.sql)
+- [Software-Engineering/backend/db/options.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Software-Engineering/backend/db/options.py)
+- [Software-Engineering/backend/main.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Software-Engineering/backend/main.py)
+- 另有 159 个文件，见 data/collection_files.csv
 
 **软件工程 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/软件工程/少数派模拟器/15307130228-15307130275-少数派博弈模拟器/源代码/draw.py](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E5%B0%91%E6%95%B0%E6%B4%BE%E6%A8%A1%E6%8B%9F%E5%99%A8/15307130228-15307130275-%E5%B0%91%E6%95%B0%E6%B4%BE%E5%8D%9A%E5%BC%88%E6%A8%A1%E6%8B%9F%E5%99%A8/%E6%BA%90%E4%BB%A3%E7%A0%81/draw.py)
@@ -2653,6 +4844,54 @@
 - [随机过程导论/5 Branching Process.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E5%AF%BC%E8%AE%BA/5%20Branching%20Process.ipynb)
 - [随机过程导论/6 Brownian Motion.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E5%AF%BC%E8%AE%BA/6%20Brownian%20Motion.ipynb)
 - [随机过程导论/7 Stochastic Integration.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E5%AF%BC%E8%AE%BA/7%20Stochastic%20Integration.ipynb)
+
+**面向对象程序设计 / ChenTao98/FudanUniversity**
+- [OOP/oop-labs/BigNum-lab/lab4/Bignum.cpp](https://github.com/ChenTao98/FudanUniversity/blob/master/OOP/oop-labs/BigNum-lab/lab4/Bignum.cpp)
+- [OOP/oop-labs/BigNum-lab/lab4/Bignum.h](https://github.com/ChenTao98/FudanUniversity/blob/master/OOP/oop-labs/BigNum-lab/lab4/Bignum.h)
+- [OOP/oop-labs/BigNum-lab/lab4/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC/CMakeCCompilerId.c](https://github.com/ChenTao98/FudanUniversity/blob/master/OOP/oop-labs/BigNum-lab/lab4/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC/CMakeCCompilerId.c)
+- [OOP/oop-labs/BigNum-lab/lab4/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdCXX/CMakeCXXCompilerId.cpp](https://github.com/ChenTao98/FudanUniversity/blob/master/OOP/oop-labs/BigNum-lab/lab4/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdCXX/CMakeCXXCompilerId.cpp)
+- [OOP/oop-labs/BigNum-lab/lab4/cmake-build-debug/CMakeFiles/feature_tests.c](https://github.com/ChenTao98/FudanUniversity/blob/master/OOP/oop-labs/BigNum-lab/lab4/cmake-build-debug/CMakeFiles/feature_tests.c)
+- [OOP/oop-labs/BigNum-lab/lab4/main.cpp](https://github.com/ChenTao98/FudanUniversity/blob/master/OOP/oop-labs/BigNum-lab/lab4/main.cpp)
+- [OOP/oop-labs/Lab2/Commodity.cpp](https://github.com/ChenTao98/FudanUniversity/blob/master/OOP/oop-labs/Lab2/Commodity.cpp)
+- [OOP/oop-labs/Lab2/Commodity.h](https://github.com/ChenTao98/FudanUniversity/blob/master/OOP/oop-labs/Lab2/Commodity.h)
+- [OOP/oop-labs/Lab2/Date.cpp](https://github.com/ChenTao98/FudanUniversity/blob/master/OOP/oop-labs/Lab2/Date.cpp)
+- [OOP/oop-labs/Lab2/Date.h](https://github.com/ChenTao98/FudanUniversity/blob/master/OOP/oop-labs/Lab2/Date.h)
+- [OOP/oop-labs/Lab2/DateUtil.cpp](https://github.com/ChenTao98/FudanUniversity/blob/master/OOP/oop-labs/Lab2/DateUtil.cpp)
+- [OOP/oop-labs/Lab2/DateUtil.h](https://github.com/ChenTao98/FudanUniversity/blob/master/OOP/oop-labs/Lab2/DateUtil.h)
+- 另有 23 个文件，见 data/collection_files.csv
+
+**面向对象程序设计 / Zhouxunzhe/Fudan-CS-Projects**
+- [Object-Oriented-Programming/HW1/HW1_1_20307110315.cpp](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Object-Oriented-Programming/HW1/HW1_1_20307110315.cpp)
+- [Object-Oriented-Programming/HW1/HW1_2_20307110315.cpp](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Object-Oriented-Programming/HW1/HW1_2_20307110315.cpp)
+- [Object-Oriented-Programming/HW1/HW1_3_20307110315.cpp](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Object-Oriented-Programming/HW1/HW1_3_20307110315.cpp)
+- [Object-Oriented-Programming/HW2/HW2_1_20307110315.cpp](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Object-Oriented-Programming/HW2/HW2_1_20307110315.cpp)
+- [Object-Oriented-Programming/HW2/HW2_2_20307110315/HW2_2_20307110315/Student_info.cpp](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Object-Oriented-Programming/HW2/HW2_2_20307110315/HW2_2_20307110315/Student_info.cpp)
+- [Object-Oriented-Programming/HW2/HW2_2_20307110315/HW2_2_20307110315/Student_info.h](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Object-Oriented-Programming/HW2/HW2_2_20307110315/HW2_2_20307110315/Student_info.h)
+- [Object-Oriented-Programming/HW2/HW2_2_20307110315/HW2_2_20307110315/grade.cpp](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Object-Oriented-Programming/HW2/HW2_2_20307110315/HW2_2_20307110315/grade.cpp)
+- [Object-Oriented-Programming/HW2/HW2_2_20307110315/HW2_2_20307110315/grade.h](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Object-Oriented-Programming/HW2/HW2_2_20307110315/HW2_2_20307110315/grade.h)
+- [Object-Oriented-Programming/HW2/HW2_2_20307110315/HW2_2_20307110315/main.cpp](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Object-Oriented-Programming/HW2/HW2_2_20307110315/HW2_2_20307110315/main.cpp)
+- [Object-Oriented-Programming/HW2/HW2_2_20307110315/HW2_2_20307110315/median.cpp](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Object-Oriented-Programming/HW2/HW2_2_20307110315/HW2_2_20307110315/median.cpp)
+- [Object-Oriented-Programming/HW2/HW2_2_20307110315/HW2_2_20307110315/median.h](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Object-Oriented-Programming/HW2/HW2_2_20307110315/HW2_2_20307110315/median.h)
+- [Object-Oriented-Programming/HW2/HW2_2_20307110315/Student_info.cpp](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Object-Oriented-Programming/HW2/HW2_2_20307110315/Student_info.cpp)
+- 另有 97 个文件，见 data/collection_files.csv
+
+**面向对象程序设计 / lrcc275/FudanCources**
+- [COMP130135面向对象程序设计/作业/HW6/Queue.h](https://github.com/lrcc275/FudanCources/blob/main/COMP130135%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E4%BD%9C%E4%B8%9A/HW6/Queue.h)
+
+**领域数据科学 / Zhouxunzhe/Fudan-CS-Projects**
+- [Domain-Data-Science/source/config.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Domain-Data-Science/source/config.py)
+- [Domain-Data-Science/source/function.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Domain-Data-Science/source/function.py)
+- [Domain-Data-Science/source/info.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Domain-Data-Science/source/info.py)
+- [Domain-Data-Science/source/main.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Domain-Data-Science/source/main.py)
+- [Domain-Data-Science/source/models/AC.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Domain-Data-Science/source/models/AC.py)
+- [Domain-Data-Science/source/models/ARIMA.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Domain-Data-Science/source/models/ARIMA.py)
+- [Domain-Data-Science/source/models/DQN.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Domain-Data-Science/source/models/DQN.py)
+- [Domain-Data-Science/source/models/LSTM.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Domain-Data-Science/source/models/LSTM.py)
+- [Domain-Data-Science/source/models/ML.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Domain-Data-Science/source/models/ML.py)
+- [Domain-Data-Science/source/models/RL.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Domain-Data-Science/source/models/RL.py)
+- [Domain-Data-Science/source/models/VWAP.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Domain-Data-Science/source/models/VWAP.py)
+- [Domain-Data-Science/source/orders.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Domain-Data-Science/source/orders.py)
+- 另有 3 个文件，见 data/collection_files.csv
 
 **高等代数 / ForeverHaibara/Fudan-Courses**
 - [高等线性代数/1 矩阵运算.ipynb](https://github.com/ForeverHaibara/Fudan-Courses/blob/main/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/1%20%E7%9F%A9%E9%98%B5%E8%BF%90%E7%AE%97.ipynb)
@@ -2700,17 +4939,26 @@
 
 | 合集 | 组数 | 文件数 |
 | --- | ---: | ---: |
-| [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 52 | 2069 |
-| [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 29 | 1421 |
-| [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 47 | 692 |
-| [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 19 | 308 |
-| [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 19 | 254 |
-| [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 14 | 216 |
+| [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 41 | 3490 |
+| [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 54 | 2375 |
+| [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 41 | 1542 |
+| [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 32 | 982 |
+| [clb2001/FDU-COMP](https://github.com/clb2001/FDU-COMP) | 17 | 906 |
+| [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 62 | 865 |
+| [ChenTao98/FudanUniversity](https://github.com/ChenTao98/FudanUniversity) | 21 | 820 |
+| [rapidhere/fdu-pjs](https://github.com/rapidhere/fdu-pjs) | 6 | 754 |
+| [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 20 | 479 |
+| [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 32 | 458 |
+| [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 16 | 313 |
 | [BeneneeYu/Course-Project](https://github.com/BeneneeYu/Course-Project) | 8 | 186 |
-| [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 29 | 144 |
-| [michaellu2007/fdu-note-summarized](https://github.com/michaellu2007/fdu-note-summarized) | 12 | 118 |
-| [flyingc2004/fdu-cs-grade3](https://github.com/flyingc2004/fdu-cs-grade3) | 4 | 97 |
-| [Su-Zi-Zhan/FDU-SDS-Lecture-Notes](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes) | 7 | 45 |
-| [NinaZ65/notes-for-courses](https://github.com/NinaZ65/notes-for-courses) | 5 | 45 |
+| [ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses) | 36 | 177 |
+| [michaellu2007/fdu-note-summarized](https://github.com/michaellu2007/fdu-note-summarized) | 10 | 161 |
+| [flyingc2004/fdu-cs-grade3](https://github.com/flyingc2004/fdu-cs-grade3) | 3 | 97 |
+| [zhuth/FDUCS](https://github.com/zhuth/FDUCS) | 6 | 61 |
+| [Su-Zi-Zhan/FDU-SDS-Lecture-Notes](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes) | 8 | 51 |
+| [NinaZ65/notes-for-courses](https://github.com/NinaZ65/notes-for-courses) | 4 | 45 |
+| [FDUanonym/FDU-CST-Cracker](https://github.com/FDUanonym/FDU-CST-Cracker) | 9 | 38 |
+| [AryZhao2006/FDU-Course-AryZhao](https://github.com/AryZhao2006/FDU-Course-AryZhao) | 1 | 30 |
 | [Monthlyaway/FDU-cpp-projects](https://github.com/Monthlyaway/FDU-cpp-projects) | 1 | 24 |
 | [CodingMizore/SharedFDU](https://github.com/CodingMizore/SharedFDU) | 1 | 14 |
+| [cxxixi/FDU_DS](https://github.com/cxxixi/FDU_DS) | 3 | 11 |
