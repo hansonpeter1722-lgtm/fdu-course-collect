@@ -1,0 +1,95 @@
+﻿id,zh_name,en_name,codes,area,repos,exam,notes,materials,code
+ads,算法设计与分析,Algorithm Design and Analysis,COMP130011;INFO130057,计算机核心,34,1,0,5,28
+ai,人工智能,Artificial Intelligence,COMP130207;DATA130008;COMP130031,计算机核心,50,0,2,8,40
+aih,人工智能（H）,Artificial Intelligence (Honors),,计算机核心,6,0,0,1,5
+arch,计算机体系结构,Computer Architecture,COMP130191;INFO130038,计算机核心,20,0,0,6,14
+asr,语音识别,Speech Recognition,,计算机核心,0,0,0,0,0
+blockchain,区块链,Blockchain,COMP130200,计算机核心,4,1,0,0,3
+cg,计算机图形学,Computer Graphics,COMP130018;SOFT130062,计算机核心,35,0,0,0,35
+circuit,电路,Circuits,MICR120001,计算机核心,5,0,0,1,4
+cloud,云计算,Cloud Computing,COMP130205,计算机核心,1,0,0,0,1
+co,计算机组成原理,Computer Organization,COMP130191,计算机核心,5,0,0,0,5
+compiler,编译原理,Compiler Principles,COMP130014;SOFT130061,计算机核心,40,0,0,7,33
+crypto,密码学,Cryptography,COMP130145;COMP130069,计算机核心,2,0,0,0,2
+csgrad,研究生 CS 专题,CS Graduate Topics,,计算机核心,0,0,0,0,0
+cv,计算机视觉,Computer Vision,COMP130124;CS50028,计算机核心,47,0,0,7,40
+db-intro,数据库系统引论,Introduction to Database Systems,COMP130010,计算机核心,73,0,0,10,63
+dip,数字图像处理,Digital Image Processing,COMP130032;DATA130032,计算机核心,11,0,0,1,10
+dist,分布式系统,Distributed Systems,COMP130123;DATA130015,计算机核心,9,0,0,1,8
+dl,数字逻辑与部件设计,Digital Logic and Component Design,COMP130002;CS20008,计算机核心,9,0,0,2,7
+ds,数据结构,Data Structures,COMP130004;DATA130023,计算机核心,39,1,1,5,32
+dsp,数字信号处理,Digital Signal Processing,COMP130139,计算机核心,4,0,0,0,4
+embedded,嵌入式系统,Embedded Systems,COMP130043,计算机核心,3,0,0,2,1
+genai,生成式 AI,Generative AI,,计算机核心,2,0,0,0,2
+hci,人机交互,Human-Computer Interaction,COMP130138;COMP130197;SOFT130063,计算机核心,2,0,0,0,2
+ic,集成电路工艺原理,IC Process Technology,,计算机核心,1,0,1,0,0
+ics,计算机系统基础,Introduction to Computer Systems,CS10005;COMP130201,计算机核心,114,0,0,21,93
+imgvis,图像处理与可视化,Image Processing and Visualization,DATA130049,计算机核心,1,0,0,0,1
+infosec,信息安全,Information Security,COMP130163;COMP130166;COMP130021;SOFT130018,计算机核心,6,0,0,0,6
+ir,信息检索导论,Introduction to Information Retrieval,COMP130126,计算机核心,1,0,0,0,1
+kg,知识图谱,Knowledge Graph,,计算机核心,3,0,0,1,2
+memsafe,内存安全与程序设计语言,Memory Safety and Programming Language Design,,计算机核心,1,0,0,1,0
+ml,机器学习,Machine Learning,COMP130172;INFO130342;DATA130003,计算机核心,45,0,1,11,33
+multimodal,多模态,Multimodal Learning,,计算机核心,6,0,0,1,5
+network,计算机网络,Computer Networks,COMP130136;SOFT130023,计算机核心,28,0,2,1,25
+nlp,自然语言处理导论,Introduction to Natural Language Processing,COMP130141;DATA130030;COMP130199,计算机核心,31,0,1,5,25
+nlpllm,自然语言处理与大语言模型,NLP and Large Language Models,CS40008,计算机核心,4,0,1,2,1
+nndl,神经网络与深度学习,Neural Networks and Deep Learning,DATA130011;SOFT130085,计算机核心,85,0,0,12,73
+oop,面向对象程序设计,Object-Oriented Programming,COMP130135;SOFT130059,计算机核心,15,0,0,1,14
+os,操作系统,Operating Systems,COMP130110,计算机核心,50,1,1,11,37
+pa,程序分析,Program Analysis,,计算机核心,4,0,0,1,3
+parallel,并行计算,Parallel Computing,SOFT130070,计算机核心,2,0,0,0,2
+pdc,并行分布计算,Parallel and Distributed Computing,COMP130192,计算机核心,3,0,0,0,3
+pm,项目管理,Project Management,,计算机核心,6,0,0,0,6
+prml,模式识别与机器学习,Pattern Recognition and Machine Learning,COMP130137;COMP130030,计算机核心,28,0,0,11,17
+prog,程序设计,Programming,COMP120006;CS10004,计算机核心,86,0,1,10,75
+rl,强化学习,Reinforcement Learning,DATA130060,计算机核心,3,0,0,0,3
+robotics,机器人学,Robotics,COMP130062;INFO130371,计算机核心,6,0,0,0,6
+sdp,软件工程化开发,Software Development Practice,COMP130112,计算机核心,3,0,0,0,3
+se,软件工程,Software Engineering,COMP130015;SOFT130006,计算机核心,38,0,1,3,34
+seminars,学术讲座/研讨,Academic Seminars,,计算机核心,0,0,0,0,0
+softbasics,计算机软件基础,Computer Software Fundamentals,MICR130037,计算机核心,1,0,1,0,0
+st,软件质量保障与测试,Software Quality Assurance and Testing,SOFT130080,计算机核心,8,0,0,2,6
+toc,计算理论基础,Theory of Computation,COMP130023,计算机核心,4,0,2,2,0
+web,Web 开发,Web Development,,计算机核心,73,1,0,6,66
+webadv,高级 Web 技术,Advanced Web Technology,SOFT130050,计算机核心,9,0,0,2,7
+bigdata,大数据技术,Big Data Technology,COMP130125;DATA130014,数据科学,14,0,2,3,9
+causal,因果推断,Causal Inference,DATA130059,数据科学,1,0,0,0,1
+datagrad,数据科学研究生课程,Data Science Graduate Course,,数据科学,1,1,0,0,0
+dataviz,数据可视化,Data Visualization,COMP130174,数据科学,13,0,0,1,12
+db-impl,数据库及实现,Database Systems and Implementation,DATA130039,数据科学,5,0,0,0,5
+dm,数据挖掘技术,Data Mining,COMP130148,数据科学,19,0,0,2,17
+dsci,数据科学导论,Introduction to Data Science,,数据科学,13,0,0,2,11
+gen3d,3D 生成,3D Generation,,数据科学,4,0,0,0,4
+graphdm,图数据管理与挖掘,Graph Data Management and Mining,DATA130045,数据科学,1,0,0,0,1
+numalgo,数值算法,Numerical Algorithms,DATA130002;DATA130010,数据科学,2,0,0,0,2
+optim,优化方法,Optimization Methods,DATA130026,数据科学,2,0,0,2,0
+recommender,推荐系统,Recommender Systems,,数据科学,0,0,0,0,0
+regression,回归分析,Regression Analysis,DATA130046,数据科学,2,0,1,0,1
+snm,社会网络挖掘,Social Network Mining,DATA130007,数据科学,2,0,0,0,2
+statcomp,统计计算,Statistical Computing,DATA130062,数据科学,6,0,0,4,2
+advlinalg,高等代数,Advanced Algebra,MATH120011;MATH130002;DATA130042,数学与物理,7,0,2,1,4
+biology,生物学,Biology,BIOL120002,数学与物理,2,0,1,1,0
+calculus,高等数学,Calculus,MATH120021;MATH120022;MATH120003;MATH120004,数学与物理,1,1,0,0,0
+comp-physics,计算物理,Computational Physics,MATE130078;PHYS130098,数学与物理,6,0,0,2,4
+complex,复变函数,Complex Analysis,MATH130006,数学与物理,1,0,0,1,0
+discrete,离散数学,Discrete Mathematics,COMP130005;INFO130120,数学与物理,2,0,1,0,1
+graphtheory,图论,Graph Theory,COMP130149,数学与物理,1,0,0,1,0
+linalg,线性代数,Linear Algebra,COMP120004;MATH120020,数学与物理,1,0,0,0,1
+materials,材料物理,Materials Physics,MATE130010;MATE130085,数学与物理,1,0,1,0,0
+math-physics,数学物理方法,Mathematical Methods in Physics,,数学与物理,2,0,1,0,1
+mathanalysis,数学分析,Mathematical Analysis,MATH120014;MATH120015;MATH120016;MATH120017,数学与物理,0,0,0,0,0
+mathmodel,数学建模,Mathematical Modeling,COMP130075;MATH130008,数学与物理,3,0,0,0,3
+numanalysis,数值分析,Numerical Analysis,,数学与物理,1,0,0,0,1
+or,运筹学,Operations Research,MATH130019,数学与物理,1,0,0,0,1
+physics,大学物理,University Physics,PHYS120013;PHYS120014;PHYS120016;PHYS120017;PHYS120018,数学与物理,3,0,0,3,0
+probability,概率论,Probability Theory,COMP130006;DATA130024,数学与物理,2,0,1,1,0
+scicomp,科学计算导论,Introduction to Scientific Computing,,数学与物理,1,0,0,0,1
+stochastic,随机过程,Stochastic Processes,DATA130019,数学与物理,2,0,0,0,2
+econ,经济学,Economics,SOSC120007,通识与其他,3,0,0,2,1
+gamedev,游戏设计与开发,Game Design and Development,,通识与其他,1,0,0,1,0
+journalism,新闻传播,Journalism and Communication,JOUR120008;JOUR120009,通识与其他,3,0,0,2,1
+linguistics,语言学导论,Introduction to Linguistics,,通识与其他,1,0,1,0,0
+medicine,医学,Medicine,,通识与其他,4,0,0,1,3
+medimg,医学图像处理,Medical Image Processing,DATA130043,通识与其他,4,0,0,1,3
+sizheng,思政,Ideological and Political Theory,PTSS110079;PTSS110089;PTSS110088;PTSS110087;PTSS110082,通识与其他,3,0,1,1,1
