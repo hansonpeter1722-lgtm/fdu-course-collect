@@ -40,10 +40,10 @@
 | [fdu-csci3444/ex7_nodeJS_unitTesting_mocha_chai_istanbul](https://github.com/fdu-csci3444/ex7_nodeJS_unitTesting_mocha_chai_istanbul) | JavaScript | 2017 | Web 开发 · 课程项目：Example project of JS Unit testing 'Hello World' with Mocha and Chai and unit test coverage with Ist…（JavaScript，2017） |
 | [fdu-csci3444/ex8_nodeJS_webApp_express_ejs_bootstrap_nodemon](https://github.com/fdu-csci3444/ex8_nodeJS_webApp_express_ejs_bootstrap_nodemon) | JavaScript | 2017 | Web 开发 · 课程项目：Example project of nodeJS web app using express, ejs, bootstrap.（JavaScript，2017） |
 | [ripples-alive/fdu-web-course](https://github.com/ripples-alive/fdu-web-course) | PHP | 2017 | Web 开发 · 课程仓库（PHP，2017） |
-| [18302010060/fdu-18ss-web-lab](https://github.com/18302010060/fdu-18ss-web-lab) | TSQL | 2010 | Web 开发 · 课程实验（TSQL，2010） |
+| [[已隐去手机号]/fdu-18ss-web-lab](https://github.com/[已隐去手机号]/fdu-18ss-web-lab) | TSQL | 2010 | Web 开发 · 课程实验（TSQL，2010） |
 | [AmanovAkbar/SOFT130002_lab](https://github.com/AmanovAkbar/SOFT130002_lab) | HTML | 2019 | Web 开发 · 课程实验：Repository for uploading homework labs for fundamentals of Web at FDU（HTML，2019） |
-| [HakureiReimuQVQ/fdu-19ss-web-project](https://github.com/HakureiReimuQVQ/fdu-19ss-web-project) | HTML | 2020 | 19302010009 钱麒丹 &gt; 静态网址：https://hakureireimuovo.github.io/fdu-19ss-web-project/（HTML，2020） |
-| [HakureiReimuQVQ/fdu-19ss-web-project2](https://github.com/HakureiReimuQVQ/fdu-19ss-web-project2) | TSQL | 2020 | &gt; 19302010009 钱麒丹 &gt; GitHub地址: https://github.com/HakureiReimuOVO/fdu-19ss-web-project2/ &gt; 服务器地址: htt…（TSQL，2020） |
+| [HakureiReimuQVQ/fdu-19ss-web-project](https://github.com/HakureiReimuQVQ/fdu-19ss-web-project) | HTML | 2020 | [已隐去手机号] 钱麒丹 &gt; 静态网址：https://hakureireimuovo.github.io/fdu-19ss-web-project/（HTML，2020） |
+| [HakureiReimuQVQ/fdu-19ss-web-project2](https://github.com/HakureiReimuQVQ/fdu-19ss-web-project2) | TSQL | 2020 | &gt; [已隐去手机号] 钱麒丹 &gt; GitHub地址: https://github.com/HakureiReimuOVO/fdu-19ss-web-project2/ &gt; 服务器地址: htt…（TSQL，2020） |
 | [HuangZhenkun/edu.fudan.cs.schapp](https://github.com/HuangZhenkun/edu.fudan.cs.schapp) | Java | 2015 | Web 开发 · 课程仓库：edu.fudan.cs.schapp（Java，2015） |
 | [Jcole429/ez-access-event-planner](https://github.com/Jcole429/ez-access-event-planner) | Ruby | 2019 | Web 开发 · 课程项目：FDU E-commerce project（Ruby，2019） |
 | [PlaceboYan/fdu-18ss-web-lab](https://github.com/PlaceboYan/fdu-18ss-web-lab) | TSQL | 2019 | Web 开发 · 课程实验（TSQL，2019） |
@@ -53,7 +53,7 @@
 | [WenSenJay/SOFT_fdu-18ss-web-lab](https://github.com/WenSenJay/SOFT_fdu-18ss-web-lab) | — | 2019 | Web 开发 · 课程实验（未标注语言，2019） |
 | [Zhang-l-i-n/fdu-18ss-web-lab](https://github.com/Zhang-l-i-n/fdu-18ss-web-lab) | TSQL | 2019 | Web 开发 · 课程实验（TSQL，2019） |
 | [asqulier/fdu-18ss-web-lab](https://github.com/asqulier/fdu-18ss-web-lab) | TSQL | 2019 | Web 开发 · 课程实验（TSQL，2019） |
-| [bfker/fdu-19ss-web-project](https://github.com/bfker/fdu-19ss-web-project) | CSS | 2020 | 姓名：谢知然 学号 19302010085 github地址： https://github.com/bfker/-fdu-19ss-web-project.git（CSS，2020） |
+| [bfker/fdu-19ss-web-project](https://github.com/bfker/fdu-19ss-web-project) | CSS | 2020 | 姓名：谢知然 学号 [已隐去手机号] github地址： https://github.com/bfker/-fdu-19ss-web-project.git（CSS，2020） |
 | [bfker/fudan19ss-web-Project-2](https://github.com/bfker/fudan19ss-web-Project-2) | JavaScript | 2020 | Web 开发 · 课程项目（JavaScript，2020） |
 | [crowdbotics-apps/fdu-32530](https://github.com/crowdbotics-apps/fdu-32530) | Python | 2021 | Web 开发 · 课程仓库：This react_native application was built with Crowdbotics www.crowdbotics.com（Python，2021） |
 | [cynicalight/fudan-morden-web-lab](https://github.com/cynicalight/fudan-morden-web-lab) | — | 2026 | Web 开发 · 课程实验：Modern Web coursework: vulnerability and component management with React, TypeScript, shadcn/ui (Bas…（未标注语言，2026） |
