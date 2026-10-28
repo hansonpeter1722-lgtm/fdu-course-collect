@@ -42,8 +42,8 @@
 | [ripples-alive/fdu-web-course](https://github.com/ripples-alive/fdu-web-course) | PHP | 2017 | Web 开发 · 课程仓库（PHP，2017） |
 | [[已隐去手机号]/fdu-18ss-web-lab](https://github.com/[已隐去手机号]/fdu-18ss-web-lab) | TSQL | 2010 | Web 开发 · 课程实验（TSQL，2010） |
 | [AmanovAkbar/SOFT130002_lab](https://github.com/AmanovAkbar/SOFT130002_lab) | HTML | 2019 | Web 开发 · 课程实验：Repository for uploading homework labs for fundamentals of Web at FDU（HTML，2019） |
-| [HakureiReimuQVQ/fdu-19ss-web-project](https://github.com/HakureiReimuQVQ/fdu-19ss-web-project) | HTML | 2020 | [已隐去手机号] 钱麒丹 &gt; 静态网址：https://hakureireimuovo.github.io/fdu-19ss-web-project/（HTML，2020） |
-| [HakureiReimuQVQ/fdu-19ss-web-project2](https://github.com/HakureiReimuQVQ/fdu-19ss-web-project2) | TSQL | 2020 | &gt; [已隐去手机号] 钱麒丹 &gt; GitHub地址: https://github.com/HakureiReimuOVO/fdu-19ss-web-project2/ &gt; 服务器地址: htt…（TSQL，2020） |
+| [HakureiReimuQVQ/fdu-19ss-web-project](https://github.com/HakureiReimuQVQ/fdu-19ss-web-project) | HTML | 2020 | [已隐去手机号] 钱麒丹 静态网址：https://hakureireimuovo.github.io/fdu-19ss-web-project/（HTML，2020） |
+| [HakureiReimuQVQ/fdu-19ss-web-project2](https://github.com/HakureiReimuQVQ/fdu-19ss-web-project2) | TSQL | 2020 | [已隐去手机号] 钱麒丹 GitHub地址: https://github.com/HakureiReimuOVO/fdu-19ss-web-project2/ 服务器地址: http://cy…（TSQL，2020） |
 | [HuangZhenkun/edu.fudan.cs.schapp](https://github.com/HuangZhenkun/edu.fudan.cs.schapp) | Java | 2015 | Web 开发 · 课程仓库：edu.fudan.cs.schapp（Java，2015） |
 | [Jcole429/ez-access-event-planner](https://github.com/Jcole429/ez-access-event-planner) | Ruby | 2019 | Web 开发 · 课程项目：FDU E-commerce project（Ruby，2019） |
 | [PlaceboYan/fdu-18ss-web-lab](https://github.com/PlaceboYan/fdu-18ss-web-lab) | TSQL | 2019 | Web 开发 · 课程实验（TSQL，2019） |
