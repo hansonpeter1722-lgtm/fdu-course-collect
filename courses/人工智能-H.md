@@ -1,6 +1,6 @@
 # 人工智能（H）
 
-> 课程代码：未标注 · 领域：计算机核心 · 共 6 个仓库
+> 课程代码：未标注 · 领域：计算机核心 · 共 7 个仓库
 
 [返回课程总览](../COURSES.md) · [返回首页](../README.md)
 
@@ -8,9 +8,28 @@
 
 暂无。
 
-## 笔记（0）
+## 笔记（1）
 
 暂无。
+
+
+
+
+
+
+### 合集内资源（2 个文件）
+
+| 合集 | 文件数 | 文件链接 |
+| --- | ---: | ---: |
+| [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 2 | 2 |
+
+<details><summary>展开文件链接</summary>
+
+**victkk/FDU-Sharing**
+- [public/resources/人工智能H（郑骁庆）/2026-笔记-人工智能H（郑骁庆）.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDH%EF%BC%88%E9%83%91%E9%AA%81%E5%BA%86%EF%BC%89/2026-%E7%AC%94%E8%AE%B0-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDH%EF%BC%88%E9%83%91%E9%AA%81%E5%BA%86%EF%BC%89.pdf)
+- [public/resources/人工智能H（郑骁庆）/2026-笔记-人工智能H（郑骁庆）页码索引.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDH%EF%BC%88%E9%83%91%E9%AA%81%E5%BA%86%EF%BC%89/2026-%E7%AC%94%E8%AE%B0-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDH%EF%BC%88%E9%83%91%E9%AA%81%E5%BA%86%EF%BC%89%E9%A1%B5%E7%A0%81%E7%B4%A2%E5%BC%95.pdf)
+
+</details>
 
 ## 课程材料（1）
 
@@ -27,12 +46,6 @@
 | [mimiqi/FDU-CS30057-ArtificialIntelligence](https://github.com/mimiqi/FDU-CS30057-ArtificialIntelligence) | Python | 2026 | 人工智能（H） · 课程仓库（Python，2026） |
 | [weaselkns/FDU-AIH-2026spring-lab2](https://github.com/weaselkns/FDU-AIH-2026spring-lab2) | Python | 2026 | Python 3.10+（与类型注解、torch 等兼容较好）。（Python，2026） |
 | [xht03/AI](https://github.com/xht03/AI) | Jupyter Notebook | 2025 | 人工智能（H） · 课程实验：Labs for FDU 2025 AI(H)（Jupyter Notebook，2025） |
-
-## 合集内课程资源（1）
-
-| 合集 | 子目录 | 类型 | 文件数 |
-| --- | --- | --- | ---: |
-| [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | [public/resources/人工智能H（郑骁庆）](<https://github.com/victkk/FDU-Sharing/tree/master/public/resources/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDH%EF%BC%88%E9%83%91%E9%AA%81%E5%BA%86%EF%BC%89>) | 课程材料 | 2 |
 
 ---
 

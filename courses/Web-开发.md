@@ -1,6 +1,6 @@
 # Web 开发
 
-> 课程代码：未标注 · 领域：计算机核心 · 共 73 个仓库
+> 课程代码：未标注 · 领域：计算机核心 · 共 72 个仓库
 
 [返回课程总览](../COURSES.md) · [返回首页](../README.md)
 
@@ -25,7 +25,7 @@
 | [baiyujie/pop-fdui-vue-pc](https://github.com/baiyujie/pop-fdui-vue-pc) | 2017 | 0 | 用于PC端的项目开发demo, ie9及以上浏览器 |
 | [fdu-awt/mini-fdu](https://github.com/fdu-awt/mini-fdu) | 2024 | 0 | 2024年春季学期《高级Web技术》课程实践项目 |
 
-## 代码仓（66）
+## 代码仓（65）
 
 | 仓库 | 语言 | 年份 | 简介 |
 | --- | --- | --- | --- |
@@ -40,7 +40,6 @@
 | [fdu-csci3444/ex7_nodeJS_unitTesting_mocha_chai_istanbul](https://github.com/fdu-csci3444/ex7_nodeJS_unitTesting_mocha_chai_istanbul) | JavaScript | 2017 | Web 开发 · 课程项目：Example project of JS Unit testing 'Hello World' with Mocha and Chai and unit test coverage with Ist…（JavaScript，2017） |
 | [fdu-csci3444/ex8_nodeJS_webApp_express_ejs_bootstrap_nodemon](https://github.com/fdu-csci3444/ex8_nodeJS_webApp_express_ejs_bootstrap_nodemon) | JavaScript | 2017 | Web 开发 · 课程项目：Example project of nodeJS web app using express, ejs, bootstrap.（JavaScript，2017） |
 | [ripples-alive/fdu-web-course](https://github.com/ripples-alive/fdu-web-course) | PHP | 2017 | Web 开发 · 课程仓库（PHP，2017） |
-| [[已隐去手机号]/fdu-18ss-web-lab](https://github.com/[已隐去手机号]/fdu-18ss-web-lab) | TSQL | 2010 | Web 开发 · 课程实验（TSQL，2010） |
 | [AmanovAkbar/SOFT130002_lab](https://github.com/AmanovAkbar/SOFT130002_lab) | HTML | 2019 | Web 开发 · 课程实验：Repository for uploading homework labs for fundamentals of Web at FDU（HTML，2019） |
 | [HakureiReimuQVQ/fdu-19ss-web-project](https://github.com/HakureiReimuQVQ/fdu-19ss-web-project) | HTML | 2020 | [已隐去手机号] 钱麒丹 静态网址：https://hakureireimuovo.github.io/fdu-19ss-web-project/（HTML，2020） |
 | [HakureiReimuQVQ/fdu-19ss-web-project2](https://github.com/HakureiReimuQVQ/fdu-19ss-web-project2) | TSQL | 2020 | [已隐去手机号] 钱麒丹 GitHub地址: https://github.com/HakureiReimuOVO/fdu-19ss-web-project2/ 服务器地址: http://cy…（TSQL，2020） |

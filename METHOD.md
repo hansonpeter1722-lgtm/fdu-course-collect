@@ -28,13 +28,13 @@
 4. 课程页子分类：标题/描述优先，README 辅助；Lab/PJ/Project 优先判代码仓；课程网站/课件/报告判课程材料。
 5. 代码仓简介：语言 + 年份 + 仓库描述/README 首段，自动生成一句话。
 
-## 合集内课程拆分
+## 合集内资源拆分
 
 - 扫描 42 个通用大仓，并补充 FDU-Sharing、OpenDS、fdu-note 等大合集；共 46 个扫描对象，其中 14 个含课程目录。
-- 递归读取默认分支 tree，按目录名匹配 94 门 canonical 课程；共拆出 155 条课程子目录。
-- 主要来源：FDU-Sharing 41、fudan-coursera 26、FDU-Course-Notes 18、Fudan-Courses 18、fdu-course-resources 11、FDU_Courses_Undergraduate 10、OpenDS 7、Course-Project 6、FDU-SDS 5、fdu-note 4。
-- 82 条未归类目录（通识、音乐、哲学、军事等）保留在 COLLECTIONS.md。
-- 只拆目录并链接到子目录，不复制文件内容。
+- 递归拆到文件：每个文件直接链 GitHub blob，不再只链父目录或叶子目录。
+- 共 5,633 个文件链接，归为 247 个「课程 × 合集 × 模块」组。
+- 按试题/笔记/课程材料/代码仓四个模块并入课程页；旧的独立「合集内课程资源」段已移除。
+- 已排除 runs/build/dist/__pycache__ 等构建产物和图片；习题解答/习题课归笔记/材料，不算试题。
 
 ## 覆盖与局限
 
