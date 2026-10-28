@@ -1,0 +1,9 @@
+---
+import Layout from '../layouts/Layout.astro';
+import DataBrowser from '../components/DataBrowser';
+import files from '../data/collection-files.json';
+import collections from '../data/collections.json';
+import courses from '../data/courses.json';
+import dataUrl from '../data/collection-files.json?url';
+---
+<Layout title="合集文件"><div class="page-heading"><p class="eyebrow">COLLECTION FILES</p><h1>散落的文件，集中找。</h1><p>{collections.length.toLocaleString('zh-CN')} 个课程 × 合集 × 模块组，收录 {files.length.toLocaleString('zh-CN')} 条文件记录。点击路径，在 GitHub 查看原文件。</p></div><DataBrowser kind="collections" dataUrl={dataUrl} initial={files.slice(0, 30)} courses={courses.map(c => ({ id: c.id, name: c.name }))} client:load/></Layout>

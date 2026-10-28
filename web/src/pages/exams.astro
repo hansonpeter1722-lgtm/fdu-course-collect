@@ -1,0 +1,8 @@
+---
+import Layout from '../layouts/Layout.astro';
+import DataBrowser from '../components/DataBrowser';
+import exams from '../data/exams.json';
+import courses from '../data/courses.json';
+import dataUrl from '../data/exams.json?url';
+---
+<Layout title="网络试题"><div class="page-heading"><p class="eyebrow">EXAM INDEX</p><h1>网络试题</h1><p>共 {exams.length.toLocaleString('zh-CN')} 条索引。只索引公开链接，不托管正文。</p></div><div class="notice compact"><p>默认只显示免费公开和可预览条目。「仅可预览」不代表全文免费；付费与未知获取方式需主动开启，实际权限以原站为准。</p></div><DataBrowser kind="exams" dataUrl={dataUrl} initial={exams.filter(e => ['free', 'preview'].includes(e.accessKind)).slice(0, 30)} courses={courses.map(c => ({ id: c.id, name: c.name }))} client:load/></Layout>

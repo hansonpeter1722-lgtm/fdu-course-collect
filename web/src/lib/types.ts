@@ -1,0 +1,85 @@
+export type Course = {
+  id: string;
+  name: string;
+  enName: string;
+  codes: string[];
+  area: string;
+  counts: { repos: number; exams: number; collectionFiles: number };
+  status: string;
+  mergeInto: string;
+  scheduleMatch: string;
+};
+export type Repo = {
+  courseId: string;
+  courseName: string;
+  fullName: string;
+  url: string;
+  type: string;
+  tags: string[];
+  language: string;
+  stars: number;
+  year: string;
+  intro: string;
+  desc: string;
+};
+export type Exam = {
+  courseId: string;
+  courseName: string;
+  title: string;
+  url: string;
+  source: string;
+  type: string;
+  year: string;
+  access: string;
+  accessKind: string;
+  desc: string;
+};
+export type CollectionFile = {
+  courseId: string;
+  courseName: string;
+  module: string;
+  path: string;
+  url: string;
+  collection: string;
+  ext: string;
+};
+export type Schedule = {
+  name: string;
+  codes: string[];
+  credits: string;
+  sections: string;
+  departments: string[];
+  coverage: string;
+  localName: string;
+  suggestedLocal: string;
+  localId: string;
+};
+export type SearchDoc = {
+  id: string;
+  type: string;
+  title: string;
+  subtitle: string;
+  text: string;
+  href: string;
+  codes: string[];
+  courseId: string;
+  courseName: string;
+  status: string;
+  area: string;
+  resourceType: string;
+  access: string;
+  language: string;
+  year: string;
+};
+export type ResourceRow = {
+  title: string;
+  url: string;
+  source: string;
+  year: string;
+  access: string;
+  type: string;
+  language: string;
+  stars: string;
+  description: string;
+};
+export type Column = { key: string; label: string };

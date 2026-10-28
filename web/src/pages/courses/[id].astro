@@ -1,0 +1,37 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ResourceTable from '../../components/ResourceTable';
+import courses from '../../data/courses.json';
+import repos from '../../data/repos.json';
+import exams from '../../data/exams.json';
+import files from '../../data/collection-files.json';
+import { accessLabels, href, statusClass } from '../../lib/links';
+import type { Course, ResourceRow } from '../../lib/types';
+export function getStaticPaths() { return courses.map(course => ({ params: { id: course.id }, props: { course } })); }
+const { course } = Astro.props as { course: Course };
+const target = courses.find(c => c.name === course.mergeInto);
+const modules: { name: string; color: string; subtitle: string; rows: ResourceRow[] }[] = [
+  { name: '试题', color: 'exam', subtitle: '历年试题与考试参考', rows: [] },
+  { name: '课程资料', color: 'material', subtitle: '笔记、课件与作业资料', rows: [] },
+  { name: '代码仓库', color: 'code', subtitle: '课程项目与代码参考', rows: [] },
+];
+for (const r of repos.filter(r => r.courseId === course.id)) {
+  const index = r.type === '试题' ? 0 : r.type === '代码仓' ? 2 : 1;
+  modules[index].rows.push({ title: r.fullName, url: r.url, source: 'GitHub 仓库', year: r.year, access: '公开链接 · 以原站为准', type: r.type, language: r.language, stars: String(r.stars), description: r.intro || r.desc });
+}
+for (const e of exams.filter(e => e.courseId === course.id && ['free', 'preview'].includes(e.accessKind))) modules[0].rows.push({ title: e.title, url: e.url, source: e.source || '网络索引', year: e.year, access: [accessLabels[e.accessKind], e.access].filter(Boolean).join(' · '), type: e.type, language: '', stars: '', description: e.desc });
+const languageFor = (ext: string) => ({ py: 'Python', js: 'JavaScript', ts: 'TypeScript', c: 'C', cpp: 'C++', java: 'Java', rs: 'Rust', go: 'Go', ipynb: 'Jupyter Notebook', m: 'MATLAB' })[ext.replace(/^\./, '').toLowerCase()];
+for (const f of files.filter(f => f.courseId === course.id)) {
+  const index = f.module === '试题' ? 0 : f.module === '代码仓库' ? 2 : 1;
+  const type = f.originalModule === '笔记' || /笔记|note/i.test(f.path) ? '笔记' : /课件|slides?|lecture/i.test(f.path) ? '课件' : /作业|homework|assignment/i.test(f.path) ? '作业' : '合集';
+  modules[index].rows.push({ title: f.path, url: f.url, source: `合集 · ${f.collection}`, year: f.path.match(/(?:19|20)\d{2}/)?.[0] || '', access: 'GitHub 文件链接', type, language: languageFor(f.ext) || '', stars: '', description: '' });
+}
+---
+<Layout title={course.name}><div class="breadcrumb"><a href={href('courses/')}>课程总览</a><span>/</span><span>{course.name}</span></div><header class="course-heading"><div class="course-meta"><span>{course.area}</span><span class:list={['badge', statusClass(course.status)]}>{course.status}</span></div><h1>{course.name}</h1>{course.enName && <p class="course-english">{course.enName}</p>}<div class="course-codes">{course.codes.map(code => <span>{code}</span>)}</div>{course.scheduleMatch && <p class="muted">2026 开课名称：{course.scheduleMatch}</p>}</header>
+  {course.status === '合并' && <p class="status-notice">2026 已并入 {target ? <a href={href(`courses/${target.id}/`)}>{course.mergeInto} →</a> : course.mergeInto}</p>}
+  {course.status === '今年未开课' && <p class="status-notice">2026 未开课，以下为历史资料</p>}
+  {course.status === '研究生已过滤' && <p class="status-notice">仅研究生课程，已按规则过滤</p>}
+  <nav class="module-nav" aria-label="课程模块">{modules.map((module, i) => <a class={module.color} href={`#module-${i}`}>{module.name}<span>{module.rows.length}</span></a>)}</nav>
+  <p class="muted resource-note">点击资源名称访问原始来源。试题表默认展示免费公开及可预览索引；<a href={href(`exams/?course=${course.id}`)}>其他获取方式在试题总索引查看</a>。</p>
+  {modules.map((module, i) => <section id={`module-${i}`} class:list={['resource-module', module.color]} data-resource-module={module.name}><div class="module-heading"><div><span class="module-number">0{i + 1}</span><h2>{module.name}</h2><p>{module.subtitle}</p></div><span>{module.rows.length.toLocaleString('zh-CN')} 条</span></div><ResourceTable rows={module.rows} module={module.name} client:load/></section>)}
+</Layout>

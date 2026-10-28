@@ -1,0 +1,7 @@
+---
+import Layout from '../layouts/Layout.astro';
+import DataBrowser from '../components/DataBrowser';
+import schedule from '../data/schedule.json';
+import dataUrl from '../data/schedule.json?url';
+---
+<Layout title="2026 开课"><div class="page-heading"><p class="eyebrow">2026 COURSE SCHEDULE</p><h1>这学期，开了哪些课？</h1><p>共 {schedule.length.toLocaleString('zh-CN')} 门本科课程。查看本地资料覆盖情况，按院系、学分和课程名称筛选。</p></div><DataBrowser kind="schedule" dataUrl={dataUrl} initial={schedule.slice(0, 30)} courses={[]} client:load/></Layout>
