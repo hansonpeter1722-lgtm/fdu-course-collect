@@ -47,7 +47,7 @@ async function main() {
   }
   if (missing.length)
     throw new Error(
-      `缺少只读数据源：${missing.join("、")}\n预期目录：${source}\n请将 web/ 放入已有 data/ 的 fdu-github-collect 根目录；不会生成或下载替代数据。`,
+      `缺少只读数据源：${missing.join("、")}\n预期目录：${source}\n请将 web/ 放入已有 data/ 的 fdu-course-collect 根目录；不会生成或下载替代数据。`,
     );
   const raw = {};
   for (const [name, fields] of Object.entries(schemas)) {

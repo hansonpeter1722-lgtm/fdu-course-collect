@@ -1,6 +1,6 @@
 # 交付验收记录
 
-日期：2026-10-28（北京时间）。目标仓库远程：`hansonpeter1722-lgtm/fdu-github-collect`。全部新增实现位于 `web/`，使用七份原始 CSV；未重新抓取、未修改数据或已有 Markdown，未部署、未推送、未创建 PR。已比对 web/ 外 180 个文件的 SHA-256，内容均未改变；仓库原有未提交更改保留。
+日期：2026-10-28（北京时间）。目标仓库远程：`hansonpeter1722-lgtm/fdu-course-collect`。全部新增实现位于 `web/`，使用七份原始 CSV；未重新抓取、未修改数据或已有 Markdown，未部署、未推送、未创建 PR。已比对 web/ 外 180 个文件的 SHA-256，内容均未改变；仓库原有未提交更改保留。
 
 ## 构建与测试
 
@@ -11,7 +11,7 @@
 | `ASTRO_TELEMETRY_DISABLED=1 npm run build` | 成功；生成 `web/dist/`，158 个静态页面 |
 | `ASTRO_TELEMETRY_DISABLED=1 npm run check` | 0 errors / 0 warnings / 0 hints |
 | `npm test` | 六项全部通过 |
-| `PUBLIC_BASE_PATH=/fdu-github-collect/` | 隔离测试数据的构建与浏览器验证通过；正式 dist 保留根路径构建 |
+| `PUBLIC_BASE_PATH=/fdu-course-collect/` | 隔离测试数据的构建与浏览器验证通过；正式 dist 保留根路径构建 |
 
 Astro CLI 验证禁用遥测，避免写入用户偏好目录。未添加站点统计脚本。单元测试的数据输出位于 `.qa/`，不会覆盖正式 JSON。
 

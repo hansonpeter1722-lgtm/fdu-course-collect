@@ -4,10 +4,10 @@ Astro + TypeScript + Tailwind CSS，搜索、筛选和分页使用独立 React i
 
 ## 放置位置与启动
 
-将整个 `web/` 放在 `fdu-github-collect/` 根目录，和已有的 `data/` 同级。
+将整个 `web/` 放在 `fdu-course-collect/` 根目录，和已有的 `data/` 同级。
 
 ```text
-fdu-github-collect/
+fdu-course-collect/
   data/                 # 原仓库的七份 CSV，只读
   LICENSE               # 若存在，构建时复制到 web/public/LICENSE.txt
   web/
@@ -30,10 +30,10 @@ npm run preview
 子路径构建示例：
 
 ```sh
-PUBLIC_BASE_PATH=/fdu-github-collect/ npm run build
+PUBLIC_BASE_PATH=/fdu-course-collect/ npm run build
 ```
 
-可设置 `PUBLIC_REPOSITORY_URL=https://github.com/实际所有者/fdu-github-collect`。未设置时脚本尝试从父仓库 Git remote 读取；该值用于数据来源和移除请求入口。如果缺少来源地址或 LICENSE，关于页会明确说明，不编造仓库、联系人或许可。这里的变量通过命令行或 shell 环境传入；`.env.example` 仅作为说明。
+可设置 `PUBLIC_REPOSITORY_URL=https://github.com/实际所有者/fdu-course-collect`。未设置时脚本尝试从父仓库 Git remote 读取；该值用于数据来源和移除请求入口。如果缺少来源地址或 LICENSE，关于页会明确说明，不编造仓库、联系人或许可。这里的变量通过命令行或 shell 环境传入；`.env.example` 仅作为说明。
 
 ## 页面
 
