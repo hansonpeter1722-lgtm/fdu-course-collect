@@ -1,10 +1,10 @@
 # 普化A上
 
-> 课程代码：— · 领域：通识与其他 · 共 0 个 GitHub 仓库 / 35 个合集文件
+> 课程代码：— · 领域：通识与其他 · 共 0 个 GitHub 仓库 / 48 个合集文件
 
 [返回课程总览](../COURSES.md) · [返回首页](../README.md) · [网络试题](../EXAMS.md) · [合集资源](../COLLECTIONS.md)
 
-## 试题（22）
+## 试题（35）
 
 | 试题 / 仓库 | 来源 | 年份 | 说明 |
 | --- | --- | --- | --- |
@@ -30,6 +30,19 @@
 | [public/resources/普化A上/期末真题（3份）/2017GC（II）.ppt](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/%E6%9C%9F%E6%9C%AB%E7%9C%9F%E9%A2%98%EF%BC%883%E4%BB%BD%EF%BC%89/2017GC%EF%BC%88II%EF%BC%89.ppt) | victkk/FDU-Sharing | — | 合集文件 |
 | [public/resources/普化A上/期末真题（3份）/2017GC（I）.ppt](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/%E6%9C%9F%E6%9C%AB%E7%9C%9F%E9%A2%98%EF%BC%883%E4%BB%BD%EF%BC%89/2017GC%EF%BC%88I%EF%BC%89.ppt) | victkk/FDU-Sharing | — | 合集文件 |
 | [public/resources/普化A上/期末真题（3份）/2022秋普化A期末试题.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/%E6%9C%9F%E6%9C%AB%E7%9C%9F%E9%A2%98%EF%BC%883%E4%BB%BD%EF%BC%89/2022%E7%A7%8B%E6%99%AE%E5%8C%96A%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf) | victkk/FDU-Sharing | — | 合集文件 |
+| [化学-普通化学A/hwm_华伟明/普通化学A(下)期末考试题目.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%8C%96%E5%AD%A6-%E6%99%AE%E9%80%9A%E5%8C%96%E5%AD%A6A/hwm_%E5%8D%8E%E4%BC%9F%E6%98%8E/%E6%99%AE%E9%80%9A%E5%8C%96%E5%AD%A6A%28%E4%B8%8B%29%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE.pdf) | Annan-lyn/fudan-exam-paper | — | 合集文件 |
+| [化学-普通化学A/yb_岳斌/2017GC（II）.ppt](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%8C%96%E5%AD%A6-%E6%99%AE%E9%80%9A%E5%8C%96%E5%AD%A6A/yb_%E5%B2%B3%E6%96%8C/2017GC%EF%BC%88II%EF%BC%89.ppt) | Annan-lyn/fudan-exam-paper | — | 合集文件 |
+| [化学-普通化学A/佚名/18期中（含答案）.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%8C%96%E5%AD%A6-%E6%99%AE%E9%80%9A%E5%8C%96%E5%AD%A6A/%E4%BD%9A%E5%90%8D/18%E6%9C%9F%E4%B8%AD%EF%BC%88%E5%90%AB%E7%AD%94%E6%A1%88%EF%BC%89.pdf) | Annan-lyn/fudan-exam-paper | — | 合集文件 |
+| [化学-普通化学A/佚名/2015A(复旦大学2015年普化A上期末试题)解析.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%8C%96%E5%AD%A6-%E6%99%AE%E9%80%9A%E5%8C%96%E5%AD%A6A/%E4%BD%9A%E5%90%8D/2015A%28%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A62015%E5%B9%B4%E6%99%AE%E5%8C%96A%E4%B8%8A%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%29%E8%A7%A3%E6%9E%90.pdf) | Annan-lyn/fudan-exam-paper | — | 合集文件 |
+| [化学-普通化学A/佚名/2017GC（I）.ppt](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%8C%96%E5%AD%A6-%E6%99%AE%E9%80%9A%E5%8C%96%E5%AD%A6A/%E4%BD%9A%E5%90%8D/2017GC%EF%BC%88I%EF%BC%89.ppt) | Annan-lyn/fudan-exam-paper | — | 合集文件 |
+| [化学-普通化学A/佚名/2022秋普化A医科班期中小测.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%8C%96%E5%AD%A6-%E6%99%AE%E9%80%9A%E5%8C%96%E5%AD%A6A/%E4%BD%9A%E5%90%8D/2022%E7%A7%8B%E6%99%AE%E5%8C%96A%E5%8C%BB%E7%A7%91%E7%8F%AD%E6%9C%9F%E4%B8%AD%E5%B0%8F%E6%B5%8B.pdf) | Annan-lyn/fudan-exam-paper | — | 合集文件 |
+| [化学-普通化学A/佚名/2022秋普化A期末试题.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%8C%96%E5%AD%A6-%E6%99%AE%E9%80%9A%E5%8C%96%E5%AD%A6A/%E4%BD%9A%E5%90%8D/2022%E7%A7%8B%E6%99%AE%E5%8C%96A%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf) | Annan-lyn/fudan-exam-paper | — | 合集文件 |
+| [化学-普通化学A/佚名/2022秋普化A自科班期中小测.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%8C%96%E5%AD%A6-%E6%99%AE%E9%80%9A%E5%8C%96%E5%AD%A6A/%E4%BD%9A%E5%90%8D/2022%E7%A7%8B%E6%99%AE%E5%8C%96A%E8%87%AA%E7%A7%91%E7%8F%AD%E6%9C%9F%E4%B8%AD%E5%B0%8F%E6%B5%8B.pdf) | Annan-lyn/fudan-exam-paper | — | 合集文件 |
+| [化学-普通化学A/佚名/21-22普化A下期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%8C%96%E5%AD%A6-%E6%99%AE%E9%80%9A%E5%8C%96%E5%AD%A6A/%E4%BD%9A%E5%90%8D/21-22%E6%99%AE%E5%8C%96A%E4%B8%8B%E6%9C%9F%E6%9C%AB.pdf) | Annan-lyn/fudan-exam-paper | — | 合集文件 |
+| [化学-普通化学A/佚名/普化A 2024秋期中考试.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%8C%96%E5%AD%A6-%E6%99%AE%E9%80%9A%E5%8C%96%E5%AD%A6A/%E4%BD%9A%E5%90%8D/%E6%99%AE%E5%8C%96A%202024%E7%A7%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf) | Annan-lyn/fudan-exam-paper | — | 合集文件 |
+| [化学-有机化学/wqr_王全瑞/有机化学_2020_Final_密码FDOC20July1.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%8C%96%E5%AD%A6-%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6/wqr_%E7%8E%8B%E5%85%A8%E7%91%9E/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6_2020_Final_%E5%AF%86%E7%A0%81FDOC20July1.pdf) | Annan-lyn/fudan-exam-paper | — | 合集文件 |
+| [化学-有机化学/wqr_王全瑞/有机化学_2022_Final_密码finalJWZJ.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%8C%96%E5%AD%A6-%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6/wqr_%E7%8E%8B%E5%85%A8%E7%91%9E/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6_2022_Final_%E5%AF%86%E7%A0%81finalJWZJ.pdf) | Annan-lyn/fudan-exam-paper | — | 合集文件 |
+| [化学-有机化学/wqr_王全瑞/有机化学_2022_Midterm_密码65642261.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%8C%96%E5%AD%A6-%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6/wqr_%E7%8E%8B%E5%85%A8%E7%91%9E/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6_2022_Midterm_%E5%AF%86%E7%A0%8165642261.pdf) | Annan-lyn/fudan-exam-paper | — | 合集文件 |
 
 ## 课程资料（13）
 
@@ -55,4 +68,4 @@
 
 ---
 
-> 以上仓库/文件版权归各作者所有，本页仅收录公开链接与元数据，不包含任何内容。如有异议，[点此提交移除请求](https://github.com/hansonpeter1722-lgtm/fdu-github-collect/issues/new?template=removal-request.yml)，48 小时内处理。详见 [DISCLAIMER](../DISCLAIMER.md)。
+> 以上仓库/文件版权归各作者所有，本页仅收录公开链接与元数据，不包含任何内容。如有异议，[点此提交移除请求](https://github.com/hansonpeter1722-lgtm/fdu-course-collect/issues/new?template=removal-request.yml)，48 小时内处理。详见 [DISCLAIMER](../DISCLAIMER.md)。

@@ -4,6 +4,7 @@ import path from "node:path";
 import { execFileSync } from "node:child_process";
 import { parse } from "csv-parse";
 import { parseList, safeUrl } from "./parse-list.mjs";
+import { buildCourseResources, examType } from "../src/lib/resources.mjs";
 
 const web = fileURLToPath(new URL("../", import.meta.url));
 const source = path.resolve(
@@ -47,7 +48,7 @@ async function main() {
   }
   if (missing.length)
     throw new Error(
-      `缺少只读数据源：${missing.join("、")}\n预期目录：${source}\n请将 web/ 放入已有 data/ 的 fdu-course-collect 根目录；不会生成或下载替代数据。`,
+      `缺少只读数据源：${missing.join("、")}\n预期目录：${source}\n请将 web/ 放入已有 data/ 的 fdu-github-collect 根目录；不会生成或下载替代数据。`,
     );
   const raw = {};
   for (const [name, fields] of Object.entries(schemas)) {
@@ -89,7 +90,7 @@ async function main() {
       throw new Error(`课程 id 非法或重复：${r.id}`);
     ids.add(r.id);
     if (
-      !["开课", "合并", "今年未开课", "研究生已过滤"].includes(
+      !["开课", "合并", "今年未开课", "研究生已过滤", "未匹配"].includes(
         r.schedule_status,
       )
     )
@@ -107,6 +108,10 @@ async function main() {
     };
   });
   const byId = new Map(courses.map((c) => [c.id, c]));
+  const aliasConfig = JSON.parse(
+    await readFile(path.join(web, "src/config/course-aliases.json"), "utf8"),
+  );
+  for (const c of courses) c.aliases = aliasConfig[c.id] || [];
   const byName = new Map(courses.map((c) => [c.name, c]));
   const byScheduleName = new Map(
     courses
@@ -239,6 +244,20 @@ async function main() {
         throw new Error(`资源引用不存在的课程：${row.courseId}`);
       if (course) course.counts[key]++;
     }
+  for (const c of courses) {
+    const groups = buildCourseResources(c.id, repos, exams, collectionFiles);
+    c.moduleCounts = {
+      exams: groups["试题"].length,
+      materials: groups["课程资料"].length,
+      code: groups["代码仓库"].length,
+    };
+    c.searchCodes = [
+      ...new Set([
+        ...c.codes,
+        ...schedule.filter((s) => s.localId === c.id).flatMap((s) => s.codes),
+      ]),
+    ];
+  }
   let repositoryUrl = safeUrl(process.env.PUBLIC_REPOSITORY_URL || "");
   if (!repositoryUrl)
     try {
@@ -274,7 +293,7 @@ async function main() {
     sourceRepos: raw.course_repos.length,
     duplicatesRemoved: raw.course_repos.length - repos.length,
     status: Object.fromEntries(
-      ["开课", "合并", "今年未开课", "研究生已过滤"].map((s) => [
+      ["开课", "合并", "今年未开课", "研究生已过滤", "未匹配"].map((s) => [
         s,
         courses.filter((c) => c.status === s).length,
       ]),
@@ -304,6 +323,8 @@ async function main() {
       ],
       id: `course:${c.id}`,
       type: "课程",
+      aliases: c.aliases,
+      moduleCounts: c.moduleCounts,
       title: c.name,
       subtitle: c.enName,
       text: [c.name, c.enName, c.scheduleMatch, ...c.codes].join(" "),
@@ -335,6 +356,7 @@ async function main() {
       text: [e.title, e.courseName, e.desc, e.source].join(" "),
       href: e.url,
       resourceType: e.type || "试题",
+      examType: examType(e.title, e.type),
       access: e.accessKind,
       language: "",
       year: e.year,

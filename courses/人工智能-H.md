@@ -1,12 +1,14 @@
 # 人工智能（H）
 
-> 课程代码：— · 领域：计算机核心 · 共 6 个 GitHub 仓库 / 2 个合集文件
+> 课程代码：— · 领域：计算机核心 · 共 6 个 GitHub 仓库 / 3 个合集文件
 
 [返回课程总览](../COURSES.md) · [返回首页](../README.md) · [网络试题](../EXAMS.md) · [合集资源](../COLLECTIONS.md)
 
-## 试题（0）
+## 试题（1）
 
-暂无。
+| 试题 / 仓库 | 来源 | 年份 | 说明 |
+| --- | --- | --- | --- |
+| [计算机-人工智能(H)/zxq_郑骁庆/2026春人工智能(H)期末回忆.html](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%28H%29/zxq_%E9%83%91%E9%AA%81%E5%BA%86/2026%E6%98%A5%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%28H%29%E6%9C%9F%E6%9C%AB%E5%9B%9E%E5%BF%86.html) | Annan-lyn/fudan-exam-paper | — | 合集文件 |
 
 ## 课程资料（3）
 
@@ -28,4 +30,4 @@
 
 ---
 
-> 以上仓库/文件版权归各作者所有，本页仅收录公开链接与元数据，不包含任何内容。如有异议，[点此提交移除请求](https://github.com/hansonpeter1722-lgtm/fdu-github-collect/issues/new?template=removal-request.yml)，48 小时内处理。详见 [DISCLAIMER](../DISCLAIMER.md)。
+> 以上仓库/文件版权归各作者所有，本页仅收录公开链接与元数据，不包含任何内容。如有异议，[点此提交移除请求](https://github.com/hansonpeter1722-lgtm/fdu-course-collect/issues/new?template=removal-request.yml)，48 小时内处理。详见 [DISCLAIMER](../DISCLAIMER.md)。

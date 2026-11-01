@@ -1,10 +1,10 @@
 # Essay Writing
 
-> 课程代码：— · 领域：通识与其他 · 共 0 个 GitHub 仓库 / 34 个合集文件
+> 课程代码：— · 领域：通识与其他 · 共 0 个 GitHub 仓库 / 36 个合集文件
 
 [返回课程总览](../COURSES.md) · [返回首页](../README.md) · [网络试题](../EXAMS.md) · [合集资源](../COLLECTIONS.md)
 
-## 试题（13）
+## 试题（15）
 
 | 试题 / 仓库 | 来源 | 年份 | 说明 |
 | --- | --- | --- | --- |
@@ -21,6 +21,8 @@
 | [Essay Writing/Example Essays/Prostitution - A Personal Choice.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Example%20Essays/Prostitution%20-%20A%20Personal%20Choice.pdf) | Snivallus/FDU-Course-Notes-2024-2025 | — | 合集文件 |
 | [Essay Writing/Example Essays/The United States Doesn't Spend Enough on Its Military.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Example%20Essays/The%20United%20States%20Doesn%27t%20Spend%20Enough%20on%20Its%20Military.pdf) | Snivallus/FDU-Course-Notes-2024-2025 | — | 合集文件 |
 | [Essay Writing/Example Essays/Why I Am Not An Environmentalist.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Example%20Essays/Why%20I%20Am%20Not%20An%20Environmentalist.pdf) | Snivallus/FDU-Course-Notes-2024-2025 | — | 合集文件 |
+| [英语-英语论说文写作/yss_杨姗姗/英语论说文写作_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%8B%B1%E8%AF%AD-%E8%8B%B1%E8%AF%AD%E8%AE%BA%E8%AF%B4%E6%96%87%E5%86%99%E4%BD%9C/yss_%E6%9D%A8%E5%A7%97%E5%A7%97/%E8%8B%B1%E8%AF%AD%E8%AE%BA%E8%AF%B4%E6%96%87%E5%86%99%E4%BD%9C_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md) | Annan-lyn/fudan-exam-paper | — | 合集文件 |
+| [英语-英语论说文写作/佚名/英语论说文写作_2022_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%8B%B1%E8%AF%AD-%E8%8B%B1%E8%AF%AD%E8%AE%BA%E8%AF%B4%E6%96%87%E5%86%99%E4%BD%9C/%E4%BD%9A%E5%90%8D/%E8%8B%B1%E8%AF%AD%E8%AE%BA%E8%AF%B4%E6%96%87%E5%86%99%E4%BD%9C_2022_Final.pdf) | Annan-lyn/fudan-exam-paper | — | 合集文件 |
 
 ## 课程资料（21）
 
@@ -54,4 +56,4 @@
 
 ---
 
-> 以上仓库/文件版权归各作者所有，本页仅收录公开链接与元数据，不包含任何内容。如有异议，[点此提交移除请求](https://github.com/hansonpeter1722-lgtm/fdu-github-collect/issues/new?template=removal-request.yml)，48 小时内处理。详见 [DISCLAIMER](../DISCLAIMER.md)。
+> 以上仓库/文件版权归各作者所有，本页仅收录公开链接与元数据，不包含任何内容。如有异议，[点此提交移除请求](https://github.com/hansonpeter1722-lgtm/fdu-course-collect/issues/new?template=removal-request.yml)，48 小时内处理。详见 [DISCLAIMER](../DISCLAIMER.md)。

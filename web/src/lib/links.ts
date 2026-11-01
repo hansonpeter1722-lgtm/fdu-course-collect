@@ -6,9 +6,9 @@ export const accessLabels: Record<string, string> = {
   paid: "付费索引",
   unknown: "获取方式未知",
 };
-export const statuses = ["开课", "合并", "今年未开课", "研究生已过滤"];
+export const statuses = ["开课", "合并", "今年未开课", "研究生已过滤", "未匹配"];
 export const statusClass = (status: string) =>
-  ({ 开课: "green", 合并: "blue", 今年未开课: "gray", 研究生已过滤: "purple" })[
+  ({ 开课: "green", 合并: "blue", 今年未开课: "gray", 研究生已过滤: "purple", 未匹配: "amber" })[
     status
   ] || "gray";
 export function external(url: string) {

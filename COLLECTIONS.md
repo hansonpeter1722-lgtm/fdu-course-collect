@@ -1,14 +1,15 @@
 # 合集内资源（按模块）
 
-> 从 23 个合集仓拆出 **13879** 个文件链接，归为 **432** 个「课程 × 合集 × 模块」组。
+> 从 24 个合集仓拆出 **14768** 个文件链接，归为 **495** 个「课程 × 合集 × 模块」组。
 > 每个文件直接链到 GitHub blob；已排除构建产物和图片。课程页已统一并入 试题 / 课程资料 / 代码仓库 三块。
 
 [返回首页](README.md) · [课程总览](COURSES.md)
 
-## 试题（1525 个文件）
+## 试题（2414 个文件）
 
 | 课程 | 合集 | 文件数 | 文件链接 |
 | --- | --- | ---: | --- |
+| [Essay Writing](courses/Essay Writing.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 2 | 展开见下 |
 | [Essay Writing](courses/Essay Writing.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 13 | 展开见下 |
 | [FET](courses/FET.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 1 | 展开见下 |
 | [Java](courses/Java.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 15 | 展开见下 |
@@ -16,108 +17,174 @@
 | [中国音乐史](courses/中国音乐史.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 展开见下 |
 | [中外大学校园文化对比研究](courses/中外大学校园文化对比研究.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 2 | 展开见下 |
 | [中外音乐审美](courses/中外音乐审美.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 2 | 展开见下 |
+| [人工智能](courses/人工智能.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 3 | 展开见下 |
 | [人工智能](courses/人工智能.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 17 | 展开见下 |
 | [人工智能](courses/人工智能.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 展开见下 |
+| [人工智能（H）](courses/人工智能-H.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 1 | 展开见下 |
+| [优化方法](courses/优化方法.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 6 | 展开见下 |
 | [优化方法](courses/优化方法.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 26 | 展开见下 |
 | [优化方法](courses/优化方法.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 5 | 展开见下 |
+| [会计](courses/会计.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 5 | 展开见下 |
 | [会计](courses/会计.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 20 | 展开见下 |
+| [信息安全](courses/信息安全.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 1 | 展开见下 |
+| [先秦哲学](courses/先秦哲学.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 2 | 展开见下 |
 | [先秦哲学](courses/先秦哲学.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 展开见下 |
+| [军事理论](courses/军事理论.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 8 | 展开见下 |
 | [军事理论](courses/军事理论.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 5 | 展开见下 |
+| [分布式系统](courses/分布式系统.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 1 | 展开见下 |
+| [医学图像处理](courses/医学图像处理.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 1 | 展开见下 |
+| [回归分析](courses/回归分析.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 4 | 展开见下 |
 | [回归分析](courses/回归分析.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 11 | 展开见下 |
+| [图像处理与可视化](courses/图像处理与可视化.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 1 | 展开见下 |
 | [图像处理与可视化](courses/图像处理与可视化.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 229 | 展开见下 |
+| [图论](courses/图论.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 24 | 展开见下 |
+| [复变函数](courses/复变函数.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 7 | 展开见下 |
+| [复旦往年试卷](courses/复旦往年试卷.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 56 | 展开见下 |
+| [复杂系统理论与仿真](courses/复杂系统理论与仿真.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 1 | 展开见下 |
 | [复杂系统理论与仿真](courses/复杂系统理论与仿真.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 1 | 展开见下 |
 | [大学物理](courses/大学物理.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 9 | 展开见下 |
+| [大学物理](courses/大学物理.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 75 | 展开见下 |
 | [大学物理](courses/大学物理.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 39 | 展开见下 |
 | [大学英语三级](courses/大学英语三级.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 28 | 展开见下 |
 | [大数据技术](courses/大数据技术.md) | [NinaZ65/notes-for-courses](https://github.com/NinaZ65/notes-for-courses) | 2 | 展开见下 |
 | [宋词导读](courses/宋词导读.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 2 | 展开见下 |
 | [嵌入式系统](courses/嵌入式系统.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 展开见下 |
+| [常微分方程](courses/常微分方程.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 4 | 展开见下 |
+| [并行分布计算](courses/并行分布计算.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 1 | 展开见下 |
 | [并行分布计算](courses/并行分布计算.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 1 | 展开见下 |
 | [并行分布计算](courses/并行分布计算.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 1 | 展开见下 |
 | [并行分布计算](courses/并行分布计算.md) | [clb2001/FDU-COMP](https://github.com/clb2001/FDU-COMP) | 1 | 展开见下 |
+| [应用实变函数与泛函分析基础](courses/应用实变函数与泛函分析基础.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 9 | 展开见下 |
+| [应用泛函分析](courses/应用泛函分析.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 9 | 展开见下 |
 | [应用泛函分析](courses/应用泛函分析.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 8 | 展开见下 |
 | [影视剧艺术](courses/影视剧艺术.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 展开见下 |
 | [思政](courses/思政.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 3 | 展开见下 |
+| [思政](courses/思政.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 29 | 展开见下 |
 | [思政](courses/思政.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 4 | 展开见下 |
 | [思政](courses/思政.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 1 | 展开见下 |
 | [思政](courses/思政.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 30 | 展开见下 |
+| [操作系统](courses/操作系统.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 3 | 展开见下 |
+| [数值分析](courses/数值分析.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 1 | 展开见下 |
+| [数值算法](courses/数值算法.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 5 | 展开见下 |
 | [数值算法](courses/数值算法.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 189 | 展开见下 |
+| [数字信号处理](courses/数字信号处理.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 5 | 展开见下 |
 | [数字信号处理](courses/数字信号处理.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 2 | 展开见下 |
 | [数字图像处理](courses/数字图像处理.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 8 | 展开见下 |
+| [数字逻辑与部件设计](courses/数字逻辑与部件设计.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 5 | 展开见下 |
 | [数字逻辑与部件设计](courses/数字逻辑与部件设计.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 2 | 展开见下 |
+| [数学分析](courses/数学分析.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 75 | 展开见下 |
 | [数学分析](courses/数学分析.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 50 | 展开见下 |
+| [数学建模](courses/数学建模.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 4 | 展开见下 |
+| [数学物理方法](courses/数学物理方法.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 10 | 展开见下 |
 | [数据库系统引论](courses/数据库系统引论.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 6 | 展开见下 |
+| [数据库系统引论](courses/数据库系统引论.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 9 | 展开见下 |
 | [数据库系统引论](courses/数据库系统引论.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 2 | 展开见下 |
 | [数据库系统引论](courses/数据库系统引论.md) | [clb2001/FDU-COMP](https://github.com/clb2001/FDU-COMP) | 4 | 展开见下 |
 | [数据库系统引论](courses/数据库系统引论.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 4 | 展开见下 |
 | [数据库系统引论](courses/数据库系统引论.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 80 | 展开见下 |
 | [数据库系统引论](courses/数据库系统引论.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 5 | 展开见下 |
+| [数据结构](courses/数据结构.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 20 | 展开见下 |
 | [数据结构](courses/数据结构.md) | [clb2001/FDU-COMP](https://github.com/clb2001/FDU-COMP) | 5 | 展开见下 |
 | [数据结构](courses/数据结构.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 6 | 展开见下 |
 | [数据结构](courses/数据结构.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 1 | 展开见下 |
 | [数据结构](courses/数据结构.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 24 | 展开见下 |
 | [数据结构](courses/数据结构.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 29 | 展开见下 |
+| [数理统计](courses/数理统计.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 13 | 展开见下 |
 | [数理统计](courses/数理统计.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 12 | 展开见下 |
 | [数理统计](courses/数理统计.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 1 | 展开见下 |
+| [新闻传播](courses/新闻传播.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 6 | 展开见下 |
+| [普化A上](courses/普化A上.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 13 | 展开见下 |
 | [普化A上](courses/普化A上.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 22 | 展开见下 |
 | [智能移动平台开发](courses/智能移动平台开发.md) | [ChenTao98/FudanUniversity](https://github.com/ChenTao98/FudanUniversity) | 2 | 展开见下 |
+| [机器人学](courses/机器人学.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 3 | 展开见下 |
 | [机器人学](courses/机器人学.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 1 | 展开见下 |
 | [机器学习](courses/机器学习.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 4 | 展开见下 |
+| [机器学习](courses/机器学习.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 1 | 展开见下 |
 | [机器学习](courses/机器学习.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 1 | 展开见下 |
 | [概率论](courses/概率论.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 1 | 展开见下 |
+| [概率论](courses/概率论.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 18 | 展开见下 |
 | [概率论](courses/概率论.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 1 | 展开见下 |
 | [概率论](courses/概率论.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 14 | 展开见下 |
 | [模式识别与机器学习](courses/模式识别与机器学习.md) | [zhuth/FDUCS](https://github.com/zhuth/FDUCS) | 1 | 展开见下 |
 | [法律与社会](courses/法律与社会.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 2 | 展开见下 |
+| [法律与社会](courses/法律与社会.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 1 | 展开见下 |
+| [深度学习及其应用](courses/深度学习及其应用.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 2 | 展开见下 |
+| [生物学](courses/生物学.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 11 | 展开见下 |
 | [生物学](courses/生物学.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 38 | 展开见下 |
+| [电子系统](courses/电子系统.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 20 | 展开见下 |
 | [电路](courses/电路.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 1 | 展开见下 |
+| [电路](courses/电路.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 4 | 展开见下 |
 | [电路](courses/电路.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 5 | 展开见下 |
 | [神经网络与深度学习](courses/神经网络与深度学习.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 1 | 展开见下 |
+| [离散数学](courses/离散数学.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 6 | 展开见下 |
 | [离散数学](courses/离散数学.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 28 | 展开见下 |
 | [离散数学](courses/离散数学.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 14 | 展开见下 |
+| [科学计算导论](courses/科学计算导论.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 1 | 展开见下 |
 | [程序设计](courses/程序设计.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 23 | 展开见下 |
+| [程序设计](courses/程序设计.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 54 | 展开见下 |
 | [程序设计](courses/程序设计.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 1 | 展开见下 |
 | [程序设计](courses/程序设计.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 3 | 展开见下 |
 | [程序设计](courses/程序设计.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 47 | 展开见下 |
+| [算法设计与分析](courses/算法设计与分析.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 6 | 展开见下 |
 | [算法设计与分析](courses/算法设计与分析.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 2 | 展开见下 |
 | [算法设计与分析](courses/算法设计与分析.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 19 | 展开见下 |
 | [算法设计与分析](courses/算法设计与分析.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 8 | 展开见下 |
+| [线性代数](courses/线性代数.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 63 | 展开见下 |
 | [线性代数](courses/线性代数.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 66 | 展开见下 |
 | [线性代数](courses/线性代数.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 41 | 展开见下 |
+| [经济学](courses/经济学.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 31 | 展开见下 |
 | [经济学](courses/经济学.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 11 | 展开见下 |
 | [经济学](courses/经济学.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 21 | 展开见下 |
+| [统计计算](courses/统计计算.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 1 | 展开见下 |
 | [统计计算](courses/统计计算.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 1 | 展开见下 |
 | [腾飞先导课](courses/腾飞先导课.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 展开见下 |
+| [自然语言处理导论](courses/自然语言处理导论.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 1 | 展开见下 |
 | [自然语言处理导论](courses/自然语言处理导论.md) | [clb2001/FDU-COMP](https://github.com/clb2001/FDU-COMP) | 7 | 展开见下 |
 | [自然语言处理导论](courses/自然语言处理导论.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 1 | 展开见下 |
 | [自然语言处理导论](courses/自然语言处理导论.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 1 | 展开见下 |
+| [计算机体系结构](courses/计算机体系结构.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 3 | 展开见下 |
 | [计算机体系结构](courses/计算机体系结构.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 4 | 展开见下 |
 | [计算机体系结构](courses/计算机体系结构.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 15 | 展开见下 |
 | [计算机体系结构](courses/计算机体系结构.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 4 | 展开见下 |
+| [计算机原理](courses/计算机原理.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 7 | 展开见下 |
 | [计算机原理](courses/计算机原理.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 1 | 展开见下 |
 | [计算机可视化](courses/计算机可视化.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 2 | 展开见下 |
+| [计算机图形学](courses/计算机图形学.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 1 | 展开见下 |
 | [计算机图形学](courses/计算机图形学.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 11 | 展开见下 |
+| [计算机系统基础](courses/计算机系统基础.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 9 | 展开见下 |
 | [计算机系统基础](courses/计算机系统基础.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 5 | 展开见下 |
+| [计算机组成原理](courses/计算机组成原理.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 6 | 展开见下 |
+| [计算机网络](courses/计算机网络.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 3 | 展开见下 |
 | [计算机网络](courses/计算机网络.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 1 | 展开见下 |
+| [计算理论基础](courses/计算理论基础.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 2 | 展开见下 |
 | [设计模式](courses/设计模式.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 1 | 展开见下 |
+| [软件工程](courses/软件工程.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 5 | 展开见下 |
 | [软件工程](courses/软件工程.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 2 | 展开见下 |
 | [软件工程](courses/软件工程.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 1 | 展开见下 |
 | [软件工程](courses/软件工程.md) | [openFudan/fudan-coursera](https://github.com/openFudan/fudan-coursera) | 1 | 展开见下 |
+| [随机过程](courses/随机过程.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 8 | 展开见下 |
 | [随机过程](courses/随机过程.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 11 | 展开见下 |
 | [集成电路工艺原理](courses/集成电路工艺原理.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 2 | 展开见下 |
+| [面向对象程序设计](courses/面向对象程序设计.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 20 | 展开见下 |
 | [面向对象程序设计](courses/面向对象程序设计.md) | [Zhouxunzhe/Fudan-CS-Projects](https://github.com/Zhouxunzhe/Fudan-CS-Projects) | 2 | 展开见下 |
 | [面向对象程序设计](courses/面向对象程序设计.md) | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 5 | 展开见下 |
 | [面向对象程序设计](courses/面向对象程序设计.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 29 | 展开见下 |
+| [高等代数](courses/高等代数.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 21 | 展开见下 |
 | [高等代数](courses/高等代数.md) | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 22 | 展开见下 |
 | [高等代数](courses/高等代数.md) | [Su-Zi-Zhan/FDU-SDS-Lecture-Notes](https://github.com/Su-Zi-Zhan/FDU-SDS-Lecture-Notes) | 4 | 展开见下 |
 | [高等代数](courses/高等代数.md) | [hadanice/OpenDS](https://github.com/hadanice/OpenDS) | 1 | 展开见下 |
 | [高等代数](courses/高等代数.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 18 | 展开见下 |
 | [高等数学](courses/高等数学.md) | [AniroHU/FDU_Courses_Undergraduate](https://github.com/AniroHU/FDU_Courses_Undergraduate) | 1 | 展开见下 |
+| [高等数学](courses/高等数学.md) | [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 162 | 展开见下 |
 | [高等数学](courses/高等数学.md) | [kanzaler123/fdu-course-resources](https://github.com/kanzaler123/fdu-course-resources) | 52 | 展开见下 |
 | [高等数学](courses/高等数学.md) | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 20 | 展开见下 |
 | [高级 Web 技术](courses/高级-Web-技术.md) | [BeneneeYu/Course-Project](https://github.com/BeneneeYu/Course-Project) | 9 | 展开见下 |
 
 <details><summary>展开试题文件链接</summary>
+
+**Essay Writing / Annan-lyn/fudan-exam-paper**
+- [英语-英语论说文写作/yss_杨姗姗/英语论说文写作_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%8B%B1%E8%AF%AD-%E8%8B%B1%E8%AF%AD%E8%AE%BA%E8%AF%B4%E6%96%87%E5%86%99%E4%BD%9C/yss_%E6%9D%A8%E5%A7%97%E5%A7%97/%E8%8B%B1%E8%AF%AD%E8%AE%BA%E8%AF%B4%E6%96%87%E5%86%99%E4%BD%9C_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+- [英语-英语论说文写作/佚名/英语论说文写作_2022_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%8B%B1%E8%AF%AD-%E8%8B%B1%E8%AF%AD%E8%AE%BA%E8%AF%B4%E6%96%87%E5%86%99%E4%BD%9C/%E4%BD%9A%E5%90%8D/%E8%8B%B1%E8%AF%AD%E8%AE%BA%E8%AF%B4%E6%96%87%E5%86%99%E4%BD%9C_2022_Final.pdf)
 
 **Essay Writing / Snivallus/FDU-Course-Notes-2024-2025**
 - [Essay Writing/Example Essays/Backwards Britain.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Essay%20Writing/Example%20Essays/Backwards%20Britain.pdf)
@@ -166,6 +233,11 @@
 - [public/resources/中外音乐审美/24学年期末考了《流浪者之歌》可以提前看一下曲子赏析.txt](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%B8%AD%E5%A4%96%E9%9F%B3%E4%B9%90%E5%AE%A1%E7%BE%8E/24%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%80%83%E4%BA%86%E3%80%8A%E6%B5%81%E6%B5%AA%E8%80%85%E4%B9%8B%E6%AD%8C%E3%80%8B%E5%8F%AF%E4%BB%A5%E6%8F%90%E5%89%8D%E7%9C%8B%E4%B8%80%E4%B8%8B%E6%9B%B2%E5%AD%90%E8%B5%8F%E6%9E%90.txt)
 - [public/resources/中外音乐审美/评分标准和真题.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%B8%AD%E5%A4%96%E9%9F%B3%E4%B9%90%E5%AE%A1%E7%BE%8E/%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86%E5%92%8C%E7%9C%9F%E9%A2%98.docx)
 
+**人工智能 / Annan-lyn/fudan-exam-paper**
+- [电子-智能科学的数学基础/lw_林伟/智能科学的数学基础_2020_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E7%9A%84%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/lw_%E6%9E%97%E4%BC%9F/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E7%9A%84%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80_2020_Final.pdf)
+- [电子-智能科学的数学基础/lw_林伟/智能科学的数学基础_2020_Midterm.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E7%9A%84%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/lw_%E6%9E%97%E4%BC%9F/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E7%9A%84%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80_2020_Midterm.pdf)
+- [计算机-人工智能导论/wh_危辉/人工智能导论_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA/wh_%E5%8D%B1%E8%BE%89/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+
 **人工智能 / Zhouxunzhe/Fudan-CS-Projects**
 - [Artificial-Intelligence/pj2/pj2_part2/CRF++-0.58/example/JapaneseNE/exec.sh](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj2/pj2_part2/CRF%2B%2B-0.58/example/JapaneseNE/exec.sh)
 - [Artificial-Intelligence/pj2/pj2_part2/CRF++-0.58/example/JapaneseNE/template](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Artificial-Intelligence/pj2/pj2_part2/CRF%2B%2B-0.58/example/JapaneseNE/template)
@@ -183,6 +255,17 @@
 
 **人工智能 / victkk/FDU-Sharing**
 - [public/resources/人工智能的软件基础/2026春-期末-试题.md](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/2026%E6%98%A5-%E6%9C%9F%E6%9C%AB-%E8%AF%95%E9%A2%98.md)
+
+**人工智能（H） / Annan-lyn/fudan-exam-paper**
+- [计算机-人工智能(H)/zxq_郑骁庆/2026春人工智能(H)期末回忆.html](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%28H%29/zxq_%E9%83%91%E9%AA%81%E5%BA%86/2026%E6%98%A5%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%28H%29%E6%9C%9F%E6%9C%AB%E5%9B%9E%E5%BF%86.html)
+
+**优化方法 / Annan-lyn/fudan-exam-paper**
+- [数学-最优化方法/jrj_江如俊/2020春最优化期末A卷(finalQA).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/jrj_%E6%B1%9F%E5%A6%82%E4%BF%8A/2020%E6%98%A5%E6%9C%80%E4%BC%98%E5%8C%96%E6%9C%9F%E6%9C%ABA%E5%8D%B7%28finalQA%29.pdf)
+- [数学-最优化方法/jrj_江如俊/2020期末考试A卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/jrj_%E6%B1%9F%E5%A6%82%E4%BF%8A/2020%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95A%E5%8D%B7.pdf)
+- [数学-最优化方法/jrj_江如俊/2022期末考试A卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/jrj_%E6%B1%9F%E5%A6%82%E4%BF%8A/2022%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95A%E5%8D%B7.pdf)
+- [数学-最优化方法/jrj_江如俊/最优化期中参考解答(sol_finalQA).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/jrj_%E6%B1%9F%E5%A6%82%E4%BF%8A/%E6%9C%80%E4%BC%98%E5%8C%96%E6%9C%9F%E4%B8%AD%E5%8F%82%E8%80%83%E8%A7%A3%E7%AD%94%28sol_finalQA%29.pdf)
+- [数学-最优化方法/jrj_江如俊/期中考试 (2024 春).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/jrj_%E6%B1%9F%E5%A6%82%E4%BF%8A/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%20%282024%20%E6%98%A5%29.pdf)
+- [数学-最优化方法/佚名/最优化方法_24-26春期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/%E4%BD%9A%E5%90%8D/%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95_24-26%E6%98%A5%E6%9C%9F%E6%9C%AB.pdf)
 
 **优化方法 / Snivallus/FDU-Course-Notes-2024-2025**
 - [最优化方法/Homework & Exam/Code_of_homework_10/3.1.1.jpg](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/Homework%20%26%20Exam/Code_of_homework_10/3.1.1.jpg)
@@ -206,6 +289,13 @@
 - [public/resources/最优化方法/期中20？.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/%E6%9C%9F%E4%B8%AD20%EF%BC%9F.pdf)
 - [public/resources/最优化方法/期中试题回忆.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/%E6%9C%9F%E4%B8%AD%E8%AF%95%E9%A2%98%E5%9B%9E%E5%BF%86.docx)
 
+**会计 / Annan-lyn/fudan-exam-paper**
+- [经济-会计学/yxc_余显财/会计学_2022_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%8F%E6%B5%8E-%E4%BC%9A%E8%AE%A1%E5%AD%A6/yxc_%E4%BD%99%E6%98%BE%E8%B4%A2/%E4%BC%9A%E8%AE%A1%E5%AD%A6_2022_Final.pdf)
+- [经济-会计学/佚名/19-20第二学期 期末卷（A卷）.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%8F%E6%B5%8E-%E4%BC%9A%E8%AE%A1%E5%AD%A6/%E4%BD%9A%E5%90%8D/19-20%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%E6%9C%9F%E6%9C%AB%E5%8D%B7%EF%BC%88A%E5%8D%B7%EF%BC%89.docx)
+- [经济-会计学/佚名/19-20第二学期 期末卷（A卷）.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%8F%E6%B5%8E-%E4%BC%9A%E8%AE%A1%E5%AD%A6/%E4%BD%9A%E5%90%8D/19-20%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%E6%9C%9F%E6%9C%AB%E5%8D%B7%EF%BC%88A%E5%8D%B7%EF%BC%89.pdf)
+- [经济-会计学/佚名/2015和2017期末考试题.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%8F%E6%B5%8E-%E4%BC%9A%E8%AE%A1%E5%AD%A6/%E4%BD%9A%E5%90%8D/2015%E5%92%8C2017%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E9%A2%98.pdf)
+- [经济-会计学/佚名/21-22第二学期 期末卷（A卷）.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%8F%E6%B5%8E-%E4%BC%9A%E8%AE%A1%E5%AD%A6/%E4%BD%9A%E5%90%8D/21-22%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%E6%9C%9F%E6%9C%AB%E5%8D%B7%EF%BC%88A%E5%8D%B7%EF%BC%89.pdf)
+
 **会计 / kanzaler123/fdu-course-resources**
 - [会计/习题/19-20第二学期 期末卷（A卷）.docx](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BC%9A%E8%AE%A1/%E4%B9%A0%E9%A2%98/19-20%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%E6%9C%9F%E6%9C%AB%E5%8D%B7%EF%BC%88A%E5%8D%B7%EF%BC%89.docx)
 - [会计/习题/19-20第二学期 期末卷（A卷）.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BC%9A%E8%AE%A1/%E4%B9%A0%E9%A2%98/19-20%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%E6%9C%9F%E6%9C%AB%E5%8D%B7%EF%BC%88A%E5%8D%B7%EF%BC%89.pdf)
@@ -221,8 +311,25 @@
 - [会计/官方答案/会计学1-3章答案.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E4%BC%9A%E8%AE%A1/%E5%AE%98%E6%96%B9%E7%AD%94%E6%A1%88/%E4%BC%9A%E8%AE%A1%E5%AD%A61-3%E7%AB%A0%E7%AD%94%E6%A1%88.pdf)
 - 另有 8 个文件，见 data/collection_files.csv
 
+**信息安全 / Annan-lyn/fudan-exam-paper**
+- [计算机-信息系统安全/zz_周喆/信息系统安全_2022_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E5%AE%89%E5%85%A8/zz_%E5%91%A8%E5%96%86/%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E5%AE%89%E5%85%A8_2022_Final.pdf)
+
+**先秦哲学 / Annan-lyn/fudan-exam-paper**
+- [哲学-先秦哲学/hyx_何益鑫/先秦哲学_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%93%B2%E5%AD%A6-%E5%85%88%E7%A7%A6%E5%93%B2%E5%AD%A6/hyx_%E4%BD%95%E7%9B%8A%E9%91%AB/%E5%85%88%E7%A7%A6%E5%93%B2%E5%AD%A6_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+- [哲学-哲学导论/zsp_邹诗鹏/哲学导论_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%93%B2%E5%AD%A6-%E5%93%B2%E5%AD%A6%E5%AF%BC%E8%AE%BA/zsp_%E9%82%B9%E8%AF%97%E9%B9%8F/%E5%93%B2%E5%AD%A6%E5%AF%BC%E8%AE%BA_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+
 **先秦哲学 / victkk/FDU-Sharing**
 - [public/resources/先秦哲学/先秦哲学2025期末.png](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%85%88%E7%A7%A6%E5%93%B2%E5%AD%A6/%E5%85%88%E7%A7%A6%E5%93%B2%E5%AD%A62025%E6%9C%9F%E6%9C%AB.png)
+
+**军事理论 / Annan-lyn/fudan-exam-paper**
+- [通识-军事理论/统考/2022-2023学年第一学期军事理论期末考试.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E9%80%9A%E8%AF%86-%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E7%BB%9F%E8%80%83/2022-2023%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf)
+- [通识-军事理论/统考/2023.6军理期末真题.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E9%80%9A%E8%AF%86-%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E7%BB%9F%E8%80%83/2023.6%E5%86%9B%E7%90%86%E6%9C%9F%E6%9C%AB%E7%9C%9F%E9%A2%98.pdf)
+- [通识-军事理论/统考/2024.12军理期末真题 (1).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E9%80%9A%E8%AF%86-%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E7%BB%9F%E8%80%83/2024.12%E5%86%9B%E7%90%86%E6%9C%9F%E6%9C%AB%E7%9C%9F%E9%A2%98%20%281%29.pdf)
+- [通识-军事理论/统考/【05】军事理论历年真题（07-21）.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E9%80%9A%E8%AF%86-%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E7%BB%9F%E8%80%83/%E3%80%9005%E3%80%91%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%8807-21%EF%BC%89.docx)
+- [通识-军事理论/统考/【08】军事理论2022-2023第二学期期末A卷.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E9%80%9A%E8%AF%86-%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E7%BB%9F%E8%80%83/%E3%80%9008%E3%80%91%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA2022-2023%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%ABA%E5%8D%B7.docx)
+- [通识-军事理论/统考/军事理论_2023_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E9%80%9A%E8%AF%86-%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E7%BB%9F%E8%80%83/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA_2023_Final.pdf)
+- [通识-军事理论/统考/军事理论_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E9%80%9A%E8%AF%86-%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E7%BB%9F%E8%80%83/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+- [通识-军事理论/统考/军理历年题整理.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E9%80%9A%E8%AF%86-%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E7%BB%9F%E8%80%83/%E5%86%9B%E7%90%86%E5%8E%86%E5%B9%B4%E9%A2%98%E6%95%B4%E7%90%86.pdf)
 
 **军事理论 / victkk/FDU-Sharing**
 - [public/resources/军事理论/2023.6军理期末真题.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/2023.6%E5%86%9B%E7%90%86%E6%9C%9F%E6%9C%AB%E7%9C%9F%E9%A2%98.pdf)
@@ -230,6 +337,18 @@
 - [public/resources/军事理论/军理资料（购买/【05】军事理论历年真题（07-21）.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E5%86%9B%E7%90%86%E8%B5%84%E6%96%99%EF%BC%88%E8%B4%AD%E4%B9%B0/%E3%80%9005%E3%80%91%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%8807-21%EF%BC%89.docx)
 - [public/resources/军事理论/军理资料（购买/【08】军事理论2022-2023第二学期期末A卷.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E5%86%9B%E7%90%86%E8%B5%84%E6%96%99%EF%BC%88%E8%B4%AD%E4%B9%B0/%E3%80%9008%E3%80%91%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA2022-2023%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%ABA%E5%8D%B7.docx)
 - [public/resources/军事理论/复旦BBS军理题库真题.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E5%A4%8D%E6%97%A6BBS%E5%86%9B%E7%90%86%E9%A2%98%E5%BA%93%E7%9C%9F%E9%A2%98.pdf)
+
+**分布式系统 / Annan-lyn/fudan-exam-paper**
+- [计算机-分布式系统/fhw_冯红伟/2023～2024学年第一学期A卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/fhw_%E5%86%AF%E7%BA%A2%E4%BC%9F/2023%EF%BD%9E2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9FA%E5%8D%B7.pdf)
+
+**医学图像处理 / Annan-lyn/fudan-exam-paper**
+- [电子-医学成像技术/gy_郭昱/医学成像技术_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E5%8C%BB%E5%AD%A6%E6%88%90%E5%83%8F%E6%8A%80%E6%9C%AF/gy_%E9%83%AD%E6%98%B1/%E5%8C%BB%E5%AD%A6%E6%88%90%E5%83%8F%E6%8A%80%E6%9C%AF_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+
+**回归分析 / Annan-lyn/fudan-exam-paper**
+- [统计-回归分析/wqw_王勤文/2023期中.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%9F%E8%AE%A1-%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90/wqw_%E7%8E%8B%E5%8B%A4%E6%96%87/2023%E6%9C%9F%E4%B8%AD.pdf)
+- [统计-回归分析/wqw_王勤文/2024期中.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%9F%E8%AE%A1-%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90/wqw_%E7%8E%8B%E5%8B%A4%E6%96%87/2024%E6%9C%9F%E4%B8%AD.pdf)
+- [统计-回归分析/wqw_王勤文/2024期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%9F%E8%AE%A1-%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90/wqw_%E7%8E%8B%E5%8B%A4%E6%96%87/2024%E6%9C%9F%E6%9C%AB.pdf)
+- [统计-回归分析/wqw_王勤文/[猜]2022期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%9F%E8%AE%A1-%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90/wqw_%E7%8E%8B%E5%8B%A4%E6%96%87/%5B%E7%8C%9C%5D2022%E6%9C%9F%E6%9C%AB.pdf)
 
 **回归分析 / Snivallus/FDU-Course-Notes-2024-2025**
 - [Markdown 源码临时目录/统计学基础Ⅱ回归分析/Homework/期中考试/2023秋期中.md](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Markdown%20%E6%BA%90%E7%A0%81%E4%B8%B4%E6%97%B6%E7%9B%AE%E5%BD%95/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A1%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90/Homework/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95/2023%E7%A7%8B%E6%9C%9F%E4%B8%AD.md)
@@ -243,6 +362,9 @@
 - [统计学基础Ⅱ回归分析/Homework & Exam/回归分析 01.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A1%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90/Homework%20%26%20Exam/%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90%2001.pdf)
 - [统计学基础Ⅱ回归分析/Homework & Exam/回归分析 02.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A1%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90/Homework%20%26%20Exam/%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90%2002.pdf)
 - [统计学基础Ⅱ回归分析/Homework & Exam/回归分析 03.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A1%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90/Homework%20%26%20Exam/%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90%2003.pdf)
+
+**图像处理与可视化 / Annan-lyn/fudan-exam-paper**
+- [数据科学-图像处理与可视化/zxh_庄吓海/2024 期末回忆 (时隔一年版).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6-%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96/zxh_%E5%BA%84%E5%90%93%E6%B5%B7/2024%20%E6%9C%9F%E6%9C%AB%E5%9B%9E%E5%BF%86%20%28%E6%97%B6%E9%9A%94%E4%B8%80%E5%B9%B4%E7%89%88%29.pdf)
 
 **图像处理与可视化 / Snivallus/FDU-Course-Notes-2024-2025**
 - [图像处理与可视化/Homework & Final/2024 期末回忆 (时隔一年版).pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96/Homework%20%26%20Final/2024%20%E6%9C%9F%E6%9C%AB%E5%9B%9E%E5%BF%86%20%28%E6%97%B6%E9%9A%94%E4%B8%80%E5%B9%B4%E7%89%88%29.pdf)
@@ -259,6 +381,48 @@
 - [图像处理与可视化/Homework & Final/数字图像处理 01/P2/HW01_P2_2.py](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96/Homework%20%26%20Final/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%2001/P2/HW01_P2_2.py)
 - 另有 217 个文件，见 data/collection_files.csv
 
+**图论 / Annan-lyn/fudan-exam-paper**
+- [数学-图论初步/whh_吴河辉/图论初步_21-24秋期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E5%9B%BE%E8%AE%BA%E5%88%9D%E6%AD%A5/whh_%E5%90%B4%E6%B2%B3%E8%BE%89/%E5%9B%BE%E8%AE%BA%E5%88%9D%E6%AD%A5_21-24%E7%A7%8B%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-集合与图论/khb_阚海斌/2025期中khb试卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%9B%86%E5%90%88%E4%B8%8E%E5%9B%BE%E8%AE%BA/khb_%E9%98%9A%E6%B5%B7%E6%96%8C/2025%E6%9C%9F%E4%B8%ADkhb%E8%AF%95%E5%8D%B7.pdf)
+- [数学-集合与图论/khb_阚海斌/25秋集合与图论期中+期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%9B%86%E5%90%88%E4%B8%8E%E5%9B%BE%E8%AE%BA/khb_%E9%98%9A%E6%B5%B7%E6%96%8C/25%E7%A7%8B%E9%9B%86%E5%90%88%E4%B8%8E%E5%9B%BE%E8%AE%BA%E6%9C%9F%E4%B8%AD%2B%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-集合与图论/khb_阚海斌/[猜]2007集合与图论期中考试.doc](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%9B%86%E5%90%88%E4%B8%8E%E5%9B%BE%E8%AE%BA/khb_%E9%98%9A%E6%B5%B7%E6%96%8C/%5B%E7%8C%9C%5D2007%E9%9B%86%E5%90%88%E4%B8%8E%E5%9B%BE%E8%AE%BA%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.doc)
+- [数学-集合与图论/khb_阚海斌/[猜]2012秋集合与图论期末A卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%9B%86%E5%90%88%E4%B8%8E%E5%9B%BE%E8%AE%BA/khb_%E9%98%9A%E6%B5%B7%E6%96%8C/%5B%E7%8C%9C%5D2012%E7%A7%8B%E9%9B%86%E5%90%88%E4%B8%8E%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%ABA%E5%8D%B7.pdf)
+- [数学-集合与图论/khb_阚海斌/[猜]2013秋集合与图论期末A卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%9B%86%E5%90%88%E4%B8%8E%E5%9B%BE%E8%AE%BA/khb_%E9%98%9A%E6%B5%B7%E6%96%8C/%5B%E7%8C%9C%5D2013%E7%A7%8B%E9%9B%86%E5%90%88%E4%B8%8E%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%ABA%E5%8D%B7.pdf)
+- [数学-集合与图论/khb_阚海斌/[猜]2013秋集合与图论期末B卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%9B%86%E5%90%88%E4%B8%8E%E5%9B%BE%E8%AE%BA/khb_%E9%98%9A%E6%B5%B7%E6%96%8C/%5B%E7%8C%9C%5D2013%E7%A7%8B%E9%9B%86%E5%90%88%E4%B8%8E%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%ABB%E5%8D%B7.pdf)
+- [数学-集合与图论/khb_阚海斌/[猜]2013秋集合与图论期末B卷答案.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%9B%86%E5%90%88%E4%B8%8E%E5%9B%BE%E8%AE%BA/khb_%E9%98%9A%E6%B5%B7%E6%96%8C/%5B%E7%8C%9C%5D2013%E7%A7%8B%E9%9B%86%E5%90%88%E4%B8%8E%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%ABB%E5%8D%B7%E7%AD%94%E6%A1%88.pdf)
+- [数学-集合与图论/khb_阚海斌/[猜]2020集合与图论期中考试.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%9B%86%E5%90%88%E4%B8%8E%E5%9B%BE%E8%AE%BA/khb_%E9%98%9A%E6%B5%B7%E6%96%8C/%5B%E7%8C%9C%5D2020%E9%9B%86%E5%90%88%E4%B8%8E%E5%9B%BE%E8%AE%BA%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf)
+- [数学-集合与图论/khb_阚海斌/[猜]2022年秋《集合与图论》期末试卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%9B%86%E5%90%88%E4%B8%8E%E5%9B%BE%E8%AE%BA/khb_%E9%98%9A%E6%B5%B7%E6%96%8C/%5B%E7%8C%9C%5D2022%E5%B9%B4%E7%A7%8B%E3%80%8A%E9%9B%86%E5%90%88%E4%B8%8E%E5%9B%BE%E8%AE%BA%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf)
+- [数学-集合与图论/khb_阚海斌/[猜]2022年秋离散数学期末试卷暨参考答案（B卷）.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%9B%86%E5%90%88%E4%B8%8E%E5%9B%BE%E8%AE%BA/khb_%E9%98%9A%E6%B5%B7%E6%96%8C/%5B%E7%8C%9C%5D2022%E5%B9%B4%E7%A7%8B%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E6%9A%A8%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88B%E5%8D%B7%EF%BC%89.docx)
+- [数学-集合与图论/khb_阚海斌/[猜]2022年秋离散数学期末试卷暨参考答案（B卷）.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%9B%86%E5%90%88%E4%B8%8E%E5%9B%BE%E8%AE%BA/khb_%E9%98%9A%E6%B5%B7%E6%96%8C/%5B%E7%8C%9C%5D2022%E5%B9%B4%E7%A7%8B%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E6%9A%A8%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88B%E5%8D%B7%EF%BC%89.pdf)
+- 另有 12 个文件，见 data/collection_files.csv
+
+**复变函数 / Annan-lyn/fudan-exam-paper**
+- [数学-复分析/佚名/复分析_22-24年试卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E5%A4%8D%E5%88%86%E6%9E%90/%E4%BD%9A%E5%90%8D/%E5%A4%8D%E5%88%86%E6%9E%90_22-24%E5%B9%B4%E8%AF%95%E5%8D%B7.pdf)
+- [数学-复变函数/qwy_邱维元/复变函数_2022_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/qwy_%E9%82%B1%E7%BB%B4%E5%85%83/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_2022_Final.pdf)
+- [数学-复变函数/qwy_邱维元/复变函数_22-23春期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/qwy_%E9%82%B1%E7%BB%B4%E5%85%83/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_22-23%E6%98%A5%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-复变函数/swx_沈维孝/复变函数_(H)_24-26春期中期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/swx_%E6%B2%88%E7%BB%B4%E5%AD%9D/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%28H%29_24-26%E6%98%A5%E6%9C%9F%E4%B8%AD%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-复变函数/wj_王珺/复变函数_22-26春期末(与贺丹青、邱维元合上).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/wj_%E7%8E%8B%E7%8F%BA/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_22-26%E6%98%A5%E6%9C%9F%E6%9C%AB%28%E4%B8%8E%E8%B4%BA%E4%B8%B9%E9%9D%92%E3%80%81%E9%82%B1%E7%BB%B4%E5%85%83%E5%90%88%E4%B8%8A%29.pdf)
+- [数学-复变函数/yyj_姚一隽/复变函数_24秋期末_25秋英才班期末(与石荣刚).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/yyj_%E5%A7%9A%E4%B8%80%E9%9A%BD/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_24%E7%A7%8B%E6%9C%9F%E6%9C%AB_25%E7%A7%8B%E8%8B%B1%E6%89%8D%E7%8F%AD%E6%9C%9F%E6%9C%AB%28%E4%B8%8E%E7%9F%B3%E8%8D%A3%E5%88%9A%29.pdf)
+- [数学-复变函数/佚名/复变函数_17-21春期中期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E4%BD%9A%E5%90%8D/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_17-21%E6%98%A5%E6%9C%9F%E4%B8%AD%E6%9C%9F%E6%9C%AB.pdf)
+
+**复旦往年试卷 / Annan-lyn/fudan-exam-paper**
+- [中文-中国文学传统/wyh_汪涌豪/中国文学传统_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E4%B8%AD%E6%96%87-%E4%B8%AD%E5%9B%BD%E6%96%87%E5%AD%A6%E4%BC%A0%E7%BB%9F/wyh_%E6%B1%AA%E6%B6%8C%E8%B1%AA/%E4%B8%AD%E5%9B%BD%E6%96%87%E5%AD%A6%E4%BC%A0%E7%BB%9F_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+- [中文-比较文学导论/wbh_王柏华/比较文学导论_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E4%B8%AD%E6%96%87-%E6%AF%94%E8%BE%83%E6%96%87%E5%AD%A6%E5%AF%BC%E8%AE%BA/wbh_%E7%8E%8B%E6%9F%8F%E5%8D%8E/%E6%AF%94%E8%BE%83%E6%96%87%E5%AD%A6%E5%AF%BC%E8%AE%BA_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+- [国政-公共行政学/css_陈水生/公共行政学_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%9B%BD%E6%94%BF-%E5%85%AC%E5%85%B1%E8%A1%8C%E6%94%BF%E5%AD%A6/css_%E9%99%88%E6%B0%B4%E7%94%9F/%E5%85%AC%E5%85%B1%E8%A1%8C%E6%94%BF%E5%AD%A6_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+- [国政-冷战后国际关系/yyx_俞沂暄/冷战后国际关系_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%9B%BD%E6%94%BF-%E5%86%B7%E6%88%98%E5%90%8E%E5%9B%BD%E9%99%85%E5%85%B3%E7%B3%BB/yyx_%E4%BF%9E%E6%B2%82%E6%9A%84/%E5%86%B7%E6%88%98%E5%90%8E%E5%9B%BD%E9%99%85%E5%85%B3%E7%B3%BB_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+- [国政-发展中国家政治与对外关系/yyx_俞沂暄/发展中国家政治与对外关系_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%9B%BD%E6%94%BF-%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%B2%BB%E4%B8%8E%E5%AF%B9%E5%A4%96%E5%85%B3%E7%B3%BB/yyx_%E4%BF%9E%E6%B2%82%E6%9A%84/%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%B2%BB%E4%B8%8E%E5%AF%B9%E5%A4%96%E5%85%B3%E7%B3%BB_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+- [国政-国际关系导论/hjj_贺嘉洁/国际关系导论_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%9B%BD%E6%94%BF-%E5%9B%BD%E9%99%85%E5%85%B3%E7%B3%BB%E5%AF%BC%E8%AE%BA/hjj_%E8%B4%BA%E5%98%89%E6%B4%81/%E5%9B%BD%E9%99%85%E5%85%B3%E7%B3%BB%E5%AF%BC%E8%AE%BA_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+- [国政-国际组织/zjj_朱杰进/国际组织_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%9B%BD%E6%94%BF-%E5%9B%BD%E9%99%85%E7%BB%84%E7%BB%87/zjj_%E6%9C%B1%E6%9D%B0%E8%BF%9B/%E5%9B%BD%E9%99%85%E7%BB%84%E7%BB%87_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+- [国政-地中海研究导论/zcc_张楚楚/地中海研究导论_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%9B%BD%E6%94%BF-%E5%9C%B0%E4%B8%AD%E6%B5%B7%E7%A0%94%E7%A9%B6%E5%AF%BC%E8%AE%BA/zcc_%E5%BC%A0%E6%A5%9A%E6%A5%9A/%E5%9C%B0%E4%B8%AD%E6%B5%B7%E7%A0%94%E7%A9%B6%E5%AF%BC%E8%AE%BA_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+- [国政-当代中国对外关系/xjl_肖佳灵/当代中国对外关系_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%9B%BD%E6%94%BF-%E5%BD%93%E4%BB%A3%E4%B8%AD%E5%9B%BD%E5%AF%B9%E5%A4%96%E5%85%B3%E7%B3%BB/xjl_%E8%82%96%E4%BD%B3%E7%81%B5/%E5%BD%93%E4%BB%A3%E4%B8%AD%E5%9B%BD%E5%AF%B9%E5%A4%96%E5%85%B3%E7%B3%BB_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+- [国政-西方国际关系理论/ybw_余博闻/西方国际关系理论_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%9B%BD%E6%94%BF-%E8%A5%BF%E6%96%B9%E5%9B%BD%E9%99%85%E5%85%B3%E7%B3%BB%E7%90%86%E8%AE%BA/ybw_%E4%BD%99%E5%8D%9A%E9%97%BB/%E8%A5%BF%E6%96%B9%E5%9B%BD%E9%99%85%E5%85%B3%E7%B3%BB%E7%90%86%E8%AE%BA_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+- [数学-代数拓扑/lz_吕志/[猜]代数拓扑_22-26期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E4%BB%A3%E6%95%B0%E6%8B%93%E6%89%91/lz_%E5%90%95%E5%BF%97/%5B%E7%8C%9C%5D%E4%BB%A3%E6%95%B0%E6%8B%93%E6%89%91_22-26%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-几何拓扑选讲/lp_李平/几何拓扑选讲_25秋期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E5%87%A0%E4%BD%95%E6%8B%93%E6%89%91%E9%80%89%E8%AE%B2/lp_%E6%9D%8E%E5%B9%B3/%E5%87%A0%E4%BD%95%E6%8B%93%E6%89%91%E9%80%89%E8%AE%B2_25%E7%A7%8B%E6%9C%9F%E6%9C%AB.pdf)
+- 另有 44 个文件，见 data/collection_files.csv
+
+**复杂系统理论与仿真 / Annan-lyn/fudan-exam-paper**
+- [数据科学-复杂系统理论与仿真/zqx_朱群喜/2025 期末.md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6-%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E4%B8%8E%E4%BB%BF%E7%9C%9F/zqx_%E6%9C%B1%E7%BE%A4%E5%96%9C/2025%20%E6%9C%9F%E6%9C%AB.md)
+
 **复杂系统理论与仿真 / Snivallus/FDU-Course-Notes-2024-2025**
 - [复杂系统理论与仿真/2025 期末.md](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E4%B8%8E%E4%BB%BF%E7%9C%9F/2025%20%E6%9C%9F%E6%9C%AB.md)
 
@@ -272,6 +436,21 @@
 - [大学物理/大物考试卷/22春-大物B下-期末考试(密码：fudan20220528).pdf](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E5%A4%A7%E7%89%A9%E8%80%83%E8%AF%95%E5%8D%B7/22%E6%98%A5-%E5%A4%A7%E7%89%A9B%E4%B8%8B-%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%28%E5%AF%86%E7%A0%81%EF%BC%9Afudan20220528%29.pdf)
 - [大学物理/大物考试卷/22级大物B上期末/大学物理学B（上）期末考试试卷（线上-开卷 半开卷）- 2022年秋季学期 - A卷 - 修定稿.pdf](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E5%A4%A7%E7%89%A9%E8%80%83%E8%AF%95%E5%8D%B7/22%E7%BA%A7%E5%A4%A7%E7%89%A9B%E4%B8%8A%E6%9C%9F%E6%9C%AB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6B%EF%BC%88%E4%B8%8A%EF%BC%89%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%EF%BC%88%E7%BA%BF%E4%B8%8A-%E5%BC%80%E5%8D%B7%C2%A0%E5%8D%8A%E5%BC%80%E5%8D%B7%EF%BC%89-%C2%A02022%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%C2%A0-%C2%A0A%E5%8D%B7%C2%A0-%C2%A0%E4%BF%AE%E5%AE%9A%E7%A8%BF.pdf)
 - [大学物理/大物考试卷/22级大物B上期末/胡济赟22307140083.docx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E5%A4%A7%E7%89%A9%E8%80%83%E8%AF%95%E5%8D%B7/22%E7%BA%A7%E5%A4%A7%E7%89%A9B%E4%B8%8A%E6%9C%9F%E6%9C%AB/%E8%83%A1%E6%B5%8E%E8%B5%9F22307140083.docx)
+
+**大学物理 / Annan-lyn/fudan-exam-paper**
+- [物理-基础物理实验/统考/19秋基础物理实验期末题.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%89%A9%E7%90%86-%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E7%BB%9F%E8%80%83/19%E7%A7%8B%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C%E6%9C%9F%E6%9C%AB%E9%A2%98.docx)
+- [物理-基础物理实验/统考/2018-2021年基础物理实验往年题.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%89%A9%E7%90%86-%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E7%BB%9F%E8%80%83/2018-2021%E5%B9%B4%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C%E5%BE%80%E5%B9%B4%E9%A2%98.pdf)
+- [物理-基础物理实验/统考/2019考题部分整理.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%89%A9%E7%90%86-%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E7%BB%9F%E8%80%83/2019%E8%80%83%E9%A2%98%E9%83%A8%E5%88%86%E6%95%B4%E7%90%86.pdf)
+- [物理-基础物理实验/统考/2022秋基物实验期末真题回忆.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%89%A9%E7%90%86-%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E7%BB%9F%E8%80%83/2022%E7%A7%8B%E5%9F%BA%E7%89%A9%E5%AE%9E%E9%AA%8C%E6%9C%9F%E6%9C%AB%E7%9C%9F%E9%A2%98%E5%9B%9E%E5%BF%86.docx)
+- [物理-基础物理实验/统考/2022秋期末真题回忆(另一版).docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%89%A9%E7%90%86-%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E7%BB%9F%E8%80%83/2022%E7%A7%8B%E6%9C%9F%E6%9C%AB%E7%9C%9F%E9%A2%98%E5%9B%9E%E5%BF%86%28%E5%8F%A6%E4%B8%80%E7%89%88%29.docx)
+- [物理-基础物理实验/统考/2024-2025学年第一学期基物期末真题.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%89%A9%E7%90%86-%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E7%BB%9F%E8%80%83/2024-2025%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%9F%BA%E7%89%A9%E6%9C%9F%E6%9C%AB%E7%9C%9F%E9%A2%98.pdf)
+- [物理-基础物理实验/统考/25春基物实验期末考试回忆版试题.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%89%A9%E7%90%86-%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E7%BB%9F%E8%80%83/25%E6%98%A5%E5%9F%BA%E7%89%A9%E5%AE%9E%E9%AA%8C%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%9B%9E%E5%BF%86%E7%89%88%E8%AF%95%E9%A2%98.pdf)
+- [物理-基础物理实验/统考/基物实验期末考题.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%89%A9%E7%90%86-%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E7%BB%9F%E8%80%83/%E5%9F%BA%E7%89%A9%E5%AE%9E%E9%AA%8C%E6%9C%9F%E6%9C%AB%E8%80%83%E9%A2%98.docx)
+- [物理-基础物理实验/统考/基物实验考题.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%89%A9%E7%90%86-%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E7%BB%9F%E8%80%83/%E5%9F%BA%E7%89%A9%E5%AE%9E%E9%AA%8C%E8%80%83%E9%A2%98.pdf)
+- [物理-基础物理实验/统考/基础物理实验试题.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%89%A9%E7%90%86-%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E7%BB%9F%E8%80%83/%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C%E8%AF%95%E9%A2%98.pdf)
+- [物理-基础物理实验/统考/复旦大学2012~2013学年第二学期基础物理实验期末试卷 密码langbi.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%89%A9%E7%90%86-%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E7%BB%9F%E8%80%83/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A62012~2013%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%20%E5%AF%86%E7%A0%81langbi.pdf)
+- [物理-基础物理实验/统考/往年真题.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%89%A9%E7%90%86-%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E7%BB%9F%E8%80%83/%E5%BE%80%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf)
+- 另有 63 个文件，见 data/collection_files.csv
 
 **大学物理 / victkk/FDU-Sharing**
 - [public/resources/基础物理实验/19秋基础物理实验期末题.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/19%E7%A7%8B%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C%E6%9C%9F%E6%9C%AB%E9%A2%98.docx)
@@ -314,6 +493,15 @@
 **嵌入式系统 / victkk/FDU-Sharing**
 - [public/resources/嵌入式处理器与芯片系统设计/嵌入式处理器与芯片系统设计_2_线上考试试卷-A（2022年春季学期）.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%A4%84%E7%90%86%E5%99%A8%E4%B8%8E%E8%8A%AF%E7%89%87%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%A4%84%E7%90%86%E5%99%A8%E4%B8%8E%E8%8A%AF%E7%89%87%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1_2_%E7%BA%BF%E4%B8%8A%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7-A%EF%BC%882022%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%EF%BC%89.pdf)
 
+**常微分方程 / Annan-lyn/fudan-exam-paper**
+- [数学-常微分方程/lw_林伟/常微分方程_10-15期中_12-26期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/lw_%E6%9E%97%E4%BC%9F/%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B_10-15%E6%9C%9F%E4%B8%AD_12-26%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-常微分方程/yj_严军/常微分方程_英才班_22-26期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/yj_%E4%B8%A5%E5%86%9B/%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B_%E8%8B%B1%E6%89%8D%E7%8F%AD_22-26%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-常微分方程/yxp_袁小平/常微分方程_英才班_20-21期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/yxp_%E8%A2%81%E5%B0%8F%E5%B9%B3/%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B_%E8%8B%B1%E6%89%8D%E7%8F%AD_20-21%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-常微分方程/zgh_张国华/常微分方程_平行班_25-26期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/zgh_%E5%BC%A0%E5%9B%BD%E5%8D%8E/%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B_%E5%B9%B3%E8%A1%8C%E7%8F%AD_25-26%E6%9C%9F%E6%9C%AB.pdf)
+
+**并行分布计算 / Annan-lyn/fudan-exam-paper**
+- [计算机-并行分布式计算/佚名/2025 期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E5%B9%B6%E8%A1%8C%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97/%E4%BD%9A%E5%90%8D/2025%20%E6%9C%9F%E6%9C%AB.pdf)
+
 **并行分布计算 / Snivallus/FDU-Course-Notes-2024-2025**
 - [并行分布式计算/2025 期末.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%B9%B6%E8%A1%8C%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97/2025%20%E6%9C%9F%E6%9C%AB.pdf)
 
@@ -322,6 +510,28 @@
 
 **并行分布计算 / clb2001/FDU-COMP**
 - [并行计算/Final Exam.pdf](https://github.com/clb2001/FDU-COMP/blob/main/%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97/Final%20Exam.pdf)
+
+**应用实变函数与泛函分析基础 / Annan-lyn/fudan-exam-paper**
+- [数学-实分析/lhx_林华新/实分析_(H)_24-25春期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E5%AE%9E%E5%88%86%E6%9E%90/lhx_%E6%9E%97%E5%8D%8E%E6%96%B0/%E5%AE%9E%E5%88%86%E6%9E%90_%28H%29_24-25%E6%98%A5%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-实分析/swx_沈维孝/实分析_21-23春期中期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E5%AE%9E%E5%88%86%E6%9E%90/swx_%E6%B2%88%E7%BB%B4%E5%AD%9D/%E5%AE%9E%E5%88%86%E6%9E%90_21-23%E6%98%A5%E6%9C%9F%E4%B8%AD%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-实分析/wjc_吴健超/实分析_(H)_23-26春期末(与章嘉雯).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E5%AE%9E%E5%88%86%E6%9E%90/wjc_%E5%90%B4%E5%81%A5%E8%B6%85/%E5%AE%9E%E5%88%86%E6%9E%90_%28H%29_23-26%E6%98%A5%E6%9C%9F%E6%9C%AB%28%E4%B8%8E%E7%AB%A0%E5%98%89%E9%9B%AF%29.pdf)
+- [数学-实分析/wk_王凯/实分析_21-26春期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E5%AE%9E%E5%88%86%E6%9E%90/wk_%E7%8E%8B%E5%87%AF/%E5%AE%9E%E5%88%86%E6%9E%90_21-26%E6%98%A5%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-实分析/xsz_徐胜芝/实分析_24-25春期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E5%AE%9E%E5%88%86%E6%9E%90/xsz_%E5%BE%90%E8%83%9C%E8%8A%9D/%E5%AE%9E%E5%88%86%E6%9E%90_24-25%E6%98%A5%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-测度论/zgh_张国华/测度论_24-26春期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%B5%8B%E5%BA%A6%E8%AE%BA/zgh_%E5%BC%A0%E5%9B%BD%E5%8D%8E/%E6%B5%8B%E5%BA%A6%E8%AE%BA_24-26%E6%98%A5%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-现代分析基础/yyj_姚一隽/现代分析基础II_21秋期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E7%8E%B0%E4%BB%A3%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80/yyj_%E5%A7%9A%E4%B8%80%E9%9A%BD/%E7%8E%B0%E4%BB%A3%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80II_21%E7%A7%8B%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-现代分析基础/zjw_章嘉雯/现代分析基础II_23-25春期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E7%8E%B0%E4%BB%A3%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80/zjw_%E7%AB%A0%E5%98%89%E9%9B%AF/%E7%8E%B0%E4%BB%A3%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80II_23-25%E6%98%A5%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-现代分析基础/佚名/现代分析基础I_22春23春期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E7%8E%B0%E4%BB%A3%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80/%E4%BD%9A%E5%90%8D/%E7%8E%B0%E4%BB%A3%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80I_22%E6%98%A523%E6%98%A5%E6%9C%9F%E6%9C%AB.pdf)
+
+**应用泛函分析 / Annan-lyn/fudan-exam-paper**
+- [数学-应用泛函分析/zyx_张云新/2024期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E5%BA%94%E7%94%A8%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/zyx_%E5%BC%A0%E4%BA%91%E6%96%B0/2024%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-应用泛函分析/zyx_张云新/2025期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E5%BA%94%E7%94%A8%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/zyx_%E5%BC%A0%E4%BA%91%E6%96%B0/2025%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-应用泛函分析/zyx_张云新/[猜]2022期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E5%BA%94%E7%94%A8%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/zyx_%E5%BC%A0%E4%BA%91%E6%96%B0/%5B%E7%8C%9C%5D2022%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-泛函分析/hzb_黄昭波/泛函分析_21秋期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/hzb_%E9%BB%84%E6%98%AD%E6%B3%A2/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90_21%E7%A7%8B%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-泛函分析/wjc_吴健超/泛函分析_25秋期末(与章嘉雯).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/wjc_%E5%90%B4%E5%81%A5%E8%B6%85/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90_25%E7%A7%8B%E6%9C%9F%E6%9C%AB%28%E4%B8%8E%E7%AB%A0%E5%98%89%E9%9B%AF%29.pdf)
+- [数学-泛函分析/wk_王凯/泛函分析_21-25秋期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/wk_%E7%8E%8B%E5%87%AF/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90_21-25%E7%A7%8B%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-泛函分析/xsz_徐胜芝/泛函分析_24秋等期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/xsz_%E5%BE%90%E8%83%9C%E8%8A%9D/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90_24%E7%A7%8B%E7%AD%89%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-泛函分析/yyj_姚一隽/泛函分析_22-24秋期末(部分与章嘉雯).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/yyj_%E5%A7%9A%E4%B8%80%E9%9A%BD/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90_22-24%E7%A7%8B%E6%9C%9F%E6%9C%AB%28%E9%83%A8%E5%88%86%E4%B8%8E%E7%AB%A0%E5%98%89%E9%9B%AF%29.pdf)
+- [数学-泛函分析续论/佚名/泛函分析续论_23-26期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E7%BB%AD%E8%AE%BA/%E4%BD%9A%E5%90%8D/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E7%BB%AD%E8%AE%BA_23-26%E6%9C%9F%E6%9C%AB.pdf)
 
 **应用泛函分析 / Snivallus/FDU-Course-Notes-2024-2025**
 - [应用泛函分析/Homework & Exam/2022期末.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E5%BA%94%E7%94%A8%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/Homework%20%26%20Exam/2022%E6%9C%9F%E6%9C%AB.pdf)
@@ -340,6 +550,21 @@
 - [改革开放史/22307140083-胡济赟-期中作业.docx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE%E5%8F%B2/22307140083-%E8%83%A1%E6%B5%8E%E8%B5%9F-%E6%9C%9F%E4%B8%AD%E4%BD%9C%E4%B8%9A.docx)
 - [改革开放史/22307140083-胡济赟-期末论文.docx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE%E5%8F%B2/22307140083-%E8%83%A1%E6%B5%8E%E8%B5%9F-%E6%9C%9F%E6%9C%AB%E8%AE%BA%E6%96%87.docx)
 - [改革开放史/关于本学期 改革开放史 期末论文提交要求.pdf](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE%E5%8F%B2/%E5%85%B3%E4%BA%8E%E6%9C%AC%E5%AD%A6%E6%9C%9F%20%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE%E5%8F%B2%20%E6%9C%9F%E6%9C%AB%E8%AE%BA%E6%96%87%E6%8F%90%E4%BA%A4%E8%A6%81%E6%B1%82.pdf)
+
+**思政 / Annan-lyn/fudan-exam-paper**
+- [思政-中国共产党历史/xxr_薛小荣/中国共产党历史_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%80%9D%E6%94%BF-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%8E%86%E5%8F%B2/xxr_%E8%96%9B%E5%B0%8F%E8%8D%A3/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%8E%86%E5%8F%B2_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+- [思政-习概/统考/2023春A卷回忆版.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%80%9D%E6%94%BF-%E4%B9%A0%E6%A6%82/%E7%BB%9F%E8%80%83/2023%E6%98%A5A%E5%8D%B7%E5%9B%9E%E5%BF%86%E7%89%88.docx)
+- [思政-习概/统考/2023秋习概.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%80%9D%E6%94%BF-%E4%B9%A0%E6%A6%82/%E7%BB%9F%E8%80%83/2023%E7%A7%8B%E4%B9%A0%E6%A6%82.docx)
+- [思政-习概/统考/22-23学年第一学期 A卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%80%9D%E6%94%BF-%E4%B9%A0%E6%A6%82/%E7%BB%9F%E8%80%83/22-23%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20A%E5%8D%B7.pdf)
+- [思政-国外马克思主义与当代思潮/lsm_刘少明/国外马克思主义与当代思潮_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%80%9D%E6%94%BF-%E5%9B%BD%E5%A4%96%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E4%B8%8E%E5%BD%93%E4%BB%A3%E6%80%9D%E6%BD%AE/lsm_%E5%88%98%E5%B0%91%E6%98%8E/%E5%9B%BD%E5%A4%96%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E4%B8%8E%E5%BD%93%E4%BB%A3%E6%80%9D%E6%BD%AE_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+- [思政-改革开放史/统考/2024秋改革开放史期中期末作业.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%80%9D%E6%94%BF-%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE%E5%8F%B2/%E7%BB%9F%E8%80%83/2024%E7%A7%8B%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE%E5%8F%B2%E6%9C%9F%E4%B8%AD%E6%9C%9F%E6%9C%AB%E4%BD%9C%E4%B8%9A.docx)
+- [思政-改革开放史/统考/关于《改革开放史》期末论文的要求2025春.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%80%9D%E6%94%BF-%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE%E5%8F%B2/%E7%BB%9F%E8%80%83/%E5%85%B3%E4%BA%8E%E3%80%8A%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE%E5%8F%B2%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%AE%BA%E6%96%87%E7%9A%84%E8%A6%81%E6%B1%822025%E6%98%A5.pdf)
+- [思政-改革开放史/统考/改开：期中测试.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%80%9D%E6%94%BF-%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE%E5%8F%B2/%E7%BB%9F%E8%80%83/%E6%94%B9%E5%BC%80%EF%BC%9A%E6%9C%9F%E4%B8%AD%E6%B5%8B%E8%AF%95.docx)
+- [思政-改革开放史/统考/考核经验+23秋期中题目.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%80%9D%E6%94%BF-%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE%E5%8F%B2/%E7%BB%9F%E8%80%83/%E8%80%83%E6%A0%B8%E7%BB%8F%E9%AA%8C%2B23%E7%A7%8B%E6%9C%9F%E4%B8%AD%E9%A2%98%E7%9B%AE.docx)
+- [思政-毛概/统考/2020-2021学年期末试卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%80%9D%E6%94%BF-%E6%AF%9B%E6%A6%82/%E7%BB%9F%E8%80%83/2020-2021%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf)
+- [思政-毛概/统考/2022-2023学年期末考试试卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%80%9D%E6%94%BF-%E6%AF%9B%E6%A6%82/%E7%BB%9F%E8%80%83/2022-2023%E5%AD%A6%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf)
+- [思政-毛概/统考/2022年秋毛概期末考考题 sdl.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%80%9D%E6%94%BF-%E6%AF%9B%E6%A6%82/%E7%BB%9F%E8%80%83/2022%E5%B9%B4%E7%A7%8B%E6%AF%9B%E6%A6%82%E6%9C%9F%E6%9C%AB%E8%80%83%E8%80%83%E9%A2%98%20sdl.docx)
+- 另有 17 个文件，见 data/collection_files.csv
 
 **思政 / kanzaler123/fdu-course-resources**
 - [毛概/毛概近年真题答案（20-22部分）及报告补充 .docx](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E6%AF%9B%E6%A6%82/%E6%AF%9B%E6%A6%82%E8%BF%91%E5%B9%B4%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88%EF%BC%8820-22%E9%83%A8%E5%88%86%EF%BC%89%E5%8F%8A%E6%8A%A5%E5%91%8A%E8%A1%A5%E5%85%85%20.docx)
@@ -365,6 +590,21 @@
 - [public/resources/马克思主义基本原理/2020-2021第一学期期末.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/2020-2021%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB.docx)
 - 另有 18 个文件，见 data/collection_files.csv
 
+**操作系统 / Annan-lyn/fudan-exam-paper**
+- [计算机-操作系统/xzp_谢志鹏/[猜]操作系统_2011_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/xzp_%E8%B0%A2%E5%BF%97%E9%B9%8F/%5B%E7%8C%9C%5D%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F_2011_Final.pdf)
+- [计算机-操作系统/xzp_谢志鹏/[猜]操作系统_2012_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/xzp_%E8%B0%A2%E5%BF%97%E9%B9%8F/%5B%E7%8C%9C%5D%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F_2012_Final.pdf)
+- [计算机-操作系统/xzp_谢志鹏/[猜]操作系统_2017_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/xzp_%E8%B0%A2%E5%BF%97%E9%B9%8F/%5B%E7%8C%9C%5D%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F_2017_Final.pdf)
+
+**数值分析 / Annan-lyn/fudan-exam-paper**
+- [数学-微分方程数值解法/wxm_吴新明/微分方程数值解法_24春26春期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E6%95%B0%E5%80%BC%E8%A7%A3%E6%B3%95/wxm_%E5%90%B4%E6%96%B0%E6%98%8E/%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E6%95%B0%E5%80%BC%E8%A7%A3%E6%B3%95_24%E6%98%A526%E6%98%A5%E6%9C%9F%E6%9C%AB.pdf)
+
+**数值算法 / Annan-lyn/fudan-exam-paper**
+- [数学-数值代数与优化/佚名/数值代数与优化_25春26春期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E5%80%BC%E4%BB%A3%E6%95%B0%E4%B8%8E%E4%BC%98%E5%8C%96/%E4%BD%9A%E5%90%8D/%E6%95%B0%E5%80%BC%E4%BB%A3%E6%95%B0%E4%B8%8E%E4%BC%98%E5%8C%96_25%E6%98%A526%E6%98%A5%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-数值算法与案例分析/smy_邵美悦/数值算法II_2025春期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/smy_%E9%82%B5%E7%BE%8E%E6%82%A6/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95II_2025%E6%98%A5%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-数值算法与案例分析/smy_邵美悦/数值算法I_2024期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/smy_%E9%82%B5%E7%BE%8E%E6%82%A6/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95I_2024%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-数值算法与案例分析/wk_魏轲/[猜]数值算法与案例分析_2019_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/wk_%E9%AD%8F%E8%BD%B2/%5B%E7%8C%9C%5D%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90_2019_Final.pdf)
+- [数学-数值算法与案例分析/wk_魏轲/[猜]数值算法与案例分析_2019_Final_部分答案.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/wk_%E9%AD%8F%E8%BD%B2/%5B%E7%8C%9C%5D%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90_2019_Final_%E9%83%A8%E5%88%86%E7%AD%94%E6%A1%88.pdf)
+
 **数值算法 / Snivallus/FDU-Course-Notes-2024-2025**
 - [Markdown 源码临时目录/数值算法与案例分析Ⅰ/1. 稠密线性方程组的直接解法/example_1_2_1.m](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Markdown%20%E6%BA%90%E7%A0%81%E4%B8%B4%E6%97%B6%E7%9B%AE%E5%BD%95/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A0/1.%20%E7%A8%A0%E5%AF%86%E7%BA%BF%E6%80%A7%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E7%9B%B4%E6%8E%A5%E8%A7%A3%E6%B3%95/example_1_2_1.m)
 - [Markdown 源码临时目录/数值算法与案例分析Ⅰ/Homework/05/HW05_P1_final.m](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Markdown%20%E6%BA%90%E7%A0%81%E4%B8%B4%E6%97%B6%E7%9B%AE%E5%BD%95/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A0/Homework/05/HW05_P1_final.m)
@@ -380,6 +620,13 @@
 - [数值算法与案例分析Ⅰ/Homework & Exam/数值算法 01/HW01_P7_validation_O0.exe](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E2%85%A0/Homework%20%26%20Exam/%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95%2001/HW01_P7_validation_O0.exe)
 - 另有 177 个文件，见 data/collection_files.csv
 
+**数字信号处理 / Annan-lyn/fudan-exam-paper**
+- [电子-数字信号处理/wxf_吴晓峰/《数字信号处理》（A）期末考试 (线上考试)试题（A卷-第1页）.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86/wxf_%E5%90%B4%E6%99%93%E5%B3%B0/%E3%80%8A%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%E3%80%8B%EF%BC%88A%EF%BC%89%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%20%28%E7%BA%BF%E4%B8%8A%E8%80%83%E8%AF%95%29%E8%AF%95%E9%A2%98%EF%BC%88A%E5%8D%B7-%E7%AC%AC1%E9%A1%B5%EF%BC%89.pdf)
+- [电子-数字信号处理/wxf_吴晓峰/《数字信号处理》（A）期末考试 (线上考试)试题（A卷-第2页）.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86/wxf_%E5%90%B4%E6%99%93%E5%B3%B0/%E3%80%8A%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%E3%80%8B%EF%BC%88A%EF%BC%89%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%20%28%E7%BA%BF%E4%B8%8A%E8%80%83%E8%AF%95%29%E8%AF%95%E9%A2%98%EF%BC%88A%E5%8D%B7-%E7%AC%AC2%E9%A1%B5%EF%BC%89.pdf)
+- [电子-数字信号处理/wxf_吴晓峰/《数字信号处理》（A）期末考试 (线上考试)试题（A卷-第3页）.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86/wxf_%E5%90%B4%E6%99%93%E5%B3%B0/%E3%80%8A%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%E3%80%8B%EF%BC%88A%EF%BC%89%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%20%28%E7%BA%BF%E4%B8%8A%E8%80%83%E8%AF%95%29%E8%AF%95%E9%A2%98%EF%BC%88A%E5%8D%B7-%E7%AC%AC3%E9%A1%B5%EF%BC%89.pdf)
+- [电子-数字信号处理/wxf_吴晓峰/《数字信号处理》（A）期末考试 (线上考试)试题（A卷-第4页）.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86/wxf_%E5%90%B4%E6%99%93%E5%B3%B0/%E3%80%8A%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%E3%80%8B%EF%BC%88A%EF%BC%89%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%20%28%E7%BA%BF%E4%B8%8A%E8%80%83%E8%AF%95%29%E8%AF%95%E9%A2%98%EF%BC%88A%E5%8D%B7-%E7%AC%AC4%E9%A1%B5%EF%BC%89.pdf)
+- [电子-数字信号处理/wxf_吴晓峰/《数字信号处理》（A）期末考试 (线上考试)试题（A卷-第5页）.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86/wxf_%E5%90%B4%E6%99%93%E5%B3%B0/%E3%80%8A%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%E3%80%8B%EF%BC%88A%EF%BC%89%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%20%28%E7%BA%BF%E4%B8%8A%E8%80%83%E8%AF%95%29%E8%AF%95%E9%A2%98%EF%BC%88A%E5%8D%B7-%E7%AC%AC5%E9%A1%B5%EF%BC%89.pdf)
+
 **数字信号处理 / victkk/FDU-Sharing**
 - [public/resources/信号与通信系统/2026-期末-信号与系统-25-试题回忆.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E9%80%9A%E4%BF%A1%E7%B3%BB%E7%BB%9F/2026-%E6%9C%9F%E6%9C%AB-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F-25-%E8%AF%95%E9%A2%98%E5%9B%9E%E5%BF%86.docx)
 - [public/resources/信号与通信系统/信号与通信系统试题A卷-2020.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E9%80%9A%E4%BF%A1%E7%B3%BB%E7%BB%9F/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E9%80%9A%E4%BF%A1%E7%B3%BB%E7%BB%9F%E8%AF%95%E9%A2%98A%E5%8D%B7-2020.pdf)
@@ -394,9 +641,31 @@
 - [COMP130032数字图像处理/DIP_Project/Self-selected-pictures/O-HAZY-example.jpg](https://github.com/lrcc275/FudanCources/blob/main/COMP130032%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/DIP_Project/Self-selected-pictures/O-HAZY-example.jpg)
 - [COMP130032数字图像处理/DIP_Project/Self-selected-pictures/RESIDE-example.jpg](https://github.com/lrcc275/FudanCources/blob/main/COMP130032%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/DIP_Project/Self-selected-pictures/RESIDE-example.jpg)
 
+**数字逻辑与部件设计 / Annan-lyn/fudan-exam-paper**
+- [电子-数字逻辑基础/yt_易婷/数电2022A卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80/yt_%E6%98%93%E5%A9%B7/%E6%95%B0%E7%94%B52022A%E5%8D%B7.pdf)
+- [电子-数字集成电路/佚名/2022数集期中.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E6%95%B0%E5%AD%97%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF/%E4%BD%9A%E5%90%8D/2022%E6%95%B0%E9%9B%86%E6%9C%9F%E4%B8%AD.pdf)
+- [电子-数字集成电路/佚名/23数集期中.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E6%95%B0%E5%AD%97%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF/%E4%BD%9A%E5%90%8D/23%E6%95%B0%E9%9B%86%E6%9C%9F%E4%B8%AD.pdf)
+- [计算机-数字逻辑与部件设计/sxg_孙晓光/2022《数字逻辑与部件设计》期末试卷A.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E4%B8%8E%E9%83%A8%E4%BB%B6%E8%AE%BE%E8%AE%A1/sxg_%E5%AD%99%E6%99%93%E5%85%89/2022%E3%80%8A%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E4%B8%8E%E9%83%A8%E4%BB%B6%E8%AE%BE%E8%AE%A1%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7A.pdf)
+- [计算机-数字逻辑与部件设计/tzq_唐志强/[猜]数字逻辑与部件设计_2016_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E4%B8%8E%E9%83%A8%E4%BB%B6%E8%AE%BE%E8%AE%A1/tzq_%E5%94%90%E5%BF%97%E5%BC%BA/%5B%E7%8C%9C%5D%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E4%B8%8E%E9%83%A8%E4%BB%B6%E8%AE%BE%E8%AE%A1_2016_Final.pdf)
+
 **数字逻辑与部件设计 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/数字逻辑与部件设计/2016《数字逻辑与部件设计》期末练习卷%2B答案.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E4%B8%8E%E9%83%A8%E4%BB%B6%E8%AE%BE%E8%AE%A1/2016%E3%80%8A%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E4%B8%8E%E9%83%A8%E4%BB%B6%E8%AE%BE%E8%AE%A1%E3%80%8B%E6%9C%9F%E6%9C%AB%E7%BB%83%E4%B9%A0%E5%8D%B7%252B%E7%AD%94%E6%A1%88.pdf)
 - [3.专业教育/计算机科学与技术/专业必修/数字逻辑与部件设计/期中考试.txt](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E4%B8%8E%E9%83%A8%E4%BB%B6%E8%AE%BE%E8%AE%A1/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.txt)
+
+**数学分析 / Annan-lyn/fudan-exam-paper**
+- [数学-数学分析A(数学系)/dk_杜恺/数分AI(H)_AII(H)_25-26期中期末(杜恺).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90A%28%E6%95%B0%E5%AD%A6%E7%B3%BB%29/dk_%E6%9D%9C%E6%81%BA/%E6%95%B0%E5%88%86AI%28H%29_AII%28H%29_25-26%E6%9C%9F%E4%B8%AD%E6%9C%9F%E6%9C%AB%28%E6%9D%9C%E6%81%BA%29.pdf)
+- [数学-数学分析A(数学系)/lhq_李洪全/数分III_18-25期中期末(李洪全).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90A%28%E6%95%B0%E5%AD%A6%E7%B3%BB%29/lhq_%E6%9D%8E%E6%B4%AA%E5%85%A8/%E6%95%B0%E5%88%86III_18-25%E6%9C%9F%E4%B8%AD%E6%9C%9F%E6%9C%AB%28%E6%9D%8E%E6%B4%AA%E5%85%A8%29.pdf)
+- [数学-数学分析A(数学系)/lhw_楼红卫/数分I_II_16-20期末(楼红卫).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90A%28%E6%95%B0%E5%AD%A6%E7%B3%BB%29/lhw_%E6%A5%BC%E7%BA%A2%E5%8D%AB/%E6%95%B0%E5%88%86I_II_16-20%E6%9C%9F%E6%9C%AB%28%E6%A5%BC%E7%BA%A2%E5%8D%AB%29.pdf)
+- [数学-数学分析A(数学系)/lhw_楼红卫/楼分析_20-26期中期末(楼红卫).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90A%28%E6%95%B0%E5%AD%A6%E7%B3%BB%29/lhw_%E6%A5%BC%E7%BA%A2%E5%8D%AB/%E6%A5%BC%E5%88%86%E6%9E%90_20-26%E6%9C%9F%E4%B8%AD%E6%9C%9F%E6%9C%AB%28%E6%A5%BC%E7%BA%A2%E5%8D%AB%29.pdf)
+- [数学-数学分析A(数学系)/lzg_梁振国/数分AII_23-26期中期末_AI_25秋期中(梁振国、吴昊).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90A%28%E6%95%B0%E5%AD%A6%E7%B3%BB%29/lzg_%E6%A2%81%E6%8C%AF%E5%9B%BD/%E6%95%B0%E5%88%86AII_23-26%E6%9C%9F%E4%B8%AD%E6%9C%9F%E6%9C%AB_AI_25%E7%A7%8B%E6%9C%9F%E4%B8%AD%28%E6%A2%81%E6%8C%AF%E5%9B%BD%E3%80%81%E5%90%B4%E6%98%8A%29.pdf)
+- [数学-数学分析A(数学系)/lzg_梁振国/数分II_22春23春期末(梁振国).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90A%28%E6%95%B0%E5%AD%A6%E7%B3%BB%29/lzg_%E6%A2%81%E6%8C%AF%E5%9B%BD/%E6%95%B0%E5%88%86II_22%E6%98%A523%E6%98%A5%E6%9C%9F%E6%9C%AB%28%E6%A2%81%E6%8C%AF%E5%9B%BD%29.pdf)
+- [数学-数学分析A(数学系)/wh_吴昊/数分AI_24秋期末_AII_26春24春期末(吴昊).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90A%28%E6%95%B0%E5%AD%A6%E7%B3%BB%29/wh_%E5%90%B4%E6%98%8A/%E6%95%B0%E5%88%86AI_24%E7%A7%8B%E6%9C%9F%E6%9C%AB_AII_26%E6%98%A524%E6%98%A5%E6%9C%9F%E6%9C%AB%28%E5%90%B4%E6%98%8A%29.pdf)
+- [数学-数学分析A(数学系)/xtj_肖体俊/数分AIII_25-26秋期末(肖体俊).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90A%28%E6%95%B0%E5%AD%A6%E7%B3%BB%29/xtj_%E8%82%96%E4%BD%93%E4%BF%8A/%E6%95%B0%E5%88%86AIII_25-26%E7%A7%8B%E6%9C%9F%E6%9C%AB%28%E8%82%96%E4%BD%93%E4%BF%8A%29.pdf)
+- [数学-数学分析A(数学系)/yjh_严金海/数分I(H)_24-25期中期末_II_21春期中(严金海).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90A%28%E6%95%B0%E5%AD%A6%E7%B3%BB%29/yjh_%E4%B8%A5%E9%87%91%E6%B5%B7/%E6%95%B0%E5%88%86I%28H%29_24-25%E6%9C%9F%E4%B8%AD%E6%9C%9F%E6%9C%AB_II_21%E6%98%A5%E6%9C%9F%E4%B8%AD%28%E4%B8%A5%E9%87%91%E6%B5%B7%29.pdf)
+- [数学-数学分析A(数学系)/佚名/18年数学分析A（上）期末考试.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90A%28%E6%95%B0%E5%AD%A6%E7%B3%BB%29/%E4%BD%9A%E5%90%8D/18%E5%B9%B4%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90A%EF%BC%88%E4%B8%8A%EF%BC%89%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf)
+- [数学-数学分析A(数学系)/佚名/数分I_III_14-24未署名期中期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90A%28%E6%95%B0%E5%AD%A6%E7%B3%BB%29/%E4%BD%9A%E5%90%8D/%E6%95%B0%E5%88%86I_III_14-24%E6%9C%AA%E7%BD%B2%E5%90%8D%E6%9C%9F%E4%B8%AD%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-数学分析B/lj_刘进/13秋数学分析I期末考试A卷.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90B/lj_%E5%88%98%E8%BF%9B/13%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90I%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95A%E5%8D%B7.docx)
+- 另有 63 个文件，见 data/collection_files.csv
 
 **数学分析 / victkk/FDU-Sharing**
 - [public/resources/数学分析B/13秋数学分析I期末考试A卷.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90B/13%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90I%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95A%E5%8D%B7.docx)
@@ -413,6 +682,24 @@
 - [public/resources/数学分析B/21-2022学年第二学期数学分析下期终考试A卷试题.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90B/21-2022%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%E4%B8%8B%E6%9C%9F%E7%BB%88%E8%80%83%E8%AF%95A%E5%8D%B7%E8%AF%95%E9%A2%98.pdf)
 - 另有 38 个文件，见 data/collection_files.csv
 
+**数学建模 / Annan-lyn/fudan-exam-paper**
+- [数学-数学模型/czj_蔡志杰/数学模型_25春期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B/czj_%E8%94%A1%E5%BF%97%E6%9D%B0/%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B_25%E6%98%A5%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-数学模型/wy_王玥/数学模型_26春期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B/wy_%E7%8E%8B%E7%8E%A5/%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B_26%E6%98%A5%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-数学模型/zyx_张云新/数学模型_25春26春期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B/zyx_%E5%BC%A0%E4%BA%91%E6%96%B0/%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B_25%E6%98%A526%E6%98%A5%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-数学模型/佚名/数学模型_22春期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B/%E4%BD%9A%E5%90%8D/%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B_22%E6%98%A5%E6%9C%9F%E6%9C%AB.pdf)
+
+**数学物理方法 / Annan-lyn/fudan-exam-paper**
+- [数学-偏微分方程/zy_周忆/应用偏微分方程_19-26期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E5%81%8F%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/zy_%E5%91%A8%E5%BF%86/%E5%BA%94%E7%94%A8%E5%81%8F%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B_19-26%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-偏微分方程/zyq_张永前/应用偏微分方程_23秋期中_25春期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E5%81%8F%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/zyq_%E5%BC%A0%E6%B0%B8%E5%89%8D/%E5%BA%94%E7%94%A8%E5%81%8F%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B_23%E7%A7%8B%E6%9C%9F%E4%B8%AD_25%E6%98%A5%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-偏微分方程/zzx_周子翔/应用偏微分方程_25-26春期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E5%81%8F%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/zzx_%E5%91%A8%E5%AD%90%E7%BF%94/%E5%BA%94%E7%94%A8%E5%81%8F%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B_25-26%E6%98%A5%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-数理方程/hbb_华波波/数理方程_24春25春期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/hbb_%E5%8D%8E%E6%B3%A2%E6%B3%A2/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B_24%E6%98%A525%E6%98%A5%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-数理方程/hgg_黄耿耿/数理方程_24秋期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/hgg_%E9%BB%84%E8%80%BF%E8%80%BF/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B_24%E7%A7%8B%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-数理方程/lz_雷震/数理方程_22-26期末(部分与蔡圆、华波波合上).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/lz_%E9%9B%B7%E9%9C%87/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B_22-26%E6%9C%9F%E6%9C%AB%28%E9%83%A8%E5%88%86%E4%B8%8E%E8%94%A1%E5%9C%86%E3%80%81%E5%8D%8E%E6%B3%A2%E6%B3%A2%E5%90%88%E4%B8%8A%29.pdf)
+- [数学-数理方程/lzw_林治武/数理方程_25秋期末(与王玥).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/lzw_%E6%9E%97%E6%B2%BB%E6%AD%A6/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B_25%E7%A7%8B%E6%9C%9F%E6%9C%AB%28%E4%B8%8E%E7%8E%8B%E7%8E%A5%29.pdf)
+- [数学-数理方程/qp_曲鹏/数理方程_(H)_23秋24秋期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/qp_%E6%9B%B2%E9%B9%8F/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B_%28H%29_23%E7%A7%8B24%E7%A7%8B%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-数理方程/wzq_王志强/数理方程_23秋_25秋(H)期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/wzq_%E7%8E%8B%E5%BF%97%E5%BC%BA/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B_23%E7%A7%8B_25%E7%A7%8B%28H%29%E6%9C%9F%E6%9C%AB.pdf)
+- [物理-数学物理方法/wj_王珺/2022试卷A-1.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%89%A9%E7%90%86-%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/wj_%E7%8E%8B%E7%8F%BA/2022%E8%AF%95%E5%8D%B7A-1.pdf)
+
 **数据库系统引论 / AniroHU/FDU_Courses_Undergraduate**
 - [Database/Slides/ER Example 1 (in class) -- Pet adoptions.html](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Database/Slides/ER%20Example%201%20%28in%20class%29%20--%20Pet%20adoptions.html)
 - [Database/Slides/ElderCare Example (in class example).html](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Database/Slides/ElderCare%20Example%20%28in%20class%20example%29.html)
@@ -420,6 +707,17 @@
 - [Database/Slides/Example Used In Class.html](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Database/Slides/Example%20Used%20In%20Class.html)
 - [Database/Slides/Examples 2024 - Updated.zip](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Database/Slides/Examples%202024%20-%20Updated.zip)
 - [Database/Slides/exam_v1.docx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/Database/Slides/exam_v1.docx)
+
+**数据库系统引论 / Annan-lyn/fudan-exam-paper**
+- [计算机-数据库/佚名/2021-06-A.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%95%B0%E6%8D%AE%E5%BA%93/%E4%BD%9A%E5%90%8D/2021-06-A.pdf)
+- [计算机-数据库/佚名/2021-06-B.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%95%B0%E6%8D%AE%E5%BA%93/%E4%BD%9A%E5%90%8D/2021-06-B.pdf)
+- [计算机-数据库引论/jyn_荆一楠/2026春数据库引论期末回忆.html](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/jyn_%E8%8D%86%E4%B8%80%E6%A5%A0/2026%E6%98%A5%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA%E6%9C%9F%E6%9C%AB%E5%9B%9E%E5%BF%86.html)
+- [计算机-数据库引论/ww_汪卫/[猜]数据库引论_2014_Midterm.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/ww_%E6%B1%AA%E5%8D%AB/%5B%E7%8C%9C%5D%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA_2014_Midterm.pdf)
+- [计算机-数据库引论/ww_汪卫/[猜]数据库引论_2019_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/ww_%E6%B1%AA%E5%8D%AB/%5B%E7%8C%9C%5D%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA_2019_Final.pdf)
+- [计算机-数据库引论/wyh_吴永辉/数据库引论_2022_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/wyh_%E5%90%B4%E6%B0%B8%E8%BE%89/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA_2022_Final.pdf)
+- [计算机-数据库引论/zsg_周水庚/期中考试 (2024 春).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/zsg_%E5%91%A8%E6%B0%B4%E5%BA%9A/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%20%282024%20%E6%98%A5%29.pdf)
+- [计算机-数据库引论/zsg_周水庚/期中考试 (2025 春).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/zsg_%E5%91%A8%E6%B0%B4%E5%BA%9A/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%20%282025%20%E6%98%A5%29.pdf)
+- [计算机-数据库引论/佚名/2014数据库引论期中考试试题.doc](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/%E4%BD%9A%E5%90%8D/2014%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98.doc)
 
 **数据库系统引论 / Snivallus/FDU-Course-Notes-2024-2025**
 - [数据库引论/Homework & Exam/期中考试 (2024 春).pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/Homework%20%26%20Exam/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%20%282024%20%E6%98%A5%29.pdf)
@@ -458,6 +756,21 @@
 - [public/resources/数据库引论/2024年春季数据库引论-期中试卷 - 答案.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/2024%E5%B9%B4%E6%98%A5%E5%AD%A3%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA-%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7%20-%20%E7%AD%94%E6%A1%88.docx)
 - [public/resources/数据库引论/~$2023年数据库课堂练习1（含参考答案）.doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/~%242023%E5%B9%B4%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AF%BE%E5%A0%82%E7%BB%83%E4%B9%A01%EF%BC%88%E5%90%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%89.doc)
 - [public/resources/数据库引论/~$23年数据库课堂练习2（含参考答案）.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E8%AE%BA/~%2423%E5%B9%B4%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AF%BE%E5%A0%82%E7%BB%83%E4%B9%A02%EF%BC%88%E5%90%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%89.docx)
+
+**数据结构 / Annan-lyn/fudan-exam-paper**
+- [计算机-数据结构/ctb_陈彤兵/2025期中讲解ctb.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/ctb_%E9%99%88%E5%BD%A4%E5%85%B5/2025%E6%9C%9F%E4%B8%AD%E8%AE%B2%E8%A7%A3ctb.pdf)
+- [计算机-数据结构/hzf_黄增峰/数据结构期末试卷2022fall.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/hzf_%E9%BB%84%E5%A2%9E%E5%B3%B0/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B72022fall.pdf)
+- [计算机-数据结构/sww_孙未未/[猜]2008数据结构期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/sww_%E5%AD%99%E6%9C%AA%E6%9C%AA/%5B%E7%8C%9C%5D2008%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%9C%9F%E6%9C%AB.pdf)
+- [计算机-数据结构/sww_孙未未/[猜]2008级《数据结构》期末试题（A卷）答案及评分标准.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/sww_%E5%AD%99%E6%9C%AA%E6%9C%AA/%5B%E7%8C%9C%5D2008%E7%BA%A7%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%EF%BC%88A%E5%8D%B7%EF%BC%89%E7%AD%94%E6%A1%88%E5%8F%8A%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.pdf)
+- [计算机-数据结构/sww_孙未未/[猜]2011数据结构期中.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/sww_%E5%AD%99%E6%9C%AA%E6%9C%AA/%5B%E7%8C%9C%5D2011%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%9C%9F%E4%B8%AD.pdf)
+- [计算机-数据结构/sww_孙未未/[猜]2011数据结构期中解析.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/sww_%E5%AD%99%E6%9C%AA%E6%9C%AA/%5B%E7%8C%9C%5D2011%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%9C%9F%E4%B8%AD%E8%A7%A3%E6%9E%90.pdf)
+- [计算机-数据结构/sww_孙未未/[猜]2012DS数据结构期中.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/sww_%E5%AD%99%E6%9C%AA%E6%9C%AA/%5B%E7%8C%9C%5D2012DS%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%9C%9F%E4%B8%AD.pdf)
+- [计算机-数据结构/sww_孙未未/[猜]2012DS数据结构期中解析.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/sww_%E5%AD%99%E6%9C%AA%E6%9C%AA/%5B%E7%8C%9C%5D2012DS%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%9C%9F%E4%B8%AD%E8%A7%A3%E6%9E%90.pdf)
+- [计算机-数据结构/sww_孙未未/[猜]2012数据结构期末解析.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/sww_%E5%AD%99%E6%9C%AA%E6%9C%AA/%5B%E7%8C%9C%5D2012%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%9C%9F%E6%9C%AB%E8%A7%A3%E6%9E%90.pdf)
+- [计算机-数据结构/佚名/2009-2010学年第一学期期末试卷A卷_软工.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E4%BD%9A%E5%90%8D/2009-2010%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7A%E5%8D%B7_%E8%BD%AF%E5%B7%A5.pdf)
+- [计算机-数据结构/佚名/2022年《数据结构》期末试题（A卷）.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E4%BD%9A%E5%90%8D/2022%E5%B9%B4%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%EF%BC%88A%E5%8D%B7%EF%BC%89.pdf)
+- [计算机-数据结构/佚名/2022年《数据结构》期末试题（A卷）v0.doc](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E4%BD%9A%E5%90%8D/2022%E5%B9%B4%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%EF%BC%88A%E5%8D%B7%EF%BC%89v0.doc)
+- 另有 8 个文件，见 data/collection_files.csv
 
 **数据结构 / clb2001/FDU-COMP**
 - [数据结构/FinalTest/bin/t1.exe](https://github.com/clb2001/FDU-COMP/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/FinalTest/bin/t1.exe)
@@ -507,6 +820,21 @@
 - [public/resources/数据结构/2024ds_final.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/2024ds_final.pdf)
 - 另有 17 个文件，见 data/collection_files.csv
 
+**数理统计 / Annan-lyn/fudan-exam-paper**
+- [数学-数理统计/yc_尤翀/数理统计_26春期中期末(尤翀).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/yc_%E5%B0%A4%E7%BF%80/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_26%E6%98%A5%E6%9C%9F%E4%B8%AD%E6%9C%9F%E6%9C%AB%28%E5%B0%A4%E7%BF%80%29.pdf)
+- [数学-数理统计/yy_杨莹/数理统计_26春期中期末(杨莹).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/yy_%E6%9D%A8%E8%8E%B9/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_26%E6%98%A5%E6%9C%9F%E4%B8%AD%E6%9C%9F%E6%9C%AB%28%E6%9D%A8%E8%8E%B9%29.pdf)
+- [数学-统计学(经院)/佚名/复旦大学经济学院统计学期末考试A卷答案(1)(1).doc](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E7%BB%9F%E8%AE%A1%E5%AD%A6%28%E7%BB%8F%E9%99%A2%29/%E4%BD%9A%E5%90%8D/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E7%BB%8F%E6%B5%8E%E5%AD%A6%E9%99%A2%E7%BB%9F%E8%AE%A1%E5%AD%A6%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95A%E5%8D%B7%E7%AD%94%E6%A1%88%281%29%281%29.doc)
+- [数学-统计学(经院)/佚名/复旦大学经济学院统计学期末考试B卷答案(1).doc](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E7%BB%9F%E8%AE%A1%E5%AD%A6%28%E7%BB%8F%E9%99%A2%29/%E4%BD%9A%E5%90%8D/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E7%BB%8F%E6%B5%8E%E5%AD%A6%E9%99%A2%E7%BB%9F%E8%AE%A1%E5%AD%A6%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95B%E5%8D%B7%E7%AD%94%E6%A1%88%281%29.doc)
+- [数学-统计学(经院)/佚名/复旦大学经济学院统计学期末考试C卷答案(1).doc](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E7%BB%9F%E8%AE%A1%E5%AD%A6%28%E7%BB%8F%E9%99%A2%29/%E4%BD%9A%E5%90%8D/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E7%BB%8F%E6%B5%8E%E5%AD%A6%E9%99%A2%E7%BB%9F%E8%AE%A1%E5%AD%A6%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95C%E5%8D%B7%E7%AD%94%E6%A1%88%281%29.doc)
+- [数学-统计学(经院)/佚名/复旦大学经济学院统计学期末考试试卷A(1).doc](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E7%BB%9F%E8%AE%A1%E5%AD%A6%28%E7%BB%8F%E9%99%A2%29/%E4%BD%9A%E5%90%8D/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E7%BB%8F%E6%B5%8E%E5%AD%A6%E9%99%A2%E7%BB%9F%E8%AE%A1%E5%AD%A6%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7A%281%29.doc)
+- [数学-统计学(经院)/佚名/复旦大学经济学院统计学期末考试试卷B(1).doc](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E7%BB%9F%E8%AE%A1%E5%AD%A6%28%E7%BB%8F%E9%99%A2%29/%E4%BD%9A%E5%90%8D/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E7%BB%8F%E6%B5%8E%E5%AD%A6%E9%99%A2%E7%BB%9F%E8%AE%A1%E5%AD%A6%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7B%281%29.doc)
+- [数学-统计学(经院)/佚名/复旦大学经济学院统计学期末考试试卷C(1).doc](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E7%BB%9F%E8%AE%A1%E5%AD%A6%28%E7%BB%8F%E9%99%A2%29/%E4%BD%9A%E5%90%8D/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E7%BB%8F%E6%B5%8E%E5%AD%A6%E9%99%A2%E7%BB%9F%E8%AE%A1%E5%AD%A6%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7C%281%29.doc)
+- [数学-统计学(经院)/佚名/统计学2022秋-A卷.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E7%BB%9F%E8%AE%A1%E5%AD%A6%28%E7%BB%8F%E9%99%A2%29/%E4%BD%9A%E5%90%8D/%E7%BB%9F%E8%AE%A1%E5%AD%A62022%E7%A7%8B-A%E5%8D%B7.docx)
+- [统计-统计学基础I数理统计/gfn_高凤楠/[猜]统计学基础I_2017_Midterm.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%9F%E8%AE%A1-%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80I%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/gfn_%E9%AB%98%E5%87%A4%E6%A5%A0/%5B%E7%8C%9C%5D%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80I_2017_Midterm.pdf)
+- [统计-统计学基础I数理统计/hyx_侯燕曦/期中考试 (2024 春).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%9F%E8%AE%A1-%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80I%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/hyx_%E4%BE%AF%E7%87%95%E6%9B%A6/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%20%282024%20%E6%98%A5%29.pdf)
+- [统计-统计学基础I数理统计/hyx_侯燕曦/期中考试 (2025 春).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%9F%E8%AE%A1-%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80I%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/hyx_%E4%BE%AF%E7%87%95%E6%9B%A6/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%20%282025%20%E6%98%A5%29.pdf)
+- 另有 1 个文件，见 data/collection_files.csv
+
 **数理统计 / Snivallus/FDU-Course-Notes-2024-2025**
 - [统计学基础Ⅰ数理统计/Homework & Exam/Assignment 1.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/Homework%20%26%20Exam/Assignment%201.pdf)
 - [统计学基础Ⅰ数理统计/Homework & Exam/Assignment 2.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/Homework%20%26%20Exam/Assignment%202.pdf)
@@ -523,6 +851,29 @@
 
 **数理统计 / hadanice/OpenDS**
 - [统计学基础Ⅰ：数理统计/final.pdf](https://github.com/hadanice/OpenDS/blob/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80%E2%85%A0%EF%BC%9A%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/final.pdf)
+
+**新闻传播 / Annan-lyn/fudan-exam-paper**
+- [新闻-传播学概论/gl_官璐/传播学概论闭卷试卷A卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%96%B0%E9%97%BB-%E4%BC%A0%E6%92%AD%E5%AD%A6%E6%A6%82%E8%AE%BA/gl_%E5%AE%98%E7%92%90/%E4%BC%A0%E6%92%AD%E5%AD%A6%E6%A6%82%E8%AE%BA%E9%97%AD%E5%8D%B7%E8%AF%95%E5%8D%B7A%E5%8D%B7.pdf)
+- [新闻-传播学概论/yp_杨鹏/传播学概论_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%96%B0%E9%97%BB-%E4%BC%A0%E6%92%AD%E5%AD%A6%E6%A6%82%E8%AE%BA/yp_%E6%9D%A8%E9%B9%8F/%E4%BC%A0%E6%92%AD%E5%AD%A6%E6%A6%82%E8%AE%BA_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+- [新闻-新闻学概论/xj_谢静/新闻学概论_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%96%B0%E9%97%BB-%E6%96%B0%E9%97%BB%E5%AD%A6%E6%A6%82%E8%AE%BA/xj_%E8%B0%A2%E9%9D%99/%E6%96%B0%E9%97%BB%E5%AD%A6%E6%A6%82%E8%AE%BA_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+- [新闻-新闻学概论/zw_郑雯/JOUR120008.02新闻学概论A卷.郑雯.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%96%B0%E9%97%BB-%E6%96%B0%E9%97%BB%E5%AD%A6%E6%A6%82%E8%AE%BA/zw_%E9%83%91%E9%9B%AF/JOUR120008.02%E6%96%B0%E9%97%BB%E5%AD%A6%E6%A6%82%E8%AE%BAA%E5%8D%B7.%E9%83%91%E9%9B%AF.docx)
+- [新闻-新闻学概论/zza_张志安/2022秋季学期新闻学概论期末试题.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%96%B0%E9%97%BB-%E6%96%B0%E9%97%BB%E5%AD%A6%E6%A6%82%E8%AE%BA/zza_%E5%BC%A0%E5%BF%97%E5%AE%89/2022%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E6%96%B0%E9%97%BB%E5%AD%A6%E6%A6%82%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.docx)
+- [新闻-马克思主义新闻思想/lxs_林溪声/马克思主义新闻思想_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%96%B0%E9%97%BB-%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E6%96%B0%E9%97%BB%E6%80%9D%E6%83%B3/lxs_%E6%9E%97%E6%BA%AA%E5%A3%B0/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E6%96%B0%E9%97%BB%E6%80%9D%E6%83%B3_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+
+**普化A上 / Annan-lyn/fudan-exam-paper**
+- [化学-普通化学A/hwm_华伟明/普通化学A(下)期末考试题目.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%8C%96%E5%AD%A6-%E6%99%AE%E9%80%9A%E5%8C%96%E5%AD%A6A/hwm_%E5%8D%8E%E4%BC%9F%E6%98%8E/%E6%99%AE%E9%80%9A%E5%8C%96%E5%AD%A6A%28%E4%B8%8B%29%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE.pdf)
+- [化学-普通化学A/yb_岳斌/2017GC（II）.ppt](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%8C%96%E5%AD%A6-%E6%99%AE%E9%80%9A%E5%8C%96%E5%AD%A6A/yb_%E5%B2%B3%E6%96%8C/2017GC%EF%BC%88II%EF%BC%89.ppt)
+- [化学-普通化学A/佚名/18期中（含答案）.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%8C%96%E5%AD%A6-%E6%99%AE%E9%80%9A%E5%8C%96%E5%AD%A6A/%E4%BD%9A%E5%90%8D/18%E6%9C%9F%E4%B8%AD%EF%BC%88%E5%90%AB%E7%AD%94%E6%A1%88%EF%BC%89.pdf)
+- [化学-普通化学A/佚名/2015A(复旦大学2015年普化A上期末试题)解析.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%8C%96%E5%AD%A6-%E6%99%AE%E9%80%9A%E5%8C%96%E5%AD%A6A/%E4%BD%9A%E5%90%8D/2015A%28%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A62015%E5%B9%B4%E6%99%AE%E5%8C%96A%E4%B8%8A%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%29%E8%A7%A3%E6%9E%90.pdf)
+- [化学-普通化学A/佚名/2017GC（I）.ppt](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%8C%96%E5%AD%A6-%E6%99%AE%E9%80%9A%E5%8C%96%E5%AD%A6A/%E4%BD%9A%E5%90%8D/2017GC%EF%BC%88I%EF%BC%89.ppt)
+- [化学-普通化学A/佚名/2022秋普化A医科班期中小测.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%8C%96%E5%AD%A6-%E6%99%AE%E9%80%9A%E5%8C%96%E5%AD%A6A/%E4%BD%9A%E5%90%8D/2022%E7%A7%8B%E6%99%AE%E5%8C%96A%E5%8C%BB%E7%A7%91%E7%8F%AD%E6%9C%9F%E4%B8%AD%E5%B0%8F%E6%B5%8B.pdf)
+- [化学-普通化学A/佚名/2022秋普化A期末试题.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%8C%96%E5%AD%A6-%E6%99%AE%E9%80%9A%E5%8C%96%E5%AD%A6A/%E4%BD%9A%E5%90%8D/2022%E7%A7%8B%E6%99%AE%E5%8C%96A%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf)
+- [化学-普通化学A/佚名/2022秋普化A自科班期中小测.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%8C%96%E5%AD%A6-%E6%99%AE%E9%80%9A%E5%8C%96%E5%AD%A6A/%E4%BD%9A%E5%90%8D/2022%E7%A7%8B%E6%99%AE%E5%8C%96A%E8%87%AA%E7%A7%91%E7%8F%AD%E6%9C%9F%E4%B8%AD%E5%B0%8F%E6%B5%8B.pdf)
+- [化学-普通化学A/佚名/21-22普化A下期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%8C%96%E5%AD%A6-%E6%99%AE%E9%80%9A%E5%8C%96%E5%AD%A6A/%E4%BD%9A%E5%90%8D/21-22%E6%99%AE%E5%8C%96A%E4%B8%8B%E6%9C%9F%E6%9C%AB.pdf)
+- [化学-普通化学A/佚名/普化A 2024秋期中考试.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%8C%96%E5%AD%A6-%E6%99%AE%E9%80%9A%E5%8C%96%E5%AD%A6A/%E4%BD%9A%E5%90%8D/%E6%99%AE%E5%8C%96A%202024%E7%A7%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf)
+- [化学-有机化学/wqr_王全瑞/有机化学_2020_Final_密码FDOC20July1.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%8C%96%E5%AD%A6-%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6/wqr_%E7%8E%8B%E5%85%A8%E7%91%9E/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6_2020_Final_%E5%AF%86%E7%A0%81FDOC20July1.pdf)
+- [化学-有机化学/wqr_王全瑞/有机化学_2022_Final_密码finalJWZJ.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E5%8C%96%E5%AD%A6-%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6/wqr_%E7%8E%8B%E5%85%A8%E7%91%9E/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6_2022_Final_%E5%AF%86%E7%A0%81finalJWZJ.pdf)
+- 另有 1 个文件，见 data/collection_files.csv
 
 **普化A上 / victkk/FDU-Sharing**
 - [public/resources/普化A上/21-22普化A下期末.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%99%AE%E5%8C%96A%E4%B8%8A/21-22%E6%99%AE%E5%8C%96A%E4%B8%8B%E6%9C%9F%E6%9C%AB.pdf)
@@ -543,6 +894,11 @@
 - [智能移动平台开发/ImgCluster/app/src/androidTest/java/com/app/zpvoh/imgcluster/ExampleInstrumentedTest.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/app/src/androidTest/java/com/app/zpvoh/imgcluster/ExampleInstrumentedTest.java)
 - [智能移动平台开发/ImgCluster/app/src/test/java/com/app/zpvoh/imgcluster/ExampleUnitTest.java](https://github.com/ChenTao98/FudanUniversity/blob/master/%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91/ImgCluster/app/src/test/java/com/app/zpvoh/imgcluster/ExampleUnitTest.java)
 
+**机器人学 / Annan-lyn/fudan-exam-paper**
+- [计算机-机器人学导论/fhb_方虹斌/2022-期末考试试卷-机器人学导论A卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6%E5%AF%BC%E8%AE%BA/fhb_%E6%96%B9%E8%99%B9%E6%96%8C/2022-%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7-%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6%E5%AF%BC%E8%AE%BAA%E5%8D%B7.pdf)
+- [计算机-机器人学导论/fhb_方虹斌/2022秋机器人学导论_期中试卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6%E5%AF%BC%E8%AE%BA/fhb_%E6%96%B9%E8%99%B9%E6%96%8C/2022%E7%A7%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6%E5%AF%BC%E8%AE%BA_%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf)
+- [计算机-机器人学导论/佚名/机器人学导论期末.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E4%BD%9A%E5%90%8D/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6%E5%AF%BC%E8%AE%BA%E6%9C%9F%E6%9C%AB.docx)
+
 **机器人学 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业选修/机器人学导论/期末.docx](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E6%9C%9F%E6%9C%AB.docx)
 
@@ -552,11 +908,29 @@
 - [MachineLearning&DeepLearning/Exams/elec425 (1).pdf](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/MachineLearning%26DeepLearning/Exams/elec425%20%281%29.pdf)
 - [MachineLearning&DeepLearning/Exams/elec425_825.pdf](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/MachineLearning%26DeepLearning/Exams/elec425_825.pdf)
 
+**机器学习 / Annan-lyn/fudan-exam-paper**
+- [统计-统计机器学习/zxn_朱雪宁/期末考试 (2022).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%9F%E8%AE%A1-%E7%BB%9F%E8%AE%A1%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/zxn_%E6%9C%B1%E9%9B%AA%E5%AE%81/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%20%282022%29.pdf)
+
 **机器学习 / Snivallus/FDU-Course-Notes-2024-2025**
 - [统计机器学习/Homework/期末考试 (2022).pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/Homework/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%20%282022%29.pdf)
 
 **概率论 / AniroHU/FDU_Courses_Undergraduate**
 - [概率论基础/SPexam.pdf](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80/SPexam.pdf)
+
+**概率论 / Annan-lyn/fudan-exam-paper**
+- [数学-概率统计与工程数学/佚名/概率统计与工程数学_2_2022A卷试题.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E4%B8%8E%E5%B7%A5%E7%A8%8B%E6%95%B0%E5%AD%A6/%E4%BD%9A%E5%90%8D/%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E4%B8%8E%E5%B7%A5%E7%A8%8B%E6%95%B0%E5%AD%A6_2_2022A%E5%8D%B7%E8%AF%95%E9%A2%98.pdf)
+- [数学-概率论(数学系)/llp_李利平/[猜]概率论_往年期末(李利平点评).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%A6%82%E7%8E%87%E8%AE%BA%28%E6%95%B0%E5%AD%A6%E7%B3%BB%29/llp_%E6%9D%8E%E5%88%A9%E5%B9%B3/%5B%E7%8C%9C%5D%E6%A6%82%E7%8E%87%E8%AE%BA_%E5%BE%80%E5%B9%B4%E6%9C%9F%E6%9C%AB%28%E6%9D%8E%E5%88%A9%E5%B9%B3%E7%82%B9%E8%AF%84%29.pdf)
+- [数学-概率论(数学系)/wb_吴波/概率论_26春(吴波).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%A6%82%E7%8E%87%E8%AE%BA%28%E6%95%B0%E5%AD%A6%E7%B3%BB%29/wb_%E5%90%B4%E6%B3%A2/%E6%A6%82%E7%8E%87%E8%AE%BA_26%E6%98%A5%28%E5%90%B4%E6%B3%A2%29.pdf)
+- [数学-概率论(数学系)/xjs_谢践生/[猜]概率论(H)_22-26期中期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%A6%82%E7%8E%87%E8%AE%BA%28%E6%95%B0%E5%AD%A6%E7%B3%BB%29/xjs_%E8%B0%A2%E8%B7%B5%E7%94%9F/%5B%E7%8C%9C%5D%E6%A6%82%E7%8E%87%E8%AE%BA%28H%29_22-26%E6%9C%9F%E4%B8%AD%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-概率论(数学系)/yjg_应坚刚/2023～2024学年第一学期A卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%A6%82%E7%8E%87%E8%AE%BA%28%E6%95%B0%E5%AD%A6%E7%B3%BB%29/yjg_%E5%BA%94%E5%9D%9A%E5%88%9A/2023%EF%BD%9E2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9FA%E5%8D%B7.pdf)
+- [数学-概率论(数学系)/yjg_应坚刚/概率论_23-24秋期末(应坚刚).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%A6%82%E7%8E%87%E8%AE%BA%28%E6%95%B0%E5%AD%A6%E7%B3%BB%29/yjg_%E5%BA%94%E5%9D%9A%E5%88%9A/%E6%A6%82%E7%8E%87%E8%AE%BA_23-24%E7%A7%8B%E6%9C%9F%E6%9C%AB%28%E5%BA%94%E5%9D%9A%E5%88%9A%29.pdf)
+- [数学-概率论与数理统计/jlf_金玲飞/22期中(金玲飞班).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/jlf_%E9%87%91%E7%8E%B2%E9%A3%9E/22%E6%9C%9F%E4%B8%AD%28%E9%87%91%E7%8E%B2%E9%A3%9E%E7%8F%AD%29.pdf)
+- [数学-概率论与数理统计/jlf_金玲飞/22期末(金玲飞班).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/jlf_%E9%87%91%E7%8E%B2%E9%A3%9E/22%E6%9C%9F%E6%9C%AB%28%E9%87%91%E7%8E%B2%E9%A3%9E%E7%8F%AD%29.pdf)
+- [数学-概率论与数理统计/txp_陶晓鹏/2020年陶晓鹏班.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/txp_%E9%99%B6%E6%99%93%E9%B9%8F/2020%E5%B9%B4%E9%99%B6%E6%99%93%E9%B9%8F%E7%8F%AD.pdf)
+- [数学-概率论与数理统计/wy_王勇/2022年郭跃飞_王勇班.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/wy_%E7%8E%8B%E5%8B%87/2022%E5%B9%B4%E9%83%AD%E8%B7%83%E9%A3%9E_%E7%8E%8B%E5%8B%87%E7%8F%AD.pdf)
+- [数学-概率论与数理统计/wy_王勇/概率论与数理统计_2022_Final-王勇.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/wy_%E7%8E%8B%E5%8B%87/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_2022_Final-%E7%8E%8B%E5%8B%87.pdf)
+- [数学-概率论与数理统计/佚名/2020年(不知授课老师)第二份.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E4%BD%9A%E5%90%8D/2020%E5%B9%B4%28%E4%B8%8D%E7%9F%A5%E6%8E%88%E8%AF%BE%E8%80%81%E5%B8%88%29%E7%AC%AC%E4%BA%8C%E4%BB%BD.pdf)
+- 另有 6 个文件，见 data/collection_files.csv
 
 **概率论 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/概率论与数理统计/期末笔记.txt](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%9C%9F%E6%9C%AB%E7%AC%94%E8%AE%B0.txt)
@@ -583,6 +957,26 @@
 - [法律与社会/资料/法律与社会试题及答案(1) (1).docx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E6%B3%95%E5%BE%8B%E4%B8%8E%E7%A4%BE%E4%BC%9A/%E8%B5%84%E6%96%99/%E6%B3%95%E5%BE%8B%E4%B8%8E%E7%A4%BE%E4%BC%9A%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88%281%29%20%281%29.docx)
 - [法律与社会/资料/法律与社会试题及答案(1).docx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E6%B3%95%E5%BE%8B%E4%B8%8E%E7%A4%BE%E4%BC%9A/%E8%B5%84%E6%96%99/%E6%B3%95%E5%BE%8B%E4%B8%8E%E7%A4%BE%E4%BC%9A%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88%281%29.docx)
 
+**法律与社会 / Annan-lyn/fudan-exam-paper**
+- [法学-法理学导论/sdx_史大晓/法理学导论_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%B3%95%E5%AD%A6-%E6%B3%95%E7%90%86%E5%AD%A6%E5%AF%BC%E8%AE%BA/sdx_%E5%8F%B2%E5%A4%A7%E6%99%93/%E6%B3%95%E7%90%86%E5%AD%A6%E5%AF%BC%E8%AE%BA_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+
+**深度学习及其应用 / Annan-lyn/fudan-exam-paper**
+- [AI-深度学习基础/sxg_孙晓光/深度学习基础.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/AI-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/sxg_%E5%AD%99%E6%99%93%E5%85%89/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80.pdf)
+- [数学-深度学习/zdh_赵冬华/[猜]深度学习_21-22春期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/zdh_%E8%B5%B5%E5%86%AC%E5%8D%8E/%5B%E7%8C%9C%5D%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0_21-22%E6%98%A5%E6%9C%9F%E6%9C%AB.pdf)
+
+**生物学 / Annan-lyn/fudan-exam-paper**
+- [通识-现代生物科学导论/统考/19秋生科导期末/19春生科导C期末A卷单选题（闭卷）.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E9%80%9A%E8%AF%86-%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E7%BB%9F%E8%80%83/19%E7%A7%8B%E7%94%9F%E7%A7%91%E5%AF%BC%E6%9C%9F%E6%9C%AB/19%E6%98%A5%E7%94%9F%E7%A7%91%E5%AF%BCC%E6%9C%9F%E6%9C%ABA%E5%8D%B7%E5%8D%95%E9%80%89%E9%A2%98%EF%BC%88%E9%97%AD%E5%8D%B7%EF%BC%89.pdf)
+- [通识-现代生物科学导论/统考/19秋生科导期末/19春生科导C期末A卷问答题（开卷）.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E9%80%9A%E8%AF%86-%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E7%BB%9F%E8%80%83/19%E7%A7%8B%E7%94%9F%E7%A7%91%E5%AF%BC%E6%9C%9F%E6%9C%AB/19%E6%98%A5%E7%94%9F%E7%A7%91%E5%AF%BCC%E6%9C%9F%E6%9C%ABA%E5%8D%B7%E9%97%AE%E7%AD%94%E9%A2%98%EF%BC%88%E5%BC%80%E5%8D%B7%EF%BC%89.pdf)
+- [通识-现代生物科学导论/统考/21秋生导A期末考试.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E9%80%9A%E8%AF%86-%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E7%BB%9F%E8%80%83/21%E7%A7%8B%E7%94%9F%E5%AF%BCA%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf)
+- [通识-现代生物科学导论/统考/22秋生科导C试题及答案.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E9%80%9A%E8%AF%86-%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E7%BB%9F%E8%80%83/22%E7%A7%8B%E7%94%9F%E7%A7%91%E5%AF%BCC%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.docx)
+- [通识-现代生物科学导论/统考/《现代生物科学导论》期末考试试卷.doc](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E9%80%9A%E8%AF%86-%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E7%BB%9F%E8%80%83/%E3%80%8A%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.doc)
+- [通识-现代生物科学导论/统考/历年考试题.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E9%80%9A%E8%AF%86-%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E7%BB%9F%E8%80%83/%E5%8E%86%E5%B9%B4%E8%80%83%E8%AF%95%E9%A2%98.docx)
+- [通识-现代生物科学导论/统考/填空+选择+大题  07-12真题+10-12BBS整理.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E9%80%9A%E8%AF%86-%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E7%BB%9F%E8%80%83/%E5%A1%AB%E7%A9%BA%2B%E9%80%89%E6%8B%A9%2B%E5%A4%A7%E9%A2%98%20%2007-12%E7%9C%9F%E9%A2%98%2B10-12BBS%E6%95%B4%E7%90%86.docx)
+- [通识-现代生物科学导论/统考/复旦大学_生命科学导论_历年试题_修订版.doc](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E9%80%9A%E8%AF%86-%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E7%BB%9F%E8%80%83/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6_%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA_%E5%8E%86%E5%B9%B4%E8%AF%95%E9%A2%98_%E4%BF%AE%E8%AE%A2%E7%89%88.doc)
+- [通识-现代生物科学导论/统考/往年试题无答案.doc](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E9%80%9A%E8%AF%86-%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E7%BB%9F%E8%80%83/%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E6%97%A0%E7%AD%94%E6%A1%88.doc)
+- [通识-现代生物科学导论/统考/生导历年试题.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E9%80%9A%E8%AF%86-%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E7%BB%9F%E8%80%83/%E7%94%9F%E5%AF%BC%E5%8E%86%E5%B9%B4%E8%AF%95%E9%A2%98.docx)
+- [通识-现代生物科学导论/统考/生科导历年考试真题汇总.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E9%80%9A%E8%AF%86-%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E7%BB%9F%E8%80%83/%E7%94%9F%E7%A7%91%E5%AF%BC%E5%8E%86%E5%B9%B4%E8%80%83%E8%AF%95%E7%9C%9F%E9%A2%98%E6%B1%87%E6%80%BB.pdf)
+
 **生物学 / victkk/FDU-Sharing**
 - [public/resources/现代生物科学导论/复习资料、历年题/生导思考题.docx](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E7%94%9F%E5%AF%BC%E6%80%9D%E8%80%83%E9%A2%98.docx)
 - [public/resources/现代生物科学导论/复习资料、历年题/生导重点手写笔记及思考题答案.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E7%94%9F%E5%AF%BC%E9%87%8D%E7%82%B9%E6%89%8B%E5%86%99%E7%AC%94%E8%AE%B0%E5%8F%8A%E6%80%9D%E8%80%83%E9%A2%98%E7%AD%94%E6%A1%88.pdf)
@@ -598,8 +992,29 @@
 - [public/resources/现代生物科学导论/复习资料、历年题/真题/22秋生科导试题及得A答题卡/试题/10.png](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%8E%B0%E4%BB%A3%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E3%80%81%E5%8E%86%E5%B9%B4%E9%A2%98/%E7%9C%9F%E9%A2%98/22%E7%A7%8B%E7%94%9F%E7%A7%91%E5%AF%BC%E8%AF%95%E9%A2%98%E5%8F%8A%E5%BE%97A%E7%AD%94%E9%A2%98%E5%8D%A1/%E8%AF%95%E9%A2%98/10.png)
 - 另有 26 个文件，见 data/collection_files.csv
 
+**电子系统 / Annan-lyn/fudan-exam-paper**
+- [电子-信号与系统/zxy_曾晓洋/信号与通信系统试题A卷-2020.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/zxy_%E6%9B%BE%E6%99%93%E6%B4%8B/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E9%80%9A%E4%BF%A1%E7%B3%BB%E7%BB%9F%E8%AF%95%E9%A2%98A%E5%8D%B7-2020.pdf)
+- [电子-信号与系统/佚名/2026-期末-信号与系统-25-试题回忆.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E4%BD%9A%E5%90%8D/2026-%E6%9C%9F%E6%9C%AB-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F-25-%E8%AF%95%E9%A2%98%E5%9B%9E%E5%BF%86.docx)
+- [电子-信号与系统/佚名/信号与系统概论-2022年春季学期-A卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E4%BD%9A%E5%90%8D/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA-2022%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F-A%E5%8D%B7.pdf)
+- [电子-信号与通信系统/wyy_汪源源/信号与通信系统_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E9%80%9A%E4%BF%A1%E7%B3%BB%E7%BB%9F/wyy_%E6%B1%AA%E6%BA%90%E6%BA%90/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E9%80%9A%E4%BF%A1%E7%B3%BB%E7%BB%9F_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+- [电子-信号与通信系统/佚名/2022信号与通信系统（最后一题类似试卷1.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E9%80%9A%E4%BF%A1%E7%B3%BB%E7%BB%9F/%E4%BD%9A%E5%90%8D/2022%E4%BF%A1%E5%8F%B7%E4%B8%8E%E9%80%9A%E4%BF%A1%E7%B3%BB%E7%BB%9F%EF%BC%88%E6%9C%80%E5%90%8E%E4%B8%80%E9%A2%98%E7%B1%BB%E4%BC%BC%E8%AF%95%E5%8D%B71.pdf)
+- [电子-信号与通信系统/佚名/信号与系统期末卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E9%80%9A%E4%BF%A1%E7%B3%BB%E7%BB%9F/%E4%BD%9A%E5%90%8D/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E5%8D%B7.pdf)
+- [电子-信号与通信系统/佚名/期末考卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E9%80%9A%E4%BF%A1%E7%B3%BB%E7%BB%9F/%E4%BD%9A%E5%90%8D/%E6%9C%9F%E6%9C%AB%E8%80%83%E5%8D%B7.pdf)
+- [电子-信号与通信系统/佚名/期末部分答案(学生整理,仅参考).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E9%80%9A%E4%BF%A1%E7%B3%BB%E7%BB%9F/%E4%BD%9A%E5%90%8D/%E6%9C%9F%E6%9C%AB%E9%83%A8%E5%88%86%E7%AD%94%E6%A1%88%28%E5%AD%A6%E7%94%9F%E6%95%B4%E7%90%86%2C%E4%BB%85%E5%8F%82%E8%80%83%29.pdf)
+- [电子-信号与通信系统/佚名/试卷1.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E9%80%9A%E4%BF%A1%E7%B3%BB%E7%BB%9F/%E4%BD%9A%E5%90%8D/%E8%AF%95%E5%8D%B71.pdf)
+- [电子-信息论/佚名/2021信息论考题回忆.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E4%BF%A1%E6%81%AF%E8%AE%BA/%E4%BD%9A%E5%90%8D/2021%E4%BF%A1%E6%81%AF%E8%AE%BA%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86.pdf)
+- [电子-可编程器件与硬件描述语言/ld_李旦/可编程期末考试2022A.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E5%8F%AF%E7%BC%96%E7%A8%8B%E5%99%A8%E4%BB%B6%E4%B8%8E%E7%A1%AC%E4%BB%B6%E6%8F%8F%E8%BF%B0%E8%AF%AD%E8%A8%80/ld_%E6%9D%8E%E6%97%A6/%E5%8F%AF%E7%BC%96%E7%A8%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%952022A.pdf)
+- [电子-固体物理基础/gzq_顾宗铨/22秋期末试卷.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E5%9F%BA%E7%A1%80/gzq_%E9%A1%BE%E5%AE%97%E9%93%A8/22%E7%A7%8B%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.docx)
+- 另有 8 个文件，见 data/collection_files.csv
+
 **电路 / AniroHU/FDU_Courses_Undergraduate**
 - [电路基础/22春-电路基础-期末考试(密码：dian314159).pdf](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E7%94%B5%E8%B7%AF%E5%9F%BA%E7%A1%80/22%E6%98%A5-%E7%94%B5%E8%B7%AF%E5%9F%BA%E7%A1%80-%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%28%E5%AF%86%E7%A0%81%EF%BC%9Adian314159%29.pdf)
+
+**电路 / Annan-lyn/fudan-exam-paper**
+- [电子-模拟电子线路/hym_黄煜梅/2022_模拟电子线路_试卷A.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E6%A8%A1%E6%8B%9F%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/hym_%E9%BB%84%E7%85%9C%E6%A2%85/2022_%E6%A8%A1%E6%8B%9F%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF_%E8%AF%95%E5%8D%B7A.pdf)
+- [电子-模拟电子线路/hym_黄煜梅/模拟电子线路_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E6%A8%A1%E6%8B%9F%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/hym_%E9%BB%84%E7%85%9C%E6%A2%85/%E6%A8%A1%E6%8B%9F%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+- [电子-电路基础/yt_易婷/2_电路基础_2020_期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E7%94%B5%E8%B7%AF%E5%9F%BA%E7%A1%80/yt_%E6%98%93%E5%A9%B7/2_%E7%94%B5%E8%B7%AF%E5%9F%BA%E7%A1%80_2020_%E6%9C%9F%E6%9C%AB.pdf)
+- [电子-电路基础/佚名/22春-电路基础-期末考试(密码：dian314159)文档提取2023.04.20 19.31.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E7%94%B5%E8%B7%AF%E5%9F%BA%E7%A1%80/%E4%BD%9A%E5%90%8D/22%E6%98%A5-%E7%94%B5%E8%B7%AF%E5%9F%BA%E7%A1%80-%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%28%E5%AF%86%E7%A0%81%EF%BC%9Adian314159%29%E6%96%87%E6%A1%A3%E6%8F%90%E5%8F%962023.04.20%2019.31.pdf)
 
 **电路 / victkk/FDU-Sharing**
 - [public/resources/模拟电子线路/2022_模拟电子线路_试卷A(1).pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%A8%A1%E6%8B%9F%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/2022_%E6%A8%A1%E6%8B%9F%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF_%E8%AF%95%E5%8D%B7A%281%29.pdf)
@@ -610,6 +1025,14 @@
 
 **神经网络与深度学习 / Snivallus/FDU-Course-Notes-2024-2025**
 - [神经网络与深度学习/2025 期末回忆.png](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/2025%20%E6%9C%9F%E6%9C%AB%E5%9B%9E%E5%BF%86.png)
+
+**离散数学 / Annan-lyn/fudan-exam-paper**
+- [电子-离散数学(信息学院)/nwm_倪卫明/离散数学_2020_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%28%E4%BF%A1%E6%81%AF%E5%AD%A6%E9%99%A2%29/nwm_%E5%80%AA%E5%8D%AB%E6%98%8E/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6_2020_Final.pdf)
+- [计算机-代数结构与数理逻辑/lzx_李直旭/2022年-期末考试.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E4%B8%8E%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/lzx_%E6%9D%8E%E7%9B%B4%E6%97%AD/2022%E5%B9%B4-%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf)
+- [计算机-代数结构与数理逻辑/lzx_李直旭/[猜]2014期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E4%B8%8E%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/lzx_%E6%9D%8E%E7%9B%B4%E6%97%AD/%5B%E7%8C%9C%5D2014%E6%9C%9F%E6%9C%AB.pdf)
+- [计算机-代数结构与数理逻辑/lzx_李直旭/[猜]2015年春代数结构期中试卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E4%B8%8E%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/lzx_%E6%9D%8E%E7%9B%B4%E6%97%AD/%5B%E7%8C%9C%5D2015%E5%B9%B4%E6%98%A5%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf)
+- [计算机-代数结构与数理逻辑/xy_许扬/2026春代数结构与数理逻辑期末回忆.html](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E4%B8%8E%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/xy_%E8%AE%B8%E6%89%AC/2026%E6%98%A5%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E4%B8%8E%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E6%9C%9F%E6%9C%AB%E5%9B%9E%E5%BF%86.html)
+- [计算机-离散数学(软件学院)/zym_赵一鸣/[猜]离散数学 (上)_2009_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%28%E8%BD%AF%E4%BB%B6%E5%AD%A6%E9%99%A2%29/zym_%E8%B5%B5%E4%B8%80%E9%B8%A3/%5B%E7%8C%9C%5D%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%20%28%E4%B8%8A%29_2009_Final.pdf)
 
 **离散数学 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/代数结构与数理逻辑/0528模拟题答案.pptx](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E4%B8%8E%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/0528%E6%A8%A1%E6%8B%9F%E9%A2%98%E7%AD%94%E6%A1%88.pptx)
@@ -641,6 +1064,9 @@
 - [public/resources/集合与图论/集合与图论期中考试试题2022（参考答案）(1).doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E9%9B%86%E5%90%88%E4%B8%8E%E5%9B%BE%E8%AE%BA/%E9%9B%86%E5%90%88%E4%B8%8E%E5%9B%BE%E8%AE%BA%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%982022%EF%BC%88%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%89%281%29.doc)
 - 另有 2 个文件，见 data/collection_files.csv
 
+**科学计算导论 / Annan-lyn/fudan-exam-paper**
+- [数学-科学计算/wym_魏益民/科学计算_24-26秋期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97/wym_%E9%AD%8F%E7%9B%8A%E6%B0%91/%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97_24-26%E7%A7%8B%E6%9C%9F%E6%9C%AB.pdf)
+
 **程序设计 / AniroHU/FDU_Courses_Undergraduate**
 - [程序设计/PPT/期末复习.pdf](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/PPT/%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0.pdf)
 - [程序设计/习题/14-排序算法课后练习（含答案）.docx](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E4%B9%A0%E9%A2%98/14-%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0%EF%BC%88%E5%90%AB%E7%AD%94%E6%A1%88%EF%BC%89.docx)
@@ -655,6 +1081,21 @@
 - [程序设计/习题/2022程设期末/2021-2022期末A卷_v2_页面_09.jpg](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E4%B9%A0%E9%A2%98/2022%E7%A8%8B%E8%AE%BE%E6%9C%9F%E6%9C%AB/2021-2022%E6%9C%9F%E6%9C%ABA%E5%8D%B7_v2_%E9%A1%B5%E9%9D%A2_09.jpg)
 - [程序设计/习题/2022程设期末/2021-2022期末A卷_v2_页面_10.jpg](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E4%B9%A0%E9%A2%98/2022%E7%A8%8B%E8%AE%BE%E6%9C%9F%E6%9C%AB/2021-2022%E6%9C%9F%E6%9C%ABA%E5%8D%B7_v2_%E9%A1%B5%E9%9D%A2_10.jpg)
 - 另有 11 个文件，见 data/collection_files.csv
+
+**程序设计 / Annan-lyn/fudan-exam-paper**
+- [计算机-Python程序设计/统考/2017秋PythonA卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-Python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E7%BB%9F%E8%80%83/2017%E7%A7%8BPythonA%E5%8D%B7.pdf)
+- [计算机-Python程序设计/统考/2017秋PythonA卷答案.doc](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-Python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E7%BB%9F%E8%80%83/2017%E7%A7%8BPythonA%E5%8D%B7%E7%AD%94%E6%A1%88.doc)
+- [计算机-Python程序设计/统考/2020春PythonA卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-Python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E7%BB%9F%E8%80%83/2020%E6%98%A5PythonA%E5%8D%B7.pdf)
+- [计算机-Python程序设计/统考/2020春PythonA卷答案.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-Python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E7%BB%9F%E8%80%83/2020%E6%98%A5PythonA%E5%8D%B7%E7%AD%94%E6%A1%88.docx)
+- [计算机-Python程序设计/统考/2022秋PythonA卷final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-Python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E7%BB%9F%E8%80%83/2022%E7%A7%8BPythonA%E5%8D%B7final.pdf)
+- [计算机-Python程序设计/统考/2024-2025学年第一学期Python(AI)期末试卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-Python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E7%BB%9F%E8%80%83/2024-2025%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9FPython%28AI%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf)
+- [计算机-Python程序设计/统考/2025.6期末卷.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-Python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E7%BB%9F%E8%80%83/2025.6%E6%9C%9F%E6%9C%AB%E5%8D%B7.docx)
+- [计算机-Python程序设计/统考/PythonA卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-Python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E7%BB%9F%E8%80%83/PythonA%E5%8D%B7.pdf)
+- [计算机-Python程序设计/统考/PythonA卷答案.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-Python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E7%BB%9F%E8%80%83/PythonA%E5%8D%B7%E7%AD%94%E6%A1%88.pdf)
+- [计算机-Python程序设计/统考/python17-18A卷含答案.doc](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-Python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E7%BB%9F%E8%80%83/python17-18A%E5%8D%B7%E5%90%AB%E7%AD%94%E6%A1%88.doc)
+- [计算机-Python程序设计/统考/python22-23B卷.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-Python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E7%BB%9F%E8%80%83/python22-23B%E5%8D%B7.docx)
+- [计算机-Python程序设计/统考/python22-23B卷含答案.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-Python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E7%BB%9F%E8%80%83/python22-23B%E5%8D%B7%E5%90%AB%E7%AD%94%E6%A1%88.docx)
+- 另有 42 个文件，见 data/collection_files.csv
 
 **程序设计 / Zhouxunzhe/Fudan-CS-Projects**
 - [Programming/hw1/ta-lib-python-master/tools/example.py](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Programming/hw1/ta-lib-python-master/tools/example.py)
@@ -678,6 +1119,14 @@
 - [public/resources/python程序设计/Python-2026/【4】网上搜刮的资料/Python期末编程题完整版.md](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Python-2026/%E3%80%904%E3%80%91%E7%BD%91%E4%B8%8A%E6%90%9C%E5%88%AE%E7%9A%84%E8%B5%84%E6%96%99/Python%E6%9C%9F%E6%9C%AB%E7%BC%96%E7%A8%8B%E9%A2%98%E5%AE%8C%E6%95%B4%E7%89%88.md)
 - [public/resources/python程序设计/Python-2026/【4】网上搜刮的资料/Python期末编程题完整版.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Python-2026/%E3%80%904%E3%80%91%E7%BD%91%E4%B8%8A%E6%90%9C%E5%88%AE%E7%9A%84%E8%B5%84%E6%96%99/Python%E6%9C%9F%E6%9C%AB%E7%BC%96%E7%A8%8B%E9%A2%98%E5%AE%8C%E6%95%B4%E7%89%88.pdf)
 - 另有 35 个文件，见 data/collection_files.csv
+
+**算法设计与分析 / Annan-lyn/fudan-exam-paper**
+- [计算机-算法设计与分析/nwm_倪卫明/算法设计与分析_2020_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/nwm_%E5%80%AA%E5%8D%AB%E6%98%8E/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90_2020_Final.pdf)
+- [计算机-算法设计与分析/scf_沙朝锋/算法设计与分析_2022_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/scf_%E6%B2%99%E6%9C%9D%E9%94%8B/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90_2022_Final.pdf)
+- [计算机-算法设计与分析/wyt_王轶彤/2026春算法设计与分析期末回忆.html](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/wyt_%E7%8E%8B%E8%BD%B6%E5%BD%A4/2026%E6%98%A5%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E5%9B%9E%E5%BF%86.html)
+- [计算机-算法设计与分析/wyt_王轶彤/[猜]算法设计与分析_2012_Final (A).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/wyt_%E7%8E%8B%E8%BD%B6%E5%BD%A4/%5B%E7%8C%9C%5D%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90_2012_Final%20%28A%29.pdf)
+- [计算机-算法设计与分析/wyt_王轶彤/[猜]算法设计与分析_2012_Final (B).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/wyt_%E7%8E%8B%E8%BD%B6%E5%BD%A4/%5B%E7%8C%9C%5D%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90_2012_Final%20%28B%29.pdf)
+- [计算机-算法设计与分析/wyt_王轶彤/算法设计与分析_2022_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/wyt_%E7%8E%8B%E8%BD%B6%E5%BD%A4/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90_2022_Final.pdf)
 
 **算法设计与分析 / lrcc275/FudanCources**
 - [COMP130011算法设计与分析/算法设计与分析_2022_Final.pdf](https://github.com/lrcc275/FudanCources/blob/main/COMP130011%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90_2022_Final.pdf)
@@ -707,6 +1156,21 @@
 - [public/resources/算法设计与分析/24春期中/dp题题干.png](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/24%E6%98%A5%E6%9C%9F%E4%B8%AD/dp%E9%A2%98%E9%A2%98%E5%B9%B2.png)
 - [public/resources/算法设计与分析/自制答案/算法20春-答案.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/%E8%87%AA%E5%88%B6%E7%AD%94%E6%A1%88/%E7%AE%97%E6%B3%9520%E6%98%A5-%E7%AD%94%E6%A1%88.pdf)
 - [public/resources/算法设计与分析/自制答案/算法22春-答案.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/%E8%87%AA%E5%88%B6%E7%AD%94%E6%A1%88/%E7%AE%97%E6%B3%9522%E6%98%A5-%E7%AD%94%E6%A1%88.pdf)
+
+**线性代数 / Annan-lyn/fudan-exam-paper**
+- [数学-线性代数/fh_冯辉/21秋冯辉线代期中.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/fh_%E5%86%AF%E8%BE%89/21%E7%A7%8B%E5%86%AF%E8%BE%89%E7%BA%BF%E4%BB%A3%E6%9C%9F%E4%B8%AD.pdf)
+- [数学-线性代数/fh_冯辉/22秋冯辉线代期中.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/fh_%E5%86%AF%E8%BE%89/22%E7%A7%8B%E5%86%AF%E8%BE%89%E7%BA%BF%E4%BB%A3%E6%9C%9F%E4%B8%AD.pdf)
+- [数学-线性代数/fh_冯辉/22秋冯辉线代期中考试试卷答案.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/fh_%E5%86%AF%E8%BE%89/22%E7%A7%8B%E5%86%AF%E8%BE%89%E7%BA%BF%E4%BB%A3%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E7%AD%94%E6%A1%88.pdf)
+- [数学-线性代数/fh_冯辉/23秋冯辉线代期中.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/fh_%E5%86%AF%E8%BE%89/23%E7%A7%8B%E5%86%AF%E8%BE%89%E7%BA%BF%E4%BB%A3%E6%9C%9F%E4%B8%AD.pdf)
+- [数学-线性代数/fh_冯辉/24秋冯辉线代期中.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/fh_%E5%86%AF%E8%BE%89/24%E7%A7%8B%E5%86%AF%E8%BE%89%E7%BA%BF%E4%BB%A3%E6%9C%9F%E4%B8%AD.pdf)
+- [数学-线性代数/khb_阚海斌/2024期中.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/khb_%E9%98%9A%E6%B5%B7%E6%96%8C/2024%E6%9C%9F%E4%B8%AD.pdf)
+- [数学-线性代数/khb_阚海斌/【2023-2024】【期中】线性代数考试卷1真题卷 khb.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/khb_%E9%98%9A%E6%B5%B7%E6%96%8C/%E3%80%902023-2024%E3%80%91%E3%80%90%E6%9C%9F%E4%B8%AD%E3%80%91%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E8%80%83%E8%AF%95%E5%8D%B71%E7%9C%9F%E9%A2%98%E5%8D%B7%20khb.pdf)
+- [数学-线性代数/zw_张巍/23-24秋期中线性代数考试卷2真题与批改答案 zw.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/zw_%E5%BC%A0%E5%B7%8D/23-24%E7%A7%8B%E6%9C%9F%E4%B8%AD%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E8%80%83%E8%AF%95%E5%8D%B72%E7%9C%9F%E9%A2%98%E4%B8%8E%E6%89%B9%E6%94%B9%E7%AD%94%E6%A1%88%20zw.pdf)
+- [数学-线性代数/zxc_张祥朝/24-25秋期中线性代数考试真题卷 zxc.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/zxc_%E5%BC%A0%E7%A5%A5%E6%9C%9D/24-25%E7%A7%8B%E6%9C%9F%E4%B8%AD%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E8%80%83%E8%AF%95%E7%9C%9F%E9%A2%98%E5%8D%B7%20zxc.pdf)
+- [数学-线性代数/佚名/13–2014学年第一学期《线性代数》期中考试答案.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E4%BD%9A%E5%90%8D/13%E2%80%932014%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E7%AD%94%E6%A1%88.pdf)
+- [数学-线性代数/佚名/14秋线性代数期中考试试卷答案.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E4%BD%9A%E5%90%8D/14%E7%A7%8B%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E7%AD%94%E6%A1%88.pdf)
+- [数学-线性代数/佚名/15-2016上学期中试卷（参考答案）.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E4%BD%9A%E5%90%8D/15-2016%E4%B8%8A%E5%AD%A6%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7%EF%BC%88%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%89.pdf)
+- 另有 51 个文件，见 data/collection_files.csv
 
 **线性代数 / kanzaler123/fdu-course-resources**
 - [线性代数/往年真题/2009-2010第二学期期终考试A.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E5%BE%80%E5%B9%B4%E7%9C%9F%E9%A2%98/2009-2010%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E7%BB%88%E8%80%83%E8%AF%95A.pdf)
@@ -738,6 +1202,21 @@
 - [public/resources/线性代数/11-2012学年《线性代数》期终考试试卷答案.doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/11-2012%E5%AD%A6%E5%B9%B4%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E3%80%8B%E6%9C%9F%E7%BB%88%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E7%AD%94%E6%A1%88.doc)
 - 另有 29 个文件，见 data/collection_files.csv
 
+**经济学 / Annan-lyn/fudan-exam-paper**
+- [管理-企业国际化/lzy_李志远/企业国际化_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%AE%A1%E7%90%86-%E4%BC%81%E4%B8%9A%E5%9B%BD%E9%99%85%E5%8C%96/lzy_%E6%9D%8E%E5%BF%97%E8%BF%9C/%E4%BC%81%E4%B8%9A%E5%9B%BD%E9%99%85%E5%8C%96_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+- [经济-世界经济/lhy_陆寒寅/世界经济_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%8F%E6%B5%8E-%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E/lhy_%E9%99%86%E5%AF%92%E5%AF%85/%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+- [经济-中国政府与经济/lxh_兰小欢/中国政府与经济_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%8F%E6%B5%8E-%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%8E%E7%BB%8F%E6%B5%8E/lxh_%E5%85%B0%E5%B0%8F%E6%AC%A2/%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%8E%E7%BB%8F%E6%B5%8E_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+- [经济-信息经济学/cz_陈钊/信息经济学_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%8F%E6%B5%8E-%E4%BF%A1%E6%81%AF%E7%BB%8F%E6%B5%8E%E5%AD%A6/cz_%E9%99%88%E9%92%8A/%E4%BF%A1%E6%81%AF%E7%BB%8F%E6%B5%8E%E5%AD%A6_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+- [经济-农村和农业经济学/gf_高帆/农村和农业经济学_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%8F%E6%B5%8E-%E5%86%9C%E6%9D%91%E5%92%8C%E5%86%9C%E4%B8%9A%E7%BB%8F%E6%B5%8E%E5%AD%A6/gf_%E9%AB%98%E5%B8%86/%E5%86%9C%E6%9D%91%E5%92%8C%E5%86%9C%E4%B8%9A%E7%BB%8F%E6%B5%8E%E5%AD%A6_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+- [经济-国际商务/qyc_强永昌/国际商务_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%8F%E6%B5%8E-%E5%9B%BD%E9%99%85%E5%95%86%E5%8A%A1/qyc_%E5%BC%BA%E6%B0%B8%E6%98%8C/%E5%9B%BD%E9%99%85%E5%95%86%E5%8A%A1_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+- [经济-国际金融/fxy_樊潇彦/国际金融_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%8F%E6%B5%8E-%E5%9B%BD%E9%99%85%E9%87%91%E8%9E%8D/fxy_%E6%A8%8A%E6%BD%87%E5%BD%A6/%E5%9B%BD%E9%99%85%E9%87%91%E8%9E%8D_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+- [经济-宏观经济学/佚名/19 经济真题原卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%8F%E6%B5%8E-%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E4%BD%9A%E5%90%8D/19%20%E7%BB%8F%E6%B5%8E%E7%9C%9F%E9%A2%98%E5%8E%9F%E5%8D%B7.pdf)
+- [经济-宏观经济学/佚名/2010年前的宏经真题.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%8F%E6%B5%8E-%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E4%BD%9A%E5%90%8D/2010%E5%B9%B4%E5%89%8D%E7%9A%84%E5%AE%8F%E7%BB%8F%E7%9C%9F%E9%A2%98.docx)
+- [经济-宏观经济学/佚名/2024-2025年第一学期真题回忆.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%8F%E6%B5%8E-%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E4%BD%9A%E5%90%8D/2024-2025%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E7%9C%9F%E9%A2%98%E5%9B%9E%E5%BF%86.docx)
+- [经济-宏观经济学/佚名/2025-2026学年第一学期宏观经济学期末真题与答案回忆整理.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%8F%E6%B5%8E-%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E4%BD%9A%E5%90%8D/2025-2026%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E6%9C%9F%E6%9C%AB%E7%9C%9F%E9%A2%98%E4%B8%8E%E7%AD%94%E6%A1%88%E5%9B%9E%E5%BF%86%E6%95%B4%E7%90%86.pdf)
+- [经济-微观经济学/fjl_冯剑亮/2023期末最终稿参考答案.doc](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%8F%E6%B5%8E-%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6/fjl_%E5%86%AF%E5%89%91%E4%BA%AE/2023%E6%9C%9F%E6%9C%AB%E6%9C%80%E7%BB%88%E7%A8%BF%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.doc)
+- 另有 19 个文件，见 data/collection_files.csv
+
 **经济学 / kanzaler123/fdu-course-resources**
 - [国际经济学/参考资料/International_Economics_Final_Review.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E5%9B%BD%E9%99%85%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/International_Economics_Final_Review.pdf)
 - [宏观经济学/习题/19 经济+部分客观题答案.docx](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E4%B9%A0%E9%A2%98/19%20%E7%BB%8F%E6%B5%8E%2B%E9%83%A8%E5%88%86%E5%AE%A2%E8%A7%82%E9%A2%98%E7%AD%94%E6%A1%88.docx)
@@ -766,11 +1245,17 @@
 - [public/resources/微观经济学/微观经济学习题及答案(高鸿业-人大版).doc](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%B9%A0%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88%28%E9%AB%98%E9%B8%BF%E4%B8%9A-%E4%BA%BA%E5%A4%A7%E7%89%88%29.doc)
 - 另有 9 个文件，见 data/collection_files.csv
 
+**统计计算 / Annan-lyn/fudan-exam-paper**
+- [统计-统计计算/zn_张楠/2025 期末回忆.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%9F%E8%AE%A1-%E7%BB%9F%E8%AE%A1%E8%AE%A1%E7%AE%97/zn_%E5%BC%A0%E6%A5%A0/2025%20%E6%9C%9F%E6%9C%AB%E5%9B%9E%E5%BF%86.pdf)
+
 **统计计算 / Snivallus/FDU-Course-Notes-2024-2025**
 - [统计计算/2025 期末回忆.pdf](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E7%BB%9F%E8%AE%A1%E8%AE%A1%E7%AE%97/2025%20%E6%9C%9F%E6%9C%AB%E5%9B%9E%E5%BF%86.pdf)
 
 **腾飞先导课 / victkk/FDU-Sharing**
 - [public/resources/腾飞先导课/2018级技术科学大类入学测试卷-2018-09-06.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E8%85%BE%E9%A3%9E%E5%85%88%E5%AF%BC%E8%AF%BE/2018%E7%BA%A7%E6%8A%80%E6%9C%AF%E7%A7%91%E5%AD%A6%E5%A4%A7%E7%B1%BB%E5%85%A5%E5%AD%A6%E6%B5%8B%E8%AF%95%E5%8D%B7-2018-09-06.pdf)
+
+**自然语言处理导论 / Annan-lyn/fudan-exam-paper**
+- [计算机-自然语言处理/hxj_黄萱菁/自然语言处理_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/hxj_%E9%BB%84%E8%90%B1%E8%8F%81/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
 
 **自然语言处理导论 / clb2001/FDU-COMP**
 - [自然语言处理/FinalProject/Aspect Based Sentiment analysis.docx](https://github.com/clb2001/FDU-COMP/blob/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/FinalProject/Aspect%20Based%20Sentiment%20analysis.docx)
@@ -786,6 +1271,11 @@
 
 **自然语言处理导论 / victkk/FDU-Sharing**
 - [public/resources/自然语言处理/2024NLP期末考试(含答案)(不含简答题).pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/2024NLP%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%28%E5%90%AB%E7%AD%94%E6%A1%88%29%28%E4%B8%8D%E5%90%AB%E7%AE%80%E7%AD%94%E9%A2%98%29.pdf)
+
+**计算机体系结构 / Annan-lyn/fudan-exam-paper**
+- [计算机-计算机体系结构/tzq_唐志强/计算机体系结构_2020_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/tzq_%E5%94%90%E5%BF%97%E5%BC%BA/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84_2020_Final.pdf)
+- [计算机-计算机体系结构/tzq_唐志强/计算机体系结构_2022_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/tzq_%E5%94%90%E5%BF%97%E5%BC%BA/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84_2022_Final.pdf)
+- [计算机-计算机体系结构/佚名/计算机体系结构_final.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E4%BD%9A%E5%90%8D/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84_final.docx)
 
 **计算机体系结构 / Snivallus/FDU-Course-Notes-2024-2025**
 - [计算机组成与体系结构/Lab/Lab 1/code/fib/fib-O(n)final.asm](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/Lab/Lab%201/code/fib/fib-O%28n%29final.asm)
@@ -814,12 +1304,24 @@
 - [public/resources/计算机组成与体系结构/2022计算机组成与体系结构试卷A-1.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/2022%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84%E8%AF%95%E5%8D%B7A-1.pdf)
 - [public/resources/计算机组成与体系结构/计算机组成与体系结构22自制答案.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%8422%E8%87%AA%E5%88%B6%E7%AD%94%E6%A1%88.pdf)
 
+**计算机原理 / Annan-lyn/fudan-exam-paper**
+- [数据科学-计算机原理/cp_陈平/计原试卷 A试题.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/cp_%E9%99%88%E5%B9%B3/%E8%AE%A1%E5%8E%9F%E8%AF%95%E5%8D%B7%20A%E8%AF%95%E9%A2%98.docx)
+- [电子-计算机原理与体系结构/hb_胡波/[猜]计算机体系结构_2007_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/hb_%E8%83%A1%E6%B3%A2/%5B%E7%8C%9C%5D%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84_2007_Final.pdf)
+- [电子-计算机原理与体系结构/hb_胡波/[猜]计算机体系结构_2012_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/hb_%E8%83%A1%E6%B3%A2/%5B%E7%8C%9C%5D%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84_2012_Final.pdf)
+- [电子-计算机原理与体系结构/hb_胡波/计算机体系结构_2020_Final_A.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/hb_%E8%83%A1%E6%B3%A2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84_2020_Final_A.pdf)
+- [电子-计算机原理与体系结构/hb_胡波/计算机体系结构_2020_Final_A_Sol.doc](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/hb_%E8%83%A1%E6%B3%A2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84_2020_Final_A_Sol.doc)
+- [电子-计算机原理与体系结构/hb_胡波/计算机体系结构_2020_Final_B.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/hb_%E8%83%A1%E6%B3%A2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84_2020_Final_B.pdf)
+- [电子-计算机原理与体系结构/hb_胡波/计算机原理与体系结构_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/hb_%E8%83%A1%E6%B3%A2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+
 **计算机原理 / hadanice/OpenDS**
 - [计算机原理/笔记/13-期末题型速查.md](https://github.com/hadanice/OpenDS/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86/%E7%AC%94%E8%AE%B0/13-%E6%9C%9F%E6%9C%AB%E9%A2%98%E5%9E%8B%E9%80%9F%E6%9F%A5.md)
 
 **计算机可视化 / lrcc275/FudanCources**
 - [COMP130174计算机可视化/final_pj/DecimaMonoPro.otf](https://github.com/lrcc275/FudanCources/blob/main/COMP130174%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AF%E8%A7%86%E5%8C%96/final_pj/DecimaMonoPro.otf)
 - [COMP130174计算机可视化/final_pj/pj.ipynb](https://github.com/lrcc275/FudanCources/blob/main/COMP130174%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AF%E8%A7%86%E5%8C%96/final_pj/pj.ipynb)
+
+**计算机图形学 / Annan-lyn/fudan-exam-paper**
+- [计算机-计算机图形学/mcx_马晨曦/2026春计算机图形学A期末回忆(颜波同卷).html](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/mcx_%E9%A9%AC%E6%99%A8%E6%9B%A6/2026%E6%98%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6A%E6%9C%9F%E6%9C%AB%E5%9B%9E%E5%BF%86%28%E9%A2%9C%E6%B3%A2%E5%90%8C%E5%8D%B7%29.html)
 
 **计算机图形学 / lrcc275/FudanCources**
 - [COMP130018计算机图形学/Project1/starter1/glfw/examples/CMakeLists.txt](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glfw/examples/CMakeLists.txt)
@@ -834,6 +1336,17 @@
 - [COMP130018计算机图形学/Project1/starter1/glfw/examples/splitview.c](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glfw/examples/splitview.c)
 - [COMP130018计算机图形学/Project1/starter1/glfw/examples/wave.c](https://github.com/lrcc275/FudanCources/blob/main/COMP130018%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/Project1/starter1/glfw/examples/wave.c)
 
+**计算机系统基础 / Annan-lyn/fudan-exam-paper**
+- [计算机-计算机系统基础(ICS)/ly_李弋/[猜]ICS.2013.Mid.Exam.Sol.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80%28ICS%29/ly_%E6%9D%8E%E5%BC%8B/%5B%E7%8C%9C%5DICS.2013.Mid.Exam.Sol.pdf)
+- [计算机-计算机系统基础(ICS)/ly_李弋/[猜]ICS_2016年试题.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80%28ICS%29/ly_%E6%9D%8E%E5%BC%8B/%5B%E7%8C%9C%5DICS_2016%E5%B9%B4%E8%AF%95%E9%A2%98.pdf)
+- [计算机-计算机系统基础(ICS)/ly_李弋/[猜]计算机系统基础_2014_Midterm.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80%28ICS%29/ly_%E6%9D%8E%E5%BC%8B/%5B%E7%8C%9C%5D%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80_2014_Midterm.pdf)
+- [计算机-计算机系统基础(ICS)/ly_李弋/[猜]计算机系统基础_2014_Midterm_Solution.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80%28ICS%29/ly_%E6%9D%8E%E5%BC%8B/%5B%E7%8C%9C%5D%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80_2014_Midterm_Solution.pdf)
+- [计算机-计算机系统基础(ICS)/ly_李弋/计算机系统基础_2020_Midterm.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80%28ICS%29/ly_%E6%9D%8E%E5%BC%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80_2020_Midterm.pdf)
+- [计算机-计算机系统基础(ICS)/yzm_杨哲慜/2026春ICS期末回忆.html](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80%28ICS%29/yzm_%E6%9D%A8%E5%93%B2%E6%85%9C/2026%E6%98%A5ICS%E6%9C%9F%E6%9C%AB%E5%9B%9E%E5%BF%86.html)
+- [计算机-计算机系统基础(ICS)/佚名/ICS.2014.Mid.Exam.Sol.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80%28ICS%29/%E4%BD%9A%E5%90%8D/ICS.2014.Mid.Exam.Sol.docx)
+- [计算机-计算机系统基础(ICS)/佚名/ICS.2014.Mid.Exam.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80%28ICS%29/%E4%BD%9A%E5%90%8D/ICS.2014.Mid.Exam.docx)
+- [计算机-计算机系统基础(ICS)/佚名/期末真题（其他老师）.md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80%28ICS%29/%E4%BD%9A%E5%90%8D/%E6%9C%9F%E6%9C%AB%E7%9C%9F%E9%A2%98%EF%BC%88%E5%85%B6%E4%BB%96%E8%80%81%E5%B8%88%EF%BC%89.md)
+
 **计算机系统基础 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/计算机系统基础/2016年试题.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/2016%E5%B9%B4%E8%AF%95%E9%A2%98.pdf)
 - [3.专业教育/计算机科学与技术/专业必修/计算机系统基础/历届期中试卷/ICS.2013.Mid.Exam.Sol.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/%E5%8E%86%E5%B1%8A%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7/ICS.2013.Mid.Exam.Sol.pdf)
@@ -841,11 +1354,35 @@
 - [3.专业教育/计算机科学与技术/专业必修/计算机系统基础/历届期中试卷/ICS.2014.Mid.Exam.docx](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/%E5%8E%86%E5%B1%8A%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7/ICS.2014.Mid.Exam.docx)
 - [3.专业教育/计算机科学与技术/专业必修/计算机系统基础/历届期中试卷/清华大学出版社_袁春风主编教材答案.doc](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/%E5%8E%86%E5%B1%8A%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE_%E8%A2%81%E6%98%A5%E9%A3%8E%E4%B8%BB%E7%BC%96%E6%95%99%E6%9D%90%E7%AD%94%E6%A1%88.doc)
 
+**计算机组成原理 / Annan-lyn/fudan-exam-paper**
+- [计算机-计算机组成与体系结构/wxp_王雪平/2026春计组期末回忆AB卷(张睿同卷).html](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/wxp_%E7%8E%8B%E9%9B%AA%E5%B9%B3/2026%E6%98%A5%E8%AE%A1%E7%BB%84%E6%9C%9F%E6%9C%AB%E5%9B%9E%E5%BF%86AB%E5%8D%B7%28%E5%BC%A0%E7%9D%BF%E5%90%8C%E5%8D%B7%29.html)
+- [计算机-计算机组成与体系结构/zr_张睿/2022计算机组成与体系结构试卷A-1.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/zr_%E5%BC%A0%E7%9D%BF/2022%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84%E8%AF%95%E5%8D%B7A-1.pdf)
+- [计算机-计算机组成与体系结构/zr_张睿/计算机组成与体系结构_2022_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/zr_%E5%BC%A0%E7%9D%BF/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84_2022_Final.pdf)
+- [计算机-计算机组成与体系结构/zr_张睿/计算机组成与体系结构_考题回忆(Notion题库).md](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/zr_%E5%BC%A0%E7%9D%BF/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84_%E8%80%83%E9%A2%98%E5%9B%9E%E5%BF%86%28Notion%E9%A2%98%E5%BA%93%29.md)
+- [计算机-计算机组成与体系结构/佚名/2020期末试卷A.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E4%BD%9A%E5%90%8D/2020%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7A.docx)
+- [计算机-计算机组成与体系结构/佚名/2022期末试卷A.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E4%BD%9A%E5%90%8D/2022%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7A.docx)
+
+**计算机网络 / Annan-lyn/fudan-exam-paper**
+- [电子-计算机通信与网络/rjc_任久春/2022计算机通信与网络-线上考试试卷-a .pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%94%B5%E5%AD%90-%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%80%9A%E4%BF%A1%E4%B8%8E%E7%BD%91%E7%BB%9C/rjc_%E4%BB%BB%E4%B9%85%E6%98%A5/2022%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%80%9A%E4%BF%A1%E4%B8%8E%E7%BD%91%E7%BB%9C-%E7%BA%BF%E4%B8%8A%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7-a%20.pdf)
+- [计算机-计算机网络/mdl_毛迪林/2025计算机网络回忆.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/mdl_%E6%AF%9B%E8%BF%AA%E6%9E%97/2025%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%9B%9E%E5%BF%86.docx)
+- [计算机-计算机网络及安全/wj_吴杰/2022年春季学期A卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%8F%8A%E5%AE%89%E5%85%A8/wj_%E5%90%B4%E6%9D%B0/2022%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9FA%E5%8D%B7.pdf)
+
 **计算机网络 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/计算机网络/_高传善_毛迪林_课后答案.pdf](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/_%E9%AB%98%E4%BC%A0%E5%96%84_%E6%AF%9B%E8%BF%AA%E6%9E%97_%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88.pdf)
 
+**计算理论基础 / Annan-lyn/fudan-exam-paper**
+- [计算机-计算理论基础/ly_李元/计算理论基础_2020_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80/ly_%E6%9D%8E%E5%85%83/%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80_2020_Final.pdf)
+- [计算机-计算理论基础/ly_李元/计算理论基础_2022_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80/ly_%E6%9D%8E%E5%85%83/%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80_2022_Final.pdf)
+
 **设计模式 / Zhouxunzhe/Fudan-CS-Projects**
 - [Design-Pattern/lab2/phrase1/讲稿finalfinal.pdf](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Design-Pattern/lab2/phrase1/%E8%AE%B2%E7%A8%BFfinalfinal.pdf)
+
+**软件工程 / Annan-lyn/fudan-exam-paper**
+- [计算机-软件工程/njy_牛军钰/[猜]软件工程_2006_Final (A).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/njy_%E7%89%9B%E5%86%9B%E9%92%B0/%5B%E7%8C%9C%5D%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B_2006_Final%20%28A%29.pdf)
+- [计算机-软件工程/njy_牛军钰/[猜]软件工程_2006_Final (B).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/njy_%E7%89%9B%E5%86%9B%E9%92%B0/%5B%E7%8C%9C%5D%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B_2006_Final%20%28B%29.pdf)
+- [计算机-软件工程/njy_牛军钰/软件工程_2022_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/njy_%E7%89%9B%E5%86%9B%E9%92%B0/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B_2022_Final.pdf)
+- [计算机-软件工程/slw_沈立炜/软件工程_2020_Final.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/slw_%E6%B2%88%E7%AB%8B%E7%82%9C/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B_2020_Final.pdf)
+- [计算机-软件工程/佚名/软件工程_final.docx](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E4%BD%9A%E5%90%8D/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B_final.docx)
 
 **软件工程 / Zhouxunzhe/Fudan-CS-Projects**
 - [Software-Engineering/frontend/vue3/cypress/e2e/example.cy.js](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Software-Engineering/frontend/vue3/cypress/e2e/example.cy.js)
@@ -856,6 +1393,16 @@
 
 **软件工程 / openFudan/fudan-coursera**
 - [3.专业教育/计算机科学与技术/专业必修/软件工程/final.docx](https://github.com/openFudan/fudan-coursera/blob/master/3.%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/final.docx)
+
+**随机过程 / Annan-lyn/fudan-exam-paper**
+- [数学-现代概率论基础/llp_李利平/[猜]现代概率论基础II_24-26春期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E7%8E%B0%E4%BB%A3%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80/llp_%E6%9D%8E%E5%88%A9%E5%B9%B3/%5B%E7%8C%9C%5D%E7%8E%B0%E4%BB%A3%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80II_24-26%E6%98%A5%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-现代概率论基础/wb_吴波/现代概率论基础I_25-26秋期末(吴波).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E7%8E%B0%E4%BB%A3%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80/wb_%E5%90%B4%E6%B3%A2/%E7%8E%B0%E4%BB%A3%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80I_25-26%E7%A7%8B%E6%9C%9F%E6%9C%AB%28%E5%90%B4%E6%B3%A2%29.pdf)
+- [数学-随机过程/llp_李利平/随机过程_25-26春期末(李利平).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/llp_%E6%9D%8E%E5%88%A9%E5%B9%B3/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B_25-26%E6%98%A5%E6%9C%9F%E6%9C%AB%28%E6%9D%8E%E5%88%A9%E5%B9%B3%29.pdf)
+- [数学-随机过程/yjg_应坚刚/随机过程_23-25春期末(应坚刚).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/yjg_%E5%BA%94%E5%9D%9A%E5%88%9A/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B_23-25%E6%98%A5%E6%9C%9F%E6%9C%AB%28%E5%BA%94%E5%9D%9A%E5%88%9A%29.pdf)
+- [统计-随机过程导论/wqw_王勤文/[猜]期末考试 (2022 春).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%9F%E8%AE%A1-%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E5%AF%BC%E8%AE%BA/wqw_%E7%8E%8B%E5%8B%A4%E6%96%87/%5B%E7%8C%9C%5D%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%20%282022%20%E6%98%A5%29.pdf)
+- [统计-随机过程导论/wqw_王勤文/期中考试 (2023 春).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%9F%E8%AE%A1-%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E5%AF%BC%E8%AE%BA/wqw_%E7%8E%8B%E5%8B%A4%E6%96%87/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%20%282023%20%E6%98%A5%29.pdf)
+- [统计-随机过程导论/wqw_王勤文/期中考试 (2024 春).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%9F%E8%AE%A1-%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E5%AF%BC%E8%AE%BA/wqw_%E7%8E%8B%E5%8B%A4%E6%96%87/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%20%282024%20%E6%98%A5%29.pdf)
+- [统计-随机过程导论/wqw_王勤文/期中考试 (2026 春).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E7%BB%9F%E8%AE%A1-%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E5%AF%BC%E8%AE%BA/wqw_%E7%8E%8B%E5%8B%A4%E6%96%87/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%20%282026%20%E6%98%A5%29.pdf)
 
 **随机过程 / Snivallus/FDU-Course-Notes-2024-2025**
 - [Markdown 源码临时目录/随机过程导论/期中考试/期中考试 (2023 春).md](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Markdown%20%E6%BA%90%E7%A0%81%E4%B8%B4%E6%97%B6%E7%9B%AE%E5%BD%95/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E5%AF%BC%E8%AE%BA/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%20%282023%20%E6%98%A5%29.md)
@@ -873,6 +1420,21 @@
 **集成电路工艺原理 / victkk/FDU-Sharing**
 - [public/resources/数字集成电路设计原理/2022数集期中.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%95%B0%E5%AD%97%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86/2022%E6%95%B0%E9%9B%86%E6%9C%9F%E4%B8%AD.pdf)
 - [public/resources/数字集成电路设计原理/23数集期中.pdf](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E6%95%B0%E5%AD%97%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86/23%E6%95%B0%E9%9B%86%E6%9C%9F%E4%B8%AD.pdf)
+
+**面向对象程序设计 / Annan-lyn/fudan-exam-paper**
+- [计算机-面向对象程序设计/zyq_周雅倩/22春OOP期末考试试卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/zyq_%E5%91%A8%E9%9B%85%E5%80%A9/22%E6%98%A5OOP%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf)
+- [计算机-面向对象程序设计/zyq_周雅倩/23春周雅倩OOP期末上机考试试题/testfinal1/inner_product.cpp](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/zyq_%E5%91%A8%E9%9B%85%E5%80%A9/23%E6%98%A5%E5%91%A8%E9%9B%85%E5%80%A9OOP%E6%9C%9F%E6%9C%AB%E4%B8%8A%E6%9C%BA%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98/testfinal1/inner_product.cpp)
+- [计算机-面向对象程序设计/zyq_周雅倩/23春周雅倩OOP期末上机考试试题/testfinal1/testfinal1.txt](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/zyq_%E5%91%A8%E9%9B%85%E5%80%A9/23%E6%98%A5%E5%91%A8%E9%9B%85%E5%80%A9OOP%E6%9C%9F%E6%9C%AB%E4%B8%8A%E6%9C%BA%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98/testfinal1/testfinal1.txt)
+- [计算机-面向对象程序设计/zyq_周雅倩/23春周雅倩OOP期末上机考试试题/testfinal1/testfinal1_input.txt](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/zyq_%E5%91%A8%E9%9B%85%E5%80%A9/23%E6%98%A5%E5%91%A8%E9%9B%85%E5%80%A9OOP%E6%9C%9F%E6%9C%AB%E4%B8%8A%E6%9C%BA%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98/testfinal1/testfinal1_input.txt)
+- [计算机-面向对象程序设计/zyq_周雅倩/23春周雅倩OOP期末上机考试试题/testfinal1/testfinal1_output.txt](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/zyq_%E5%91%A8%E9%9B%85%E5%80%A9/23%E6%98%A5%E5%91%A8%E9%9B%85%E5%80%A9OOP%E6%9C%9F%E6%9C%AB%E4%B8%8A%E6%9C%BA%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98/testfinal1/testfinal1_output.txt)
+- [计算机-面向对象程序设计/zyq_周雅倩/23春周雅倩OOP期末上机考试试题/testfinal2/Calculator.cpp](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/zyq_%E5%91%A8%E9%9B%85%E5%80%A9/23%E6%98%A5%E5%91%A8%E9%9B%85%E5%80%A9OOP%E6%9C%9F%E6%9C%AB%E4%B8%8A%E6%9C%BA%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98/testfinal2/Calculator.cpp)
+- [计算机-面向对象程序设计/zyq_周雅倩/23春周雅倩OOP期末上机考试试题/testfinal2/Calculator.h](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/zyq_%E5%91%A8%E9%9B%85%E5%80%A9/23%E6%98%A5%E5%91%A8%E9%9B%85%E5%80%A9OOP%E6%9C%9F%E6%9C%AB%E4%B8%8A%E6%9C%BA%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98/testfinal2/Calculator.h)
+- [计算机-面向对象程序设计/zyq_周雅倩/23春周雅倩OOP期末上机考试试题/testfinal2/main.cpp](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/zyq_%E5%91%A8%E9%9B%85%E5%80%A9/23%E6%98%A5%E5%91%A8%E9%9B%85%E5%80%A9OOP%E6%9C%9F%E6%9C%AB%E4%B8%8A%E6%9C%BA%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98/testfinal2/main.cpp)
+- [计算机-面向对象程序设计/zyq_周雅倩/23春周雅倩OOP期末上机考试试题/testfinal2/testfinal2.txt](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/zyq_%E5%91%A8%E9%9B%85%E5%80%A9/23%E6%98%A5%E5%91%A8%E9%9B%85%E5%80%A9OOP%E6%9C%9F%E6%9C%AB%E4%B8%8A%E6%9C%BA%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98/testfinal2/testfinal2.txt)
+- [计算机-面向对象程序设计/zyq_周雅倩/23春周雅倩OOP期末上机考试试题/testfinal2/testfinal2_input.txt](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/zyq_%E5%91%A8%E9%9B%85%E5%80%A9/23%E6%98%A5%E5%91%A8%E9%9B%85%E5%80%A9OOP%E6%9C%9F%E6%9C%AB%E4%B8%8A%E6%9C%BA%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98/testfinal2/testfinal2_input.txt)
+- [计算机-面向对象程序设计/zyq_周雅倩/23春周雅倩OOP期末上机考试试题/testfinal2/testfinal2_output.txt](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/zyq_%E5%91%A8%E9%9B%85%E5%80%A9/23%E6%98%A5%E5%91%A8%E9%9B%85%E5%80%A9OOP%E6%9C%9F%E6%9C%AB%E4%B8%8A%E6%9C%BA%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98/testfinal2/testfinal2_output.txt)
+- [计算机-面向对象程序设计/zyq_周雅倩/23春周雅倩OOP期末上机考试试题/testfinal3/Line.cpp](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/zyq_%E5%91%A8%E9%9B%85%E5%80%A9/23%E6%98%A5%E5%91%A8%E9%9B%85%E5%80%A9OOP%E6%9C%9F%E6%9C%AB%E4%B8%8A%E6%9C%BA%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98/testfinal3/Line.cpp)
+- 另有 8 个文件，见 data/collection_files.csv
 
 **面向对象程序设计 / Zhouxunzhe/Fudan-CS-Projects**
 - [Object-Oriented-Programming/HW5/HW5_1_20307110315/final](https://github.com/Zhouxunzhe/Fudan-CS-Projects/blob/main/Object-Oriented-Programming/HW5/HW5_1_20307110315/final)
@@ -899,6 +1461,21 @@
 - [public/resources/面向对象程序设计/23春周雅倩OOP期末上机考试试题/testfinal1/inner_product.cpp](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/23%E6%98%A5%E5%91%A8%E9%9B%85%E5%80%A9OOP%E6%9C%9F%E6%9C%AB%E4%B8%8A%E6%9C%BA%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98/testfinal1/inner_product.cpp)
 - [public/resources/面向对象程序设计/23春周雅倩OOP期末上机考试试题/testfinal1/testfinal1.txt](https://github.com/victkk/FDU-Sharing/blob/master/public/resources/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/23%E6%98%A5%E5%91%A8%E9%9B%85%E5%80%A9OOP%E6%9C%9F%E6%9C%AB%E4%B8%8A%E6%9C%BA%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98/testfinal1/testfinal1.txt)
 - 另有 17 个文件，见 data/collection_files.csv
+
+**高等代数 / Annan-lyn/fudan-exam-paper**
+- [数学-高等代数/jc_江辰/2020高代1期中试卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0/jc_%E6%B1%9F%E8%BE%B0/2020%E9%AB%98%E4%BB%A31%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf)
+- [数学-高等代数/jc_江辰/2020高代1期末试卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0/jc_%E6%B1%9F%E8%BE%B0/2020%E9%AB%98%E4%BB%A31%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf)
+- [数学-高等代数/jc_江辰/2021高代1期中试卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0/jc_%E6%B1%9F%E8%BE%B0/2021%E9%AB%98%E4%BB%A31%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf)
+- [数学-高等代数/xqh_谢启鸿/高代平行班_23-26期中期末(谢启鸿).pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0/xqh_%E8%B0%A2%E5%90%AF%E9%B8%BF/%E9%AB%98%E4%BB%A3%E5%B9%B3%E8%A1%8C%E7%8F%AD_23-26%E6%9C%9F%E4%B8%AD%E6%9C%9F%E6%9C%AB%28%E8%B0%A2%E5%90%AF%E9%B8%BF%29.pdf)
+- [数学-高等代数/佚名/2021 高代1期末试卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0/%E4%BD%9A%E5%90%8D/2021%20%E9%AB%98%E4%BB%A31%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf)
+- [数学-高等代数/佚名/2022高代1期中试卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0/%E4%BD%9A%E5%90%8D/2022%E9%AB%98%E4%BB%A31%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf)
+- [数学-高等代数/佚名/2022高代1期末试卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0/%E4%BD%9A%E5%90%8D/2022%E9%AB%98%E4%BB%A31%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf)
+- [数学-高等代数/佚名/2023高代1期中试卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0/%E4%BD%9A%E5%90%8D/2023%E9%AB%98%E4%BB%A31%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf)
+- [数学-高等代数/佚名/2023高代1期末试卷.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0/%E4%BD%9A%E5%90%8D/2023%E9%AB%98%E4%BB%A31%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf)
+- [数学-高等代数/佚名/高代英才班_23-26期中期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0/%E4%BD%9A%E5%90%8D/%E9%AB%98%E4%BB%A3%E8%8B%B1%E6%89%8D%E7%8F%AD_23-26%E6%9C%9F%E4%B8%AD%E6%9C%9F%E6%9C%AB.pdf)
+- [数学-高等线性代数/smy_邵美悦/2024期中.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/smy_%E9%82%B5%E7%BE%8E%E6%82%A6/2024%E6%9C%9F%E4%B8%AD.pdf)
+- [数学-高等线性代数/smy_邵美悦/2024期末.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/smy_%E9%82%B5%E7%BE%8E%E6%82%A6/2024%E6%9C%9F%E6%9C%AB.pdf)
+- 另有 9 个文件，见 data/collection_files.csv
 
 **高等代数 / Snivallus/FDU-Course-Notes-2024-2025**
 - [Markdown 源码临时目录/高等线性代数/Homework/2024 期中.md](https://github.com/Snivallus/FDU-Course-Notes-2024-2025/blob/main/Markdown%20%E6%BA%90%E7%A0%81%E4%B8%B4%E6%97%B6%E7%9B%AE%E5%BD%95/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/Homework/2024%20%E6%9C%9F%E4%B8%AD.md)
@@ -941,6 +1518,21 @@
 
 **高等数学 / AniroHU/FDU_Courses_Undergraduate**
 - [高等微积分/高等微积分期中考试试题卷_定稿.pdf](https://github.com/AniroHU/FDU_Courses_Undergraduate/blob/main/%E9%AB%98%E7%AD%89%E5%BE%AE%E7%A7%AF%E5%88%86/%E9%AB%98%E7%AD%89%E5%BE%AE%E7%A7%AF%E5%88%86%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98%E5%8D%B7_%E5%AE%9A%E7%A8%BF.pdf)
+
+**高等数学 / Annan-lyn/fudan-exam-paper**
+- [数学-高等数学A(官网2008-2018)/统考/2008春季试题.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A%28%E5%AE%98%E7%BD%912008-2018%29/%E7%BB%9F%E8%80%83/2008%E6%98%A5%E5%AD%A3%E8%AF%95%E9%A2%98.pdf)
+- [数学-高等数学A(官网2008-2018)/统考/2008春季试题答案.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A%28%E5%AE%98%E7%BD%912008-2018%29/%E7%BB%9F%E8%80%83/2008%E6%98%A5%E5%AD%A3%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88.pdf)
+- [数学-高等数学A(官网2008-2018)/统考/2008秋季试题.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A%28%E5%AE%98%E7%BD%912008-2018%29/%E7%BB%9F%E8%80%83/2008%E7%A7%8B%E5%AD%A3%E8%AF%95%E9%A2%98.pdf)
+- [数学-高等数学A(官网2008-2018)/统考/2009秋季试题.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A%28%E5%AE%98%E7%BD%912008-2018%29/%E7%BB%9F%E8%80%83/2009%E7%A7%8B%E5%AD%A3%E8%AF%95%E9%A2%98.pdf)
+- [数学-高等数学A(官网2008-2018)/统考/2009秋季试题答案.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A%28%E5%AE%98%E7%BD%912008-2018%29/%E7%BB%9F%E8%80%83/2009%E7%A7%8B%E5%AD%A3%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88.pdf)
+- [数学-高等数学A(官网2008-2018)/统考/2010春季试题.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A%28%E5%AE%98%E7%BD%912008-2018%29/%E7%BB%9F%E8%80%83/2010%E6%98%A5%E5%AD%A3%E8%AF%95%E9%A2%98.pdf)
+- [数学-高等数学A(官网2008-2018)/统考/2010秋季试题.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A%28%E5%AE%98%E7%BD%912008-2018%29/%E7%BB%9F%E8%80%83/2010%E7%A7%8B%E5%AD%A3%E8%AF%95%E9%A2%98.pdf)
+- [数学-高等数学A(官网2008-2018)/统考/2011春季试题.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A%28%E5%AE%98%E7%BD%912008-2018%29/%E7%BB%9F%E8%80%83/2011%E6%98%A5%E5%AD%A3%E8%AF%95%E9%A2%98.pdf)
+- [数学-高等数学A(官网2008-2018)/统考/2011秋季试题.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A%28%E5%AE%98%E7%BD%912008-2018%29/%E7%BB%9F%E8%80%83/2011%E7%A7%8B%E5%AD%A3%E8%AF%95%E9%A2%98.pdf)
+- [数学-高等数学A(官网2008-2018)/统考/2011秋季试题答案.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A%28%E5%AE%98%E7%BD%912008-2018%29/%E7%BB%9F%E8%80%83/2011%E7%A7%8B%E5%AD%A3%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88.pdf)
+- [数学-高等数学A(官网2008-2018)/统考/2012春季试题答案.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A%28%E5%AE%98%E7%BD%912008-2018%29/%E7%BB%9F%E8%80%83/2012%E6%98%A5%E5%AD%A3%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88.pdf)
+- [数学-高等数学A(官网2008-2018)/统考/2013春季试题.pdf](https://github.com/Annan-lyn/fudan-exam-paper/blob/main/%E6%95%B0%E5%AD%A6-%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A%28%E5%AE%98%E7%BD%912008-2018%29/%E7%BB%9F%E8%80%83/2013%E6%98%A5%E5%AD%A3%E8%AF%95%E9%A2%98.pdf)
+- 另有 150 个文件，见 data/collection_files.csv
 
 **高等数学 / kanzaler123/fdu-course-resources**
 - [高等数学/复习笔记/数海启航期中复习讲座.pdf](https://github.com/kanzaler123/fdu-course-resources/blob/main/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0/%E6%95%B0%E6%B5%B7%E5%90%AF%E8%88%AA%E6%9C%9F%E4%B8%AD%E5%A4%8D%E4%B9%A0%E8%AE%B2%E5%BA%A7.pdf)
@@ -4944,6 +5536,7 @@
 | [Snivallus/FDU-Course-Notes-2024-2025](https://github.com/Snivallus/FDU-Course-Notes-2024-2025) | 41 | 1542 |
 | [lrcc275/FudanCources](https://github.com/lrcc275/FudanCources) | 32 | 982 |
 | [clb2001/FDU-COMP](https://github.com/clb2001/FDU-COMP) | 17 | 906 |
+| [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper) | 63 | 889 |
 | [victkk/FDU-Sharing](https://github.com/victkk/FDU-Sharing) | 62 | 865 |
 | [ChenTao98/FudanUniversity](https://github.com/ChenTao98/FudanUniversity) | 21 | 820 |
 | [rapidhere/fdu-pjs](https://github.com/rapidhere/fdu-pjs) | 6 | 754 |
