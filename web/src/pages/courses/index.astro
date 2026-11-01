@@ -1,6 +1,0 @@
----
-import Layout from '../../layouts/Layout.astro';
-import CourseDirectory from '../../components/CourseDirectory';
-import courses from '../../data/courses.json';
----
-<Layout title="课程总览"><div class="page-heading"><p class="eyebrow">COURSES</p><h1>课程总览</h1><p>按学科和开课状态浏览 {courses.length.toLocaleString('zh-CN')} 门课程，也可以输入课名或课号筛选。</p></div><CourseDirectory courses={courses} client:load/></Layout>

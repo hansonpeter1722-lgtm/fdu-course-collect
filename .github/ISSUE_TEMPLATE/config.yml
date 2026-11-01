@@ -1,8 +1,0 @@
-blank_issues_enabled: true
-contact_links:
-  - name: 邮件联系（不想公开提 issue）
-    url: mailto:hansonpeter1722@gmail.com
-    about: 标题写「移除请求」，附上仓库地址 owner/repo 即可，48 小时内处理。
-  - name: 先看使用条款
-    url: https://github.com/hansonpeter1722-lgtm/fdu-github-collect/blob/main/DISCLAIMER.md
-    about: 收录范围、使用限制、移除流程与免责说明。

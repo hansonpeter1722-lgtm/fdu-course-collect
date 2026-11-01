@@ -1,0 +1,1 @@
+function a(e){return(String(e||"").split(/[\\/]/).filter(Boolean).at(-1)||"未命名文件").replace(/\.(pdf|pptx?|docx?|xlsx?|md|txt)$/i,"").replace(/_/g," ")}function r(e,t=""){return(t||String(e).match(/\.([a-z0-9]+)$/i)?.[1]||"").replace(/^\./,"").toUpperCase()||"文件"}function n(e){return e==="repo"?"打开仓库":e==="file"?"打开文件":"到原站查看"}export{a,r as f,n as o};
